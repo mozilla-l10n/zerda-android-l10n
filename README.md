@@ -2,8 +2,6 @@
 
 This repository hosts the localization for the Zerda project for Android.
 
-The application code with build instructions can be found at  https://github.com/mozilla-tw/Zerda
-
 IRC channel: [#mobile on irc.mozilla.org](https://wiki.mozilla.org/IRC).
 
 Before trying to make edits via pull requests:
