@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-12 17:40+0800\n"
+"POT-Creation-Date: 2017-09-13 15:19+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 #, c-format
 msgctxt "about_content_body"
 msgid ""
-"%1$s is a fast and lightweight browser produced by Mozilla. Our missions "
+"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
 "is to foster a healthy, open internet."
 msgstr ""
 
@@ -131,6 +131,8 @@ msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
 msgstr ""
 
+#. Item in Preferences that shows the app name wants to send telemetry.
+#. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid ""
@@ -231,9 +233,9 @@ msgid "Find an app that can open link"
 msgstr ""
 
 #. This text is shown in a dialog if no app could be found for a custom link
-#. protocol. %1$s is the name of the app (i.e. Firefox Rocket) and %2$s is the
-#. name of          the app store installed on the device (usually that's
-#. Google Play).
+#. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
+#. is the name of          the app store installed on the device (usually
+#. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
@@ -283,11 +285,9 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr ""
 
-#. This is a warning shown in the browser's context menu (when long pressing
-#. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
-#. Rocket).
 #. First run tour
-#. title for first page of FirstRun, %1$s will be formatted by product name
+#. title for first page of FirstRun, Argument 1 will be formatted by product
+#. name
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
@@ -377,14 +377,16 @@ msgid "Block Ads"
 msgstr ""
 
 msgctxt "label_menu_block_image"
-msgid "Block image"
+msgid "Block images"
 msgstr ""
 
 msgctxt "label_menu_settings"
 msgid "Settings"
 msgstr ""
 
-#. GeolocationPermissionPrompt
+#. When the webpage request access to geolocation a dialog will popup.
+#. This is the title of the permission request dialog. Argument 1 is the url of
+#. the website.
 #, c-format
 msgctxt "geolocation_dialog_message"
 msgid ""
@@ -560,12 +562,16 @@ msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
 msgstr ""
 
-#. The element between this prefix and postfix is a button image, not a
-#. string.         So we cannot use the placeholder here.
+#. This string is followed by the image of the button, keep the trailing
+#. whitespace.         Final result: 'Tap [image] on the menu to capture an
+#. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
 msgstr ""
 
+#. This string is preceded by the image of the button, keep the leading
+#. whitespace.         Final result: 'Tap [image] on the menu to capture an
+#. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
@@ -627,7 +633,7 @@ msgid "Unable to clear cache"
 msgstr ""
 
 #. Message indicate how much cache file cause disk storage was cleared.
-#. Argument is the amount, i.e. 15.0 MB cache cleared
+#. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
