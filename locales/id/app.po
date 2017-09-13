@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-13 15:19+0800\n"
-"PO-Revision-Date: 2017-09-13 08:09+0000\n"
+"PO-Revision-Date: 2017-09-13 08:31+0000\n"
 "Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -251,36 +251,36 @@ msgstr ""
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "Periksa alamat"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "COBA LAGI"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Bagikan tautan"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Salin alamat tautan"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Bagikan gambar"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Salin alamat gambar"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Simpan gambar"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -288,7 +288,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "Terima kasih telah memilih %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -320,33 +320,33 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Oke, mengerti"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Lewati"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Lanjut"
 
 #. Menu labels
 #. Zerda Need l10n
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "Unduhan"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "Bersihkan tembolok"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "Riwayat"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Bagikan"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -354,23 +354,23 @@ msgstr ""
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "Tangkap laman"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Mode turbo"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "Blokir Iklan"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "Blokir gambar"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -384,97 +384,97 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "IZINKAN"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "TOLAK"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Bersihkan Data"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Riwayat penjelajahan"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Riwayat pencarian"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Riwayat formulir"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Kuki"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Tembolok"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Tidak ada unduhan"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Mengunduh…"
 
 msgctxt "download_file_not_supported"
 msgid "File type not supported"
-msgstr ""
+msgstr "Tipe berkas tidak didukung"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file."
-msgstr ""
+msgstr "Berkas tidak ditemukan."
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Berkas tidak bisa dihapus."
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "Paused"
-msgstr ""
+msgstr "Ditunda"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "Ditunda"
 
 #. File download status is running
 msgctxt "running"
 msgid "Downloading"
-msgstr ""
+msgstr "Mengunduh"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Sukses"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "Failed"
-msgstr ""
+msgstr "Gagal"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Tidak diketahui"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "Kartu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
