@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-13 15:19+0800\n"
-"PO-Revision-Date: 2017-09-13 08:31+0000\n"
+"PO-Revision-Date: 2017-09-13 08:49+0000\n"
 "Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -137,7 +137,7 @@ msgstr "Kirim data penggunaan"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla berusaha untuk hanya menyimpan apa yang bisa dibagikan dan memperbaiki %1$s untuk semuanya."
 
 msgctxt "preference_mozilla_telemetry_learn_more"
 msgid "Learn more"
@@ -292,11 +292,11 @@ msgstr "Terima kasih telah memilih %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Sebuah peramban khusus untuk Indonesia dari Mozilla, organisasi nirlaba yang berkomitmen pada web yang bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "Jelajahi lebih cepat dari sebelumnya"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block ads and trackers so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -312,11 +312,11 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "Tangkap layar apa saja"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "Tangkap layar dari keseluruhan laman. Lihat secara luring (tanpa data) atau ketuk untuk mengunjungi kembali lamannya."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -478,84 +478,84 @@ msgstr "Kartu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Penyimpanan internal"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "BERSIHKAN RIWAYAT PENJELAJAHAN"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No history"
-msgstr ""
+msgstr "Tidak ada riwayat"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Hari ini"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Kemarin"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Hapus semua riwayat penjelajahan?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Bersihkan"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Hapus dari daftar"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "Hapus berkas"
 
 #. Long Screenshot
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Tangkapan layar disimpan"
 
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Gagal menangkap layar"
 
 msgctxt "screenshot_illustration"
 msgid "capturing screenshot of entire page…"
-msgstr ""
+msgstr "menangkap layar dari seluruh laman…"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Tidak ada kartu SD terdeteksi. Berkas telah disimpan di internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Berkas telah disimpan di kartu SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "Kartu SD hampir penuh. Berkas disimpan di internal."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Tidak ada tangkapan"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "Ketuk "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -565,30 +565,32 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page"
 msgstr ""
+"  pada menu untuk menangkap\n"
+"keseluruhan laman"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgctxt "screenshot_image_viewer_dialog_info_time"
 msgid "Time:"
-msgstr ""
+msgstr "Waktu:"
 
 msgctxt "screenshot_image_viewer_dialog_info_resolution"
 msgid "Resolution:"
-msgstr ""
+msgstr "Resolusi:"
 
 msgctxt "screenshot_image_viewer_dialog_info_size"
 msgid "Size:"
-msgstr ""
+msgstr "Ukuran:"
 
 msgctxt "screenshot_image_viewer_dialog_info_title"
 msgid "Title:"
-msgstr ""
+msgstr "Judul:"
 
 msgctxt "screenshot_image_viewer_dialog_info_url"
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Do you want to delete the image?"
@@ -597,44 +599,44 @@ msgstr ""
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Pilih berkas untuk diunggah"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Mode turbo diaktifkan"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Mode turbo dimatikan"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Sekarang memblokir gambar"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Sekarang menampilkan gambar"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Tidak bisa menghapus tembolok"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s tembolok dihapus"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "Data penjelajahan telah dihapus"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Tangkapan layar dihapus"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Tidak bisa menampilkan tangkapan layar"
