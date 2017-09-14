@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-13 15:19+0800\n"
-"PO-Revision-Date: 2017-09-14 07:32+0000\n"
+"PO-Revision-Date: 2017-09-14 07:38+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -238,12 +238,12 @@ msgstr "Cari aplikasi yang bisa membuka tautan"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr "Laman tidak tersedia"
+msgstr "Laman web tidak tersedia"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
