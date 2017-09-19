@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-13 15:19+0800\n"
-"PO-Revision-Date: 2017-09-13 08:35+0000\n"
-"Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
+"PO-Revision-Date: 2017-09-19 14:03+0000\n"
+"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "OKE"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "Cari atau tulis alamat"
+msgstr "Cari atau masukkan alamat"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -292,7 +292,7 @@ msgstr "Terima kasih telah memilih %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "Sebuah peramban dari Mozilla untuk Indonesia. Mozilla adalah organisasi nirlaba yang berkomitmen membangun internet yang bebas dan terbuka."
+msgstr "Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -350,11 +350,11 @@ msgstr "Bagikan"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr "Screenshot saya"
+msgstr "Tangkapan saya"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr "Screenshot laman ini"
+msgstr "Tangkap laman"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -522,20 +522,20 @@ msgstr "Hapus berkas"
 #. Long Screenshot
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr "Screenshot tersimpan"
+msgstr "Tangkapan layar disimpan"
 
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr "Gagal menangkap screenshot"
+msgstr "Gagal membuat tangkapan layar"
 
 msgctxt "screenshot_illustration"
 msgid "capturing screenshot of entire page…"
-msgstr "menangkap screenshot dari keseluruhan laman…"
+msgstr "membuat tangkapan layar seluruh laman…"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "Tidak ada kartu SD terdeteksi. Berkas telah disimpan di internal."
+msgstr "Kartu SD tidak terdeteksi. Berkas telah disimpan di internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -635,8 +635,8 @@ msgstr "Data penjelajahan telah dihapus"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr "Screenshot terhapus"
+msgstr "Tangkapan layar dihapus"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "Screenshot tidak bisa ditampilkan"
+msgstr "Tidak bisa menampilkan tangkapan layar"
