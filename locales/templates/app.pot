@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-13 15:19+0800\n"
+"POT-Creation-Date: 2017-09-25 17:32+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,6 +127,10 @@ msgctxt "preference_default_browser"
 msgid "Make default browser"
 msgstr ""
 
+msgctxt "preference_turbo_mode"
+msgid "Turbo mode"
+msgstr ""
+
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
 msgstr ""
@@ -140,7 +144,7 @@ msgid ""
 "for everyone."
 msgstr ""
 
-msgctxt "preference_mozilla_telemetry_learn_more"
+msgctxt "preference_learn_more"
 msgid "Learn more"
 msgstr ""
 
@@ -260,6 +264,14 @@ msgctxt "error_page_button"
 msgid "TRY AGAIN"
 msgstr ""
 
+msgctxt "error_page_title_unsupported_scheme"
+msgid "The address wasn’t understood"
+msgstr ""
+
+msgctxt "error_page_content_text_unsupported_scheme"
+msgid "You might need to install other software to open this address."
+msgstr ""
+
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
@@ -305,9 +317,8 @@ msgstr ""
 
 msgctxt "first_run_page2_text"
 msgid ""
-"Use turbo mode to block ads and trackers so you can browse at blazing "
-"speeds. If sites seem broken, just tap off the turbo mode switch in the "
-"menu."
+"Our turbo mode blocks ads & trackers for you to enjoy browsing at blazing"
+" speed. If a site seems broken, you can turn it off from the menu."
 msgstr ""
 
 msgctxt "first_run_page3_title"
@@ -441,21 +452,43 @@ msgid "Downloading…"
 msgstr ""
 
 msgctxt "download_file_not_supported"
-msgid "File type not supported"
+msgid "Download protocol not supported"
 msgstr ""
 
 msgctxt "cannot_find_the_file"
-msgid "Cannot find the file."
+msgid "Cannot find the file"
 msgstr ""
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
 msgstr ""
 
+#, c-format
+msgctxt "download_completed"
+msgid "%1$s downloaded"
+msgstr ""
+
+#, c-format
+msgctxt "download_deleted"
+msgid "%1$s was deleted"
+msgstr ""
+
+msgctxt "download_cancel"
+msgid "Download canceled"
+msgstr ""
+
+msgctxt "undo"
+msgid "Undo"
+msgstr ""
+
+msgctxt "open"
+msgid "Open"
+msgstr ""
+
 #. Download status
 #. File download status is paused
 msgctxt "pause"
-msgid "Paused"
+msgid "paused"
 msgstr ""
 
 #. File download status is pending
@@ -465,7 +498,7 @@ msgstr ""
 
 #. File download status is running
 msgctxt "running"
-msgid "Downloading"
+msgid "downloading"
 msgstr ""
 
 #. File download status is successful
@@ -475,7 +508,7 @@ msgstr ""
 
 #. File download status is failed
 msgctxt "failed"
-msgid "Failed"
+msgid "failed"
 msgstr ""
 
 #. File download status is unknown
@@ -498,7 +531,7 @@ msgid "CLEAR BROWSING HISTORY"
 msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
-msgid "No history"
+msgid "No browsing history"
 msgstr ""
 
 msgctxt "browsing_history_date_today"
@@ -541,7 +574,7 @@ msgid "Failed to capture screenshot"
 msgstr ""
 
 msgctxt "screenshot_illustration"
-msgid "capturing screenshot of entire page…"
+msgid "Capturing screenshot of entire page…"
 msgstr ""
 
 #. Snack bar message
@@ -575,35 +608,40 @@ msgstr ""
 msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
-"an entire web page"
+"an entire web page."
 msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
 msgstr ""
 
-msgctxt "screenshot_image_viewer_dialog_info_time"
-msgid "Time:"
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_time1"
+msgid "Time: %1$s"
 msgstr ""
 
-msgctxt "screenshot_image_viewer_dialog_info_resolution"
-msgid "Resolution:"
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_resolution1"
+msgid "Resolution: %1$s"
 msgstr ""
 
-msgctxt "screenshot_image_viewer_dialog_info_size"
-msgid "Size:"
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_size1"
+msgid "Size: %1$s"
 msgstr ""
 
-msgctxt "screenshot_image_viewer_dialog_info_title"
-msgid "Title:"
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_title1"
+msgid "Title: %1$s"
 msgstr ""
 
-msgctxt "screenshot_image_viewer_dialog_info_url"
-msgid "URL:"
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_url1"
+msgid "URL: %1$s"
 msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
-msgid "Do you want to delete the image?"
+msgid "Delete this image?"
 msgstr ""
 
 #. Title for file picker when user trying to upload a file
@@ -632,6 +670,10 @@ msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
 msgstr ""
 
+msgctxt "message_storage_unavailable_cancel_download"
+msgid "Storage inaccessible. Download canceled."
+msgstr ""
+
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
@@ -649,5 +691,10 @@ msgstr ""
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
+msgstr ""
+
+#. Remove Top site item
+msgctxt "remove"
+msgid "Remove"
 msgstr ""
 
