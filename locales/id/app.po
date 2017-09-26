@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-25 17:32+0800\n"
-"PO-Revision-Date: 2017-09-25 18:32+0000\n"
-"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
+"PO-Revision-Date: 2017-09-26 00:42+0000\n"
+"Last-Translator: Fauzan Alfi <fauzanalfi@mozilla.web.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -263,11 +263,11 @@ msgstr "COBA LAGI"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Alamat tidak dapat dipahami"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "Anda mungkin perlu memasang aplikasi lain untuk membuka alamat ini."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -310,10 +310,9 @@ msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Menjelajah secepat kilat"
 
-#, fuzzy
 msgctxt "first_run_page2_text"
 msgid "Our turbo mode blocks ads & trackers for you to enjoy browsing at blazing speed. If a site seems broken, you can turn it off from the menu."
-msgstr "Gunakan mode turbo untuk memblokir iklan dan pelacak sehingga Anda dapat menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup nonaktifkan mode turbo pada menu."
+msgstr "Mode turbo memblokir iklan dan pelacak sehingga Anda dapat menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup menonaktifkannya pada menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -441,10 +440,9 @@ msgctxt "download_started"
 msgid "Downloading…"
 msgstr "Mengunduh…"
 
-#, fuzzy
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr "Tipe berkas tidak didukung"
+msgstr "Protokol unduhan tidak didukung"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -457,31 +455,30 @@ msgstr "Berkas tidak bisa dihapus."
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s telah diunduh"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s telah dihapus"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Unduhan dibatalkan"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Urungkan"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #. Download status
 #. File download status is paused
-#, fuzzy
 msgctxt "pause"
 msgid "paused"
-msgstr "Ditunda"
+msgstr "ditunda"
 
 #. File download status is pending
 msgctxt "pending"
@@ -522,10 +519,9 @@ msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
 msgstr "HAPUS RIWAYAT PENJELAJAHAN"
 
-#, fuzzy
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "Tidak ada riwayat"
+msgstr "Tidak ada riwayat penjelajahan"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -566,10 +562,9 @@ msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr "Gagal membuat tangkapan layar"
 
-#, fuzzy
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "membuat tangkapan layar seluruh laman…"
+msgstr "Membuat tangkapan layar seluruh laman…"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -599,14 +594,13 @@ msgstr "Ketuk "
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
-#, fuzzy
 msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
-"  pada menu untuk screenshot\n"
-"keseluruhan laman"
+"  pada menu untuk menangkap\n"
+"keseluruhan laman."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -615,32 +609,31 @@ msgstr "Info"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Time: %1$s"
-msgstr ""
+msgstr "Waktu: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Resolusi: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "Ukuran: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Judul: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
-#, fuzzy
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr "Apakah Anda ingin menghapus gambar ini?"
+msgstr "Hapus gambar ini?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -670,7 +663,7 @@ msgstr "Tidak bisa menghapus tembolok"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Penyimpanan tidak dapat diakses. Unduhan dibatalkan."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -694,4 +687,4 @@ msgstr "Tidak bisa menampilkan tangkapan layar"
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
