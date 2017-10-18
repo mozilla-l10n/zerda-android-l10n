@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-27 16:23+0800\n"
+"POT-Creation-Date: 2017-10-18 11:59+0800\n"
 "PO-Revision-Date: 2017-10-04 13:21+0000\n"
 "Last-Translator: Romi Hardiyanto <romihardiyanto@gmail.com>\n"
-"Language-Team: id <LL@li.org>\n"
 "Language: id\n"
+"Language-Team: id <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -51,6 +50,14 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Hak Anda"
 
+msgctxt "menu_give_feedback"
+msgid "Give feedback"
+msgstr ""
+
+msgctxt "menu_share_with_friends"
+msgid "Share with friends"
+msgstr ""
+
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
@@ -68,8 +75,12 @@ msgstr "Cari di {{app_name}}"
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s adalah sebuah peramban cepat dan ringan buatan Mozilla. Misi kami adalah untuk mendorong internet yang sehat dan terbuka."
+msgid ""
+"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
+"is to foster a healthy, open internet."
+msgstr ""
+"%1$s adalah sebuah peramban cepat dan ringan buatan Mozilla. Misi kami "
+"adalah untuk mendorong internet yang sehat dan terbuka."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -79,8 +90,9 @@ msgctxt "about_link_support"
 msgid "Support"
 msgstr "Dukungan"
 
+#, fuzzy
 msgctxt "about_link_your_rights"
-msgid "Your Rights"
+msgid "Your Rights / Licenses"
 msgstr "Hak Anda"
 
 msgctxt "about_link_privacy"
@@ -140,8 +152,12 @@ msgstr "Kirim data penggunaan"
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki %1$s bagi Anda."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla hanya akan mengumpulkan data yang diperlukan saja untuk "
+"memperbaiki %1$s bagi Anda."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -241,8 +257,12 @@ msgstr "Cari aplikasi yang bisa membuka tautan"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. "
+"Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -303,32 +323,51 @@ msgid "Thanks for choosing %1$s"
 msgstr "Terima kasih telah memilih %1$s"
 
 msgctxt "first_run_page1_text"
-msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
+msgid ""
+"A browser tailor-made for Indonesia by Mozilla, the non-profit committed "
+"to a free and open web."
+msgstr ""
+"Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, "
+"organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Menjelajah secepat kilat"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block ads and trackers so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "Gunakan mode turbo untuk memblokir iklan dan pelacak sehingga Anda dapat menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup menonaktifkannya pada menu."
+msgid ""
+"Use turbo mode to block ads and trackers so you can browse at blazing "
+"speeds. If sites seem broken, just tap off the turbo mode switch in the "
+"menu."
+msgstr ""
+"Gunakan mode turbo untuk memblokir iklan dan pelacak sehingga Anda dapat "
+"menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup "
+"menonaktifkannya pada menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Hemat data = Hemat uang"
 
 msgctxt "first_run_page3_text"
-msgid "Blocking ads and online trackers not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "Memblokir iklan dan pelacak daring tidak hanya mempercepat penjelajahan, tapi juga menghemat data. Anda bisa berhemat lebih banyak jika memblokir gambar."
+msgid ""
+"Blocking ads and online trackers not only speeds up browsing, it saves "
+"data. Save even more when you block images."
+msgstr ""
+"Memblokir iklan dan pelacak daring tidak hanya mempercepat penjelajahan, "
+"tapi juga menghemat data. Anda bisa berhemat lebih banyak jika memblokir "
+"gambar."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
 msgstr "Tangkap layar apa saja"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "Tangkap layar dari keseluruhan laman. Lihat tanpa menggunakan kuota data, atau ketuk untuk mengunjungi laman sumbernya."
+msgid ""
+"Take screenshots of entire web pages. View a screenshot offline (without "
+"using data) or tap it to revisit the web page."
+msgstr ""
+"Tangkap layar dari keseluruhan laman. Lihat tanpa menggunakan kuota data,"
+" atau ketuk untuk mengunjungi laman sumbernya."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -383,6 +422,10 @@ msgstr "Blokir gambar"
 msgctxt "label_menu_settings"
 msgid "Settings"
 msgstr "Setelan"
+
+msgctxt "label_menu_exit"
+msgid "Exit"
+msgstr ""
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -606,9 +649,9 @@ msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
 msgstr "Info"
 
-#, c-format
+#, c-format, fuzzy
 msgctxt "screenshot_image_viewer_dialog_info_time1"
-msgid "Time: %1$s"
+msgid "Date: %1$s"
 msgstr "Waktu: %1$s"
 
 #, c-format
@@ -634,6 +677,16 @@ msgstr "URL: %1$s"
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
 msgstr "Hapus gambar ini?"
+
+msgctxt "screenshot_on_boarding_text_msg"
+msgid ""
+"Tap the screenshot button in the menu to capture the whole page.\n"
+"Fast, easy, and come back to the page at anytime!"
+msgstr ""
+
+msgctxt "screenshot_on_boarding_btn_got_it"
+msgid "Got it!"
+msgstr ""
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -688,3 +741,43 @@ msgstr "Tidak bisa menampilkan tangkapan layar"
 msgctxt "remove"
 msgid "Remove"
 msgstr "Hapus"
+
+#. In-app Promotion, Rate the App
+msgctxt "rate_app_dialog_text_title"
+msgid "Love {{app_name}}?"
+msgstr ""
+
+msgctxt "rate_app_dialog_text_content"
+msgid "Thank you for choosing our product. Your feedback is important to us."
+msgstr ""
+
+msgctxt "rate_app_dialog_btn_go_rate"
+msgid "Yes, rate 5 star!"
+msgstr ""
+
+msgctxt "rate_app_dialog_btn_feedback"
+msgid "No, send feedback."
+msgstr ""
+
+#. In-app Promotion, Share app
+msgctxt "share_app_dialog_text_title"
+msgid "Share {{app_name}} with friends!"
+msgstr ""
+
+msgctxt "share_app_dialog_text_content"
+msgid ""
+"- Fast and lightweight\n"
+"- Data saving\n"
+"- Powerful screenshots"
+msgstr ""
+
+msgctxt "share_app_dialog_btn_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "share_app_promotion_text"
+msgid ""
+"Hey, check out this fast and lightweight browser from Mozilla. "
+"{{app_name}} {{share_app_google_play_url}}"
+msgstr ""
+
