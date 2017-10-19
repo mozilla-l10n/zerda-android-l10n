@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-18 11:59+0800\n"
-"PO-Revision-Date: 2017-10-19 17:38+0000\n"
-"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
+"PO-Revision-Date: 2017-10-19 20:50+0000\n"
+"Last-Translator: Romi Hardiyanto <romihardiyanto@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -394,7 +394,7 @@ msgstr "Setelan"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -655,7 +655,7 @@ msgstr ""
 
 msgctxt "screenshot_on_boarding_btn_got_it"
 msgid "Got it!"
-msgstr ""
+msgstr "Paham!"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -692,11 +692,11 @@ msgstr "Penyimpanan tidak dapat diakses. Unduhan dibatalkan."
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr "%1$s tembolok dihapus"
+msgstr "Tembolok %1$s dihapus"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr "Data penjelajahan telah dihapus"
+msgstr "Data penjelajahan dihapus"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
