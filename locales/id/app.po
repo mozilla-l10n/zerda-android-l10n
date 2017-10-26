@@ -647,7 +647,6 @@ msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
 msgstr "Hapus gambar ini?"
 
-#, fuzzy
 msgctxt "screenshot_on_boarding_text_msg"
 msgid ""
 "Tap the screenshot button in the menu to capture the whole page.\n"
@@ -722,7 +721,6 @@ msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
 msgstr "Terima kasih telah memilih produk kami. Masukan Anda sangat penting bagi kami."
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
 msgstr "Tentu, beri 5 bintang!"
