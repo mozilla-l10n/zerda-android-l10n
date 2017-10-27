@@ -651,8 +651,8 @@ msgctxt "screenshot_on_boarding_text_msg"
 msgid ""
 "Tap the screenshot button in the menu to capture the whole page.\n"
 "Fast, easy - come back to the page at anytime!"
-msgstr "Ketuk tombol tangkap layar di menu untuk menangkap keseluruhan laman.
-Cepat, mudah - kembali ke lamannya kapan saja!"
+msgstr "Ketuk tombol tangkap layar di menu untuk menangkap keseluruhan laman.\n"
+"Cepat, mudah - kembali ke lamannya kapan saja!"
 
 msgctxt "screenshot_on_boarding_btn_got_it"
 msgid "Got it!"
