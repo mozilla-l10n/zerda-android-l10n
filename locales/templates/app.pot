@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-10-18 11:59+0800\n"
+"POT-Creation-Date: 2017-11-06 15:32+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -758,5 +758,55 @@ msgctxt "share_app_promotion_text"
 msgid ""
 "Hey, check out this fast and lightweight browser from Mozilla. "
 "{{app_name}} {{share_app_google_play_url}}"
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)
+msgctxt "your_rights_content1"
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
+msgctxt "your_rights_content2"
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the trademark policy (e.g.
+#. https://www.mozilla.org/foundation/trademarks/policy/)
+msgctxt "your_rights_content3"
+msgid ""
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the list of licenses used by the dependencies.
+msgctxt "your_rights_content4"
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the GPL     %3$s will be replaced with a URL linking to the
+#. tracking protection wiki page (e.g.
+#. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
+msgctxt "your_rights_content5"
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
