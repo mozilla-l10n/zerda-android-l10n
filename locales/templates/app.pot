@@ -1,14 +1,14 @@
 # Translations template for PROJECT.
-# Copyright (C) 2017 ORGANIZATION
+# Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-11-06 15:32+0800\n"
+"POT-Creation-Date: 2018-01-10 16:18+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -408,6 +408,38 @@ msgctxt "label_menu_exit"
 msgid "Exit"
 msgstr ""
 
+msgctxt "permission_dialog_setting"
+msgid "settings"
+msgstr ""
+
+msgctxt "permission_dialog_not_now"
+msgid "not now"
+msgstr ""
+
+msgctxt "permission_dialog_msg_location"
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+
+msgctxt "permission_toast_location"
+msgid ""
+"Location not available. Give Firefox Rocket permission to access your "
+"location in settings."
+msgstr ""
+
+msgctxt "permission_dialog_msg_storage"
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+
+msgctxt "permission_toast_storage"
+msgid ""
+"Storage not available. Give Firefox Rocket permission to store photos, "
+"media, and files on your device and SD card in settings."
+msgstr ""
+
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
 #. the website.
@@ -415,7 +447,7 @@ msgstr ""
 msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
-"wants to use your device's location."
+"wants to access your location."
 msgstr ""
 
 msgctxt "geolocation_dialog_allow"
