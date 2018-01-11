@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-10 16:18+0800\n"
-"PO-Revision-Date: 2018-01-11 16:03+0000\n"
+"PO-Revision-Date: 2018-01-11 16:37+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -414,21 +414,23 @@ msgstr "Lokasi tidak tersedia. Izinkan Firefox Rocket mengakses lokasi Anda di s
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "Tidak ada izin. Izinkan Firefox Rocket mengakses lokasi Anda."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give Firefox Rocket permission to store photos, media, and files on your device and SD card in settings."
-msgstr ""
+msgstr "Penyimpanan tidak tersedia. Izinkan Firefox Rocket menyimpan foto, media, dan berkas pada peranti dan kartu SD Anda di setelan."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
 #. the website.
-#, c-format, fuzzy
+#, c-format
 msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr "%1$s ingin menggunakan lokasi peranti Anda."
+msgstr ""
+"%1$s \n"
+"ingin mengakses lokasi Anda."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
