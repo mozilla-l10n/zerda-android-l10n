@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-01-10 16:18+0800\n"
+"POT-Creation-Date: 2018-01-15 18:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -325,9 +325,8 @@ msgstr ""
 
 msgctxt "first_run_page2_text"
 msgid ""
-"Use turbo mode to block ads and trackers so you can browse at blazing "
-"speeds. If sites seem broken, just tap off the turbo mode switch in the "
-"menu."
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
 
 msgctxt "first_run_page3_title"
@@ -336,8 +335,8 @@ msgstr ""
 
 msgctxt "first_run_page3_text"
 msgid ""
-"Blocking ads and online trackers not only speeds up browsing, it saves "
-"data. Save even more when you block images."
+"Blocking tracking ads not only speeds up browsing, it saves data. Save "
+"even more when you block images."
 msgstr ""
 
 msgctxt "first_run_page4_title"
@@ -840,5 +839,18 @@ msgid ""
 "%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
 "independent works under the <a href=\"%2$s\">GNU General Public License "
 "v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+
+#. Title for survey notification posted after launching the app on the 3rd
+#. time     %1$s will be replaced with an emoticon
+#, c-format
+msgctxt "survey_notification_title"
+msgid "We need you! %1$s"
+msgstr ""
+
+#. Subtitle for survey notification posted after launching the app on the 3rd
+#. time
+msgctxt "survey_notification_description"
+msgid "Shape a better product for Indonesia"
 msgstr ""
 
