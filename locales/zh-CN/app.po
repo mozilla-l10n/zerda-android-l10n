@@ -1,0 +1,823 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-01-15 18:49+0800\n"
+"PO-Revision-Date: 2018-01-31 00:10+0000\n"
+"Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
+
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_cancel"
+msgid "CANCEL"
+msgstr "取消"
+
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_ok"
+msgid "OK"
+msgstr "确定"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "搜索或输入网址"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "设置"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "关于"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "帮助"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "您的权利"
+
+msgctxt "menu_give_feedback"
+msgid "Give feedback"
+msgstr "提供反馈"
+
+msgctxt "menu_share_with_friends"
+msgid "Share with friends"
+msgstr "与朋友分享"
+
+#. This is the title of a dialog that shows all the share targets (apps or
+#. contacts) when          sharing an URL.
+msgctxt "share_dialog_title"
+msgid "Share via"
+msgstr "分享方式"
+
+#. This is the label of an action we offer when the user selects text in other
+#. third-party apps.          Clicking this action will launch Rocket and
+#. perform a search in the default search engine.
+msgctxt "text_selection_search_action"
+msgid "Search in {{app_name}}"
+msgstr "在 {{app_name}} 中搜索"
+
+#. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
+#. Firefox Rocket
+#, c-format
+msgctxt "about_content_body"
+msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
+msgstr ""
+
+msgctxt "about_link_learn_more"
+msgid "Learn more"
+msgstr "详细了解"
+
+msgctxt "about_link_support"
+msgid "Support"
+msgstr "用户支持"
+
+msgctxt "about_link_your_rights"
+msgid "Your Rights / Licenses"
+msgstr "您的权利 / 许可证"
+
+msgctxt "about_link_privacy"
+msgid "Privacy Notice"
+msgstr "隐私声明"
+
+#. This label is shown below the name of the default search engine in settings
+msgctxt "preference_search_engine_default"
+msgid "Default search engine"
+msgstr "默认搜索引擎"
+
+msgctxt "preference_language"
+msgid "Language"
+msgstr "语言"
+
+#. This is shown when the user hasn't set a Rocket specific language, i.e.
+#. when Rocket          is using the system default language.
+msgctxt "preference_language_systemdefault"
+msgid "System default"
+msgstr "系统默认"
+
+#. This is the title of the dialog for selecting a new default search engine
+msgctxt "preference_dialog_title_search_engine"
+msgid "Default search engine"
+msgstr "默认搜索引擎"
+
+msgctxt "preference_data_saving_block_images"
+msgid "Block images"
+msgstr "屏蔽图像"
+
+#. Settings Privacy and storage
+msgctxt "preference_privacy_storage_clear_browsing_data"
+msgid "Clear browsing data"
+msgstr "清除浏览数据"
+
+msgctxt "preference_privacy_storage_save_downloads_to"
+msgid "Save downloads to"
+msgstr "保存下载的文件到"
+
+#. This preference does not set Rocket as the default browser but instead
+#. links to Android's      "default apps" screen or if not supported by this
+#. Android version to a SUMO page describing      how to set Rocket as a
+#. default browser
+msgctxt "preference_default_browser"
+msgid "Make default browser"
+msgstr "设为默认浏览器"
+
+msgctxt "preference_turbo_mode"
+msgid "Turbo mode"
+msgstr ""
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send usage data"
+msgstr "发送使用统计数据"
+
+#. Item in Preferences that shows the app name wants to send telemetry.
+#. Parameter 1 is the app name, i.e. Firefox Rocket.
+#, c-format
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr ""
+
+msgctxt "preference_learn_more"
+msgid "Learn more"
+msgstr "详细了解"
+
+#. Item in Preferences that shows the about page. Parameter 1 is the app name,
+#. i.e. Firefox Rocket.
+#, c-format
+msgctxt "preference_about"
+msgid "About %1$s"
+msgstr "关于 %1$s"
+
+#. Content description (not visible, for screen readers etc.): Clear text in
+#. URL bar
+msgctxt "content_description_clear_input"
+msgid "Clear input"
+msgstr "清除输入内容"
+
+#. Content description (not visible, for screen readers etc.): Clicking on the
+#. website overlay      while in typing mode will dismiss and go back to the
+#. browser. This text will be read when the      overlay if it gain focus.
+msgctxt "content_description_dismiss_input"
+msgid "Dismiss"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Lock icon
+#. showed in the URL bar for      https pages..
+msgctxt "content_description_lock"
+msgid "Secure connection"
+msgstr "安全连接"
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we start      loading a website
+msgctxt "accessibility_announcement_loading"
+msgid "Loading"
+msgstr "正在加载"
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we      finished loading a website
+msgctxt "accessibility_announcement_loading_finished"
+msgid "Website loaded"
+msgstr "网站已载入"
+
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button.
+msgctxt "content_description_menu"
+msgid "More options"
+msgstr "更多选项"
+
+#. Content description (not visible, for screen readers etc.): Navigate
+#. forward (browsing history)
+msgctxt "content_description_forward"
+msgid "Navigate forward"
+msgstr "前进"
+
+#. Content description (not visible, for screen readers etc.): Reload current
+#. website
+msgctxt "content_description_reload"
+msgid "Reload website"
+msgstr "重新载入网站"
+
+#. Content description (not visible, for screen readers etc.): Navigate back
+#. (browsing history)
+msgctxt "content_description_back"
+msgid "Navigate back"
+msgstr "后退"
+
+#. Content description (not visible, for screen readers etc.): Stop loading
+#. the current website. This button will turn into the refresh button once
+#. loading has been completed (see content_description_reload)
+msgctxt "content_description_stop"
+msgid "Stop loading website"
+msgstr "停止加载网站"
+
+#. Content description (not visible, for screen readers etc.): Custom Tab exit
+#. button - closes the custom tab and returns to the previous app.
+msgctxt "content_description_customtab_exit"
+msgid "Return to previous app"
+msgstr "返回上一个应用"
+
+#. Content description (not visible, for screen readers etc.): This is the
+#. description for the switch in the menu that temporarily disables/enables
+#. content blocking for the current session
+msgctxt "content_description_blocking_switch"
+msgid "Block trackers"
+msgstr "屏蔽跟踪器"
+
+#. This text is the title of a dialog shown if no app could be found for a
+#. custom link protocol.
+msgctxt "external_app_prompt_no_app_title"
+msgid "Find an app that can open link"
+msgstr ""
+
+#. This text is shown in a dialog if no app could be found for a custom link
+#. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
+#. is the name of          the app store installed on the device (usually
+#. that's Google Play).
+#, c-format
+msgctxt "external_app_prompt_no_app"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr ""
+
+#. The page html title (i.e. the <title> tag content)
+msgctxt "error_page_title"
+msgid "Webpage not available"
+msgstr "网页不可用"
+
+msgctxt "error_page_recover_a"
+msgid "Make sure you are connected to the internet"
+msgstr ""
+
+msgctxt "error_page_recover_b"
+msgid "Check the address"
+msgstr "请复查地址"
+
+msgctxt "error_page_button"
+msgid "TRY AGAIN"
+msgstr "重试"
+
+msgctxt "error_page_title_unsupported_scheme"
+msgid "The address wasn’t understood"
+msgstr "无法理解该地址"
+
+msgctxt "error_page_content_text_unsupported_scheme"
+msgid "You might need to install other software to open this address."
+msgstr "您可能需要安装其他软件用来打开此地址。"
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_share"
+msgid "Share link"
+msgstr "分享链接"
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_copy"
+msgid "Copy link address"
+msgstr "复制链接地址"
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_share"
+msgid "Share image"
+msgstr "分享图像"
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_copy"
+msgid "Copy image address"
+msgstr "复制图像地址"
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_save"
+msgid "Save image"
+msgstr "保存图像"
+
+#. First run tour
+#. title for first page of FirstRun, Argument 1 will be formatted by product
+#. name
+#, c-format
+msgctxt "first_run_page1_title"
+msgid "Thanks for choosing %1$s"
+msgstr "感谢您选择 %1$s"
+
+msgctxt "first_run_page1_text"
+msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
+msgstr ""
+
+msgctxt "first_run_page2_title"
+msgid "Browse faster than ever"
+msgstr ""
+
+msgctxt "first_run_page2_text"
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+
+msgctxt "first_run_page3_title"
+msgid "Save data = Save money"
+msgstr ""
+
+msgctxt "first_run_page3_text"
+msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
+msgstr ""
+
+msgctxt "first_run_page4_title"
+msgid "Screenshot everything"
+msgstr ""
+
+msgctxt "first_run_page4_text"
+msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
+msgstr ""
+
+msgctxt "firstrun_close_button"
+msgid "OK, got it!"
+msgstr ""
+
+msgctxt "firstrun_skip_button"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "firstrun_next_button"
+msgid "Next"
+msgstr "下一步"
+
+#. Menu labels
+#. Zerda Need l10n
+msgctxt "label_menu_download"
+msgid "Downloads"
+msgstr "下载"
+
+msgctxt "label_menu_clear_cache"
+msgid "Clear cache"
+msgstr "清除缓存"
+
+msgctxt "label_menu_history"
+msgid "History"
+msgstr "历史记录"
+
+msgctxt "label_menu_share"
+msgid "Share"
+msgstr "分享"
+
+msgctxt "label_menu_my_shots"
+msgid "My shots"
+msgstr "我的截图"
+
+msgctxt "label_menu_capture_page"
+msgid "Capture page"
+msgstr "拍摄页面"
+
+msgctxt "label_menu_turbo_mode"
+msgid "Turbo mode"
+msgstr ""
+
+msgctxt "label_menu_block_ads"
+msgid "Block Ads"
+msgstr "屏蔽广告"
+
+msgctxt "label_menu_block_image"
+msgid "Block images"
+msgstr "屏蔽图像"
+
+msgctxt "label_menu_settings"
+msgid "Settings"
+msgstr "设置"
+
+msgctxt "label_menu_exit"
+msgid "Exit"
+msgstr "退出"
+
+msgctxt "permission_dialog_setting"
+msgid "settings"
+msgstr "设置"
+
+msgctxt "permission_dialog_not_now"
+msgid "not now"
+msgstr "暂不"
+
+msgctxt "permission_dialog_msg_location"
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgstr ""
+
+msgctxt "permission_toast_location"
+msgid "Location not available. Give Firefox Rocket permission to access your location in settings."
+msgstr ""
+
+msgctxt "permission_dialog_msg_storage"
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgstr ""
+
+msgctxt "permission_toast_storage"
+msgid "Storage not available. Give Firefox Rocket permission to store photos, media, and files on your device and SD card in settings."
+msgstr ""
+
+#. When the webpage request access to geolocation a dialog will popup.
+#. This is the title of the permission request dialog. Argument 1 is the url of
+#. the website.
+#, c-format
+msgctxt "geolocation_dialog_message"
+msgid ""
+"%1$s \n"
+"wants to access your location."
+msgstr ""
+
+msgctxt "geolocation_dialog_allow"
+msgid "ALLOW"
+msgstr "允许"
+
+msgctxt "geolocation_dialog_block"
+msgid "BLOCK"
+msgstr "阻止"
+
+#. Setting Clear browsing data dialog
+msgctxt "setting_dialog_clear_data"
+msgid "Clear Data"
+msgstr "清除数据"
+
+msgctxt "setting_dialog_cancel"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "setting_dialog_browsing_history"
+msgid "Browsing history"
+msgstr "浏览历史"
+
+msgctxt "setting_dialog_search_history"
+msgid "Search history"
+msgstr "搜索历史"
+
+msgctxt "setting_dialog_form_history"
+msgid "Form history"
+msgstr "表单历史"
+
+msgctxt "setting_dialog_cookies"
+msgid "Cookies"
+msgstr "Cookie"
+
+msgctxt "setting_dialog_cache"
+msgid "Cache"
+msgstr "缓存"
+
+#. Download list
+msgctxt "no_downloads"
+msgid "No downloads"
+msgstr "没有下载"
+
+msgctxt "download_started"
+msgid "Downloading…"
+msgstr "正在下载…"
+
+msgctxt "download_file_not_supported"
+msgid "Download protocol not supported"
+msgstr "不支持的下载协议"
+
+msgctxt "cannot_find_the_file"
+msgid "Cannot find the file"
+msgstr "无法找到该文件"
+
+msgctxt "cannot_delete_the_file"
+msgid "Cannot delete the file."
+msgstr "无法删除该文件。"
+
+#, c-format
+msgctxt "download_completed"
+msgid "%1$s downloaded"
+msgstr "%1$s 已下载"
+
+#, c-format
+msgctxt "download_deleted"
+msgid "%1$s was deleted"
+msgstr "%1$s 已删除"
+
+msgctxt "download_cancel"
+msgid "Download canceled"
+msgstr "下载已取消"
+
+msgctxt "undo"
+msgid "Undo"
+msgstr "撤销"
+
+msgctxt "open"
+msgid "Open"
+msgstr "打开"
+
+#. Download status
+#. File download status is paused
+msgctxt "pause"
+msgid "paused"
+msgstr "已暂停"
+
+#. File download status is pending
+msgctxt "pending"
+msgid "Pending"
+msgstr "等待开始"
+
+#. File download status is running
+msgctxt "running"
+msgid "downloading"
+msgstr "正在下载"
+
+#. File download status is successful
+msgctxt "successful"
+msgid "Successful"
+msgstr "成功"
+
+#. File download status is failed
+msgctxt "failed"
+msgid "failed"
+msgstr "失败"
+
+#. File download status is unknown
+msgctxt "unknown"
+msgid "Unknown"
+msgstr "未知"
+
+#. Setting data saving path dialog
+msgctxt "setting_dialog_sd_card"
+msgid "SD card"
+msgstr "SD 卡"
+
+msgctxt "setting_dialog_internal_storage"
+msgid "Internal storage"
+msgstr "内部存储"
+
+#. BrowsingHistoryActivity
+msgctxt "browsing_history_clear_btn"
+msgid "CLEAR BROWSING HISTORY"
+msgstr "清除浏览历史"
+
+msgctxt "browsing_history_empty_view_msg"
+msgid "No browsing history"
+msgstr "没有浏览历史"
+
+msgctxt "browsing_history_date_today"
+msgid "Today"
+msgstr "今天"
+
+msgctxt "browsing_history_date_yesterday"
+msgid "Yesterday"
+msgstr "昨天"
+
+msgctxt "browsing_history_menu_delete"
+msgid "Delete"
+msgstr "删除"
+
+msgctxt "browsing_history_dialog_confirm_clear_message"
+msgid "Clear all browsing history?"
+msgstr "清除所有浏览历史？"
+
+msgctxt "browsing_history_dialog_btn_clear"
+msgid "Clear"
+msgstr "清除"
+
+#. Remove the item from Download file panel
+msgctxt "remove_from_list"
+msgid "Remove from list"
+msgstr "从列表中移除"
+
+#. Remove the item from Download file panel and delete the file
+msgctxt "delete_file"
+msgid "Delete file"
+msgstr "删除文件"
+
+#. Long Screenshot
+msgctxt "screenshot_saved"
+msgid "Screenshot saved"
+msgstr "截图已保存"
+
+msgctxt "screenshot_failed"
+msgid "Failed to capture screenshot"
+msgstr "拍摄截图失败"
+
+msgctxt "screenshot_illustration"
+msgid "Capturing screenshot of entire page…"
+msgstr "正在拍摄整个页面的截图…"
+
+#. Snack bar message
+msgctxt "message_fallback_save_to_primary_external"
+msgid "No SD card detected. File was saved to internal storage."
+msgstr "没有检测到 SD 卡。文件已保存到内部存储。"
+
+msgctxt "message_start_to_save_to_removable_storage"
+msgid "File saved to SD card"
+msgstr "文件已保存到 SD 卡"
+
+msgctxt "message_removable_storage_space_not_enough"
+msgid "SD card is almost full. File was saved to internal storage."
+msgstr "SD 卡快满了。文件被保存到内部存储。"
+
+#. ScreenshotGridFragment
+msgctxt "screenshot_grid_empty_text_title"
+msgid "No screenshots"
+msgstr "没有截图"
+
+#. This string is followed by the image of the button, keep the trailing
+#. whitespace.         Final result: 'Tap [image] on the menu to capture an
+#. entire web page'.
+msgctxt "screenshot_grid_empty_text_msg_prefix"
+msgid "Tap "
+msgstr "点按菜单上的"
+
+#. This string is preceded by the image of the button, keep the leading
+#. whitespace.         Final result: 'Tap [image] on the menu to capture an
+#. entire web page'.
+msgctxt "screenshot_grid_empty_text_msg_postfix"
+msgid ""
+"  on the menu to capture\n"
+"an entire web page."
+msgstr "拍摄整个网页的截图。"
+
+msgctxt "screenshot_image_viewer_dialog_title"
+msgid "Info"
+msgstr "信息"
+
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_time1"
+msgid "Date: %1$s"
+msgstr "日期：%1$s"
+
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_resolution1"
+msgid "Resolution: %1$s"
+msgstr "分辨率：%1$s"
+
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_size1"
+msgid "Size: %1$s"
+msgstr "大小：%1$s"
+
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_title1"
+msgid "Title: %1$s"
+msgstr "标题：%1$s"
+
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_url1"
+msgid "URL: %1$s"
+msgstr "网址：%1$s"
+
+msgctxt "screenshot_image_viewer_dialog_delete_msg"
+msgid "Delete this image?"
+msgstr ""
+
+msgctxt "screenshot_on_boarding_text_msg"
+msgid ""
+"Tap the screenshot button in the menu to capture the whole page.\n"
+"Fast, easy - come back to the page at anytime!"
+msgstr ""
+
+msgctxt "screenshot_on_boarding_btn_got_it"
+msgid "Got it!"
+msgstr ""
+
+#. Title for file picker when user trying to upload a file
+msgctxt "file_picker_title"
+msgid "Choose a file to upload"
+msgstr ""
+
+#. Toast message
+msgctxt "message_enable_turbo_mode"
+msgid "Turbo mode enabled"
+msgstr ""
+
+msgctxt "message_disable_turbo_mode"
+msgid "Turbo mode disabled"
+msgstr ""
+
+msgctxt "message_enable_block_image"
+msgid "Now blocking images"
+msgstr ""
+
+msgctxt "message_disable_block_image"
+msgid "Now showing images"
+msgstr ""
+
+msgctxt "message_clear_cache_fail"
+msgid "Unable to clear cache"
+msgstr ""
+
+msgctxt "message_storage_unavailable_cancel_download"
+msgid "Storage inaccessible. Download canceled."
+msgstr ""
+
+#. Message indicate how much cache file cause disk storage was cleared.
+#. Argument 1 is the amount, i.e. 15.0 MB cache cleared
+#, c-format
+msgctxt "message_cleared_cached"
+msgid "%1$s cache cleared"
+msgstr ""
+
+msgctxt "message_cleared_browsing_data"
+msgid "Browsing data cleared"
+msgstr ""
+
+msgctxt "message_deleted_screenshot"
+msgid "Screenshot deleted"
+msgstr ""
+
+msgctxt "message_cannot_find_screenshot"
+msgid "Cannot display the screenshot"
+msgstr ""
+
+#. Remove Top site item
+msgctxt "remove"
+msgid "Remove"
+msgstr ""
+
+#. In-app Promotion, Rate the App
+msgctxt "rate_app_dialog_text_title"
+msgid "Love {{app_name}}?"
+msgstr ""
+
+msgctxt "rate_app_dialog_text_content"
+msgid "Thank you for choosing our product. Your feedback is important to us."
+msgstr ""
+
+msgctxt "rate_app_dialog_btn_go_rate"
+msgid "Yes, rate 5 stars!"
+msgstr ""
+
+msgctxt "rate_app_dialog_btn_feedback"
+msgid "No, send feedback."
+msgstr ""
+
+#. In-app Promotion, Share app
+msgctxt "share_app_dialog_text_title"
+msgid "Share {{app_name}} with friends!"
+msgstr ""
+
+msgctxt "share_app_dialog_text_content"
+msgid ""
+"- Fast and lightweight\n"
+"- Data saving\n"
+"- Powerful screenshots"
+msgstr ""
+
+msgctxt "share_app_dialog_btn_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "share_app_promotion_text"
+msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)
+msgctxt "your_rights_content1"
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
+msgctxt "your_rights_content2"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the trademark policy (e.g.
+#. https://www.mozilla.org/foundation/trademarks/policy/)
+msgctxt "your_rights_content3"
+msgid ""
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the list of licenses used by the dependencies.
+msgctxt "your_rights_content4"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
+#. linking to the GPL     %3$s will be replaced with a URL linking to the
+#. tracking protection wiki page (e.g.
+#. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
+msgctxt "your_rights_content5"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+
+#. Title for survey notification posted after launching the app on the 3rd
+#. time     %1$s will be replaced with an emoticon
+#, c-format
+msgctxt "survey_notification_title"
+msgid "We need you! %1$s"
+msgstr ""
+
+#. Subtitle for survey notification posted after launching the app on the 3rd
+#. time
+msgctxt "survey_notification_description"
+msgid "Shape a better product for Indonesia"
+msgstr ""
