@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-15 18:49+0800\n"
-"PO-Revision-Date: 2018-01-31 02:23+0000\n"
+"PO-Revision-Date: 2018-01-31 02:49+0000\n"
 "Last-Translator: bli <bli@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -406,11 +406,11 @@ msgstr "暂不"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "缺少权限。请允许 Firefox Rocket 访问您的位置。"
+msgstr "缺少权限。请允许 Firefox Rocket 获取您的位置。"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give Firefox Rocket permission to access your location in settings."
-msgstr "未知不可用。请在设置中允许 Firefox Rocket 访问您的位置。"
+msgstr "无法获取您的位置信息，请在系统设置中允许 Firefox Rocket 使用您的位置权限。"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -418,7 +418,7 @@ msgstr "缺少权限。请允许 Firefox Rocket 访问您的位置。"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give Firefox Rocket permission to store photos, media, and files on your device and SD card in settings."
-msgstr "存储不可用。请在设置中允许 Firefox Rocket 在您的设备和 SD 卡上存储照片、视频或其他文件。"
+msgstr "存储不可用。请在设置中允许 Firefox Rocket 使用您的存储权限。"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -430,7 +430,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s \n"
-"想要访问您的位置。"
+"想要获取您的位置。"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -451,15 +451,15 @@ msgstr "取消"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr "浏览历史"
+msgstr "浏览历史记录"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr "搜索历史"
+msgstr "搜索历史记录"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr "表单历史"
+msgstr "表单历史记录"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
@@ -472,7 +472,7 @@ msgstr "缓存"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr "没有下载"
+msgstr "无下载文件"
 
 msgctxt "download_started"
 msgid "Downloading…"
@@ -480,7 +480,7 @@ msgstr "正在下载…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr "不支持的下载协议"
+msgstr "不支持该下载协议"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -493,7 +493,7 @@ msgstr "无法删除该文件。"
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr "%1$s 已下载"
+msgstr "%1$s 下载完成"
 
 #, c-format
 msgctxt "download_deleted"
@@ -516,12 +516,12 @@ msgstr "打开"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr "已暂停"
+msgstr "暂停"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr "等待开始"
+msgstr "等待"
 
 #. File download status is running
 msgctxt "running"
@@ -555,11 +555,11 @@ msgstr "内部存储"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "清除浏览历史"
+msgstr "清除浏览历史记录"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "没有浏览历史"
+msgstr "无浏览历史记录"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -575,7 +575,7 @@ msgstr "删除"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "清除所有浏览历史？"
+msgstr "清除所有浏览历史记录？"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -598,16 +598,16 @@ msgstr "截图已保存"
 
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr "拍摄截图失败"
+msgstr "截图失败"
 
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "正在拍摄整个页面的截图…"
+msgstr "正在截取整个网页…"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "没有检测到 SD 卡。文件已保存到内部存储。"
+msgstr "未检测到 SD 卡，文件已保存到内部存储。"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -615,12 +615,12 @@ msgstr "文件已保存到 SD 卡"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "SD 卡快满了。文件被保存到内部存储。"
+msgstr "SD 卡快满，文件被保存到内部存储。"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr "没有截图"
+msgstr "无截图"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -636,7 +636,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "拍摄整个网页的截图。"
+msgstr "截取整个网页。"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
