@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-15 18:49+0800\n"
-"PO-Revision-Date: 2018-01-31 00:10+0000\n"
+"PO-Revision-Date: 2018-01-31 00:24+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -149,7 +149,7 @@ msgstr "发送使用统计数据"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla 尽力只收集我们为每个人改进 %1$s 所必需的信息。"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -241,7 +241,7 @@ msgstr "屏蔽跟踪器"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "找一个可以打开此链接的应用"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -259,7 +259,7 @@ msgstr "网页不可用"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "确保您已连接到互联网"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -312,11 +312,11 @@ msgstr "感谢您选择 %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "一个 Mozilla 为印度尼西亚量身定做的浏览器。Mozilla 是一家致力于自由且开放网络的非营利组织。"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "浏览比以往更快"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -324,19 +324,19 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "节省流量 = 节省金钱"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "屏蔽跟踪广告不止能加快浏览速度，还可以节约流量。如果您还屏蔽了图像，那么流量节约则更加显著。"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "无比强大的截图功能"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "拍摄整个网页的截图。您可以离线查看这些截图（无需流量），点按还可重新访问该网页。"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -406,19 +406,19 @@ msgstr "暂不"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "缺少权限。请允许 Firefox Rocket 访问您的位置。"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give Firefox Rocket permission to access your location in settings."
-msgstr ""
+msgstr "未知不可用。请在设置中允许 Firefox Rocket 访问您的位置。"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "缺少权限。请允许 Firefox Rocket 访问您的位置。"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give Firefox Rocket permission to store photos, media, and files on your device and SD card in settings."
-msgstr ""
+msgstr "存储不可用。请在设置中允许 Firefox Rocket 在您的设备和 SD 卡上存储照片、视频或其他文件。"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -429,6 +429,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s \n"
+"想要访问您的位置。"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -667,13 +669,15 @@ msgstr "网址：%1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "删除此图像？"
 
 msgctxt "screenshot_on_boarding_text_msg"
 msgid ""
 "Tap the screenshot button in the menu to capture the whole page.\n"
 "Fast, easy - come back to the page at anytime!"
 msgstr ""
+"点按菜单中的截图按钮来拍摄整个页面的截图。\n"
+"快速、简单——随时回看整个页面！"
 
 msgctxt "screenshot_on_boarding_btn_got_it"
 msgid "Got it!"
@@ -682,7 +686,7 @@ msgstr ""
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "选择要上传的一个文件"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
@@ -695,65 +699,65 @@ msgstr ""
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "现在将屏蔽图像"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "现在将显示图像"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "无法清除缓存"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "无法访问存储空间。下载已取消。"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s 缓存已清除"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "浏览数据已清除"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "截图已删除"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "无法显示此截图"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "喜欢 {{app_name}} 吗？"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "感谢您选择我们的产品。您的反馈有助于我们的改进。"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "是，评 5 星！"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "不，发送反馈。"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "与朋友分享 {{app_name}}！"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -761,27 +765,30 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- 快速且轻量级\n"
+"- 节约流量\n"
+"- 强大的截图功能"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "分享"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "嘿，来试试这个出自 Mozilla 的超快轻量级浏览器吧！{{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s 是由 Mozilla 和其他贡献者提供的自由且开源软件。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s 根据 <a href=\"%2$s\">Mozilla 公共许可证</a>以及其他开源许可证向您提供。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -791,14 +798,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "您没有得到 Mozilla 基金会或任何其他方面（包括 Mozilla、Firefox 或 %1$s 的名称或标志）的商标授权。更多信息参见<a href=\"%2$s\">此处</a>。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s 的其他源代码可按各种自由和开源软件<a href=\"%2$s\">许可证</a>使用。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -807,17 +814,17 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s 还使用 Disconnect 公司提供的黑名单，该黑名单为该公司的独立作品，按 <a href=\"%2$s\">GNU 通用公共许可证第三版</a>提供，可在<a href=\"%3$s\">这里</a>找到。"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "我们需要你！%1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "为印度尼西亚塑造一个更好的产品"
