@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-15 18:49+0800\n"
-"PO-Revision-Date: 2018-01-31 02:05+0000\n"
+"PO-Revision-Date: 2018-01-31 02:23+0000\n"
 "Last-Translator: bli <bli@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -255,15 +255,15 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr "网页不可用"
+msgstr "无法显示此网页"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr "确保您已连接到互联网"
+msgstr "请检查您是否已连接到互联网"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "请复查地址"
+msgstr "检查地址栏中的网址"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -275,7 +275,7 @@ msgstr "无法理解该地址"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "您可能需要安装其他软件用来打开此地址。"
+msgstr "您可能需要安装其他应用来打开此地址。"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -312,7 +312,7 @@ msgstr "感谢您选择 %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "一个 Mozilla 为印度尼西亚量身定做的浏览器。Mozilla 是一家致力于自由且开放网络的非营利组织。"
+msgstr "由致力于建立一个自由且开放的网络的非营利组织Mozilla打造。"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -336,7 +336,7 @@ msgstr "无比强大的截图功能"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "拍摄整个网页的截图。您可以离线查看这些截图（无需流量），点按还可重新访问该网页。"
+msgstr "截取整个网页，离线查看截图（无需流量），还可以点击截图重新访问该网页。"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -374,7 +374,7 @@ msgstr "我的截图"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr "拍摄页面"
+msgstr "截取网页"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
