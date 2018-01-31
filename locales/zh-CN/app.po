@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-15 18:49+0800\n"
-"PO-Revision-Date: 2018-01-31 03:10+0000\n"
+"PO-Revision-Date: 2018-01-31 03:31+0000\n"
 "Last-Translator: bli <bli@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -138,7 +138,7 @@ msgstr "设为默认浏览器"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "加速模式"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
@@ -191,7 +191,7 @@ msgstr "正在加载"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "网站已载入"
+msgstr "网站加载完成"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -209,7 +209,7 @@ msgstr "前进"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "重新载入网站"
+msgstr "刷新"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -222,7 +222,7 @@ msgstr "后退"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "停止加载网站"
+msgstr "停止加载"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -241,7 +241,7 @@ msgstr "屏蔽跟踪器"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "找一个可以打开此链接的应用"
+msgstr "使用其他应用打开此链接"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -250,7 +250,7 @@ msgstr "找一个可以打开此链接的应用"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "未找到可以打开此链接的应用，可以离开 %1$s 前往 %2$s 搜索其他应用。"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -263,7 +263,7 @@ msgstr "请检查您是否已连接到互联网"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "检查地址栏中的网址"
+msgstr "请检查地址栏中的网址是否正确"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -312,7 +312,7 @@ msgstr "感谢您选择 %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "由致力于建立一个自由且开放的网络的非营利组织Mozilla打造。"
+msgstr "由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -340,7 +340,7 @@ msgstr "截取整个网页，离线查看截图（无需流量），还可以点
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "了解了！"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -691,11 +691,11 @@ msgstr "选择要上传的文件"
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "启用加速模式"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "禁用加速模式"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
