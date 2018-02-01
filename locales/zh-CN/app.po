@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-15 18:49+0800\n"
-"PO-Revision-Date: 2018-01-31 03:34+0000\n"
+"PO-Revision-Date: 2018-02-01 05:15+0000\n"
 "Last-Translator: bli <bli@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -185,7 +185,7 @@ msgstr "安全连接"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "正在加载"
+msgstr "加载中"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
@@ -250,7 +250,7 @@ msgstr "使用其他应用打开此链接"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "未找到可以打开此链接的应用，可以离开 %1$s 前往 %2$s 搜索其他应用。"
+msgstr "未找到可以打开此链接的应用，可以离开 %1$s 前往 %2$s 搜索其他可打开此链接的应用。"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -259,7 +259,7 @@ msgstr "无法显示此网页"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr "请检查您是否已连接到互联网"
+msgstr "请确认您是否已连接到互联网"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
