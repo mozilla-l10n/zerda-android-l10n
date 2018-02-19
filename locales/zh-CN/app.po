@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-02-06 18:05+0800\n"
-"PO-Revision-Date: 2018-02-19 12:04+0000\n"
+"PO-Revision-Date: 2018-02-19 12:24+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -316,11 +316,11 @@ msgstr "由致力于建立一个自由且开放的网络的非营利组织 Mozil
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "浏览比以往更快"
+msgstr "上网快上加快"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "使用加速模式来阻止广告跟踪，以便您可以更快地浏览。如果网站呈现有破损，只需在菜单中的关掉加速模式。"
+msgstr "加速模式将过滤广告跟踪，上网更轻快。如果网页有问题，只需在菜单中的关掉加速模式。"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -328,7 +328,7 @@ msgstr "节省流量 = 节省金钱"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "屏蔽跟踪广告不止能加快浏览速度，还可以节约流量。如果您还屏蔽了图像，那么流量节约则更加显著。"
+msgstr "过滤广告跟踪既可加快上网速度，又可节约流量。不载入图像还能再省更多。"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -336,11 +336,11 @@ msgstr "无比强大的截图功能"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "截取整个网页，离线查看截图（无需流量），还可以点击截图重新访问该网页。"
+msgstr "不但能截取整个网页、离线查看截图（无需流量），还可通过点击截图重新访问原网页。"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "了解了！"
+msgstr "了解！"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -354,7 +354,7 @@ msgstr "下一步"
 #. Zerda Need l10n
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr "下载"
+msgstr "下载项"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -382,11 +382,11 @@ msgstr "加速模式"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr "屏蔽广告"
+msgstr "过滤广告"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "屏蔽图像"
+msgstr "不载入图像"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -406,19 +406,19 @@ msgstr "暂不"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "缺少权限。请允许 Firefox Rocket 获取您的位置。"
+msgstr "缺少权限。请允许 Firefox Rocket 获知您的位置。"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "位置信息不可用。请允许访问您的位置信息。"
+msgstr "无法获知您的位置。请授予获取您位置的权限。"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "缺少权限。请允许 Firefox Rocket 访问您的位置。"
+msgstr "缺少权限。请允许 Firefox Rocket 获知您的位置。"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "存储不可用。请允许在您的设备上存储照片和文件。"
+msgstr "无法使用存储设备。请授予在您的设备上存储照片和文件的权限。"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -430,7 +430,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s \n"
-"想要获取您的位置。"
+"想要获知您的位置。"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -615,7 +615,7 @@ msgstr "文件已保存到 SD 卡"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "SD 卡快满，文件被保存到内部存储。"
+msgstr "SD 卡快满了。文件被保存到内部存储设备上。"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -676,12 +676,12 @@ msgid ""
 "Tap the screenshot button in the menu to capture the whole page.\n"
 "Fast, easy - come back to the page at anytime!"
 msgstr ""
-"点击菜单中的截图按钮来截取整个网页。\n"
-"快速、简单——随时回到原始网页！"
+"点按菜单中的截图按钮截取整个网页。\n"
+"快速、简单——还能随时回到原始网页！"
 
 msgctxt "screenshot_on_boarding_btn_got_it"
 msgid "Got it!"
-msgstr "了解了！"
+msgstr "了解！"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -699,11 +699,11 @@ msgstr "禁用加速模式"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr "现在将屏蔽图像"
+msgstr "不载入图像"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr "现在将显示图像"
+msgstr "正显示图像"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
@@ -711,7 +711,7 @@ msgstr "无法清除缓存"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "无法访问存储空间，下载已取消。"
+msgstr "无法访问存储设备。下载已取消。"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -775,7 +775,7 @@ msgstr "分享"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr "嘿，来试试这个出自 Mozilla 的超快轻量级浏览器吧！{{app_name}} {{share_app_google_play_url}}"
+msgstr "嘿，来试试出自 Mozilla 的超快轻量级浏览器吧！{{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
@@ -827,4 +827,4 @@ msgstr "我们需要你！%1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "为用户打造一个更好的产品"
+msgstr "为用户打造更好的产品"
