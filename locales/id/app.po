@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-02-06 18:05+0800\n"
+"POT-Creation-Date: 2018-03-13 13:20+0800\n"
 "PO-Revision-Date: 2018-02-07 20:30+0000\n"
 "Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
 "Language-Team: id <LL@li.org>\n"
@@ -752,9 +752,17 @@ msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
 msgstr "Tentu, beri 5 bintang!"
 
+msgctxt "rate_app_notification_action_rate"
+msgid "RATE 5 STARS"
+msgstr ""
+
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
 msgstr "Tidak, kirimkan masukan."
+
+msgctxt "rate_app_notification_action_feedback"
+msgid "FEEDBACK"
+msgstr ""
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
