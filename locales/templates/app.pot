@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-02-06 18:05+0800\n"
+"POT-Creation-Date: 2018-03-13 13:20+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.5.3\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -763,8 +763,16 @@ msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
 msgstr ""
 
+msgctxt "rate_app_notification_action_rate"
+msgid "RATE 5 STARS"
+msgstr ""
+
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
+msgstr ""
+
+msgctxt "rate_app_notification_action_feedback"
+msgid "FEEDBACK"
 msgstr ""
 
 #. In-app Promotion, Share app
