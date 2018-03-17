@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-13 13:20+0800\n"
-"PO-Revision-Date: 2018-02-19 12:24+0000\n"
+"PO-Revision-Date: 2018-03-17 11:40+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -752,7 +752,7 @@ msgstr "是的，5星好评！"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 星好评"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -760,7 +760,7 @@ msgstr "不，发送反馈。"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "反馈"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
