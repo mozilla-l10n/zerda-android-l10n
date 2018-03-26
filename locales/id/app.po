@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-03-13 13:20+0800\n"
+"POT-Creation-Date: 2018-03-26 15:53+0800\n"
 "PO-Revision-Date: 2018-03-15 17:15+0000\n"
 "Last-Translator: Romi Hardiyanto <romihardiyanto@gmail.com>\n"
-"Language-Team: id <LL@li.org>\n"
 "Language: id\n"
+"Language-Team: id <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
+"Generated-By: Babel 2.5.3\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -76,8 +75,12 @@ msgstr "Cari di {{app_name}}"
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s adalah sebuah peramban cepat dan ringan buatan Mozilla. Misi kami adalah untuk mendorong internet yang sehat dan terbuka."
+msgid ""
+"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
+"is to foster a healthy, open internet."
+msgstr ""
+"%1$s adalah sebuah peramban cepat dan ringan buatan Mozilla. Misi kami "
+"adalah untuk mendorong internet yang sehat dan terbuka."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -148,8 +151,12 @@ msgstr "Kirim data penggunaan"
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki %1$s bagi Anda."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla hanya akan mengumpulkan data yang diperlukan saja untuk "
+"memperbaiki %1$s bagi Anda."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -249,8 +256,12 @@ msgstr "Cari aplikasi yang bisa membuka tautan"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. "
+"Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -302,6 +313,11 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Simpan gambar"
 
+#. Label used in the contextmenu shown when long-pressing on a link/image
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
 #. name
@@ -311,32 +327,75 @@ msgid "Thanks for choosing %1$s"
 msgstr "Terima kasih telah memilih %1$s"
 
 msgctxt "first_run_page1_text"
-msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
+msgid ""
+"A browser tailor-made for Indonesia by Mozilla, the non-profit committed "
+"to a free and open web."
+msgstr ""
+"Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, "
+"organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Menjelajah secepat kilat"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "Gunakan mode turbo untuk memblokir iklan pelacak sehingga Anda dapat menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup nonaktifkan lewat menu."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+"Gunakan mode turbo untuk memblokir iklan pelacak sehingga Anda dapat "
+"menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup "
+"nonaktifkan lewat menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Hemat data = Hemat uang"
 
 msgctxt "first_run_page3_text"
-msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "Memblokir iklan pelacak tidak hanya mempercepat penjelajahan, tapi juga menghemat data. Anda bisa berhemat lebih banyak jika memblokir gambar."
+msgid ""
+"Blocking tracking ads not only speeds up browsing, it saves data. Save "
+"even more when you block images."
+msgstr ""
+"Memblokir iklan pelacak tidak hanya mempercepat penjelajahan, tapi juga "
+"menghemat data. Anda bisa berhemat lebih banyak jika memblokir gambar."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
 msgstr "Tangkap layar apa saja"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "Tangkap layar dari keseluruhan laman. Lihat tanpa menggunakan kuota data, atau ketuk untuk mengunjungi laman sumbernya."
+msgid ""
+"Take screenshots of entire web pages. View a screenshot offline (without "
+"using data) or tap it to revisit the web page."
+msgstr ""
+"Tangkap layar dari keseluruhan laman. Lihat tanpa menggunakan kuota data,"
+" atau ketuk untuk mengunjungi laman sumbernya."
+
+msgctxt "first_run_upgrade_page_title"
+msgid "We heard your feedback!"
+msgstr ""
+
+#. The %s here is a placeholder for "multiple tabs" (paired with
+#. first_run_upgrade_page_text1_highlight)
+#, c-format, python-format
+msgctxt "first_run_upgrade_page_text1"
+msgid "1. Multitask by opening %s at the same time!"
+msgstr ""
+
+msgctxt "first_run_upgrade_page_text1_highlight"
+msgid "multiple tabs"
+msgstr ""
+
+#. The %s here is a placeholder for "adding them to the home screen!" (paired
+#. with first_run_upgrade_page_text2_highlight)
+#, c-format, python-format
+msgctxt "first_run_upgrade_page_text2"
+msgid "2. Access your favorite sites quickly by %s"
+msgstr ""
+
+msgctxt "first_run_upgrade_page_text2_highlight"
+msgid "adding them to the home screen!"
+msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -405,7 +464,9 @@ msgid "not now"
 msgstr "tidak sekarang"
 
 msgctxt "permission_dialog_msg_location"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
 msgstr "Tidak ada izin. Izinkan Firefox Rocket mengakses lokasi Anda."
 
 msgctxt "permission_toast_location"
@@ -413,12 +474,18 @@ msgid "Location not available. Give permission to access your location."
 msgstr "Lokasi tidak tersedia. Izinkan Firefox Rocket mengakses lokasi Anda."
 
 msgctxt "permission_dialog_msg_storage"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
 msgstr "Tidak ada izin. Izinkan Firefox Rocket mengakses lokasi Anda."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "Penyimpanan tidak tersedia. Izinkan Firefox Rocket menyimpan foto dan berkas pada peranti Anda."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"Penyimpanan tidak tersedia. Izinkan Firefox Rocket menyimpan foto dan "
+"berkas pada peranti Anda."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -673,18 +740,6 @@ msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
 msgstr "Hapus gambar ini?"
 
-msgctxt "screenshot_on_boarding_text_msg"
-msgid ""
-"Tap the screenshot button in the menu to capture the whole page.\n"
-"Fast, easy - come back to the page at anytime!"
-msgstr ""
-"Ketuk tombol tangkap layar di menu untuk menangkap keseluruhan laman.\n"
-"Cepat, mudah - kembali ke lamannya kapan saja!"
-
-msgctxt "screenshot_on_boarding_btn_got_it"
-msgid "Got it!"
-msgstr "Paham!"
-
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
@@ -746,7 +801,9 @@ msgstr "Suka {{app_name}}?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "Terima kasih telah memilih produk kami. Masukan Anda sangat penting bagi kami."
+msgstr ""
+"Terima kasih telah memilih produk kami. Masukan Anda sangat penting bagi "
+"kami."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -784,21 +841,33 @@ msgid "Share"
 msgstr "Bagikan"
 
 msgctxt "share_app_promotion_text"
-msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr "Yuk, coba peramban cepat dan ringan dari Mozilla! {{app_name}} {{share_app_google_play_url}}"
+msgid ""
+"Hey, check out this fast and lightweight browser from Mozilla. "
+"{{app_name}} {{share_app_google_play_url}}"
+msgstr ""
+"Yuk, coba peramban cepat dan ringan dari Mozilla! {{app_name}} "
+"{{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh Mozilla dan kontributor lainnya."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh "
+"Mozilla dan kontributor lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi Publik Mozilla</a> dan lisensi sumber terbuka lainnya."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi "
+"Publik Mozilla</a> dan lisensi sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -806,18 +875,26 @@ msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi P
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak mana pun, termasuk nama atau logo Mozilla, Firefox, atau %1$s. Informasi lebih lanjut bisa ditemukan <a "
-"href=\"%2$s\">di sini</a>."
+"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla "
+"Foundation atau pihak mana pun, termasuk nama atau logo Mozilla, Firefox,"
+" atau %1$s. Informasi lebih lanjut bisa ditemukan <a href=\"%2$s\">di "
+"sini</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Kode sumber tambahan untuk %1$s tersedia dalam berbagai <a href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Kode sumber tambahan untuk %1$s tersedia dalam berbagai <a "
+"href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -825,9 +902,14 @@ msgstr "Kode sumber tambahan untuk %1$s tersedia dalam berbagai <a href=\"%2$s\"
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc. sebagai hasil karya terpisah dan independen di bawah <a href=\"%2$s\">GNU General Public License v3</a>, dan tersedia <a "
+"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc."
+" sebagai hasil karya terpisah dan independen di bawah <a "
+"href=\"%2$s\">GNU General Public License v3</a>, dan tersedia <a "
 "href=\"%3$s\">di sini</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
@@ -842,3 +924,15 @@ msgstr "Kami membutuhkan Anda! %1$s"
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
 msgstr "Wujudkan produk lebih baik bagi Indonesia"
+
+#. Snack bar message indicates there's a new tab loaded in the background
+msgctxt "new_background_tab_hint"
+msgid "New tab opened"
+msgstr ""
+
+#. Snack bar button that switch the newly loaded background tab to the
+#. foreground
+msgctxt "new_background_tab_switch"
+msgid "Switch"
+msgstr ""
+
