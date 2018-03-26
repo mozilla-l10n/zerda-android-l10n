@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-03-13 13:20+0800\n"
+"POT-Creation-Date: 2018-03-26 15:53+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,6 +305,11 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr ""
 
+#. Label used in the contextmenu shown when long-pressing on a link/image
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
 #. name
@@ -347,6 +352,32 @@ msgctxt "first_run_page4_text"
 msgid ""
 "Take screenshots of entire web pages. View a screenshot offline (without "
 "using data) or tap it to revisit the web page."
+msgstr ""
+
+msgctxt "first_run_upgrade_page_title"
+msgid "We heard your feedback!"
+msgstr ""
+
+#. The %s here is a placeholder for "multiple tabs" (paired with
+#. first_run_upgrade_page_text1_highlight)
+#, c-format, python-format
+msgctxt "first_run_upgrade_page_text1"
+msgid "1. Multitask by opening %s at the same time!"
+msgstr ""
+
+msgctxt "first_run_upgrade_page_text1_highlight"
+msgid "multiple tabs"
+msgstr ""
+
+#. The %s here is a placeholder for "adding them to the home screen!" (paired
+#. with first_run_upgrade_page_text2_highlight)
+#, c-format, python-format
+msgctxt "first_run_upgrade_page_text2"
+msgid "2. Access your favorite sites quickly by %s"
+msgstr ""
+
+msgctxt "first_run_upgrade_page_text2_highlight"
+msgid "adding them to the home screen!"
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -686,16 +717,6 @@ msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
 msgstr ""
 
-msgctxt "screenshot_on_boarding_text_msg"
-msgid ""
-"Tap the screenshot button in the menu to capture the whole page.\n"
-"Fast, easy - come back to the page at anytime!"
-msgstr ""
-
-msgctxt "screenshot_on_boarding_btn_got_it"
-msgid "Got it!"
-msgstr ""
-
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
@@ -858,5 +879,16 @@ msgstr ""
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
+msgstr ""
+
+#. Snack bar message indicates there's a new tab loaded in the background
+msgctxt "new_background_tab_hint"
+msgid "New tab opened"
+msgstr ""
+
+#. Snack bar button that switch the newly loaded background tab to the
+#. foreground
+msgctxt "new_background_tab_switch"
+msgid "Switch"
 msgstr ""
 
