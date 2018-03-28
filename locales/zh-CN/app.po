@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-26 15:53+0800\n"
-"PO-Revision-Date: 2018-03-26 09:02+0000\n"
-"Last-Translator: 新垣结衣 <eloli@foxmail.com>\n"
+"PO-Revision-Date: 2018-03-28 13:41+0000\n"
+"Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -352,22 +352,22 @@ msgstr "我们收到了您的反馈！"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. 并开%s，看剧读文两不误！"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "多个标签页"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. 把爱看的网站%s，下次访问更快捷！"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "放到桌面"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -859,10 +859,10 @@ msgstr "为用户打造更好的产品"
 #. Snack bar message indicates there's a new tab loaded in the background
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "已打开新标签页"
 
 #. Snack bar button that switch the newly loaded background tab to the
 #. foreground
 msgctxt "new_background_tab_switch"
 msgid "Switch"
-msgstr ""
+msgstr "切换过去"
