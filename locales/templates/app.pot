@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-30 20:19+0800\n"
+"POT-Creation-Date: 2018-05-02 14:23+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,8 +135,10 @@ msgctxt "preference_default_browser"
 msgid "Make default browser"
 msgstr ""
 
+#. The message shown in disabled preference_default_browser button when user
+#. is in the half     way of setting change
 msgctxt "preference_default_browser_is_setting"
-msgid "Changing settings..."
+msgid "Changing settings…"
 msgstr ""
 
 msgctxt "preference_turbo_mode"
@@ -915,7 +917,7 @@ msgstr ""
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
-msgid "Changing settings..."
+msgid "Changing settings…"
 msgstr ""
 
 msgctxt "setting_default_browser_notification_text"
