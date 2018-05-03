@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-30 20:19+0800\n"
+"POT-Creation-Date: 2018-05-03 10:57+0800\n"
 "PO-Revision-Date: 2018-04-10 02:41+0000\n"
 "Last-Translator: 新垣结衣 <eloli@foxmail.com>\n"
 "Language: zh_Hans_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -130,15 +130,19 @@ msgid "Save downloads to"
 msgstr "下载文件至"
 
 #. This preference does not set Rocket as the default browser but instead
-#. links to Android's      "default apps" screen or if not supported by this
-#. Android version to a SUMO page describing      how to set Rocket as a
-#. default browser
+#. links to Android's      "default apps" screen, on older Android versions, we
+#. try to reset user's current default      browser and let user choose again
+#. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
 msgstr "设为默认浏览器"
 
+#. In the "Make default browser" preference entry, there is an optional
+#. description field     which is empty before the entry is tapped. When a user
+#. taps the entry and the change is     applying, this message is shown as the
+#. description.
 msgctxt "preference_default_browser_is_setting"
-msgid "Changing settings..."
+msgid "Changing settings…"
 msgstr ""
 
 msgctxt "preference_turbo_mode"
@@ -926,7 +930,7 @@ msgstr "切换过去"
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
-msgid "Changing settings..."
+msgid "Changing settings…"
 msgstr ""
 
 msgctxt "setting_default_browser_notification_text"

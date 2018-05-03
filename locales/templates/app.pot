@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-02 14:23+0800\n"
+"POT-Creation-Date: 2018-05-03 10:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -128,15 +128,17 @@ msgid "Save downloads to"
 msgstr ""
 
 #. This preference does not set Rocket as the default browser but instead
-#. links to Android's      "default apps" screen or if not supported by this
-#. Android version to a SUMO page describing      how to set Rocket as a
-#. default browser
+#. links to Android's      "default apps" screen, on older Android versions, we
+#. try to reset user's current default      browser and let user choose again
+#. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
 msgstr ""
 
-#. The message shown in disabled preference_default_browser button when user
-#. is in the half     way of setting change
+#. In the "Make default browser" preference entry, there is an optional
+#. description field     which is empty before the entry is tapped. When a user
+#. taps the entry and the change is     applying, this message is shown as the
+#. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
 msgstr ""
