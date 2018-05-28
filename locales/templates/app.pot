@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-03 10:57+0800\n"
+"POT-Creation-Date: 2018-05-28 18:07+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -663,6 +663,22 @@ msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr ""
 
+msgctxt "screenshot_view"
+msgid "view"
+msgstr ""
+
+msgctxt "screenshot_edit"
+msgid "edit"
+msgstr ""
+
+msgctxt "screenshot_delete"
+msgid "delete"
+msgstr ""
+
+msgctxt "screenshot_share"
+msgid "share"
+msgstr ""
+
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
@@ -928,5 +944,16 @@ msgstr ""
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
+msgstr ""
+
+#. Button on tab tray that can closes all tabs at once
+msgctxt "tab_tray_close_tabs_btn_text"
+msgid "Close all"
+msgstr ""
+
+#. Confirm message shown on the dialog popped after user clicks close-all-tabs
+#. button
+msgctxt "tab_tray_close_tabs_dialog_msg"
+msgid "Close all tabs?"
 msgstr ""
 
