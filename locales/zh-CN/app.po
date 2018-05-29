@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-28 18:07+0800\n"
+"POT-Creation-Date: 2018-05-29 11:10+0800\n"
 "PO-Revision-Date: 2018-05-12 18:51+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language: zh_Hans_CN\n"
@@ -655,32 +655,44 @@ msgid "Delete file"
 msgstr "删除文件"
 
 #. Long Screenshot
+#. Message in the Snackbar which is shown after a successful screenshot
+#. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
 msgstr "截图已保存"
 
+#. Message in the Toast which is shown after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr "截图失败"
 
+#. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr "正在截取整个网页…"
 
+#. Available action in Snackbar that gives users a chance to view the captured
+#. screenshot     right after it is successfully captured.
 msgctxt "screenshot_view"
-msgid "view"
+msgid "VIEW"
 msgstr ""
 
+#. Available action in Snackbar that gives users a chance to edit the captured
+#. screenshot     right after it is successfully captured.
 msgctxt "screenshot_edit"
-msgid "edit"
+msgid "EDIT"
 msgstr ""
 
+#. Available action in Snackbar that gives users a chance to delete the
+#. captured screenshot     right after it is successfully captured.
 msgctxt "screenshot_delete"
-msgid "delete"
+msgid "DELETE"
 msgstr ""
 
+#. Available action in Snackbar that gives users a chance to share the
+#. captured screenshot     right after it is successfully captured.
 msgctxt "screenshot_share"
-msgid "share"
+msgid "SHARE"
 msgstr ""
 
 #. Snack bar message
