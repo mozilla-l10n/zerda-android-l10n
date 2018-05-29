@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-03 10:57+0800\n"
+"POT-Creation-Date: 2018-05-29 11:10+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -651,16 +651,44 @@ msgid "Delete file"
 msgstr ""
 
 #. Long Screenshot
+#. Message in the Snackbar which is shown after a successful screenshot
+#. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
 msgstr ""
 
+#. Message in the Toast which is shown after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr ""
 
+#. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to view the captured
+#. screenshot     right after it is successfully captured.
+msgctxt "screenshot_view"
+msgid "VIEW"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to edit the captured
+#. screenshot     right after it is successfully captured.
+msgctxt "screenshot_edit"
+msgid "EDIT"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to delete the
+#. captured screenshot     right after it is successfully captured.
+msgctxt "screenshot_delete"
+msgid "DELETE"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to share the
+#. captured screenshot     right after it is successfully captured.
+msgctxt "screenshot_share"
+msgid "SHARE"
 msgstr ""
 
 #. Snack bar message
@@ -928,5 +956,16 @@ msgstr ""
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
+msgstr ""
+
+#. Button on tab tray that can closes all tabs at once
+msgctxt "tab_tray_close_tabs_btn_text"
+msgid "Close all"
+msgstr ""
+
+#. Confirm message shown on the dialog popped after user clicks close-all-tabs
+#. button
+msgctxt "tab_tray_close_tabs_dialog_msg"
+msgid "Close all tabs?"
 msgstr ""
 

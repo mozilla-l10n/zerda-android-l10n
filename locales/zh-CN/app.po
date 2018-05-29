@@ -2,23 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-03 10:57+0800\n"
+"POT-Creation-Date: 2018-05-29 11:10+0800\n"
 "PO-Revision-Date: 2018-05-12 18:51+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
+"Language: zh_Hans_CN\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -76,7 +75,9 @@ msgstr "在 {{app_name}} 中搜索"
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
+msgid ""
+"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
+"is to foster a healthy, open internet."
 msgstr "%1$s 是由 Mozilla 出品的快速而轻量的浏览器。我们以营造健康、开放的互联网为己任。"
 
 msgctxt "about_link_learn_more"
@@ -156,7 +157,9 @@ msgstr "发送统计数据"
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
 msgstr "Mozilla 力争仅收集用来为大众改进 %1$s 所必需的数据。"
 
 msgctxt "preference_learn_more"
@@ -257,7 +260,9 @@ msgstr "使用其他应用打开此链接"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr "未找到可以打开此链接的应用，可以离开 %1$s 前往 %2$s 搜索其他可打开此链接的应用。"
 
 #. The page html title (i.e. the <title> tag content)
@@ -329,7 +334,9 @@ msgid "Thanks for choosing %1$s"
 msgstr "感谢您选择 %1$s"
 
 msgctxt "first_run_page1_text"
-msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
+msgid ""
+"A browser tailor-made for Indonesia by Mozilla, the non-profit committed "
+"to a free and open web."
 msgstr "由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。"
 
 msgctxt "first_run_page2_title"
@@ -337,7 +344,9 @@ msgid "Browse faster than ever"
 msgstr "上网快上加快"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr "加速模式将过滤广告跟踪，上网更轻快。如果网页有问题，只需在菜单中的关掉加速模式。"
 
 msgctxt "first_run_page3_title"
@@ -345,7 +354,9 @@ msgid "Save data = Save money"
 msgstr "节省流量 = 节省金钱"
 
 msgctxt "first_run_page3_text"
-msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
+msgid ""
+"Blocking tracking ads not only speeds up browsing, it saves data. Save "
+"even more when you block images."
 msgstr "过滤广告跟踪既可加快上网速度，又可节约流量。不载入图像还能再省更多。"
 
 msgctxt "first_run_page4_title"
@@ -353,7 +364,9 @@ msgid "Screenshot everything"
 msgstr "无比强大的截图功能"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
+msgid ""
+"Take screenshots of entire web pages. View a screenshot offline (without "
+"using data) or tap it to revisit the web page."
 msgstr "不但能截取整个网页、离线查看截图（无需流量），还可通过点击截图重新访问原网页。"
 
 msgctxt "first_run_upgrade_page_title"
@@ -449,7 +462,9 @@ msgid "not now"
 msgstr "暂不"
 
 msgctxt "permission_dialog_msg_location"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
 msgstr "缺少权限。请允许 Firefox Rocket 获知您的位置。"
 
 msgctxt "permission_toast_location"
@@ -457,11 +472,15 @@ msgid "Location not available. Give permission to access your location."
 msgstr "无法获知您的位置。请授予获取您位置的权限。"
 
 msgctxt "permission_dialog_msg_storage"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
 msgstr "缺少权限。请允许 Firefox Rocket 获知您的位置。"
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
 msgstr "无法使用存储设备。请授予在您的设备上存储照片和文件的权限。"
 
 #. When the webpage request access to geolocation a dialog will popup.
@@ -636,17 +655,45 @@ msgid "Delete file"
 msgstr "删除文件"
 
 #. Long Screenshot
+#. Message in the Snackbar which is shown after a successful screenshot
+#. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
 msgstr "截图已保存"
 
+#. Message in the Toast which is shown after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr "截图失败"
 
+#. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr "正在截取整个网页…"
+
+#. Available action in Snackbar that gives users a chance to view the captured
+#. screenshot     right after it is successfully captured.
+msgctxt "screenshot_view"
+msgid "VIEW"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to edit the captured
+#. screenshot     right after it is successfully captured.
+msgctxt "screenshot_edit"
+msgid "EDIT"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to delete the
+#. captured screenshot     right after it is successfully captured.
+msgctxt "screenshot_delete"
+msgid "DELETE"
+msgstr ""
+
+#. Available action in Snackbar that gives users a chance to share the
+#. captured screenshot     right after it is successfully captured.
+msgctxt "screenshot_share"
+msgid "SHARE"
+msgstr ""
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -775,7 +822,9 @@ msgid "Product Update Notice"
 msgstr "产品更新通知"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgid ""
+"To make Firefox Rocket better for you and everyone, we made some changes "
+"to our privacy policy. Tap to learn more."
 msgstr "为了让 Firefox Rocket 更适合您和每个人，我们对隐私政策进行了一些修改。点击以了解更多信息。"
 
 #. In-app Promotion, Rate the App
@@ -823,20 +872,26 @@ msgid "Share"
 msgstr "分享"
 
 msgctxt "share_app_promotion_text"
-msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
+msgid ""
+"Hey, check out this fast and lightweight browser from Mozilla. "
+"{{app_name}} {{share_app_google_play_url}}"
 msgstr "嘿，来试试出自 Mozilla 的超快轻量级浏览器吧！{{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
 msgstr "%1$s 是由 Mozilla 和其他贡献者提供的自由且开源软件。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr "%1$s 根据 <a href=\"%2$s\">Mozilla 公共许可证</a>以及其他开源许可证向您提供。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -845,15 +900,21 @@ msgstr "%1$s 根据 <a href=\"%2$s\">Mozilla 公共许可证</a>以及其他开�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "您没有得到 Mozilla 基金会或任何其他方面（包括 Mozilla、Firefox 或 %1$s 的名称或标志）的商标授权。更多信息参见<a href=\"%2$s\">此处</a>。"
+msgstr ""
+"您没有得到 Mozilla 基金会或任何其他方面（包括 Mozilla、Firefox 或 %1$s 的名称或标志）的商标授权。更多信息参见<a "
+"href=\"%2$s\">此处</a>。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
 msgstr "%1$s 的其他源代码可按各种自由和开源软件<a href=\"%2$s\">许可证</a>使用。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -862,8 +923,13 @@ msgstr "%1$s 的其他源代码可按各种自由和开源软件<a href=\"%2$s\"
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s 还使用 Disconnect 公司提供的黑名单，该黑名单为该公司的独立作品，按 <a href=\"%2$s\">GNU 通用公共许可证第三版</a>提供，可在<a href=\"%3$s\">这里</a>找到。"
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s 还使用 Disconnect 公司提供的黑名单，该黑名单为该公司的独立作品，按 <a href=\"%2$s\">GNU "
+"通用公共许可证第三版</a>提供，可在<a href=\"%3$s\">这里</a>找到。"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -902,3 +968,15 @@ msgstr "这可能需要一段时间"
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
 msgstr "点按设为默认浏览器"
+
+#. Button on tab tray that can closes all tabs at once
+msgctxt "tab_tray_close_tabs_btn_text"
+msgid "Close all"
+msgstr ""
+
+#. Confirm message shown on the dialog popped after user clicks close-all-tabs
+#. button
+msgctxt "tab_tray_close_tabs_dialog_msg"
+msgid "Close all tabs?"
+msgstr ""
+
