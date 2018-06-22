@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-23 01:20+0800\n"
+"POT-Creation-Date: 2018-06-23 02:14+0800\n"
 "PO-Revision-Date: 2018-05-30 11:18+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language: zh_CN\n"
@@ -676,26 +676,30 @@ msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr "正在截取整个网页…"
 
-#. Available action shown along with screenshot_saved that gives users a
-#. chance to view the captured screenshot.
+#. The label of an action that gives users an option to view the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
 msgstr "查看"
 
-#. Available action shown along with screenshot_saved that gives users a
-#. chance to edit the captured screenshot.
+#. The label of an action that gives users an option to edit the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
 msgstr "编辑"
 
-#. Available action shown along with screenshot_saved that gives users a
-#. chance to delete the captured screenshot.
+#. The label of an action that gives users an option to delete the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
 msgstr "删除"
 
-#. Available action shown along with screenshot_saved that gives users a
-#. chance to share the captured screenshot.
+#. The label of an action that gives users an option to share the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
 msgstr "分享"
@@ -955,10 +959,12 @@ msgctxt "new_background_tab_hint"
 msgid "New tab opened"
 msgstr "已打开新标签页"
 
-#. An action shown with new_background_tab_hint that gives user an option to
-#. switch the newly loaded background tab to the foreground.
+#. The label of an action that gives users an option to switch the newly
+#. loaded background tab to the foreground. This is shown alongside the
+#. temporary message which notify users a new tab is opened.
+#, fuzzy
 msgctxt "new_background_tab_switch"
-msgid "Switch"
+msgid "SWITCH"
 msgstr "切换过去"
 
 #. Sticky notification to inform user we are in the process of changing
