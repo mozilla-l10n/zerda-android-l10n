@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-22 20:47+0800\n"
+"POT-Creation-Date: 2018-06-23 01:20+0800\n"
 "PO-Revision-Date: 2018-05-30 11:18+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
-"Language: zh_Hans_CN\n"
+"Language: zh_CN\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -660,13 +660,13 @@ msgid "Delete file"
 msgstr "删除文件"
 
 #. Long Screenshot
-#. Message in the Snackbar which is shown after a successful screenshot
+#. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
 msgstr "截图已保存"
 
-#. Message in the Toast which is shown after a failed screenshot capture.
+#. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr "截图失败"
@@ -676,26 +676,26 @@ msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr "正在截取整个网页…"
 
-#. Available action in Snackbar that gives users a chance to view the captured
-#. screenshot     right after it is successfully captured.
+#. Available action shown along with screenshot_saved that gives users a
+#. chance to view the captured screenshot.
 msgctxt "screenshot_view"
 msgid "VIEW"
 msgstr "查看"
 
-#. Available action in Snackbar that gives users a chance to edit the captured
-#. screenshot     right after it is successfully captured.
+#. Available action shown along with screenshot_saved that gives users a
+#. chance to edit the captured screenshot.
 msgctxt "screenshot_edit"
 msgid "EDIT"
 msgstr "编辑"
 
-#. Available action in Snackbar that gives users a chance to delete the
-#. captured screenshot     right after it is successfully captured.
+#. Available action shown along with screenshot_saved that gives users a
+#. chance to delete the captured screenshot.
 msgctxt "screenshot_delete"
 msgid "DELETE"
 msgstr "删除"
 
-#. Available action in Snackbar that gives users a chance to share the
-#. captured screenshot     right after it is successfully captured.
+#. Available action shown along with screenshot_saved that gives users a
+#. chance to share the captured screenshot.
 msgctxt "screenshot_share"
 msgid "SHARE"
 msgstr "分享"
@@ -949,13 +949,14 @@ msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
 msgstr "为用户打造更好的产品"
 
-#. Snack bar message indicates there's a new tab loaded in the background
+#. A message that is shown for a few seconds that indicates there's a new tab
+#. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
 msgstr "已打开新标签页"
 
-#. Snack bar button that switch the newly loaded background tab to the
-#. foreground
+#. An action shown with new_background_tab_hint that gives user an option to
+#. switch the newly loaded background tab to the foreground.
 msgctxt "new_background_tab_switch"
 msgid "Switch"
 msgstr "切换过去"
@@ -995,42 +996,44 @@ msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
 msgstr ""
 
-#. Message shown in a SnackBar after a bookmark is saved.
+#. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
 msgstr ""
 
-#. Message shown in a Toast after a bookmark is removed.
+#. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
 msgstr ""
 
-#. Optional action that is available in a SnackBar after a bookmark is saved.
+#. An action that is shown along with bookmark_saved to give user an option to
+#. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
 msgstr ""
 
-#. Title of Bookmark editing page
+#. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
 msgstr ""
 
-#. only action available to save after editing a bookmark.
+#. The only action available in bookmark editing page. Press this label to
+#. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
 msgstr ""
 
-#. Edittext title of name field when editing a bookmark.
+#. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
 msgstr ""
 
-#. Edittext title of url field when editing a bookmark.
+#. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
 msgstr ""
 
-#. Message shown in the toast after bookmark edit is saved.
+#. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
 msgstr ""
@@ -1040,7 +1043,7 @@ msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
 msgstr ""
 
-#. Context menu label for editing an Bookmark item.
+#. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
 msgstr ""
