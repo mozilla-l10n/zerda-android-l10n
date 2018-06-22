@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-29 11:10+0800\n"
+"POT-Creation-Date: 2018-06-22 20:47+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -407,6 +407,11 @@ msgstr ""
 
 #. Menu labels
 #. Zerda Need l10n
+#. Menu text for bookmark
+msgctxt "label_menu_bookmark"
+msgid "Bookmarks"
+msgstr ""
+
 msgctxt "label_menu_download"
 msgid "Downloads"
 msgstr ""
@@ -967,5 +972,65 @@ msgstr ""
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
+msgstr ""
+
+#. This is the title of Themeing on-boarding dialog
+msgctxt "themetoy_onboarding_title"
+msgid "Color your life!"
+msgstr ""
+
+#. This is the description of Themeing on-boarding dialog
+msgctxt "themetoy_onboarding_description"
+msgid "Double click on the home background to switch themes."
+msgstr ""
+
+#. Message shown in a SnackBar after a bookmark is saved.
+msgctxt "bookmark_saved"
+msgid "Bookmark saved"
+msgstr ""
+
+#. Message shown in a Toast after a bookmark is removed.
+msgctxt "bookmark_removed"
+msgid "Bookmark removed"
+msgstr ""
+
+#. Optional action that is available in a SnackBar after a bookmark is saved.
+msgctxt "bookmark_saved_edit"
+msgid "EDIT"
+msgstr ""
+
+#. Title of Bookmark editing page
+msgctxt "title_activity_edit_bookmark"
+msgid "Edit bookmark"
+msgstr ""
+
+#. only action available to save after editing a bookmark.
+msgctxt "bookmark_edit_save"
+msgid "SAVE"
+msgstr ""
+
+#. Edittext title of name field when editing a bookmark.
+msgctxt "bookmark_edit_name"
+msgid "Name"
+msgstr ""
+
+#. Edittext title of url field when editing a bookmark.
+msgctxt "bookmark_edit_location"
+msgid "Location"
+msgstr ""
+
+#. Message shown in the toast after bookmark edit is saved.
+msgctxt "bookmark_edit_success"
+msgid "Bookmark updated"
+msgstr ""
+
+#. Message shown in Bookmarks panel when the bookmark list is empty.
+msgctxt "bookmarks_empty_view_msg"
+msgid "No bookmarks"
+msgstr ""
+
+#. Context menu label for editing an Bookmark item.
+msgctxt "edit_bookmark"
+msgid "Edit"
 msgstr ""
 
