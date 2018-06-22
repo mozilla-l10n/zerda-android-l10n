@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-29 11:10+0800\n"
+"POT-Creation-Date: 2018-06-23 02:14+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -407,6 +407,11 @@ msgstr ""
 
 #. Menu labels
 #. Zerda Need l10n
+#. Menu text for bookmark
+msgctxt "label_menu_bookmark"
+msgid "Bookmarks"
+msgstr ""
+
 msgctxt "label_menu_download"
 msgid "Downloads"
 msgstr ""
@@ -651,13 +656,13 @@ msgid "Delete file"
 msgstr ""
 
 #. Long Screenshot
-#. Message in the Snackbar which is shown after a successful screenshot
+#. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
 msgstr ""
 
-#. Message in the Toast which is shown after a failed screenshot capture.
+#. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
 msgstr ""
@@ -667,26 +672,30 @@ msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
 msgstr ""
 
-#. Available action in Snackbar that gives users a chance to view the captured
-#. screenshot     right after it is successfully captured.
+#. The label of an action that gives users an option to view the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
 msgstr ""
 
-#. Available action in Snackbar that gives users a chance to edit the captured
-#. screenshot     right after it is successfully captured.
+#. The label of an action that gives users an option to edit the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
 msgstr ""
 
-#. Available action in Snackbar that gives users a chance to delete the
-#. captured screenshot     right after it is successfully captured.
+#. The label of an action that gives users an option to delete the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
 msgstr ""
 
-#. Available action in Snackbar that gives users a chance to share the
-#. captured screenshot     right after it is successfully captured.
+#. The label of an action that gives users an option to share the captured
+#. screenshot. This is shown alongside the temporary message which notify users
+#. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
 msgstr ""
@@ -933,15 +942,17 @@ msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
 msgstr ""
 
-#. Snack bar message indicates there's a new tab loaded in the background
+#. A message that is shown for a few seconds that indicates there's a new tab
+#. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
 msgstr ""
 
-#. Snack bar button that switch the newly loaded background tab to the
-#. foreground
+#. The label of an action that gives users an option to switch the newly
+#. loaded background tab to the foreground. This is shown alongside the
+#. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
-msgid "Switch"
+msgid "SWITCH"
 msgstr ""
 
 #. Sticky notification to inform user we are in the process of changing
@@ -967,5 +978,67 @@ msgstr ""
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
+msgstr ""
+
+#. This is the title of Themeing on-boarding dialog
+msgctxt "themetoy_onboarding_title"
+msgid "Color your life!"
+msgstr ""
+
+#. This is the description of Themeing on-boarding dialog
+msgctxt "themetoy_onboarding_description"
+msgid "Double click on the home background to switch themes."
+msgstr ""
+
+#. Message shown for a few seconds after a bookmark is saved.
+msgctxt "bookmark_saved"
+msgid "Bookmark saved"
+msgstr ""
+
+#. Message shown for a few seconds after a bookmark is removed.
+msgctxt "bookmark_removed"
+msgid "Bookmark removed"
+msgstr ""
+
+#. An action that is shown along with bookmark_saved to give user an option to
+#. edit the saved bookmark.
+msgctxt "bookmark_saved_edit"
+msgid "EDIT"
+msgstr ""
+
+#. Title of the bookmark editing page
+msgctxt "title_activity_edit_bookmark"
+msgid "Edit bookmark"
+msgstr ""
+
+#. The only action available in bookmark editing page. Press this label to
+#. save the edited bookmark.
+msgctxt "bookmark_edit_save"
+msgid "SAVE"
+msgstr ""
+
+#. The label of the textbox where user can type the name of the bookmark
+msgctxt "bookmark_edit_name"
+msgid "Name"
+msgstr ""
+
+#. The label of the textbox where user can type the url of the bookmark
+msgctxt "bookmark_edit_location"
+msgid "Location"
+msgstr ""
+
+#. Message shown for a few seconds after bookmark edit is saved.
+msgctxt "bookmark_edit_success"
+msgid "Bookmark updated"
+msgstr ""
+
+#. Message shown in Bookmarks panel when the bookmark list is empty.
+msgctxt "bookmarks_empty_view_msg"
+msgid "No bookmarks"
+msgstr ""
+
+#. Label for editing a bookmark which is available next to the bookmark item.
+msgctxt "edit_bookmark"
+msgid "Edit"
 msgstr ""
 
