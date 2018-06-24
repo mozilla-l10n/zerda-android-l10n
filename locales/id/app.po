@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-06-22 19:41+0000\n"
+"PO-Revision-Date: 2018-06-22 19:42+0000\n"
 "Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -930,10 +930,9 @@ msgstr "Tab baru dibuka"
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
-#, fuzzy
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "Tukar"
+msgstr "PINDAH"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
