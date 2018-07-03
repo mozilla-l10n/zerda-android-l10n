@@ -924,10 +924,9 @@ msgstr "已打开新标签页"
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
-#, fuzzy
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "切换过去"
+msgstr ""
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
