@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-06-23 14:34+0000\n"
-"Last-Translator: 新垣结衣松冈茉优长泽雅美门胁麦上野树里石原里美 <eloli@foxmail.com>\n"
+"PO-Revision-Date: 2018-07-05 02:12+0000\n"
+"Last-Translator: bli <bli@mozilla.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -467,7 +467,7 @@ msgstr "缺少权限。请允许 Firefox Rocket 获知您的位置。"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "无法使用存储设备。请授予在您的设备上存储照片和文件的权限。"
+msgstr "无法使用存储。请授予在您的设备上存储照片和文件的权限。"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -696,7 +696,7 @@ msgstr "文件已保存到 SD 卡"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "SD 卡快满了。文件被保存到内部存储设备上。"
+msgstr "SD 卡快满了。文件被保存到内部存储上。"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -780,7 +780,7 @@ msgstr "无法清除缓存"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "无法访问存储设备。下载已取消。"
+msgstr "无法访问存储空间。下载已取消。"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -919,7 +919,7 @@ msgstr "为用户打造更好的产品"
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr "已打开新标签页"
+msgstr "新标签页已打开"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
