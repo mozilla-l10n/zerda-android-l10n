@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 13:33+0000\n"
+"PO-Revision-Date: 2018-07-10 14:28+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -622,7 +622,7 @@ msgstr "Burahin"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Burahin lahat ng kasaysayan sa pagba-browse?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -686,7 +686,7 @@ msgstr "IBAHAGI"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Walang SD card na makita. Ang file ay hindi nai-save sa internal storage."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -694,7 +694,7 @@ msgstr "Nasa SD card na ang file"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "Halos puno na ang iyong SD card. Ang file ay hindi nai-save sa internal storage."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
