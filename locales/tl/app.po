@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 09:52+0000\n"
+"PO-Revision-Date: 2018-07-10 10:00+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Mga Setting"
 
 msgctxt "menu_about"
 msgid "About"
@@ -81,15 +81,15 @@ msgstr ""
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Alamin"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr ""
+msgstr "Tulong"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "Ang Iyong mga Karapatan / Lisensya"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -98,7 +98,7 @@ msgstr "Abiso sa Privacy"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "Default na search engine"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -108,7 +108,7 @@ msgstr "Wika"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Default sa sistema"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Harangan ang mga imahe"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -142,7 +142,7 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Ang pagbabago sa mga setting..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -205,7 +205,7 @@ msgstr ""
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Iba pang pagpipilian"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -279,11 +279,11 @@ msgstr "TRY AGAIN"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Hindi maintindihan ang address"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "Kinakailangang mag-install ng karagdagang software para mabuksan ang address na ito."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -435,11 +435,11 @@ msgstr "Hadlangan ang mga Ads"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "Harangan ang mga imahe"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Mga Setting"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
@@ -447,7 +447,7 @@ msgstr "Lumabas"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "mga setting"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
@@ -485,7 +485,7 @@ msgstr "ALLOW"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "HARANGIN"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -527,7 +527,7 @@ msgstr ""
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Hindi suportado ang download protocol"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -568,7 +568,7 @@ msgstr ""
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "Nakabinbin"
 
 #. File download status is running
 msgctxt "running"
@@ -588,16 +588,16 @@ msgstr ""
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Hindi alam"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "SD card"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Internal storage"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -614,7 +614,7 @@ msgstr ""
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Kahapon"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
@@ -626,12 +626,12 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Malinaw"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Alisin sa listahan"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "I-Tap"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -724,7 +724,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "Petsa: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
@@ -734,12 +734,12 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "Laki: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Pamagat: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
@@ -748,7 +748,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "Burahin ang imaheng ito?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -927,7 +927,7 @@ msgstr ""
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Ang pagbabago sa mga setting..."
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -983,7 +983,7 @@ msgstr "I-edit ang bookmark"
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "I-SAVE"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
