@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 13:14+0000\n"
+"PO-Revision-Date: 2018-07-10 13:23+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -187,13 +187,13 @@ msgstr "Alisin"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Secure na koneksyon"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
@@ -223,14 +223,14 @@ msgstr "Muling i-load ang website"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Bumalik"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Ihinto ang pagload ng website"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -249,7 +249,7 @@ msgstr "Harangin ang mga tracker"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Hanapin ang app na maaaring magbukas ng link"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -263,7 +263,7 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "Hindi available ang webpage"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "Naipong data = Naipong pera"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "I-screenshot ang lahat"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -423,7 +423,7 @@ msgstr "Mga kuha ko"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "Kunan ang page"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -490,7 +490,7 @@ msgstr "HARANGIN"
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Burahin ang mga datos"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
@@ -531,11 +531,11 @@ msgstr "Hindi suportado ang download protocol"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Hindi makita ang file"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Hindi mabura ang file."
 
 #, c-format
 msgctxt "download_completed"
@@ -583,7 +583,7 @@ msgstr "Matagumpay"
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "hindi matagumpay"
 
 #. File download status is unknown
 msgctxt "unknown"
@@ -606,7 +606,7 @@ msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Walang bakas ng kasaysayan sa pagbrowse"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -643,12 +643,12 @@ msgstr "Burahin ang file"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Nai-save na ang screenshot"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Hindi matagumpay na nakuha ang screenshot"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
@@ -699,7 +699,7 @@ msgstr ""
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Walang mga screenshot"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -729,7 +729,7 @@ msgstr "Petsa: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Resolution: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -793,11 +793,11 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Nabura na ang screenshot"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Hindi maipakita ang screenshot"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -816,7 +816,7 @@ msgstr "Upang mapaigi ng lubusan ang Firefox Rocket, may mga pagbabagong ginawa 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "Naibigan mo ba ang {{app_name}}?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -824,19 +824,19 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "Oo, bigyan ng 5 stars!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "BIGYAN NG 5 STARS"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "Hindi, magpadala ng feedback."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "FEEDBACK"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -849,6 +849,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- Mabilis at magaan\n"
+"- Matipid sa data\n"
+"- Makapangyarihang screenshots"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -921,7 +924,7 @@ msgstr "May bagong bukas na tab"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "MAGPALIT"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -931,7 +934,7 @@ msgstr "Ang pagbabago sa mga setting..."
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "Maghintay ng sandali"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
@@ -946,12 +949,12 @@ msgstr "Isara lahat"
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "Isara lahat ng mga tab?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "Gawing makulay ang iyong buhay!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
