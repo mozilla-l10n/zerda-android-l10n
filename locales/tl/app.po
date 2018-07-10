@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 08:54+0000\n"
+"PO-Revision-Date: 2018-07-10 09:52+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Tungkol sa"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Abiso sa Privacy"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -122,7 +122,7 @@ msgstr ""
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "Burahin ang browsing data"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -443,7 +443,7 @@ msgstr ""
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -451,7 +451,7 @@ msgstr ""
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "hindi ngayon"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -802,16 +802,16 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Alisin"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "Abiso sa Update ng Produkto"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "Upang mapaigi ng lubusan ang Firefox Rocket, may mga pagbabagong ginawa sa abisong pang-privacy. Mag-tap dito para malaman kung anu-anong pagbabago ang mga ito."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -914,7 +914,7 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "May bagong bukas na tab"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -940,7 +940,7 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "Isara lahat"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
@@ -972,12 +972,12 @@ msgstr ""
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "I-EDIT"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "I-edit ang bookmark"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -988,12 +988,12 @@ msgstr ""
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "Pangalan"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "Lokasyon"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
