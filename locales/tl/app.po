@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 13:05+0000\n"
+"PO-Revision-Date: 2018-07-10 13:14+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -113,7 +113,7 @@ msgstr "Default sa sistema"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "Default na search engine"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -150,18 +150,18 @@ msgstr "Turbo mode"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "Ipadala ang mga datos ng paggamit"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Nagsusumikap ang Mozilla na kumulekta lamang ng mga impormasyon base sa pangangailangan upang mapagbuti ang %1$s para sa lahat."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Alamin"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Rocket.
@@ -330,11 +330,11 @@ msgstr "Salamat sa pagpili ng %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Ang browser na sadyang ginawa para sa Pilipinas mula sa Mozilla, ang non-profit na nagtataguyod ng isang malaya at bukas na web."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "Mag-browse nang mas matulin"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "maraming mga tab"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -961,12 +961,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "Nakasave na ang bookmark"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "Naalis na ang bookmark"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -998,7 +998,7 @@ msgstr "Lokasyon"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "Na-update na ang bookmark"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
