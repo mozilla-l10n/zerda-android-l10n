@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 14:47+0000\n"
+"PO-Revision-Date: 2018-07-10 15:03+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -339,6 +339,8 @@ msgstr "Mag-browse nang mas matulin"
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
+"Gamitin ang turbo mode para harangin ang mga tracking ads at para makapag-browse nang mas matulin. Kung hindi lalabas ng tama ang mga website, i-tap lang ang turbo mode mula sa menu para ito ay mag-"
+"off."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -459,7 +461,7 @@ msgstr ""
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "Hindi makita ang iyong lokasyon. Pakibigyan ng pahintulot ang app na malaman ang iyong lokasyon."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -467,7 +469,7 @@ msgstr "Kulang ang mga permission. Bigyang pahintulot ang Firefox Rocket upang m
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "Hindi magamit ang sisidlan. Pakibigyan ng pahintulot ang app na magamit ang sisidlan para makapagtago ng mga larawan at files sa iyong device."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -776,11 +778,11 @@ msgstr "Kasalukuyang ipinapakita ang mga imahe"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Hindi mabura ang cache"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Hindi magamit ang sisidlan. Ang download ay nakansela."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -867,7 +869,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s ay libre at open source na software na gawa ng Mozilla at ng iba pang mga taga-ambag."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -900,7 +902,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s ay gumagamit din ng blocklists mula sa Disconnect, Inc. na kabilang sa <a href=\"%2$s\">GNU General Public License v3</a>, at makikita <a href=\"%3$s\">dito</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
