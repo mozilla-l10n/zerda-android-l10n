@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 13:23+0000\n"
+"PO-Revision-Date: 2018-07-10 13:33+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -174,7 +174,7 @@ msgstr "Tungkol sa %1$s"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Burahin ang input"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -199,7 +199,7 @@ msgstr "Loading"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Naiload na ang website"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -211,7 +211,7 @@ msgstr "Iba pang pagpipilian"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Sumulong"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -236,7 +236,7 @@ msgstr "Ihinto ang pagload ng website"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Bumalik sa nakalipas na app"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -258,7 +258,7 @@ msgstr "Hanapin ang app na maaaring magbukas ng link"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Walang app sa iyong device na maaaring magbukas ng link na ito. Maaarin mong iwan ang %1$s para maghanap ang %2$s ng app na maaaring magbukas ng link na ito."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "Narinig namin ang inyong feedback!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -540,12 +540,12 @@ msgstr "Hindi mabura ang file."
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "Na-download na ang %1$s"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "Nabura na ang %1$s"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
@@ -553,7 +553,7 @@ msgstr "Nakansela ang download"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "I-undo"
 
 msgctxt "open"
 msgid "Open"
@@ -602,7 +602,7 @@ msgstr "Internal storage"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "BURAHIN ANG KASAYSAYAN NG PAG-BROWSE"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
@@ -753,16 +753,16 @@ msgstr "Burahin ang imaheng ito?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Mamili ng file na i-upload"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Naka-enable ang Turbo mode"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Naka-disable ang Turbo mode"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
@@ -770,7 +770,7 @@ msgstr ""
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Kasalukuyang ipinapakita ang mga imahe"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
@@ -785,11 +785,11 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s cache cleared"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "Nabura na ang datos ng iyong pagbrowse"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -820,7 +820,7 @@ msgstr "Naibigan mo ba ang {{app_name}}?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "Maraming salamat sa iyong pagtangkilik sa aming produkto. Ang iyong feedback ay napakahalaga sa amin."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -841,7 +841,7 @@ msgstr "FEEDBACK"
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "Ibahagi ang {{app_name}} sa iyong mga kaibigan!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -905,13 +905,13 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "Kailangan ka namin! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "Bumalangkas ng mas magandang produkto para sa Pilipinas"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -938,7 +938,7 @@ msgstr "Maghintay ng sandali"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "I-tap para maging default na browser"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
