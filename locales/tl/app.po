@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 10:00+0000\n"
+"PO-Revision-Date: 2018-07-10 13:05+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -33,7 +33,7 @@ msgstr "OK"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Maghanap o ilagay ang address"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -53,7 +53,7 @@ msgstr "Alamin ang Iyong mga Karapatan"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr ""
+msgstr "Magbigay ng feedback"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
@@ -70,14 +70,14 @@ msgstr "Ibahagi sa pamamagitan ng"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search in {{app_name}}"
-msgstr ""
+msgstr "Hanapin sa {{app_name}}"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s ay isang mabilis at magaan na browser na gawa ng Mozilla. Ang aming misyon ay mapanatiling malusog at bukas para sa lahat ang internet."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -134,7 +134,7 @@ msgstr "I-save ang downloads sa"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Gawing default na browser"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -181,7 +181,7 @@ msgstr ""
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Alisin"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -243,7 +243,7 @@ msgstr ""
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Harangin ang mga tracker"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -271,7 +271,7 @@ msgstr "Siguraduhing ikaw ay naka-connect sa Internet"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "Suriin ang address"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -384,11 +384,11 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, naintindihan ko!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Laktawan"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
@@ -407,7 +407,7 @@ msgstr "Mga Download"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "Burahin ang laman ng cache"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -419,7 +419,7 @@ msgstr "Ibahagi"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "Mga kuha ko"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -494,7 +494,7 @@ msgstr ""
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
@@ -519,11 +519,11 @@ msgstr "Cache"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Walang mga download"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Dinadownload..."
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Nakansela ang download"
 
 msgctxt "undo"
 msgid "Undo"
@@ -557,13 +557,13 @@ msgstr ""
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Buksan"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "nakatigil"
 
 #. File download status is pending
 msgctxt "pending"
@@ -573,12 +573,12 @@ msgstr "Nakabinbin"
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "dinadownload"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Matagumpay"
 
 #. File download status is failed
 msgctxt "failed"
@@ -610,7 +610,7 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Ngayon"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
@@ -690,7 +690,7 @@ msgstr ""
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Nasa SD card na ang file"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
@@ -744,7 +744,7 @@ msgstr "Pamagat: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
@@ -1003,7 +1003,7 @@ msgstr ""
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "Walang mga bookmark"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
