@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 08:52+0000\n"
+"PO-Revision-Date: 2018-07-10 08:54+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -57,13 +57,13 @@ msgstr ""
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "Ibahagi sa mga kaibigan"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Ibahagi sa pamamagitan ng"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Wika"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
@@ -288,7 +288,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Ibahagi ang link"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
@@ -298,7 +298,7 @@ msgstr "Kopyahin ang address ng link"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Ibahagi ang imahe"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
@@ -415,7 +415,7 @@ msgstr "Kasaysayan"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Ibahagi"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -681,7 +681,7 @@ msgstr "BURAHIN"
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "IBAHAGI"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "Ibahagi"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
