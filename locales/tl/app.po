@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 14:28+0000\n"
+"PO-Revision-Date: 2018-07-10 14:47+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "CANCEL"
-msgstr "Kanselahin"
+msgstr "KANSELAHIN"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -142,7 +142,7 @@ msgstr "Gawing default na browser"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "Ang pagbabago sa mga setting..."
+msgstr "Kasalukuyang binabago ang mga setting…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -346,7 +346,7 @@ msgstr "Naipong data = Naipong pera"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "Ang pagharang sa mga tracking ads ay hindi lang pinabilis kung hindi nakakatulong makatipid sa konsumo ng data. Makatitipid ka sa data kung hindi ipakikita ang mga imahe."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -380,7 +380,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "idagdag sa home screen!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -463,7 +463,7 @@ msgstr ""
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "Kulang ang mga permission. Bigyang pahintulot ang Firefox Rocket upang malaman ang iyong lokasyon."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
@@ -478,6 +478,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s \n"
+"ay gustong alamin ang iyong lokasyon."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -498,15 +500,15 @@ msgstr "Kanselahin"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Kasaysayan ng pagba-browse"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Kasaysayan ng paghahanap"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Kasaysayan ng form"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
@@ -626,7 +628,7 @@ msgstr "Burahin lahat ng kasaysayan sa pagba-browse?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr "Malinaw"
+msgstr "Burahin"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
@@ -766,7 +768,7 @@ msgstr "Naka-disable ang Turbo mode"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Kasalukuyang hinaharang ang mga imahe"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
@@ -959,7 +961,7 @@ msgstr "Gawing makulay ang iyong buhay!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "I-double click ang home background upang magpalit ng theme."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
