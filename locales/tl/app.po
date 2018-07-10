@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-10 15:03+0000\n"
+"PO-Revision-Date: 2018-07-10 15:09+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tl\n"
@@ -356,7 +356,7 @@ msgstr "I-screenshot ang lahat"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "Kunin ang screenshot ng buong web page. Tingnan ang screenshot offline (hindi gagamit ng data) o kaya ay i-tap ito para puntahan ang web page."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -367,7 +367,7 @@ msgstr "Narinig namin ang inyong feedback!"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. Mag-multitask sa pamamagitan ng pagbubukas ng %s sabay-sabay!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -378,7 +378,7 @@ msgstr "maraming mga tab"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. Puntahan ang iyong mga paboritong website nang mas mabilis sa pamamagitan ng %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
@@ -457,7 +457,7 @@ msgstr "hindi ngayon"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "Hindi mahanap na permiso. Bigyan ng permiso ang Firefox Rocket para malaman ang iyong lokasyon."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -657,7 +657,7 @@ msgstr "Hindi matagumpay na nakuha ang screenshot"
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Isinisipi ang screenshot ng buong page..."
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -720,6 +720,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+"  sa menu para kunin\n"
+"ng buong web page."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -863,7 +865,7 @@ msgstr "Ibahagi"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "Hoy, tingnan itong mabilis at magaan na browser mula sa Mozilla. {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
@@ -876,7 +878,7 @@ msgstr "%1$s ay libre at open source na software na gawa ng Mozilla at ng iba pa
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ay gawa mula sa mga panuntunan ng <a href=\"%2$s\">Mozilla Public License</a> at iba pang open source na mga lisensya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -887,13 +889,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
