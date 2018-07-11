@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 15:05+0000\n"
+"PO-Revision-Date: 2018-07-11 15:21+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -830,7 +830,7 @@ msgstr "ใช่ ให้คะแนน 5 ดาว!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr "RATE 5 STARS"
+msgstr "ให้คะแนน 5 ดาว"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -838,12 +838,12 @@ msgstr "ไม่ ส่งข้อคิดเห็น"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr "FEEDBACK"
+msgstr "ข้อคิดเห็น"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr "แบ่งปัน {{app_name}} ให้เพื่อนๆ!"
+msgstr "แบ่งปัน {{app_name}} กับเพื่อน!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -915,7 +915,7 @@ msgstr "เราต้องการคุณ! %1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "Shape a better product for Indonesia"
+msgstr "สร้างผลิตภัณฑ์ที่ดีขึ้นสำหรับอินโดนีเซีย"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -963,7 +963,7 @@ msgstr "เพิ่มสีสันให้กับชีวิตของ
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr "แตะสองครั้งที่พื้นหลังหน้าแรกเพื่อสลับชุดตกแต่ง"
+msgstr "คลิกสองครั้งที่พื้นหลังหน้าแรกเพื่อสลับชุดตกแต่ง"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
