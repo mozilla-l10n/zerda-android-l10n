@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 09:21+0000\n"
+"PO-Revision-Date: 2018-07-11 09:25+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -785,7 +785,7 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "ล้างแคชแล้ว %1$s"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "เอาออก"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -816,7 +816,7 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "รัก {{app_name}}?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -824,7 +824,7 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "ใช่ ให้คะแนน 5 ดาว!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "แบ่งปัน"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -914,7 +914,7 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "เปิดแท็บใหม่แล้ว"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -927,7 +927,7 @@ msgstr ""
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "เปลี่ยนการตั้งค่า…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -940,13 +940,13 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "ปิดทั้งหมด"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "ปิดแท็บทั้งหมด"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -961,12 +961,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "เพิ่มที่คั่นหน้าแล้ว"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "เอาที่คั่นหน้าออกแล้ว"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -977,7 +977,7 @@ msgstr ""
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "แก้ไขที่คั่นหน้า"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -988,7 +988,7 @@ msgstr ""
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
@@ -1008,4 +1008,4 @@ msgstr ""
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "แก้ไข"
