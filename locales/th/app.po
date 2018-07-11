@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 10:03+0000\n"
+"PO-Revision-Date: 2018-07-11 10:05+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "หลายแท็บ"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -593,7 +593,7 @@ msgstr "ไม่ทราบ"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "การ์ด SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
@@ -690,7 +690,7 @@ msgstr "ไม่พบการ์ด SD จึงบันทึกไฟล�
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "บันทึกไฟล์ลงการ์ด SD แล้ว"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
