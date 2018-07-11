@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 09:51+0000\n"
+"PO-Revision-Date: 2018-07-11 10:03+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -126,7 +126,7 @@ msgstr "ล้างข้อมูลการท่องเว็บ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "บันทึกสิ่งที่ดาวน์โหลดไปที่"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "ตรวจสอบให้มั่นใจว่าคุณเชื่อมต่ออินเทอร์เน็ตอยู่"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "TRY AGAIN"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ประหยัดข้อมูล = ประหยัดเงิน"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -485,7 +485,7 @@ msgstr "อนุญาต"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "บล็อก"
+msgstr "BLOCK"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -597,12 +597,12 @@ msgstr ""
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "หน่วยความจำภายใน"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "CLEAR BROWSING HISTORY"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -643,7 +643,7 @@ msgstr "ลบไฟล์"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "บันทึกภาพหน้าจอแล้ว"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -660,33 +660,33 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "VIEW"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "EDIT"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "DELETE"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "SHARE"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "ไม่พบการ์ด SD จึงบันทึกไฟล์ลงหน่วยความจำภายใน"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -694,7 +694,7 @@ msgstr ""
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "การ์ด SD ใกล้เต็มแล้ว จึงได้บันทึกไฟล์ลงหน่วยความจำภายใน"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -766,7 +766,7 @@ msgstr "ปิดโหมดเทอร์โบ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "ปิดกั้นภาพเดี๋ยวนี้"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
@@ -774,7 +774,7 @@ msgstr "แสดงภาพเดี๋ยวนี้"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "ล้างแคชไม่ได้"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -789,7 +789,7 @@ msgstr "ล้างแคชแล้ว %1$s"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "ล้างข้อมูลการท่องเว็บแล้ว"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -828,7 +828,7 @@ msgstr "ใช่ ให้คะแนน 5 ดาว!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "RATE 5 STARS"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -836,7 +836,7 @@ msgstr ""
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "FEEDBACK"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -902,13 +902,13 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "เราต้องการคุณ! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "Shape a better product for Indonesia"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -921,7 +921,7 @@ msgstr "เปิดแท็บใหม่แล้ว"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "SWITCH"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -931,7 +931,7 @@ msgstr "เปลี่ยนการตั้งค่า…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "อาจใช้เวลาสักครู่"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
@@ -951,7 +951,7 @@ msgstr "ปิดแท็บทั้งหมด"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "เพิ่มสีสันให้กับชีวิตของคุณ!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
@@ -972,7 +972,7 @@ msgstr "เอาที่คั่นหน้าออกแล้ว"
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "EDIT"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
@@ -983,7 +983,7 @@ msgstr "แก้ไขที่คั่นหน้า"
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "SAVE"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
@@ -993,17 +993,17 @@ msgstr "ชื่อ"
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "ที่ตั้ง"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "อัปเดตบุ๊กมาร์คแล้ว"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "ไม่มีที่คั่นหน้า"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
