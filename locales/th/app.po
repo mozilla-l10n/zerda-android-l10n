@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 14:52+0000\n"
+"PO-Revision-Date: 2018-07-11 15:00+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -174,7 +174,7 @@ msgstr "เกี่ยวกับ %1$s"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "ล้างช่องป้อนข้อมูล"
+msgstr "ล้างข้อมูลที่ป้อน"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -263,7 +263,7 @@ msgstr "ไม่มีแอพใดในอุปกรณ์ของคุ
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr "เว็บเพจไม่พร้อมใช้งาน"
+msgstr "หน้าเว็บไม่พร้อมใช้งาน"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
@@ -423,7 +423,7 @@ msgstr "ภาพของฉัน"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr "จับภาพหน้าเว็บ"
+msgstr "จับภาพหน้า"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
