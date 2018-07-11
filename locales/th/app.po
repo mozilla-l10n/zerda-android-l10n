@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 10:26+0000\n"
+"PO-Revision-Date: 2018-07-11 10:41+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -271,7 +271,7 @@ msgstr "ตรวจสอบให้มั่นใจว่าคุณเช
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "ตรวจสอบที่อยู่เว็บ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -283,7 +283,7 @@ msgstr "ไม่เข้าใจที่อยู่"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "คุณอาจจะต้องติดตั้งซอฟต์แวร์อื่นๆ เพื่อเปิดที่อยู่เว็บนี้"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -330,7 +330,7 @@ msgstr "ขอบคุณที่เลือก %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -527,7 +527,7 @@ msgstr "กำลังดาวน์โหลด…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "ไม่รองรับการดาวน์โหลดด้วยโปรโตคอลนี้"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -648,12 +648,12 @@ msgstr "บันทึกภาพหน้าจอแล้ว"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "การจับภาพหน้าจอล้มเหลว"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "จับภาพหน้าจอของทั้งหน้าเว็บ"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -778,7 +778,7 @@ msgstr "ล้างแคชไม่ได้"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "เข้าถึงที่เก็บข้อมูลไม่ได้ ยกเลิกการดาวน์โหลด"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -797,7 +797,7 @@ msgstr "ลบภาพหน้าจอแล้ว"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "แสดงผลภาพหน้าจอไม่ได้"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -807,7 +807,7 @@ msgstr "เอาออก"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "การแจ้งอัปเดตผลิตภัณฑ์"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -820,7 +820,7 @@ msgstr "รัก {{app_name}}?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "ขอขอบคุณที่เลือกผลิตภัณฑ์ของเรา คำติชมของคุณเป็นสิ่งสำคัญสำหรับเรา"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -832,7 +832,7 @@ msgstr "RATE 5 STARS"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "ไม่, ส่งคำติชม"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -841,7 +841,7 @@ msgstr "FEEDBACK"
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "แบ่งปัน {{app_name}} ให้เพื่อนๆ!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
