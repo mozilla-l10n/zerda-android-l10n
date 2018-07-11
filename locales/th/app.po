@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 11:27+0000\n"
+"PO-Revision-Date: 2018-07-11 13:03+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -338,7 +338,7 @@ msgstr "เปิดเว็บเร็วขึ้นกว่าที่เ
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ใช้โหมดเทอร์โบเพื่อปิดกั้นโฆษณาที่แกะรอยข้อมูลของคุณ ดังนั้นคุณเปิดเว็บได้รวดเร็ว ถ้าเว็บไซต์ดูเหมือนพัง ก็เพียงแค่แตะปิดโหมดเทอร์โบในเมนู"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -346,7 +346,7 @@ msgstr "ประหยัดข้อมูล = ประหยัดเงิ
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "การปิดกั้นโฆษณาที่ตามรอยคุณไม่เพียงแต่ทำให้เปิดเว็บเร็ว แต่ยังช่วยประหยัดการรับส่งข้อมูล ยังประหยัดได้มากกว่านั้นอีกด้วยการปิดกั้นรูปภาพ"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -354,7 +354,7 @@ msgstr "จับภาพหน้าจอทุกสิ่ง"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "จับภาพหน้าจอแบบเต็มหน้าเว็บ ดูภาพหน้าจอโดยไม่ต้องต่อเน็ตหรือแตะเพื่อเปิดหน้าเว็บอีกครั้ง"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -455,11 +455,11 @@ msgstr "ไม่ใช่ตอนนี้"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "ยังไม่ได้รับอนุญาต อนุญาตให้ Firefox Rocket เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช้ อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -477,7 +477,7 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr "%1$s ต้องการเข้าถึงตำแหน่งทางภูมิศาสตร์ของคุณ"
+msgstr "%1$s ต้องการเข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -653,7 +653,7 @@ msgstr "การจับภาพหน้าจอล้มเหลว"
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "จับภาพหน้าจอของทั้งหน้าเว็บ"
+msgstr "จับภาพหน้าจอแบบเต็มหน้าเว็บ"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -993,7 +993,7 @@ msgstr "ชื่อ"
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr "ที่ตั้ง"
+msgstr "ตำแหน่งที่ตั้ง"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
