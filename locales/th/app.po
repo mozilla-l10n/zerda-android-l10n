@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 10:21+0000\n"
+"PO-Revision-Date: 2018-07-11 10:26+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -263,7 +263,7 @@ msgstr "ไม่มีแอพใดในอุปกรณ์ของคุ
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "เว็บเพจไม่พร้อมใช้งาน"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
@@ -423,7 +423,7 @@ msgstr "ภาพของฉัน"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "จับภาพหน้าเว็บ"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -793,7 +793,7 @@ msgstr "ล้างข้อมูลการท่องเว็บแล้
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "ลบภาพหน้าจอแล้ว"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
