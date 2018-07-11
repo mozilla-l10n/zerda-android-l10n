@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 14:33+0000\n"
+"PO-Revision-Date: 2018-07-11 14:42+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -126,7 +126,7 @@ msgstr "ล้างข้อมูลการท่องเว็บ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "บันทึกสิ่งที่ดาวน์โหลดไปที่"
+msgstr "บันทึกการดาวน์โหลดไปยัง"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -271,11 +271,11 @@ msgstr "ตรวจสอบให้มั่นใจว่าคุณเช
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "ตรวจสอบที่อยู่เว็บ"
+msgstr "ตรวจสอบที่อยู่"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr "TRY AGAIN"
+msgstr "ลองอีกครั้ง"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
@@ -928,13 +928,13 @@ msgstr "เปิดแท็บใหม่แล้ว"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "SWITCH"
+msgstr "สลับ"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr "เปลี่ยนการตั้งค่า…"
+msgstr "กำลังเปลี่ยนการตั้งค่า…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -953,7 +953,7 @@ msgstr "ปิดทั้งหมด"
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr "ปิดแท็บทั้งหมด"
+msgstr "ปิดแท็บทั้งหมด?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -968,7 +968,7 @@ msgstr "แตะสองครั้งที่พื้นหลังหน
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr "เพิ่มที่คั่นหน้าแล้ว"
+msgstr "บันทึกที่คั่นหน้าแล้ว"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
@@ -979,7 +979,7 @@ msgstr "เอาที่คั่นหน้าออกแล้ว"
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr "EDIT"
+msgstr "แก้ไข"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
@@ -990,7 +990,7 @@ msgstr "แก้ไขที่คั่นหน้า"
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr "SAVE"
+msgstr "บันทึก"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
@@ -1005,7 +1005,7 @@ msgstr "ตำแหน่งที่ตั้ง"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr "อัปเดตบุ๊กมาร์คแล้ว"
+msgstr "อัปเดตที่คั่นหน้าแล้ว"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
