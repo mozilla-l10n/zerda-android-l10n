@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 10:41+0000\n"
+"PO-Revision-Date: 2018-07-11 11:07+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "จับภาพหน้าจอทุกสิ่ง"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -729,7 +729,7 @@ msgstr "วันที่: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "ความละเอียด: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -739,7 +739,7 @@ msgstr "ขนาด: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "ชื่อเรื่อง: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
