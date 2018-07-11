@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 09:12+0000\n"
+"PO-Revision-Date: 2018-07-11 09:21+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -205,51 +205,51 @@ msgstr "โหลดเว็บไซต์แล้ว"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "ตัวเลือกเพิ่มเติม"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "นำทางเดินหน้า"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "โหลดเว็บไซต์ใหม่"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "นำทางย้อนกลับ"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "หยุดการโหลดเว็บไซต์"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "กลับไปที่แอปก่อนหน้า"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตาม"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "ค้นหาแอปที่สามารถเปิดลิงก์"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -258,7 +258,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "ไม่มีแอพใดในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ได้ คุณต้องการออกจาก %1$s และเปิด %2$s เพื่อหาแอพที่เหมาะสมหรือไม่?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "ไม่เข้าใจที่อยู่"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
@@ -288,37 +288,37 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "แบ่งปันลิงก์"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "คัดลอกที่อยู่ลิงก์"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "แบ่งปันภาพ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "คัดลอกที่อยู่ภาพ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "บันทึกภาพ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "เปิดลิงก์ในแท็บใหม่"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "เปิดภาพในแท็บใหม่"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -384,42 +384,42 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ตกลง เข้าใจแล้ว!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ข้าม"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ถัดไป"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "ที่คั่นหน้า"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "ล้างแคช"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "ประวัติ"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "แบ่งปัน"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "ภาพของฉัน"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -427,31 +427,31 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "โหมดเทอร์โบ"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "ปิดกั้นโฆษณา"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "ปิดกั้นภาพ"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "ตั้งค่า"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "ออก"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "ตั้งค่า"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "ไม่ใช่ตอนนี้"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -481,49 +481,49 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "อนุญาต"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "บล็อก"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "ล้างข้อมูล"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ประวัติการท่องเว็บ"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "ประวัติการค้นหา"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "ประวัติการกรอกฟอร์ม"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "คุกกี้"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "แคช"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "ไม่มีการดาวน์โหลด"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "กำลังดาวน์โหลด…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -540,7 +540,7 @@ msgstr ""
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "ดาวน์โหลด %1$s แล้ว"
 
 #, c-format
 msgctxt "download_deleted"
@@ -549,46 +549,46 @@ msgstr ""
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ยกเลิกการดาวน์โหลดแล้ว"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "เลิกทำ"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "เปิด"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "หยุดชั่วคราว"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "รอดำเนินการอยู่"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "กำลังดาวน์โหลด"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "สำเร็จ"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "ล้มเหลว"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "ไม่ทราบ"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -606,37 +606,37 @@ msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ไม่มีประวัติการท่องเว็บ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "วันนี้"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "เมื่อวานนี้"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "ล้างประวัติการท่องเว็บทั้งหมด"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "ล้าง"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "ลบจากรายการ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "ลบไฟล์"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "แตะ"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "ข้อมูล"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
