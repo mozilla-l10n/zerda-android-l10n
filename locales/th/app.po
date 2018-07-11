@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 14:42+0000\n"
+"PO-Revision-Date: 2018-07-11 14:52+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -57,7 +57,7 @@ msgstr "เสนอข้อคิดเห็น"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr "แบ่งปันให้เพื่อน"
+msgstr "แบ่งปันกับเพื่อน"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -403,7 +403,7 @@ msgstr "ที่คั่นหน้า"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr "ดาวน์โหลด"
+msgstr "การดาวน์โหลด"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -439,7 +439,7 @@ msgstr "ปิดกั้นภาพ"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr "ตั้งค่า"
+msgstr "การตั้งค่า"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
@@ -447,7 +447,7 @@ msgstr "ออก"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr "ตั้งค่า"
+msgstr "การตั้งค่า"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
@@ -485,7 +485,7 @@ msgstr "อนุญาต"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "BLOCK"
+msgstr "ปิดกั้น"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -602,7 +602,7 @@ msgstr "หน่วยความจำภายใน"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "CLEAR BROWSING HISTORY"
+msgstr "ล้างประวัติการท่องเว็บ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -622,7 +622,7 @@ msgstr "ลบ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "ล้างประวัติการท่องเว็บทั้งหมด"
+msgstr "ล้างประวัติการท่องเว็บทั้งหมด?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -631,7 +631,7 @@ msgstr "ล้าง"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr "ลบจากรายการ"
+msgstr "เอาออกจากรายการ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -660,28 +660,28 @@ msgstr "จับภาพหน้าจอแบบเต็มหน้าเ
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr "VIEW"
+msgstr "ดู"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr "EDIT"
+msgstr "แก้ไข"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr "DELETE"
+msgstr "ลบ"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr "SHARE"
+msgstr "แบ่งปัน"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -750,7 +750,7 @@ msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr "ลบภาพนี้หรือไม่?"
+msgstr "ลบภาพนี้?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -760,11 +760,11 @@ msgstr "เลือกไฟล์ที่จะอัปโหลด"
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr "เปิดโหมดเทอร์โบ"
+msgstr "เปิดใช้งานโหมดเทอร์โบแล้ว"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr "ปิดโหมดเทอร์โบ"
+msgstr "ปิดใช้งานโหมดเทอร์โบแล้ว"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
@@ -834,7 +834,7 @@ msgstr "RATE 5 STARS"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr "ไม่, ส่งคำติชม"
+msgstr "ไม่ ส่งข้อคิดเห็น"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
