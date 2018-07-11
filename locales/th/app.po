@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-11 13:03+0000\n"
+"PO-Revision-Date: 2018-07-11 13:11+0000\n"
 "Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -463,11 +463,11 @@ msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "ยังไม่ได้รับอนุญาต อนุญาตให้ Firefox Rocket เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "ที่เก็บข้อมูลไม่พร้อมใช้งาน อนุญาตให้เก็บภาพและไฟล์ในอุปกรณ์ของคุณ"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -716,6 +716,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" ในเมนูเพื่อจับภาพ\n"
+"เต็มหน้าเว็บ"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -811,7 +813,7 @@ msgstr "การแจ้งอัปเดตผลิตภัณฑ์"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "เพื่อทำให้ Firefox Rocket ดีขึ้นสำหรับคุณและคนอื่นๆ เราเปลี่ยนแปลงนโยบายความเป็นส่วนตัวของเรา แตะเพื่อดูเพิ่ม"
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -849,6 +851,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- เร็วและเบา\n"
+"- ประหยัดการรับส่งข้อมูล\n"
+"- ตัวจับภาพหน้าจอที่ทรงพลัง"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -956,7 +961,7 @@ msgstr "เพิ่มสีสันให้กับชีวิตของ
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "แตะสองครั้งที่พื้นหลังหน้าแรกเพื่อสลับชุดตกแต่ง"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
