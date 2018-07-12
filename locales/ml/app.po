@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 17:41+0000\n"
+"PO-Revision-Date: 2018-07-12 17:53+0000\n"
 "Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -89,20 +89,20 @@ msgstr "പിന്തുണ"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "നിങ്ങളുടെ അവകാശങ്ങള്‍/ ലൈസന്‍സുകള്‍"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "സ്വകാര്യതാ അറിയിപ്പ്"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "സ്വതവേയുള്ള സെര്‍ച്ച് എഞ്ചിന്‍"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ഭാഷ"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
@@ -113,20 +113,20 @@ msgstr ""
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "സ്വതവേയുള്ള സെര്‍ച്ച് എഞ്ചിന്‍"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "ചിത്രങ്ങള്‍ തടയുക"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "ബ്രൗസിങ്ങ് ഡാറ്റ മായ്കുക"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "ലേയ്ക്ക് ഡൌണ്‍ലോഡ് സൂക്ഷിക്കുക"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -134,7 +134,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -142,33 +142,33 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "സജ്ജീകരണം മാറ്റുന്നു…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "വേഗ മോഡ്"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "ഉപയോഗ ഡാറ്റ അയക്കുക"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "%1$s എല്ലാവര്‍ക്കും മെച്ചപ്പെടുത്താനുള്ള ഡാറ്റ മാത്രം ശേഖരിക്കുവാന്‍ മോസില്ല ശ്രമിക്കുന്നു."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "കൂടുതല്‍ അറിയുക"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s നെ കുറിച്ച്"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -181,25 +181,25 @@ msgstr ""
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "കളയുക"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "സുരക്ഷിതമായ കണക്ഷന്‍"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "ലഭ്യമാക്കുന്നു"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "വെബ്സൈറ്റ് ലഭ്യമാക്കി"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -298,7 +298,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ചിത്രം പങ്കിടുക"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
@@ -308,17 +308,17 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ചിത്രം സൂക്ഷിക്കുക"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "ചിത്രം പുതിയ റ്റാബില്‍ തുറക്കുക"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -326,7 +326,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s തെരഞ്ഞെടുത്തതിന് നന്ദി"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ഡേറ്റ ലാഭം = കാശ് ലാഭം"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -384,74 +384,74 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "മനസ്സിലായി!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ഒഴിവാക്കു"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "അടുത്തത്"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പുകള്‍"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "ഡൌണ്‍ലോഡുകള്‍"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "ക്യാഷ് വൃത്തിയാക്കുക"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "നാള്‍വഴി"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "പങ്കിടുക"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "എന്റെ ഷോട്ടുകള്‍"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "താള്‍ എടുക്കുക"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "വേഗ മോഡ്"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "പരസ്യം തടയുക"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "ചിത്രങ്ങള്‍ തടയുക"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "സജ്ജീകരണങ്ങള്‍"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "പുറത്തു കടക്കുക"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "സജ്ജീകരണം‍"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "ഇപ്പോള്‍ വേണ്ട"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -553,11 +553,11 @@ msgstr ""
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "വേണ്ട"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "തുറക്കുക"
 
 #. Download status
 #. File download status is paused
@@ -988,12 +988,12 @@ msgstr ""
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "പേരു്"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "സ്ഥാനം"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
@@ -1008,7 +1008,7 @@ msgstr ""
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "തിരുത്തുക"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
