@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 10:52+0000\n"
+"PO-Revision-Date: 2018-07-12 11:03+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -535,7 +535,7 @@ msgstr "ਫਾਈਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr "ਫਾਈਲ ਮਿਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+msgstr "ਫਾਈਲ ਹਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 #, c-format
 msgctxt "download_completed"
@@ -545,7 +545,7 @@ msgstr "%1$s ਨੂ਼ੰ ਡਾਊਨਲੋਡ ਕੀਤਾ"
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr "%1$s ਮਿਟਾਇਆ ਸੀ"
+msgstr "%1$s ਹਟਾਇਆ ਸੀ"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
@@ -557,86 +557,86 @@ msgstr "ਵਾਪਸ"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "ਖੋਲ੍ਹੋ"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "ਰੁਕਿਆ"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "ਅਪੂਰਨ"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "ਸਫਲ"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "ਅਸਫਲ"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "ਅਣਜਾਣ"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "ਐਸ ਡੀ ਕਾਰਡ"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਸਾਫ ਕਰੋ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਨਹੀਂ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "ਅੱਜ"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "ਕੱਲ੍ਹ"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "ਹਟਾਓ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "ਸਾਰਾ ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਸਾਫ ਕਰੋ?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "ਸਾਫ ਕਰੋ"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "ਲਿਸਟ ਤੋਂ ਹਟਾਓ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "ਫਾਈਲ ਹਟਾਓ"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
