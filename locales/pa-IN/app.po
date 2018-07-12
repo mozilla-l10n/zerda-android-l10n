@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 03:21+0000\n"
+"PO-Revision-Date: 2018-07-12 03:27+0000\n"
 "Last-Translator: Mangat veer Sagar <mnvsgr0@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -168,88 +168,88 @@ msgstr "ਹੋਰ ਜਾਣੋ"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s ਦੇ ਬਾਰੇ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ਇਨਪੁਟ ਨੂੰ ਹਟਾਓ"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "ਖਾਰਜ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "ਵੈੱਬਸਾਈਟ ਲੋਡ ਕੀਤੀ ਗਈ"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "ਹੋਰ ਚੋਣਾਂ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "ਅੱਗੇ ਵੱਲ ਨੈਵੀਗੇਟ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "ਵੈੱਬਸਾਈਟ ਨੂੰ ਰੀਲੋਡ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "ਪਿੱਛੇ ਵੱਲ ਨੈਵੀਗੇਟ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "ਵੈੱਬਸਾਈਟ ਨੂੰ ਲੋਡ ਕਰਨਾ ਬੰਦ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "ਪਿਛਲੇ ਐਪ 'ਤੇ ਜਾਓ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ਟ੍ਰੈਕਰਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "ਅਜਿਹੀ ਐਪ ਲੱਭੋ ਜੋ ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹ ਸਕੇ"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -263,62 +263,62 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "ਵੈੱਬਸਾਈਟ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋਣਾ ਪੱਕਾ ਕਰੋ"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "ਪਤੇ ਨੂੰ ਜਾਂਚੋ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "ਪਤਾ ਸਮਝ ਵਿੱਚ ਨਹੀਂ ਆਇਆ ਸੀ"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "ਇਸ ਪਤੇ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਹਾਨੂੰ ਸ਼ਾਇਦ ਹੋਰ ਸੌਫਟਵੇਅਰ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨਾ ਪੈ ਸਕਦਾ ਹੈ।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "ਲਿੰਕ ਪਤੇ ਨੂੰ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਦਾ ਪਤਾ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਨੂੰ ਸੰਭਾਲੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
