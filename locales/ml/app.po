@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 18:21+0000\n"
+"PO-Revision-Date: 2018-07-12 18:30+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -174,7 +174,7 @@ msgstr "%1$s നെ കുറിച്ച്"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ഇന്‍പുട്ട് വെടിപ്പാക്കുക"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -346,7 +346,7 @@ msgstr "ഡേറ്റ ലാഭം = കാശ് ലാഭം"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ട്രാക്കിംഗ് പരസ്യങ്ങൾ തടയുന്നത് ബ്രൗസിംഗിന്റെ വേഗത വര്‍ധിപ്പിക്കുക മാത്രമല്ല, അത് ഡാറ്റ സംരക്ഷിക്കുകയും ചെയ്യുന്നു. ചിത്രങ്ങൾ തടയുന്നതിലൂടെ കൂടുതല്‍ ഡാറ്റ സംരക്ഷിക്കൂ."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -455,19 +455,19 @@ msgstr "ഇപ്പോള്‍ വേണ്ട"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "അനുമതികള്‍ ലഭ്യമല്ല. ഫയര്‍ഫോക്സ് റോക്കറ്റിന് നിങ്ങളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നല്‍കുക."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "സ്ഥാനം ലഭ്യമല്ല. താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നൽകൂ."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "അനുമതികൾ ലഭ്യമല്ല. ഫയർഫോക്സ് റോക്കറ്റിന് താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നൽകൂ."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "സംഭരണി ലഭ്യമല്ല. താങ്കളുടെ ഉപകരണത്തിൽ ചിത്രങ്ങളും ഫയലുകളും സംരക്ഷിക്കാനുള്ള അനുമതി നൽകൂ."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -851,6 +851,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- വേഗമേറിയതും ലഘുവും\n"
+"- ഡാറ്റാ സംരക്ഷിക്കുന്നത്\n"
+"- ശക്തിയേറിയ സ്ക്രീൻഷോട്ടുകൾ"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -882,13 +885,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"താങ്കൾക്ക് മോസില്ല ഫൗണ്ടേഷന്റെയോ, മോസില്ല, ഫയർഫോക്സ് അല്ലെങ്കിൽ %1$s എന്നിവയുടെയോ പേര് അല്ലെങ്കിൽ ലോഗോ എന്നിങ്ങനെ ഒരു ട്രേഡ്മാർക്കിന്മേലും യാതൊരു വിധത്തിലുള്ള അവകാശമോ അനുമതിയോ നൽകപ്പെട്ടിട്ടില്ല. "
+"കൂടുതൽ വിവരങ്ങൾ <a href=\"%2$s\">ഇവിടെ</a> കാണാം."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s എന്നതിന്റെ കൂടുതൽ സോഴ്സ് കോഡ് മറ്റു പല സ്വതന്ത്ര <a href=\"%2$s\">ലൈസൻസുകൾ</a> പ്രകാരം ലഭ്യമാണ്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
