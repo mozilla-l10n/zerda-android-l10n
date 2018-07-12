@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 17:53+0000\n"
-"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
+"PO-Revision-Date: 2018-07-12 18:05+0000\n"
+"Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -57,20 +57,20 @@ msgstr "പ്രതികരണം നല്‍കുക"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "സുഹൃത്തുക്കളുമായി പങ്കിടൂ"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "ഇതുവഴി പങ്കിടൂ"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search in {{app_name}}"
-msgstr ""
+msgstr "{{app_name}} ഇതിൽ തിരയൂ"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
@@ -249,7 +249,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "കണ്ണി തുറക്കാൻ പറ്റിയ ഒരു പ്രയോഗം കണ്ടെത്തൂ"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -263,15 +263,15 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "വെബ്പേജ് ലഭ്യമല്ല"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "താങ്കൾ ഇന്റർനെറ്റുമായി ബന്ധപ്പെട്ടിട്ടുണ്ടെന്ന് ഉറപ്പാക്കൂ"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "വിലാസം പരിശോധിക്കൂ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -283,17 +283,17 @@ msgstr "വിലാസം മനസ്സിലാക്കാന്‍ പറ�
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "ഈ വിലാസം സന്ദർശിക്കാൻ ചിലപ്പോൾ താങ്കൽ മറ്റൊരു പ്രയോഗം ചേർക്കേണ്ടി വന്നേക്കാം."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "കണ്ണി പങ്കിടൂ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "കണ്ണിയുടെ വിലാസം പകർത്തൂ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -303,7 +303,7 @@ msgstr "ചിത്രം പങ്കിടുക"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ വിലാസം പകർത്തൂ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -334,7 +334,7 @@ msgstr ""
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "എന്നത്തെക്കാളും വേഗത്തിൽ ബ്രൗസ് ചെയ്യൂ"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "എല്ലാത്തിന്റെയും സ്ക്രീൻഷോട്ടെടുക്കൂ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "ഞങ്ങൾ താങ്കളുടെ പ്രതികരണം കേട്ടു!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -369,18 +369,18 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "ഒന്നിലധികം ടാബുകൾ"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. താങ്കളുടെ പ്രിയപ്പെട്ട സൈറ്റുകൾ %s വേഗം സന്ദർശിക്കൂ"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "പൂമുഖത്തിലേക്ക് ചേർക്കുന്നതിലൂടെ"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -478,69 +478,71 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s\n"
+"താങ്കളുടെ സ്ഥാനം മനസ്സിലാക്കാൻ ആഗ്രഹിക്കുന്നു."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "അനുവദിക്കൂ"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "തടയൂ"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "വിവരങ്ങൾ വെടിപ്പാക്കൂ"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കൂ"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ബ്രൗസിംഗ് നാൾവഴി"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "തിരച്ചിൽ നാൾവഴി"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "ഫോം നാൾവഴി"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "കുക്കികൾ"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "ക്യാഷ്"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "ഡൗൺലോഡൊന്നുമില്ല"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "ഡൗൺലോഡ് ചെയ്യുന്നു…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "പിന്തുണയ്ക്കാത്ത ഡൗൺലോഡ് നിയമം"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "ഫയൽ കണ്ടെത്താനായില്ല"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "ഫയൽ നീക്കം ചെയ്യാനായില്ല."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ഡൗൺലോഡ് ചെയ്തു"
 
 #, c-format
 msgctxt "download_deleted"
@@ -606,82 +608,82 @@ msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ബ്രൗസിംഗ് നാൾവഴിയില്ല"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "ഇന്ന്"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "ഇന്നലെ"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "നീക്കം ചെയ്യൂ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "എല്ലാ ബ്രൗസിംഗ് നാൾവഴിയും വെടിപ്പാക്കണോ?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "വെടിപ്പാക്കൂ"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "പട്ടികയിൽ നിന്നും നീക്കം ചെയ്യൂ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "ഫയൽ നീക്കം ചെയ്യൂ"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് സംരക്ഷിച്ചു"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടെടുക്കാനായില്ല"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "പേജിന്റെ മൊത്തം സ്ക്രീൻഷോട്ടെടുക്കുന്നു…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "കാണൂ"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "തിരുത്തൂ"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "നീക്കം ചെയ്യൂ"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "പങ്കിടൂ"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -690,7 +692,7 @@ msgstr ""
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ഫയൽ എസ്ഡി കാർഡിലേക്ക് സംരക്ഷിച്ചു"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
@@ -699,7 +701,7 @@ msgstr ""
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടൊന്നുമില്ല"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -719,62 +721,62 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "വിവരം"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "തീയതി: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "റെസല്യൂഷൻ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "വലിപ്പം: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "തലക്കെട്ട്: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "യുആർഎൽ: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "ഈ ചിത്രം നീക്കം ചെയ്യണോ?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "അപ്‌ലോഡ് ചെയ്യാൻ ഒരു ഫയൽ തിരഞ്ഞെടുക്കൂ"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "ടർബോ രീതി സജ്ജമാക്കൂ"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "ടർബോ രീതി പ്രവർത്തനരഹിതമാക്കൂ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "ഇപ്പോൾ ചിത്രങ്ങൾ തടയുന്നു"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "ഇപ്പോൾ ചിത്രങ്ങൾ കാണിക്കുന്നു"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "ക്യാഷ് വെടിപ്പാക്കാൻ സാധിച്ചില്ല"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -785,24 +787,24 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s ക്യാഷ് വെടിപ്പാക്കി"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "ബ്രൗസിങ്ങ് വിവരം വെടിപ്പാക്കി"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് നീക്കം ചെയ്തു"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് കാണിക്കാനായില്ല"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "നീക്കം ചെയ്യൂ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -820,11 +822,11 @@ msgstr ""
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "ഞങ്ങളുടെ ഉല്പന്നം തിരഞ്ഞെടുത്തതിനു നന്ദി. താങ്കളുടെ പ്രതികരണം ഞങ്ങൾക്ക് വിലപ്പെട്ടത്താണ്."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "ശരി, 5 നക്ഷത്രങ്ങൾ റേറ്റ് ചെയ്യൂ!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -832,7 +834,7 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "വേണ്ട, പ്രതികരണം അയയ്ക്കൂ."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -852,7 +854,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "പങ്കിടുക"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -921,7 +923,7 @@ msgstr ""
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "പരസ്പരം മാറുക"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -940,18 +942,18 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "എല്ലാം അടയ്ക്കുക"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "എല്ലാ ടാബുകളും അടയ്ക്കണോ?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "ജീവിതം മനോഹരമാക്കൂ!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
@@ -961,12 +963,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പ് സൂക്ഷിച്ചു"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പ് നീക്കം ചെയ്തു"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -1003,7 +1005,7 @@ msgstr ""
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പുകള്‍ ഇല്ല"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
