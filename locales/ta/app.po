@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 16:23+0000\n"
+"PO-Revision-Date: 2018-07-12 17:15+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -258,7 +258,7 @@ msgstr "தொடுப்பை திறக்கவல்ல ஒரு செ
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கக்கூடியதல்ல. நீங்கள் %1$s உலாவியை விடுத்து %2$s சென்று ஒரு செயலியைத் தேடலாம்."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -384,38 +384,38 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "சரி, புரிந்தது!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "தவிர்"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "அடுத்து"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "புத்தகக்குறிகள்"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "பதிவிறக்கங்கள்"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "தேக்கத்தை அழி"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "வரலாறு"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "பகிர்"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -431,27 +431,27 @@ msgstr ""
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "விளம்பரங்களைத் தடு"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "படங்களைத் தடு"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "அமைவுகள்"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "அமைவுகள்"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "இப்போதில்லை"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -481,49 +481,49 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "அனுமதி"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "தடு"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "தரவினை துடை"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாறு"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "தேடல் வரலாறு"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "படிவ வரலாறு"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "நினைவிகள்"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "தேக்ககம்"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "பதிவிறக்கங்கள் இல்லை"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "பதிவிறக்குகிறது…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -540,60 +540,60 @@ msgstr ""
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s பதிவிறக்கப்பட்டது"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s அழிக்கப்பட்டது"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "பதிவிறக்கம் ரத்துசெய்யப்பட்டது"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "செயல்தவிர்"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "திற"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "இடைநிறுத்தப்பட்டது"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "நிலுவையிலுள்ளது"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "பதிவிறக்குகிறது"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "வெற்றி"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "தோல்வி"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "தெரியாதது"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "SD அட்டை"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
@@ -610,33 +610,33 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "இன்று"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "நேற்று"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "அழி"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "உலாவல் வரலாற்றை துடை?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "துடை"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "பட்டியலிலிருந்து நீக்கு"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "கோப்பை அழி"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -667,21 +667,21 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "திருத்து"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "அழி"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "பகிர்"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -719,12 +719,12 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "தகவல்"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "தேதி: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
@@ -734,12 +734,12 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "அளவு: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "தலைப்பு: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
@@ -748,7 +748,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "இந்த படத்தை அழிக்கவா?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -785,7 +785,7 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s தேக்கம் அழிக்கப்பட்டது"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "நீக்கு"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -836,7 +836,7 @@ msgstr ""
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "கருத்து"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "பகிர்"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -862,14 +862,14 @@ msgstr ""
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s மொசில்லா மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்லா பொது உரிமம்</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -886,7 +886,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -914,20 +914,20 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "புதிய கீற்று திறந்தது"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "மாற்று"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "அமைவுகளை மாற்றுகிறது…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -946,7 +946,7 @@ msgstr ""
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "எல்லா கீற்றுகளையும் மூடு?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -961,54 +961,54 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "புத்தகக்குறி சேமிக்கப்பட்டது"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "புத்தகக்குறி நீக்கப்பட்டது"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "திருத்து"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "புத்தகக்குறியை திருத்து"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "சேமி"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "பெயர்"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "இடம்"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "புத்தகக்குறி புதுப்பிக்கப்பட்டது"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "புத்தகக்குறிகள் இல்லை"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "திருத்து"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
@@ -1028,7 +1028,7 @@ msgstr ""
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "திற"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
