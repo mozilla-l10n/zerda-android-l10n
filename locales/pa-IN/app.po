@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 10:08+0000\n"
+"PO-Revision-Date: 2018-07-12 10:22+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr "ਸਭ ਕੁਝ ਸਕਰੀਨਸ਼ਾਟ ਕਰੋ"
+msgstr "ਸਭ ਕੁਝ ਸਕ੍ਰੀਨਸ਼ਾਟ ਕਰੋ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -376,38 +376,38 @@ msgstr "ਬਹੁਤ ਟੈਬ"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "%s ਦੁਆਰਾ ਛੇਤੀ ਨਾਲ ਆਪਣੀ ਪਸੰਦੀਂਦਾ ਸਾਈਟਾਂ ਤੇ ਪਹੁੰਚੋ"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "ਉਹਨਾਂ ਨੂੰ ਹੋਮ ਸਕ੍ਰੀਨ ਤੇ ਜੋੜਨਾ!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ਠੀਕ ਹੈ, ਇਹ ਮਿਲ ਗਿਆ!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ਛੱਡੋ"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ਅੱਗੇ"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "ਬੁੱਕਮਾਰਕ"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "ਕੈਸ਼ ਸਾਫ ਕਰੋ"
 
 msgctxt "label_menu_history"
 msgid "History"
