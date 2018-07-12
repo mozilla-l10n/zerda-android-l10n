@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 09:54+0000\n"
+"PO-Revision-Date: 2018-07-12 10:08+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -365,11 +365,11 @@ msgstr "ਅਸੀਂ ਤੁਹਾਡਾ ਸੁਝਾਅ ਸੁਣਿਆ!"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. ਇਕੋ ਸਮੇਂ ਵਿੱਚ %s ਖੋਲ੍ਹਣ ਨਾਲ ਮਲਟੀਟਾਸਕ!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "ਬਹੁਤ ਟੈਬ"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
