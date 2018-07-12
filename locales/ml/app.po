@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 18:05+0000\n"
+"PO-Revision-Date: 2018-07-12 18:12+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -205,45 +205,45 @@ msgstr "വെബ്സൈറ്റ് ലഭ്യമാക്കി"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "കൂടുതൽ ഐച്ഛികങ്ങൾ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "മുമ്പോട്ട് പോകുക"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "വെബ്സൈറ്റ് വീണ്ടും ലഭ്യമാക്കുക"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "പുറകോട്ട് പോകുക"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "വെബ്സൈറ്റ് ലഭ്യമാക്കുന്നത് നിർത്തുക"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "മുമ്പിലത്തെ പ്രയോഗത്തിലേക്ക് മടങ്ങിപ്പോവുക"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ട്രാക്കറുകൾ തടയുക"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -330,7 +330,7 @@ msgstr "%1$s തെരഞ്ഞെടുത്തതിന് നന്ദി"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "സ്വതന്ത്രമായ ഒരു വെബ്ബിനായി പ്രവർത്തിക്കുന്ന മോസില്ല, ഇന്തോനേഷ്യയ്ക്കായി പ്രത്യേകം തയ്യാറാക്കിയ ഒരു ബ്രൗസർ."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -547,11 +547,11 @@ msgstr "%1$s ഡൗൺലോഡ് ചെയ്തു"
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s നീക്കം ചെയ്തു"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ഡൗൺലോഡ് റദ്ദാക്കി"
 
 msgctxt "undo"
 msgid "Undo"
@@ -565,7 +565,7 @@ msgstr "തുറക്കുക"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "താൽക്കാലികമായി നിർത്തി"
 
 #. File download status is pending
 msgctxt "pending"
@@ -575,36 +575,36 @@ msgstr ""
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ഡൗൺലോഡ് ചെയ്യുന്നു"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "വിജയകരം"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "പരാജയപ്പെട്ടു"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "അനിശ്ചിതം"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "എസ്ഡി കാർഡ്"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "ആഭ്യന്തര സംഭരണി"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "ബ്രൗസിംഗ് നാൾവഴി വെടിപ്പാക്കൂ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -688,7 +688,7 @@ msgstr "പങ്കിടൂ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "എസ്ഡി കാർഡ് കണ്ടെത്തിയില്ല. ഫയൽ ആഭ്യന്തര സംഭരണിയിലേക്ക് സംരക്ഷിച്ചു."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -696,7 +696,7 @@ msgstr "ഫയൽ എസ്ഡി കാർഡിലേക്ക് സംരക
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "എസ്ഡി കാർഡ് ഏതാണ്ട് നിറയാറായി. ഫയൽ ആഭ്യന്തര സംഭരണിയിലേക്ക് സംരക്ഷിച്ചു."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -708,7 +708,7 @@ msgstr "സ്ക്രീൻഷോട്ടൊന്നുമില്ല"
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "അമർത്തൂ "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -780,7 +780,7 @@ msgstr "ക്യാഷ് വെടിപ്പാക്കാൻ സാധി�
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "സംഭരണി ലഭ്യമായില്ല. ഡൗൺലോഡ് റദ്ദാക്കപ്പെട്ടു."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -809,7 +809,7 @@ msgstr "നീക്കം ചെയ്യൂ"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "ഉല്പന്നത്തിന്റെ പുതുക്കൽ നോട്ടീസ്"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -818,7 +818,7 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} ഇഷ്ടപ്പെടന്നോ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -838,7 +838,7 @@ msgstr "വേണ്ട, പ്രതികരണം അയയ്ക്കൂ."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "പ്രതികരണം"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -916,7 +916,7 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "പുതിയ ടാബ് തുറന്നു"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -929,15 +929,15 @@ msgstr "പരസ്പരം മാറുക"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "ക്രമീകരണങ്ങൾ മാറ്റുന്നു…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "ഇത് കുറച്ച് സമയമെടുത്തേക്കാം"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കാന്‍ അമര്‍ത്തുക"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
