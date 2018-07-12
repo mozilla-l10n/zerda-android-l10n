@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 18:30+0000\n"
+"PO-Revision-Date: 2018-07-12 18:40+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}} ഇതിൽ തിരയൂ"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s മോസില്ല നിർമ്മിച്ച ഒരു വേഗമേറിയതും ലഘുവുമായിട്ടുള്ള ബ്രൗസറാണ്. ഞങ്ങളുടെ ലക്ഷ്യം ഒരു ആരോഗ്യമുള്ള തുറന്ന ഇന്റർനെറ്റിന്റെ വളർച്ചയാണ്."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -338,7 +338,7 @@ msgstr "എന്നത്തെക്കാളും വേഗത്തിൽ �
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ട്രാക്കിംഗ് പരസ്യങ്ങൾ തടയുന്നതിലൂടെ വളരെ വേഗത്തിൽ ബ്രൗസ് ചെയ്യാൻ ടർബോ രീതി ഉപയോഗിക്കൂ. സൈറ്റ് വികലമായി അനുഭവപ്പെട്ടാൽ മെനുവിലെ ടർബോ മോഡ് സ്വിച്ച് ഓഫാക്കൂ."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -354,7 +354,7 @@ msgstr "എല്ലാത്തിന്റെയും സ്ക്രീൻ�
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "മുഴുവൻ വെബ് പേജുകളുടേയും സ്ക്രീൻഷോട്ടുകളെടുക്കൂ. ഒരു സ്ക്രീൻഷോട്ട് ഓഫ്‌ലൈനായി കാണുകയോ (ഡാറ്റ ഉപയോഗിക്കാതെ) അല്ലെങ്കിൽ ആ വെബ് പേജ് വീണ്ടും സന്ദർശിക്കാനായി അമർത്തുകയോ ചെയ്യൂ."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -365,7 +365,7 @@ msgstr "ഞങ്ങൾ താങ്കളുടെ പ്രതികരണം 
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. ഒരേ സമയം %s തുറക്കുന്നതിലൂടെ വളരെയധികം കാര്യങ്ങൾ ചെയ്യൂ!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -718,6 +718,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" മെനുവിൽ \n"
+"ഒരു വെബ് പേജ് മുഴുവൻ പകർത്താൻ."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -830,7 +832,7 @@ msgstr "ശരി, 5 നക്ഷത്രങ്ങൾ റേറ്റ് ചെ
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 നക്ഷത്രങ്ങൾ റേറ്റ് ചെയ്യൂ"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -903,6 +905,8 @@ msgstr "%1$s എന്നതിന്റെ കൂടുതൽ സോഴ്സ�
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"<a href=\"%3$s\">ഇവിടെ</a> ലഭ്യമായിട്ടുള്ളതും, <a href=\"%2$s\">GNU സാർവ്വജനിക അനുവാദപത്രത്തിന്റെ 3ാം പതിപ്പ്</a> പ്രകാരം Disconnect, Inc. സ്വതന്ത്രവും വേറിട്ടതുമായി പുറത്തിറക്കിയിട്ടുള്ള തടയൽ "
+"പട്ടികകളും %1$s ഉപയോഗിക്കുന്നു."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
