@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 18:12+0000\n"
+"PO-Revision-Date: 2018-07-12 18:21+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -108,7 +108,7 @@ msgstr "ഭാഷ"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "സിസ്റ്റത്തിൽ സ്വതവേയുള്ളതു്"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -570,7 +570,7 @@ msgstr "താൽക്കാലികമായി നിർത്തി"
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "കാത്തിരിക്കുന്നു"
 
 #. File download status is running
 msgctxt "running"
@@ -813,7 +813,7 @@ msgstr "ഉല്പന്നത്തിന്റെ പുതുക്കൽ �
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "ഫയർഫോക്സ് റോക്കറ്റ് താങ്കൾക്കും മറ്റെല്ലാവർക്കും മികച്ചതാക്കാൻ, ഞങ്ങൾ ഞങ്ങളുടെ സ്വകാര്യതാനയത്തിൽ കുറച്ച് മാറ്റങ്ങൾ വരുത്തി. കൂടുതൽ അറിയാൻ അമർത്തൂ."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -843,7 +843,7 @@ msgstr "പ്രതികരണം"
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "{{app_name}} സുഹൃത്തുക്കളുമായി പങ്കിടൂ"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -858,20 +858,20 @@ msgstr "പങ്കിടുക"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "ഏയ്, മോസില്ലയിൽ നിന്നുള്ള വേഗമേറിയതും ലഘുവുമായ ഈ ബ്രൗസർ ഒന്ന് നോക്കൂ. {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s മോസില്ലയും മറ്റ് പങ്കാളികളും ചേർന്ന് നിർമ്മിച്ച ഒരു സ്വതന്ത്രസോഫ്റ്റ്‌വെയറാണ്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s താങ്കൾക്ക് <a href=\"%2$s\">മോസില്ല പബ്ലിക് ലൈസൻസിലേയും</a> മറ്റ് സ്വതന്ത്ര ലൈസൻസുകളിലേയും ഉപാധികളോടെയാണ് ലഭ്യമാക്കിയിരിക്കുന്നത്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -904,13 +904,13 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "ഞങ്ങൾക്ക് താങ്കളെ വേണം! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "ഇന്തോനേഷ്യയ്ക്കായി ഒരു നല്ല ഉല്പന്നം രൂപകൽപന ചെയ്യൂ"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -958,7 +958,7 @@ msgstr "ജീവിതം മനോഹരമാക്കൂ!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "കെട്ടും മട്ടും മാറ്റാൻ പൂമുഖത്തിന്റെ തിരശ്ശീലയിൽ രണ്ടുതവണ ഞെക്കൂ."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
@@ -974,18 +974,18 @@ msgstr "അടയാളക്കുറിപ്പ് നീക്കം ചെ�
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "തിരുത്തൂ"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പ് തിരുത്തുക"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "സംരക്ഷിക്കൂ"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
@@ -1000,7 +1000,7 @@ msgstr "സ്ഥാനം"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "അടയാളക്കുറിപ്പ് പുതുക്കി"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
