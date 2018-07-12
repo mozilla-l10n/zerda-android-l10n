@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 10:43+0000\n"
+"PO-Revision-Date: 2018-07-12 10:52+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -506,54 +506,54 @@ msgstr "ਇਤਿਹਾਸ ਲੱਭੋ"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "ਇਤਿਹਾਸ ਦਾ ਫਾਰਮ"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "ਕੂਕੀਜ਼"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "ਕੈਸ਼"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਨਹੀਂ"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਪਰੋਟੋਕਾਲ ਸਹਾਇਕ ਨਹੀਂ ਹੈ"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "ਫਾਈਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "ਫਾਈਲ ਮਿਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ਨੂ਼ੰ ਡਾਊਨਲੋਡ ਕੀਤਾ"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s ਮਿਟਾਇਆ ਸੀ"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਰੱਦ ਹੋਈ"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "ਵਾਪਸ"
 
 msgctxt "open"
 msgid "Open"
