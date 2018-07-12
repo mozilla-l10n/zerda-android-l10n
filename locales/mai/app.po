@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 01:29+0000\n"
+"PO-Revision-Date: 2018-07-12 01:40+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -77,56 +77,56 @@ msgstr "{{app_name}}मे खोजू"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "मोजिला द्वारा बनाएल गेल %1$s एकटा तेज आओऱ हलुक ब्राउजर अछि. हमर मिशन स्वस्थ आओर खुलल इंटरनेट क बढ़ावा देनाए अछि. "
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "अधिक जानू"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr ""
+msgstr "सहायता"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "अहाँक अधिकार/लाइसेंस"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "गोपनीयता सूचना"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "डिफॉल्ट खोज इंजिन"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "सिस्टम डिफॉल्ट"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "डिफॉल्ट खोज इंजिन"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "छवि रोकू"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "ब्राउजिंग डेटा साफ करू"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "मे डाउनलोड सहेजू"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -134,7 +134,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "डिफ़ॉल्ट ब्राउज़र बनाबू"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -142,11 +142,11 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "सेटिंग्स बदैल रहल अछि..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
