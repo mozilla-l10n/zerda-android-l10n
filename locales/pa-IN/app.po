@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 11:12+0000\n"
-"Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
+"PO-Revision-Date: 2018-07-13 21:19+0000\n"
+"Last-Translator: jimidar <jimidar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -326,7 +326,7 @@ msgstr "ਚਿੱਤਰ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ�
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s ਨੂੰ ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ ਜੀ"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ਡੇਟਾ ਦੀ ਬੱਚਤ = ਪੈਸੇ ਦੀ ਬੱਚਤ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -690,11 +690,11 @@ msgstr ""
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ਫਾਇਲ SD ਕਾਰਡ ਤੇ ਸੰਭਾਲੀ ਗਈ"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD ਕਾਰਡ ਤਕਰੀਬਨ ਭਰ ਗਿਆ ਹੈ। ਫਾਈਲ ਨੂੰ ਅੰਦਰੂਨੀ ਭੰਡਾਰ ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -719,12 +719,12 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "ਜਾਣਕਾਰੀ"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "ਮਿਤੀ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
