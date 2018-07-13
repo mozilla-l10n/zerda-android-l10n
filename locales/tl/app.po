@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-11 23:45+0000\n"
+"PO-Revision-Date: 2018-07-13 16:17+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -41,7 +41,7 @@ msgstr "Mga Setting"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "Tungkol sa"
+msgstr "Detalye ng Firefox Rocket"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -81,7 +81,7 @@ msgstr "%1$s ay isang mabilis at magaan na browser na gawa ng Mozilla. Ang aming
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr "Alamin"
+msgstr "Detalye"
 
 msgctxt "about_link_support"
 msgid "Support"
@@ -117,7 +117,7 @@ msgstr "Default na search engine"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "Harangan ang mga imahe"
+msgstr "Walang imahe"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -161,14 +161,14 @@ msgstr "Nagsusumikap ang Mozilla na kumulekta lamang ng mga impormasyon base sa 
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr "Alamin"
+msgstr "Detalye"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "Tungkol sa %1$s"
+msgstr "Detalye ng %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -409,7 +409,7 @@ msgstr "Mga Download"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr "Burahin ang laman ng cache"
+msgstr "Burahin ang cache"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -437,7 +437,7 @@ msgstr "Hadlangan ang mga Ads"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "Harangan ang mga imahe"
+msgstr "Walang imahe"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
