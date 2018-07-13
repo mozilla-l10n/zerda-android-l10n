@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-13 21:31+0000\n"
+"PO-Revision-Date: 2018-07-13 21:33+0000\n"
 "Last-Translator: jimidar <jimidar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -931,7 +931,7 @@ msgstr ""
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "ਇਸ ਨੂੰ ਕੁੱਝ ਵੇਲਾ ਲੱਗ ਸਕਦਾ ਹੈ"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
@@ -961,12 +961,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਸਾਂਭੀ ਗਈ"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਹਟਾਈ ਗਈ"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -977,7 +977,7 @@ msgstr ""
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਸੋਧੋ"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -988,27 +988,27 @@ msgstr ""
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "ਨਾਉਂ"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "ਟਿਕਾਣਾ"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਨਵਿਆਈ ਗਈ"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "ਕੋਈ ਵਰਕਾ-ਨਿਸ਼ਾਨੀਆਂ ਨਹੀਂ"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "ਸੋਧੋ"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
