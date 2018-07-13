@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-12 17:15+0000\n"
+"PO-Revision-Date: 2018-07-13 15:52+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -330,7 +330,7 @@ msgstr "%1$s உலாவியைத் தேர்ந்தெடுத்த
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து உருவாக்கப்பட்ட உலாவி."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -908,7 +908,7 @@ msgstr ""
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "பயனர்களுக்கான ஒரு சிறந்த தயாரிப்பாக வடிவமையுங்கள்"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
