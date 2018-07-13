@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-13 21:19+0000\n"
+"PO-Revision-Date: 2018-07-13 21:31+0000\n"
 "Last-Translator: jimidar <jimidar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -729,31 +729,31 @@ msgstr "ਮਿਤੀ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "ਕਰਾਰਾਪਨ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "ਕੱਦ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "ਸਿਰਲੇਖ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "ਇਹ ਚਿੱਤਰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਏ?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "ਲਦਾਈ ਲਈ ਕੋਈ ਜਿਲਦ (File) ਚੁਣੋ"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "ਹਟਾਉ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -824,15 +824,15 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "ਹਾਂਜੀ, 5 ਤਾਰਿਆਂ ਦੀ ਦਰਜਾਬੰਦੀ ਕਰੋ!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 ਤਾਰਾ ਦਰਜਾਬੰਦੀ"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "ਨਹੀਂ, ਮੋੜਵੀਂ ਰਾਇ ਭੇਜੋ।"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "ਸਾੰਝਾ ਕਰੋ"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -902,7 +902,7 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "ਸਾਨੂੰ ਤੁਹਾਡੀ ਲੋੜ ਹੈ! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
@@ -914,7 +914,7 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "ਨਵਾਂ ਪੱਲ੍ਹਾ ਖੋਲ੍ਹਿਆ ਗਿਆ"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -940,18 +940,18 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "ਸੱਭ ਬੰਦ ਕਰੋ"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "ਸਾਰੇ ਪੱਲ੍ਹੇ ਬੰਦ ਕਰਨੇ ਹਨ?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "ਆਪਣੀ ਜਿੰਦਗੀ ਵਿੱਚ ਰੰਗ ਭਰੋ!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
