@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 10:37+0000\n"
+"PO-Revision-Date: 2018-07-14 11:02+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -358,7 +358,7 @@ msgstr "จับภาพของทั้งหน้าเว็บ ดู�
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr "เราได้รับทราบคำติชมของคุณแล้ว"
+msgstr "เราได้รับข้อคิดเห็นของคุณแล้ว!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -653,7 +653,7 @@ msgstr "ไม่สามารถจับภาพหน้าจอ"
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "จับภาพหน้าจอแบบเต็มหน้าเว็บ…"
+msgstr "กำลังจับภาพหน้าจอทั้งหน้า…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
