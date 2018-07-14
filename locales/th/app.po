@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 10:31+0000\n"
+"PO-Revision-Date: 2018-07-14 10:37+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -884,16 +884,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"คุณไม่ได้สิทธิหรือได้รับอนุญาตให้ใช้เครื่องหมายการค้าของ Mozilla Foundation หรือบุคคลอื่น ๆ ซึ่งเครื่องหมายการค้านี้รวมถึง Mozilla Firefox หรือชื่อหรือโลโก้ของ %1$s ดูข้อมูลเพิ่มเติมได้ที่<a "
-"href=\"%2$s\">นี่</a>"
+msgstr "คุณไม่ได้รับสิทธิหรือสัญญาอนุญาตใด ๆ ในเครื่องหมายการค้าของมูลนิธิ Mozilla หรือบุคคลใด ๆ รวมทั้งชื่อหรือโลโก้ Mozilla, Firefox หรือ %1$s ข้อมูลเพิ่มเติมอาจพบได้ <a href=\"%2$s\">ที่นี่</a>"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "รหัสต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้<a href=\"%2$s\">สัญญาอนุญาต</a>ต่างๆ ที่เสรีและเปิดเผย"
+msgstr "โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a href=\"%2$s\">สัญญาอนุญาต</a> เสรีและเปิดต้นฉบับต่าง ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
