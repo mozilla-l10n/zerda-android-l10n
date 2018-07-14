@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 02:32+0000\n"
+"PO-Revision-Date: 2018-07-14 02:33+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -606,7 +606,7 @@ msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ ಇಲ್ಲ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -706,7 +706,7 @@ msgstr "ತೆರೆಚಿತ್ರಗಳು ಇಲ್ಲ"
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "ಮೆಲ್ಲ ತಟ್ಟು"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -935,7 +935,7 @@ msgstr ""
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವನ್ನಾಗಿ ಮಾಡಲು ಮೆಲ್ಲ ತಟ್ಟಿ"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
