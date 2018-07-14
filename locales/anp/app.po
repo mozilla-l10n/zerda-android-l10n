@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 03:18+0000\n"
+"PO-Revision-Date: 2018-07-14 05:38+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -193,13 +193,13 @@ msgstr ""
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "लोड भ्या रहलो छै"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "वेबसाईट लोड भेलै"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -211,7 +211,7 @@ msgstr ""
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "आगाँ मार्गनिर्देशित करियै"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
