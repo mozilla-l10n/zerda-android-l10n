@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 01:41+0000\n"
+"PO-Revision-Date: 2018-07-14 01:45+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -502,28 +502,28 @@ msgstr "બ્રાઉઝિંગ ઇતિહાસ"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "શોધ ઇતિહાસ"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "ફોર્મ ઇતિહાસ"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "કૂકીઝ"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "કેશ"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "કોઇ ડાઉનલોડ નથી"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "ડાઉનલોડ કરી રહ્યા છે…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -540,7 +540,7 @@ msgstr ""
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ડાઉનલોડ કરેલું"
 
 #, c-format
 msgctxt "download_deleted"
@@ -553,42 +553,42 @@ msgstr ""
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "છેલ્લું રદ કરો"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "ખોલો"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "અટકાવ્યું"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "બાકી"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ડાઉનલોડ કરી રહ્યું છે"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "સફળ"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "નિષ્ફળ"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "અજ્ઞાત"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -610,15 +610,15 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "આજે"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "ગઈ કાલે"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "કાઢી નાંખો"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
@@ -626,17 +626,17 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "સાફ કરો"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "ઇતિહાસમાંથી દૂર કરો"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "ફાઇલો દૂર કરો"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "માહિતી"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "દૂર કરો"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "વહેંચો"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -972,33 +972,33 @@ msgstr ""
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "સંપાદિત કરો"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "બુકમાર્કમાં ફેરફાર કરો"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "સાચવો"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "નામ"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "સ્થાન"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "બુકમાર્ક સુધારાઇ"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
@@ -1008,14 +1008,14 @@ msgstr ""
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "ફેરફાર"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "ખાનગી બ્રાઉઝિંગ"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
