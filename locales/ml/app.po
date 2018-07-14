@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 11:31+0000\n"
+"PO-Revision-Date: 2018-07-14 12:30+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -655,7 +655,7 @@ msgstr "സ്ക്രീൻഷോട്ടെടുക്കാനായില
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "പേജിന്റെ മൊത്തം സ്ക്രീൻഷോട്ടെടുക്കുന്നു…"
+msgstr "പേജിന്റെ മുഴുവൻ സ്ക്രീൻഷോട്ടെടുക്കുന്നു…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
