@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 02:39+0000\n"
+"PO-Revision-Date: 2018-07-14 02:49+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -28,16 +28,16 @@ msgstr "केंसिल"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "ठीक छै"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "खोजियै अथ्वा पता भरियै"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग्स"
 
 msgctxt "menu_about"
 msgid "About"
