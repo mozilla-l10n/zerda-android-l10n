@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 01:56+0000\n"
+"PO-Revision-Date: 2018-07-14 02:12+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -89,44 +89,44 @@ msgstr "ಬೆಂಬಲ"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಹಕ್ಕುಗಳು/ ಪರವಾನಗಿಗಳು"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "ಗೌಪ್ಯತಾ ಸೂಚನೆ"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ಭಾಷೆ"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "ವ್ಯವಸ್ಥೆಯ ಪೂರ್ವನಿಯೋಜಿತ"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "ಚಿತ್ರಗಳನ್ನು ತಡೆ"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "ಇಲ್ಲಿಗೆ ಡೌನ್ಲೋಡುಗಳನ್ನು ಉಳಿಸು"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -134,7 +134,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ ಬ್ರೌಸರ್ ಮಾಡಿ"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -142,26 +142,26 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಿಸುವುದು…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "ಟರ್ಬೋ ಮೋಡ್"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "ಬಳಕೆಯ ದತ್ತಾಂಶ ಕಳುಹಿಸಿ"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla ಎಲ್ಲರಿಗಾಗಿ %1$s ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಿ ಕೊಡುವುದಕ್ಕೆ ಬೇಕಾದ್ದನ್ನು ಮಾತ್ರ ಸಂಗ್ರಹಿಸುತ್ತದೆ."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Rocket.
