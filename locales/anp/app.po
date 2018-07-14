@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 05:38+0000\n"
+"PO-Revision-Date: 2018-07-14 05:47+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -205,7 +205,7 @@ msgstr "वेबसाईट लोड भेलै"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "अधिक विकल्प"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -217,39 +217,39 @@ msgstr "आगाँ मार्गनिर्देशित करियै"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "वेबसाईट फेनु लोड करियै"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "पाछाँ मार्गनिर्देशित करियै"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "लोड भ्या रहलो वेबसाईट के रोकियै"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "पिछला ऐप पर वापस घुरियैs"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ट्रेकर्स ब्लॉक करियै"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "एकठो ऐप खोजू जे लिंक खोलि सकैत छै"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -258,7 +258,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "अपने के डिवाइस केरो कोनो ऐप ई लिंक के खोलि नै सकै छै. अपने ऐप %2$s खोजै लेली %1$s छोड़ि सकै छी जे ऐप खोजि सकै छै."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -288,32 +288,32 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "लिंक शेयर करियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "लिंक एड्रेस कॉपी करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "चित्र शेयर करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "इमेज पता कॉपी करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "चित्र सहेजियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "लिंक नया टैब में खोलियै"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
@@ -384,15 +384,15 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ठीक, बुझि गेलियै!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "छोड़ियै"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "अगिला"
 
 #. Menu labels
 #. Zerda Need l10n
