@@ -41,7 +41,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "के संबंध में"
 
 msgctxt "menu_help"
 msgid "Help"
