@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 11:02+0000\n"
+"PO-Revision-Date: 2018-07-14 11:04+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -334,7 +334,7 @@ msgstr "เบราว์เซอร์ที่สร้างขึ้นโ
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "เปิดเว็บเร็วขึ้นกว่าที่เคย"
+msgstr "ท่องเว็บได้เร็วขึ้นกว่าที่เคย"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
