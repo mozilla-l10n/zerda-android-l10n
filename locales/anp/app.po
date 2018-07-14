@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 03:00+0000\n"
+"PO-Revision-Date: 2018-07-14 03:08+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -49,7 +49,7 @@ msgstr "मदत"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "अपने के अधिकार"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
@@ -63,7 +63,7 @@ msgstr ""
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "एकरा द्वारा शेयर करियै"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "बेसी जानकारी"
 
 msgctxt "about_link_support"
 msgid "Support"
@@ -93,12 +93,12 @@ msgstr ""
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "गोपनीयता सूचना"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "डिफॉल्ट सर्च इंजन"
 
 msgctxt "preference_language"
 msgid "Language"
