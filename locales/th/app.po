@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 09:56+0000\n"
+"PO-Revision-Date: 2018-07-14 10:08+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -267,7 +267,7 @@ msgstr "หน้าเว็บไม่พร้อมใช้งาน"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr "ตรวจสอบให้มั่นใจว่าคุณเชื่อมต่ออินเทอร์เน็ตอยู่"
+msgstr "ตรวจสอบให้แน่ใจว่าคุณได้เชื่อมต่อกับอินเทอร์เน็ต"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -283,7 +283,7 @@ msgstr "ไม่เข้าใจที่อยู่"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "คุณอาจจะต้องติดตั้งซอฟต์แวร์อื่นๆ เพื่อเปิดที่อยู่เว็บนี้"
+msgstr "คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
