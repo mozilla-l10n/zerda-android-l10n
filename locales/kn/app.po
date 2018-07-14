@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 02:20+0000\n"
+"PO-Revision-Date: 2018-07-14 02:32+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -236,14 +236,14 @@ msgstr "ಜಾಲತಾಣವನ್ನು ಲೋಡಿಂಗ್ ನಿಲ್ಲ�
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "ಹಿಂದಿನ ಅನ್ವಯಕ್ಕೆ ಮರಳಿ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ಜಾಡುಹಿಡಿಯುವರನ್ನು ನಿರ್ಬಂಧಿಸು"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
@@ -288,37 +288,37 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "ಕೊಂಡಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "ವಿಳಾಸವನ್ನು ನಕಲಿಸು"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ಚಿತ್ರದ ವಿಳಾಸವನ್ನು ನಕಲಿಸಿ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ಚಿತ್ರವನ್ನು ಉಳಿಸು"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಚಿತ್ರವನ್ನು ತೆರೆ"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -384,26 +384,26 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ಸರಿ, ಗೊತ್ತಾಯಿತು!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ಸ್ಕಿಪ್"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ಮುಂದೆ"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "ಪುಟಗುರುತುಗಳು"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್‌ಗಳು"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -411,15 +411,15 @@ msgstr ""
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "ಇತಿಹಾಸ"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "ಹಂಚು"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "ನನ್ನ ಫೋಟೋಗಳು‍"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -427,7 +427,7 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "ಟರ್ಬೋ ಮೋಡ್"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -435,23 +435,23 @@ msgstr ""
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "ಚಿತ್ರಗಳನ್ನು ತಡೆ"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "ಸಿದ್ಧತೆಗಳು"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "ಹೊರನಡೆ"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "ಸಿದ್ಧತೆಗಳು"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "ಈಗ ಬೇಡ"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -494,36 +494,36 @@ msgstr ""
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ರದ್ದುಗೊಳಿಸು"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "ಇತಿಹಾಸದಿಂದ"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "ಕುಕಿಗಳು"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "ಕ್ಯಾಶ್"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್‌ಗಳು ಇಲ್ಲ"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -549,46 +549,46 @@ msgstr ""
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್ ರದ್ದುಪಡಿಸಲಾಗಿದೆ"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "ರದ್ದು ಮಾಡು"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "ತೆರೆ"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "ವಿರಮಿಸಿದೆ"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "ಬಾಕಿ ಇರುವ"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "ಯಶಸ್ವಿಯಾಗಿದೆ"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "ವಿಫಲಗೊಂಡಿದೆ"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "ಗೊತ್ತಿರದ"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -610,40 +610,40 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "ಇಂದು"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "ನಿನ್ನೆ"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "ಅಳಿಸು"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "ಎಲ್ಲಾ ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಬೇಕೆ?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "ಅಳಿಸು"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕು"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "ಕಡತವನ್ನು ಅಳಿಸು"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "ತೆರೆಚಿತ್ರ ಉಳಿಸು"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -660,28 +660,28 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "ವೀಕ್ಷಿಸಿ"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "ಸಂಪಾದಿಸಿ"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "ಅಳಿಸು"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "ಹಂಚು"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -699,7 +699,7 @@ msgstr ""
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "ತೆರೆಚಿತ್ರಗಳು ಇಲ್ಲ"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "ಮಾಹಿತಿ"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "ತೆಗೆದು ಹಾಕು"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "ಹಂಚು"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -914,20 +914,20 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "ಹೊಸ ಹಾಳೆ ತೆರೆಯಲಾಗಿದೆ"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "ಬದಲಿಸು"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಿಸುವುದು…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -940,13 +940,13 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "ಎಲ್ಲವನ್ನು ಮುಚ್ಚು"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚಬೇಕೆ?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
