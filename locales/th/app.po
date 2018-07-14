@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 10:22+0000\n"
+"PO-Revision-Date: 2018-07-14 10:31+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -563,12 +563,12 @@ msgstr "เปิด"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr "หยุดชั่วคราว"
+msgstr "ถูกหยุดชั่วคราว"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr "รอดำเนินการอยู่"
+msgstr "กำลังรอ"
 
 #. File download status is running
 msgctxt "running"
@@ -597,7 +597,7 @@ msgstr "การ์ด SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "หน่วยความจำภายใน"
+msgstr "ที่เก็บข้อมูลภายใน"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -648,7 +648,7 @@ msgstr "บันทึกภาพหน้าจอแล้ว"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr "การจับภาพหน้าจอล้มเหลว"
+msgstr "ไม่สามารถจับภาพหน้าจอ"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
@@ -776,7 +776,7 @@ msgstr "เปิดการแสดงภาพแล้ว"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr "ล้างแคชไม่ได้"
+msgstr "ไม่สามารถล้างแคช"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -799,7 +799,7 @@ msgstr "ลบภาพหน้าจอแล้ว"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "แสดงผลภาพหน้าจอไม่ได้"
+msgstr "ไม่สามารถแสดงผลภาพหน้าจอ"
 
 #. Remove Top site item
 msgctxt "remove"
