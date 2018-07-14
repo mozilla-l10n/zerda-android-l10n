@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-23 02:14+0800\n"
-"PO-Revision-Date: 2018-07-14 10:08+0000\n"
+"PO-Revision-Date: 2018-07-14 10:22+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -330,7 +330,7 @@ msgstr "ขอบคุณที่เลือก %1$s"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
+msgstr "เบราว์เซอร์ที่สร้างขึ้นโดยเฉพาะสำหรับอินโดนีเซียโดย Mozilla องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -535,7 +535,7 @@ msgstr "ไม่พบไฟล์"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr "ลบไฟล์ไม่ได้"
+msgstr "ไม่สามารถลบไฟล์"
 
 #, c-format
 msgctxt "download_completed"
