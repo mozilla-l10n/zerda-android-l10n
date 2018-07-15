@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 10:41+0000\n"
+"PO-Revision-Date: 2018-07-15 10:46+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -146,7 +146,7 @@ msgstr "સેટીંગ્સ બદલી રહ્યા છીએ…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "ટર્બો મોડ"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
@@ -205,13 +205,13 @@ msgstr "વેબસાઇટ લોડ થઇ ગઇ છે"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "વધુ વિકલ્પ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "આગળ નેવિગેટ કરો"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -223,7 +223,7 @@ msgstr "વેબસાઇટને ફરીથી લોડ કરો"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "પાછા નેવિગેટ કરો"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -243,7 +243,7 @@ msgstr "આાગળની અૅપમાં પરત ફરો"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ટ્રેકર્સને અવરોધિત કરો"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -258,12 +258,12 @@ msgstr "એક એવી અૅપ શોધો કે જે લીંક ખ�
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "તમારા ઉપકરણ પરની કોઈપણ એપ્લિકેશનો આ લિંક ખોલવા માટે સક્ષમ નથી. તમે એપ્લિકેશન માટે %2$s શોધવા માટે %1$s કરી છોડી શકો છો."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "વેબપૃષ્ઠ ઉપલબ્ધ નથી"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "સરનામું તપાસો"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -279,7 +279,7 @@ msgstr "ફરીથી પ્રયત્ન કરો"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "સરનામું સમજમાં આવતુ ન હતુ"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "અમે તમારી પ્રતિક્રિયા સાંભળી!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -427,7 +427,7 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "ટર્બો મોડ"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "છબીઓ અવરોધિત કરો"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "સ્થાન ઉપલબ્ધ નથી. તમારા સ્થાનને ઍક્સેસ કરવાની પરવાનગી આપો."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "સંગ્રહ ઉપલબ્ધ નથી. તમારા ઉપકરણ પર ફોટા અને ફાઇલોને સંગ્રહિત કરવાની પરવાનગી આપો."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ડાઉનલોડ રદ"
 
 msgctxt "undo"
 msgid "Undo"
@@ -593,11 +593,11 @@ msgstr "અજ્ઞાત"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "SD card"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "આંતરિક સંગ્રહ"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
