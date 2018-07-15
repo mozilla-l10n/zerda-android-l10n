@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 08:15+0000\n"
+"PO-Revision-Date: 2018-07-14 06:03+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -1022,7 +1022,7 @@ msgstr ""
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1036,4 +1036,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "अपने के ब्रॉउजिंग इतिहास मेटाए देलो गेलए."
