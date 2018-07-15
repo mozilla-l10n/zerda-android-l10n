@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-13 22:21+0000\n"
-"Last-Translator: jimidar <jimidar@gmail.com>\n"
+"PO-Revision-Date: 2018-07-15 13:17+0000\n"
+"Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "ਛੂਹੋ "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -793,7 +793,7 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "ਸਕਰੀਨਸ਼ਾਂਟ ਹਟਾਇਆ"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
@@ -816,7 +816,7 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} ਚੰਗੀ ਲੱਗੀ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -836,7 +836,7 @@ msgstr "ਨਹੀਂ, ਮੋੜਵੀਂ ਰਾਇ ਭੇਜੋ।"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "FEEDBACK"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -927,7 +927,7 @@ msgstr ""
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "…ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਿਆ ਜਾ ਰਿਹਾ ਹੈ"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -1015,7 +1015,7 @@ msgstr "ਸੋਧੋ"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
