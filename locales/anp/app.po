@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 06:07+0000\n"
+"PO-Revision-Date: 2018-07-15 08:17+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -150,7 +150,7 @@ msgstr ""
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "उपयोग डेटा भेजियै"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
