@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 11:17+0000\n"
+"PO-Revision-Date: 2018-07-15 16:01+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -53,11 +53,11 @@ msgstr "अपने के अधिकार"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr ""
+msgstr "प्रतिक्रिया दियै"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "संगी सँ शेयर करियै"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -836,7 +836,7 @@ msgstr ""
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr "FEEDBACK"
+msgstr "प्रतिक्रिया"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -983,7 +983,7 @@ msgstr ""
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr "SAVE"
+msgstr "सेव करियै"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
