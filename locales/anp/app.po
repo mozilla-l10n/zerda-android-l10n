@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 16:01+0000\n"
+"PO-Revision-Date: 2018-07-15 16:31+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -485,7 +485,7 @@ msgstr "ALLOW"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "BLOCK"
+msgstr "ब्लोक"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटाइयै"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
