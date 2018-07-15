@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 01:45+0000\n"
+"PO-Revision-Date: 2018-07-15 10:41+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -57,7 +57,7 @@ msgstr "અભીપ્રાય આપો"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "મિત્રો સાથે વહેંચો"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -70,14 +70,14 @@ msgstr "આની મારફતે વહેંચો"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search in {{app_name}}"
-msgstr ""
+msgstr "{{app_name}} માં શોધો"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s એ Mozilla દ્વારા ઉત્પાદિત કરવામાં આવેલું ઝડપી અને ઓછી જગ્યા રોકે તેવું છે. અમારું લક્ષ્ય એક યોગ્ય , બધાં વાપરી શકે તેવું ઇન્ટરનેટ પ્રસ્થાપિત કરવાનું છે."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -89,7 +89,7 @@ msgstr "સહાય"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "તમારા અધિકારો / પરવાનગીઓ"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -122,11 +122,11 @@ msgstr "છબીઓ અવરોધિત કરો"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "બ્રાઉઝિંગ ડેટા સાફ કરો"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "ડાઉનલોડને આમાં સાચવો"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -142,7 +142,7 @@ msgstr "મૂળભૂત બ્રાઉઝર બનાવો"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "સેટીંગ્સ બદલી રહ્યા છીએ…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -174,7 +174,7 @@ msgstr "%1$s વિશે"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ઇનપુટ સાફ કરો"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -187,19 +187,19 @@ msgstr "રદ કરો"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "સુરક્ષિત જોડાણ"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "લોડ થઇ રહ્યું છે"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "વેબસાઇટ લોડ થઇ ગઇ છે"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -217,7 +217,7 @@ msgstr ""
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "વેબસાઇટને ફરીથી લોડ કરો"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -230,13 +230,13 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "વેબસાઇટને લોડ કરવાનું અટકાવો"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "આાગળની અૅપમાં પરત ફરો"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -249,7 +249,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "એક એવી અૅપ શોધો કે જે લીંક ખોલી શકે"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "ફરીથી પ્રયત્ન કરો"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
@@ -303,7 +303,7 @@ msgstr "છબી વહેંચો"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "છબીનાં સરનામાની નકલ કરો"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -318,7 +318,7 @@ msgstr "નવી ટૅબમાં કડી ખોલો"
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "નવી ટૅબમાં છબી ખોલો"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ડેટા બચાવો = પૈસા બચાવો"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -531,11 +531,11 @@ msgstr ""
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "ફાઇલને શોધી શકાતી નથી"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "ફાઇલને કાઢી શકાતી નથી."
 
 #, c-format
 msgctxt "download_completed"
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "દબાવો"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -724,7 +724,7 @@ msgstr "માહિતી"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "તારીખ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
@@ -734,26 +734,26 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "માપ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "શીર્ષક: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "આ છબીને કાઢી નાંખવી છે?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "અપલોડ કરવા માટે ફાઇલ પસંદ કરો"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
@@ -766,11 +766,11 @@ msgstr ""
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "હવે છબીઓ રોકી રહ્યાં છીએ"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "હવે છબીઓ બતાવી રહ્યાં છીએ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
@@ -816,15 +816,15 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} ગમ્યું?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "અમારું ઉત્પાદન પસંદ કરવા બદલ આપનો આભાર. તમારો અભિપ્રાય અમારી માટે મહત્વનો છે."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "હા, 5 સ્ટાર્સ આપો!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -832,16 +832,16 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "ના, અભિપ્રાય મોકલો."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "પ્રતિભાવ"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "{{app_name}} મિત્રો સાથે વહેંચો!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -849,6 +849,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- ઝડપી અને ઓછી જગ્યા રોકે તેવું\n"
+"- ડેટાની બચત થાય તેવું\n"
+"- પ્રભાવશળી સ્ક્રીનશોટ્સ"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -902,56 +905,56 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "અમને તમારી જરુર છે! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "ઈન્ડોનેશિયા માટે એક વધું સારાં ઉત્પાદનને આકાર આપો"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "નવી ટૅબ ખૂલી ગઇ છે"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "SWITCH"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "સેટીંગ્સ બદલી રહ્યા છીએ…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "આ થોડો સમય લઈ શકે છે"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "મૂળભૂત બ્રાઉઝર રાખવા માટે આ દબાવો"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "બધું બંધ કરો"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "બધી ટૅબ્સ બંધ કરવી છે?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "તમારાં જીવનમાં રંગ પૂરો!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
@@ -961,12 +964,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "બુકમાર્ક સાચવ્યું"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "બુકમાર્ક દૂર કરાયું"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -1003,7 +1006,7 @@ msgstr "બુકમાર્ક સુધારાઇ"
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "બુકમાર્ક નથી"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
@@ -1022,13 +1025,13 @@ msgstr "ખાનગી બ્રાઉઝિંગ"
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "ખાનગી બ્રાઉઝિંગ ઈતિહાસને ભૂંસી નાંખો"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "ખોલો"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1036,4 +1039,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "તમારા ખાનગી બ્રાઉઝિંગ ઈતિહાસને ભૂંસી નાંખવામાં આવ્યું છે."
