@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 16:47+0000\n"
+"PO-Revision-Date: 2018-07-15 16:54+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -70,7 +70,7 @@ msgstr "एकरा द्वारा शेयर करियै"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search in {{app_name}}"
-msgstr ""
+msgstr "{{app_name}} मे खोजियै"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
@@ -85,11 +85,11 @@ msgstr "बेसी जानकारी"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr ""
+msgstr "समर्थन"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "अपने के अधिकार / लाइसेंस"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -126,7 +126,7 @@ msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "मे डाउनलोड सेव करियै"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -142,11 +142,11 @@ msgstr "डिफ़ॉल्ट ब्राउज़र बनैइयै"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "सेटिंग्स बदलि रहलो छs..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
@@ -174,20 +174,20 @@ msgstr "%1$s कऽ बारो मे, मदद"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "इनपुट मेटैइयै"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "रद्द करियै"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "सुरक्षित कनेक्सन"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "एड्रेस जांच करियै"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -490,11 +490,11 @@ msgstr "ब्लोक"
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "डाटा मेटैइयै"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "कैंसिल"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
@@ -606,15 +606,15 @@ msgstr "ब्राउजिंग इतिहास मेटैइयै"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ब्राउजिंग इतिहास नय छअ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "आय"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "काल्य"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
@@ -622,11 +622,11 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "सब ब्राउजिंग इतिहास मेटैइयै?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "मेटैइयै"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
@@ -681,7 +681,7 @@ msgstr "DELETE"
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr "SHARE"
+msgstr "शेयर"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -724,7 +724,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "तारीख: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
@@ -734,12 +734,12 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "आकार: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "नाम: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
@@ -841,7 +841,7 @@ msgstr "प्रतिक्रिया"
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "संगी सँ {{app_name}} शेयर करियै!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "शेयर"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
