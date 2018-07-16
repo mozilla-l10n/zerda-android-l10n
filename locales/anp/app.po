@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-15 11:19+0000\n"
+"PO-Revision-Date: 2018-07-16 00:59+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "डाउनलोडिंग..."
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -988,7 +988,7 @@ msgstr "सेव करियै"
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "नाम"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
@@ -1015,14 +1015,14 @@ msgstr ""
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "निजी ब्राउज़िंग"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr "ब्राउज़िंग इतिहास मेटैइयै"
+msgstr "निजी ब्राउज़िंग इतिहास मेटैइयै"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
