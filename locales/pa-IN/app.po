@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 07:51+0000\n"
+"PO-Revision-Date: 2018-07-16 08:09+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -699,7 +699,7 @@ msgstr "SD ਕਾਰਡ ਤਕਰੀਬਨ ਭਰ ਗਿਆ ਹੈ। ਫਾਈ�
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -1022,13 +1022,13 @@ msgstr "ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "ਪ੍ਰਾਇਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਓ"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "ਖੋਲ੍ਹੋ"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1036,4 +1036,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "ਤੁਹਾਡਾ ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
