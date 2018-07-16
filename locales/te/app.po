@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 12:42+0000\n"
+"PO-Revision-Date: 2018-07-16 12:52+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -174,7 +174,7 @@ msgstr "%1$s గురించి"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ఇన్‌పుట్ తుడిచివేయి"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -334,7 +334,7 @@ msgstr ""
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "మునుపెన్నటి కంటే వేగంగా విహరించండి"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "డేటా ఆదా = డబ్బు ఆదా"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "అన్నిటినీ తెరపట్టు తీసుకోండి"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "పలు ట్యాబులు"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -553,7 +553,7 @@ msgstr "దింపుకోలు రద్దయింది"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "చర్య రద్దుచెయ్యి"
 
 msgctxt "open"
 msgid "Open"
@@ -563,7 +563,7 @@ msgstr "తెరువు"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "నిలిపివేయబడింది"
 
 #. File download status is pending
 msgctxt "pending"
@@ -660,7 +660,7 @@ msgstr "పేజీ అంతా తెరపట్టు తీస్తూం
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr "వీక్షించు"
+msgstr "చూడండి"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -729,7 +729,7 @@ msgstr "తేదీ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "విభాజకత: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -914,14 +914,14 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "కొత్త ట్యాబు తెరుచుకుంది"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "మారు"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -972,7 +972,7 @@ msgstr "ఇష్టాంశం తొలగించబడింది"
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "మార్చు"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
