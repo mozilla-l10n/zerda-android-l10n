@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 08:19+0000\n"
+"PO-Revision-Date: 2018-07-16 08:29+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "एकाधिको टैब"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -380,7 +380,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "ओकरा होम स्क्रीन में जोरियै!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -431,11 +431,11 @@ msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "विज्ञापन ब्लॉक करियै"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "चित्र ब्लौक करियै"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -451,7 +451,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "अभि नै"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -481,7 +481,7 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr "ALLOW"
+msgstr "अनुमति दियै"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
@@ -510,7 +510,7 @@ msgstr ""
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "कुकीज़"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
@@ -553,7 +553,7 @@ msgstr ""
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "पहनो जैसन करियै"
 
 msgctxt "open"
 msgid "Open"
@@ -563,12 +563,12 @@ msgstr "खोलियै"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "रुक गेलै"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "पेनडिंग"
 
 #. File download status is running
 msgctxt "running"
@@ -578,17 +578,17 @@ msgstr "डाउनलोडिंग..."
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "सफल भेलइयै"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "असफल भेलइयै"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "अनजान"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -636,7 +636,7 @@ msgstr "लिस्ट से हटैइयै"
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "फाइल डिलिट करियै"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
