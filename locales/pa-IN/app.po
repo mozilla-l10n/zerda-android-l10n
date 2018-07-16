@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 08:38+0000\n"
+"PO-Revision-Date: 2018-07-16 08:51+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -807,7 +807,7 @@ msgstr "ਹਟਾਉ"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "ਉਤਪਾਦ ਅਪਡੇਟ ਨੋਟਿਸ"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -848,11 +848,11 @@ msgid ""
 "- Fast and lightweight\n"
 "- Data saving\n"
 "- Powerful screenshots"
-msgstr ""
+msgstr "ਤੇਜ਼ ਅਤੇ ਹਲਕਾ - ਡਾਟਾ ਸੁਰੱਖਿਅਤ - ਸ਼ਕਤੀਸ਼ਾਲੀ ਸਕ੍ਰੀਨਸ਼ਾਟ"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr "ਸਾੰਝਾ ਕਰੋ"
+msgstr "ਸਾਂਝਾ ਕਰੋ"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -908,7 +908,7 @@ msgstr "ਸਾਨੂੰ ਤੁਹਾਡੀ ਲੋੜ ਹੈ! %1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "ਇੰਡੋਨੇਸ਼ੀਆ ਲਈ ਆਕਾਰ ਇੱਕ ਵਧੀਆ ਉਤਪਾਦ ਹੈ"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -921,7 +921,7 @@ msgstr "ਨਵਾਂ ਪੱਲ੍ਹਾ ਖੋਲ੍ਹਿਆ ਗਿਆ"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "ਸਵਿੱਚ ਕਰੋ"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -935,12 +935,12 @@ msgstr "ਇਸ ਨੂੰ ਕੁੱਝ ਵੇਲਾ ਲੱਗ ਸਕਦਾ ਹੈ
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "ਟੈਪ ਲਈ ਮੂਲ ਬਰਾਊਜ਼ਰ ਸੈੱਟ ਕਰੋ"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr "ਸੱਭ ਬੰਦ ਕਰੋ"
+msgstr "ਸਭ ਬੰਦ ਕਰੋ"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
