@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 00:59+0000\n"
+"PO-Revision-Date: 2018-07-16 01:33+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -832,7 +832,7 @@ msgstr "RATE 5 STARS"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "नय,प्रतिक्रिया भेजिइयै."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -972,12 +972,12 @@ msgstr ""
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr "EDIT"
+msgstr "इडिट"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "बुकमार्क इडिट करियै"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -1008,7 +1008,7 @@ msgstr ""
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "इडिट"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
@@ -1028,7 +1028,7 @@ msgstr "निजी ब्राउज़िंग इतिहास मेट
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr "OPEN"
+msgstr "खोलियै"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
