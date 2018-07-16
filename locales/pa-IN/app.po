@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 08:09+0000\n"
+"PO-Revision-Date: 2018-07-16 08:33+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -748,7 +748,7 @@ msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr "ਇਹ ਚਿੱਤਰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਏ?"
+msgstr "ਇਹ ਚਿੱਤਰ ਮਿਟਾ ਦਿੱਤਾ ਗਏ?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -758,19 +758,19 @@ msgstr "ਲਦਾਈ ਲਈ ਕੋਈ ਜਿਲਦ (File) ਚੁਣੋ"
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "ਟਰਬੋ ਮੋਡ ਸਮਰੱਥ ਕੀਤਾ"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "ਟਰਬੋ ਮੋਡ ਅਸਮਰੱਥ ਕੀਤਾ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਬਲਾਕ ਕਰੋ"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਦਿਖਾ ਰਿਹਾ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
