@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 19:35+0000\n"
+"PO-Revision-Date: 2018-07-16 19:44+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}} मे खोजियै"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s मोजिला द्वारा बनाएल गेल एगो तेज आरु हल्लुक ब्राउजर छै. हमर मिशन स्वस्थ आरु खुलल इंटरनेट क बढ़ावा देनाय छै."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -514,7 +514,7 @@ msgstr "कुकीज़"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "कैश"
 
 #. Download list
 msgctxt "no_downloads"
