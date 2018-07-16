@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 01:53+0000\n"
+"PO-Revision-Date: 2018-07-16 01:59+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "टेप"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -828,7 +828,7 @@ msgstr ""
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr "RATE 5 STARS"
+msgstr "5 सितारा रेट करियै"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
