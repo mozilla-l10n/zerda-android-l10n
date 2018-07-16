@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 01:33+0000\n"
+"PO-Revision-Date: 2018-07-16 01:53+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -631,7 +631,7 @@ msgstr "मेटैइयै"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "लिस्ट से हटैइयै"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -729,7 +729,7 @@ msgstr "तारीख: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "रिजोल्युसन: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -998,12 +998,12 @@ msgstr ""
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "बुकमार्क अपडेट भेलै"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "बुकमार्क खाली छ"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
