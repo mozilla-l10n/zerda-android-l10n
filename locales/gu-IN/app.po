@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 11:33+0000\n"
+"PO-Revision-Date: 2018-07-16 11:37+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -267,7 +267,7 @@ msgstr "વેબપૃષ્ઠ ઉપલબ્ધ નથી"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "ખાતરી કરો કે તમે ઇન્ટરનેટ સાથે જોડાયેલા છો"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -283,7 +283,7 @@ msgstr "સરનામું સમજમાં આવતુ ન હતુ"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -643,12 +643,12 @@ msgstr "ફાઇલો દૂર કરો"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "સ્ક્રીનશોટ સચવાયો"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "સ્ક્રીનશૉટ કેપ્ચર કરવામાં નિષ્ફળ"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
@@ -660,46 +660,46 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "જુઅો"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "સંપાદિત"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "હટાવો"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "વહેંચો"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "કોઈ SD કાર્ડ મળ્યું નથી. ફાઇલ આંતરિક સંગ્રહમાં સાચવવામાં આવી હતી."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ફાઇલ SD કાર્ડમાં સાચવી"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD કાર્ડ લગભગ પૂર્ણ છે. ફાઇલ આંતરિક સંગ્રહમાં સાચવવામાં આવી હતી."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "કોઈ સ્ક્રીનશૉટ્સ નથી"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -758,11 +758,11 @@ msgstr "અપલોડ કરવા માટે ફાઇલ પસંદ ક�
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "ટર્બો મોડ સક્ષમ છે"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "ટર્બો મોડ અક્ષમ છે"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
@@ -774,7 +774,7 @@ msgstr "હવે છબીઓ બતાવી રહ્યાં છીએ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "કેશ સાફ કરવામાં અક્ષમ છે"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -793,7 +793,7 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "સ્ક્રીનશોટ કાઢી નાખ્યો"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
