@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 10:12+0000\n"
+"PO-Revision-Date: 2018-07-16 10:18+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "ਸਥਾਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚਣ ਦੀ ਅਾਗਿਆ ਦਿਓ।"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -597,7 +597,7 @@ msgstr "ਐਸ ਡੀ ਕਾਰਡ"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ"
+msgstr "ਅੰਦਰੂਨੀ ਭੰਡਾਰ"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -686,7 +686,7 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ। ਫਾਇਲ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਸੀ।"
+msgstr "ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ। ਫਾਇਲ ਨੂੰ ਅੰਦਰੂਨੀ ਭੰਡਾਰ ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
