@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 03:21+0000\n"
+"PO-Revision-Date: 2018-07-16 03:33+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -824,24 +824,24 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "हँ,  5 सितारा रेट करू!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 सितारा रेट करू"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "नहि, प्रतिक्रिया भेजू."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "प्रतिक्रिया दिअ"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "संगी सँ {{app_name}} साझा करू!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "साझा करू"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -902,36 +902,36 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "%1$s हमरा अहाँक जरूरत अछि"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "इंडोनेशिया कलेल एकटा बेहतर प्रोडक्ट क आकार दिअ"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "नव टैब खुलि गेल"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "बदलू"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "सेटिंग्स बदलू..."
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "एकरा मे कनि काल लागत"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
