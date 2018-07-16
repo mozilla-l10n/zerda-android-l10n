@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 18:38+0000\n"
+"PO-Revision-Date: 2018-07-16 18:49+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -793,7 +793,7 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "स्क्रीनशॉट हटैइयै"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
@@ -816,7 +816,7 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}}पसंद छै?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -921,7 +921,7 @@ msgstr "नया टेब खुलल"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "SWITCH"
+msgstr "स्विच"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
