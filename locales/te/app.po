@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 12:52+0000\n"
+"PO-Revision-Date: 2018-07-16 13:02+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -126,7 +126,7 @@ msgstr "విహరణ చరిత్రను తుడిచేయి"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "దింపుకోళ్ళను ఇక్కడ భద్రపరుచు"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -407,7 +407,7 @@ msgstr "దింపుకోళ్ళు"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "క్యాషేను తుడిచివేయి"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -423,7 +423,7 @@ msgstr "నా షాట్లు"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "పేజీ తెరపట్టు తీయి"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -455,19 +455,19 @@ msgstr "ఇప్పుడు కాదు"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "అనుమతులు లేవు. మీ స్థానాన్ని చూడడానికి Firefox Rocketకి అనుమతి ఇవ్వండి."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "స్థానం అందుబాటులో లేదు. మీ స్థానాన్ని చూడడానికి అనుమతి ఇవ్వండి."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "అనుమతులు లేవు. మీ స్థానాన్ని చూడడానికి Firefox Rocketకి అనుమతి ఇవ్వండి."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "నిల్వ అందుబాటులో లేదు. మీ పరికరంలో ఫొటోలను ఫైళ్ళను నిల్వవుంచడానికి అనుమతి ఇవ్వండి."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -478,6 +478,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s\n"
+"మీ స్థానాన్ని తెలుసుకోవాలనుకుంటుంది."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -686,11 +688,11 @@ msgstr "పంచుకోండి"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "SD కార్డు కనగొనబడింది. ఫైలు అంతర్గత నిల్వకు భద్రపరచబడింది."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ఫైలు అంతర్గత నిల్వకు భద్రపరచబడింది"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
@@ -824,7 +826,7 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "అవును, 5 చుక్కలు ఇవ్వు!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -902,7 +904,7 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "మీరు మాకు కావాలి! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
@@ -927,15 +929,15 @@ msgstr "మారు"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "అమరికలు మారుస్తున్నాం…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "ఇది కొంతసేపు పట్టవచ్చు"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "అప్రమేయ విహారిణి ఎంచుకోడానికి తట్టండి"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
