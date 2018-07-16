@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 09:59+0000\n"
+"PO-Revision-Date: 2018-07-16 10:12+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -686,7 +686,7 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ। ਫਾਇਲ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਸੀ।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -715,7 +715,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr ""
+msgstr "ਇੱਕ ਪੂਰੇ ਵੈਬ ਸਫੇ ਨੂੰ ਕੈਪਚਰ ਕਰਨ ਲਈ ਮੀਨੂ ਤੇ।"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -778,7 +778,7 @@ msgstr "ਕੈਸ਼ ਸਾਫ ਕਰਨ ਦੇ ਅਯੋਗ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "ਸਟੋਰੇਜ ਅਸੁਰੱਖਿਅਤ ਹੈ। ਡਾਊਨਲੋਡ ਰੱਦ ਕੀਤਾ।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -797,7 +797,7 @@ msgstr "ਸਕਰੀਨਸ਼ਾਂਟ ਹਟਾਇਆ"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "ਡਿਸਪਲੇਅ ਨੂੰ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ "
+msgstr "ਡਿਸਪਲੇਅ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਕਰ ਸਕਦਾ"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -862,7 +862,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "ਮੋਜ਼ੀਲਾ ਅਤੇ ਹੋਰ ਯੋਗਦਾਨੀਆਂ ਦੁਆਰਾ ਬਣਾਏ ਗਏ % 1 $ s ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
