@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 19:12+0000\n"
+"PO-Revision-Date: 2018-07-16 19:35+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -694,7 +694,7 @@ msgstr "एसडी कार्ड मे फाइल सवे भे गे
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "एसडी कार्ड लगभग भरल छै. फ़ाइल क इंटरनल एस्टोरेज में सेव करल गेल छै"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
