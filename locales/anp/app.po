@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 16:42+0000\n"
+"PO-Revision-Date: 2018-07-16 17:41+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -263,7 +263,7 @@ msgstr "अपने के डिवाइस केरो कोनो ऐप 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "वेबपेज उपलब्ध नै छकै"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
@@ -326,7 +326,7 @@ msgstr "चित्र नया टैब में खोलियै"
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s चुनै ल धन्यवाद"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "डेटा बचाबियै = पैसे बचाबियै"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -443,7 +443,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "बाहर जाइयै"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
