@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-13 15:52+0000\n"
-"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
+"PO-Revision-Date: 2018-07-16 02:29+0000\n"
+"Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -902,7 +902,7 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "நீங்கள் எங்களுக்கு வேண்டும்! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
@@ -931,16 +931,16 @@ msgstr "அமைவுகளை மாற்றுகிறது…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "இது சில கணங்கள் எடுக்கும்"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "முன்னிருப்பு உலாவியாக அமைக்க தட்டு"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "அனைத்தையும் மூடுக"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
@@ -951,7 +951,7 @@ msgstr "எல்லா கீற்றுகளையும் மூடு?"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "வண்ணமையமான வாழ்வு!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
