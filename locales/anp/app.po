@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 01:59+0000\n"
+"PO-Revision-Date: 2018-07-16 02:04+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -427,7 +427,7 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -824,7 +824,7 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "हौं, 5 सितारा रेट करियै!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -961,12 +961,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "बुकमार्क सेव भेलै"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "बुकमार्क हटैलो गेलै"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
