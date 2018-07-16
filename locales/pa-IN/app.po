@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 08:51+0000\n"
+"PO-Revision-Date: 2018-07-16 09:59+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -946,7 +946,7 @@ msgstr "ਸਭ ਬੰਦ ਕਰੋ"
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr "ਸਾਰੇ ਪੱਲ੍ਹੇ ਬੰਦ ਕਰਨੇ ਹਨ?"
+msgstr "ਸਾਰੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -956,7 +956,7 @@ msgstr "ਆਪਣੀ ਜਿੰਦਗੀ ਵਿੱਚ ਰੰਗ ਭਰੋ!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "ਥੀਮਾਂ ਨੂੰ ਸਵਿੱਚ ਕਰਨ ਲਈ ਹੋਮ ਬੈਕਗ੍ਰਾਊਂਡ ਤੇ ਡਬਲ ਕਲਿਕ ਕਰੋ।"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
