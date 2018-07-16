@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 08:33+0000\n"
+"PO-Revision-Date: 2018-07-16 08:38+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -774,7 +774,7 @@ msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਦਿਖਾ ਰਿਹਾ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "ਕੈਸ਼ ਸਾਫ ਕਰਨ ਦੇ ਅਯੋਗ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -785,11 +785,11 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s ਕੈਸ਼ ਸਾਫ ਕਰੋ"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "ਬਰਾਊਜਿੰਗ ਡਾਟਾ ਸਾਫ ਕਰੋ"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -797,7 +797,7 @@ msgstr "ਸਕਰੀਨਸ਼ਾਂਟ ਹਟਾਇਆ"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "ਡਿਸਪਲੇਅ ਨੂੰ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ "
 
 #. Remove Top site item
 msgctxt "remove"
