@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 02:08+0000\n"
+"PO-Revision-Date: 2018-07-16 08:19+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -618,7 +618,7 @@ msgstr "काल्य"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "डिलिट"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
@@ -674,7 +674,7 @@ msgstr "इडिट"
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr "DELETE"
+msgstr "डिलिट"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
