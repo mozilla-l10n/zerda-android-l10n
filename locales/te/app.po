@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 13:02+0000\n"
+"PO-Revision-Date: 2018-07-16 13:03+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -696,7 +696,7 @@ msgstr "ఫైలు అంతర్గత నిల్వకు భద్రప
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD కార్డు దాదాపు నిండుకుంది. ఫైలు అంతర్గత నిల్వకు భద్రపరచబడింది."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -979,7 +979,7 @@ msgstr "మార్చు"
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "ఇష్టాంశాన్ని సవరించు"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
