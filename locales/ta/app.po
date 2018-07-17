@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 02:29+0000\n"
+"PO-Revision-Date: 2018-07-17 03:32+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -334,7 +334,7 @@ msgstr "சுதந்திர மற்றும் திறந்த இண
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "முன்பை விட வேகமாக உலாவுங்கள்"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -956,7 +956,7 @@ msgstr "வண்ணமையமான வாழ்வு!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "முகப்பு பின்புலத்தை இருமுறை சொடுக்கி கருப்பொருள்களுக்கிடையே மாறுக."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
@@ -1015,14 +1015,14 @@ msgstr "திருத்து"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "அந்தரங்க உலாவல்"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "அந்தரங்க உலாவல் வரலாற்றை அகற்று"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1037,3 +1037,5 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
+"உங்களின் அந்தரங்க உலாவல்\n"
+"வரலாறு அகற்றப்பட்டது."
