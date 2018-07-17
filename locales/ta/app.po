@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 10:10+0000\n"
+"PO-Revision-Date: 2018-07-17 10:20+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -478,6 +478,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s \n"
+"உங்களுடைய இருப்பிடத்தை அணுக விரும்புகிறது."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -531,11 +533,11 @@ msgstr ""
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "கோப்பைக் கண்டறிய முடியவில்லை"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "கோப்பை அழிக்க முடியவில்லை."
 
 #, c-format
 msgctxt "download_completed"
@@ -690,11 +692,11 @@ msgstr "நினைவக அட்டை ஏதுமில்லை. உள�
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "நினைவக அட்டையில் கோப்பு சேமிக்கப்பட்டது"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "நினைவக அட்டை கிட்டத்தட்ட நிரம்பியது. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது சேமிக்கப்பட்டது."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
