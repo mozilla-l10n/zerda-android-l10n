@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 19:05+0000\n"
+"PO-Revision-Date: 2018-07-17 19:14+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -365,7 +365,7 @@ msgstr "हम अपनो के प्रतिक्रिया सुन�
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. एके समय म %s मल्टीटास्क खुल रहल छै!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
