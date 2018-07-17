@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 23:41+0000\n"
+"PO-Revision-Date: 2018-07-17 23:48+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -797,30 +797,30 @@ msgstr "स्क्रीनशॉट मेटाएल गेल"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "स्क्रीनशॉट नहि देखाय सकैत अछि"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटाबू"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "प्रोडक्ट अपडेट जानकारी"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "अहाँ आओर सभक लेली फ़ायरफ़ॉक्स रॉकेट केँ बेहतर बनाबै कलेल, हम अपन गोपनीयता नीति मे किछु परिवर्तन कएलहुँ. बेसी जानबाक लेल टैप करू."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} बड़ पसिन्न अछि?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "हमर प्रोडक्ट केँ चुनबाक लेल अहाँक धन्यवाद. अहाँक प्रतिक्रिया हमरा सभक लेली बड़ महत्वपूर्ण अछि."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -1036,4 +1036,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "अहाँक निजी ब्राउजिंग इतिहास केँ मेटाएब देल गेल."
