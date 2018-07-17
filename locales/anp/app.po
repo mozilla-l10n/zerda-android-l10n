@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 17:52+0000\n"
+"PO-Revision-Date: 2018-07-17 18:02+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -467,7 +467,7 @@ msgstr "प्रमिशन गुम भे गेलै. फ़ायरफ�
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "स्ट्रोरेज उपलब्ध नै छै. अपनो डिवाइस पर फोटोस आरु फाइल्स कअ स्टोर करे ल अनुमति दियै."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
