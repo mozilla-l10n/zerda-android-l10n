@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 18:11+0000\n"
+"PO-Revision-Date: 2018-07-17 18:16+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -338,7 +338,7 @@ msgstr "మునుపెన్నటి కంటే వేగంగా వి
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ట్రాకింగ్ ప్రకటనలను నిరోధించడానికి టర్బో రీతిని వాడండి, అప్పుడు మీరు జ్వలించే వేగంతో విహరించవచ్చు. సైట్లు సరిగా పనిచేయట్లేనట్టు అనిపిస్తే, మెనూలో టర్బో రీతి తాకి ఆపివేసుకోండి."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -346,7 +346,7 @@ msgstr "డేటా ఆదా = డబ్బు ఆదా"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "మీ జాడతెలుసుకునే ప్రకటనలను నిరోధించడం వల్ల కేవలం మీ విహరణ వేగం కావడమే కాదు, డేటా కూడా ఆదా అవుతుంది. బొమ్మలను నిరోధిస్తే మరికొంత ఆదా అవుతుంది."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
