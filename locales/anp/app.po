@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 19:14+0000\n"
+"PO-Revision-Date: 2018-07-17 19:26+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -813,7 +813,7 @@ msgstr "उत्पाद अपडेट सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स रॉकेट कअ तोहरो आरु हर एक खतिर बेटर बनबे लअ, हम अपनो गोपनीयता नीति करलियै यै. अधिक जानै लअ टेप करिइयै."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
