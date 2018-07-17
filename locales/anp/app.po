@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 18:05+0000\n"
+"PO-Revision-Date: 2018-07-17 18:16+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -851,6 +851,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- तेज आरु हल्का वजन\n"
+"- डेटा क बचत\n"
+"- शक्तिशाली स्क्रीनशॉट"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -910,7 +913,7 @@ msgstr "हमरो तोहर जरुरत छै! %1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "इंडोनेशिया खातिर एगो बेहतर आकार कअ उत्पाद छेकै "
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
