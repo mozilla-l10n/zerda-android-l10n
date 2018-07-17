@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 23:26+0000\n"
+"PO-Revision-Date: 2018-07-17 23:41+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -715,85 +715,85 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr ""
+msgstr "सौंसे पृष्ठ केँ कैप्चर करबाक लेल मेनू पर जाउ."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "सूचना"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "तिथि: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "रिजोल्यूसन: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "आकार: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "आकार: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "ई छवि केँ मेटाएब?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "अपलोड कलेल एकटा फाइल चुनू"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "टर्बो मोड सक्रिय भेल"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "टर्बो मोड निष्क्रिय भेल"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "आब छवि सभ केँ ब्लॉक क रहल अछि"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "आब छवि देखाए रहल अछि"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "कैश साफ करै मे अक्षम"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "संग्रहण पहुँच सँ बाहर अछि. डाउनलोड रद्द भेल."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s कैश साफ भेल"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "ब्राउज़िंग डेटा साफ भेल"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "स्क्रीनशॉट मेटाएल गेल"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
