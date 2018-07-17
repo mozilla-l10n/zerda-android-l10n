@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 07:33+0000\n"
-"Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
+"PO-Revision-Date: 2018-07-17 10:10+0000\n"
+"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -463,7 +463,7 @@ msgstr "இருப்பிடம் கிடைக்கவில்லை. 
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "அனுமதி இல்லை. உங்கள் இருப்பிடத்தை அறிய பயர்பாக்சு இராக்கெட்டிற்கு அனுமதி தாருங்கள்."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
@@ -643,7 +643,7 @@ msgstr "கோப்பை அழி"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "திரைப்பிடிப்பு சேமிக்கப்பட்டது"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
