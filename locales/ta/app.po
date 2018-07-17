@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 03:32+0000\n"
+"PO-Revision-Date: 2018-07-17 03:41+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -342,19 +342,19 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "தரவு சிக்கனம் = பண சிக்கனம்"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "தடமறி விளம்பரங்களத் தடுத்தால் உலாவல் வேகத்தைக் கூட்டுவதுடன் தரவையும் சிக்கனப்படுத்துகிறது. பிம்பங்களைத் தடுப்பதன் மூலம் கூடுதலாக சிக்கனப்படுத்தலாம்."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "அனைத்தையும் திரைப்பிடிப்பு செய்"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "முழு வலைப் பக்கத்தையும் திரைப்பிடிப்புச் செய். முடக்கலையில் ஒரு திரைப்பிடிப்பபைப் பார் (கைப்பேசி பிணையமின்றி) அல்லது அதைத் தட்டி மீண்டும் வலைப் பக்கத்தைப் பார்."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -706,7 +706,7 @@ msgstr ""
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "தட்டுக "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
