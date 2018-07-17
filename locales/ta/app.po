@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 03:41+0000\n"
+"PO-Revision-Date: 2018-07-17 03:51+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -660,7 +660,7 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "பார்"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -686,7 +686,7 @@ msgstr "பகிர்"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "நினைவக அட்டை ஏதுமில்லை. உள்ளார்ந்த சேமிப்பில் கோப்பானது சேமிக்கப்பட்டது."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -699,14 +699,14 @@ msgstr ""
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "திரைப்பிடிப்புகள் ஏதுமில்லை"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "தட்டுக "
+msgstr "பட்டியலின் "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -716,6 +716,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" மேல் தட்டி முழு\n"
+"வலைப்பக்கத்தையும் கைப்பற்றுக."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -729,7 +731,7 @@ msgstr "தேதி: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "தெளிவுத்திறன்: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -744,7 +746,7 @@ msgstr "தலைப்பு: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
@@ -753,7 +755,7 @@ msgstr "இந்த படத்தை அழிக்கவா?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "பதிவேற்ற ஒரு கோப்பைத் தேர்"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
