@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 17:41+0000\n"
+"PO-Revision-Date: 2018-07-17 17:52+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -354,7 +354,7 @@ msgstr "అన్నిటినీ తెరపట్టు తీసుకో�
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "పూర్తి వెబ్ పేజీల తెరపట్లు తీసుకోండి. తెరపట్టును ఆఫ్‌లైనులో (డేటా వాడుకోకుండా) చూడండి లేదా వెబ్ పేజీను మళ్ళీ చూడడానికి దానిపై తాకండి."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -365,7 +365,7 @@ msgstr "మేము మీ ప్రతిస్పందనను విన్
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. ఒకేసారి %s తెరవడం ద్వారా మల్టీటాస్కింగు చెయ్యండి!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
