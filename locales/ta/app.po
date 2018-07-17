@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 04:03+0000\n"
+"PO-Revision-Date: 2018-07-17 04:09+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -843,7 +843,7 @@ msgstr "கருத்து"
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "{{app_name}} நண்பர்களுடன் பகிருங்கள்!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -851,6 +851,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- வேகமானது இலகுவானது\n"
+"- தரவு சிக்கனம் உடையது\n"
+"- திறன்வாய்ந்த திரைப்பிடிப்புகள்"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -858,7 +861,7 @@ msgstr "பகிர்"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "வணக்கம், மொசில்லாவின் வேகமான இலகுவான உலாவியைப் பாவித்துப் பாருங்கள். {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
