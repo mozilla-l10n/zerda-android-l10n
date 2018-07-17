@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 23:01+0000\n"
+"PO-Revision-Date: 2018-07-17 23:12+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -380,78 +380,78 @@ msgstr "2. अपन पसंदीदा साइट पर तेजी स�
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "ओकरा होम स्क्रीन मे जोड़ू!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "बेस, बुझि गेलहूँ!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "छोड़ू"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "अगिला"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "पुस्तकचिह्न"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "डाउनलोड"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "कैश मेटाबू"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "इतिहास"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "साझा करू"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "हमर शॉट्स"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "पेज कैप्चर करू"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "एड ब्लॉक करू"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "छवि ब्लॉक करू"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग्स"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "बाहर"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "सेटिंग्स"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "अखन नहि"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -481,49 +481,49 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "अनुमति दिअ"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "ब्लॉक करू"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "डेटा साफ करू"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करू "
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ब्राउजिंग इतिहास"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "इतिहास खोजू"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "इतिहास सँ"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "कुकीज"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "कैश"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "कोनो डाउनलोड नहि"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "डाउनलोड क रहल अछि…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
