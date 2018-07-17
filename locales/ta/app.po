@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 03:51+0000\n"
+"PO-Revision-Date: 2018-07-17 04:03+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -686,7 +686,7 @@ msgstr "பகிர்"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "நினைவக அட்டை ஏதுமில்லை. உள்ளார்ந்த சேமிப்பில் கோப்பானது சேமிக்கப்பட்டது."
+msgstr "நினைவக அட்டை ஏதுமில்லை. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது சேமிக்கப்பட்டது."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -768,19 +768,19 @@ msgstr ""
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "தற்போது பிம்பங்களைத் தடுக்கிறது"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "தற்போது பிம்பங்களைக் காட்டுகிறது"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "இடையகத்தை துடைக்க இயலவில்லொ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "சேமிப்பகத்தை அணுக இயலவில்லை. பதிவிறக்கம் இரத்தானது."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -791,15 +791,15 @@ msgstr "%1$s தேக்கம் அழிக்கப்பட்டது"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "உலாவல் தரவு துடைக்கப்பட்டது"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "திரைப்பிடிப்பு அழிக்கப்பட்டது"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "திரைப்பிடிப்பக் காண்பிக்க முடியவில்லை"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -809,32 +809,32 @@ msgstr "நீக்கு"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "தயாரிப்பு புதுப்பிப்பு அறிக்கை"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "உங்களுக்கம் எல்லோருக்கும் ஒரு சிறந்த பயர்பாக்சு இராக்கெட்டை வழங்கிட எங்களின் தனியுரிமை கொள்கையில் சில மாற்றங்களைச் செய்துள்ளோம். தட்டி மேலும் அறிக."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} விரும்புகிறீரா?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "எங்களின் தயாரிப்பைத் தேர்ந்தமைக்கு மிக்க நன்றி. உங்களின் கருத்து எங்களுக்கு மிகவும் அவசியமானது."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "ஆமாம், 5 நட்சித்திரங்கள் வழங்குங்கள்!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 நட்சித்திரங்கள் வழங்குங்கள்"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "வேண்டாம், பின்னூட்டம் அனுப்பு."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
