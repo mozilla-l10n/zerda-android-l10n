@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 04:09+0000\n"
+"PO-Revision-Date: 2018-07-17 07:29+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -358,29 +358,29 @@ msgstr "முழு வலைப் பக்கத்தையும் தி
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "உங்களின் கருத்தைக் கேட்டோம்!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. ஒரே நேரத்தில் %s வழி திறக்கப்பட்ட பல்வகை செயல்கள்!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "பல கீற்றுகள்"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. உங்களுக்கு பிடித்த தளங்களை விரைவாக %s வழி அணுகுங்கள்"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "அவைகளை முகப்பு திரைக்கு சேர்க்கிறது!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -419,11 +419,11 @@ msgstr "பகிர்"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "எனது பிடிப்புகள்"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "பக்கத்தைப் கைப்பற்று"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -885,6 +885,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"உங்களுக்கு மொசில்லா அறக்கட்டளையின் உரிமங்கள் அல்லது உரிமைகள் அல்லது வேற எந்த உரிமைகளும் வழங்கப்படவில்லை மேலும் மொசில்லா, பயர்பாக்சு அல்லது %1$s போன்ற பெயர்களும் அதன் படங்களும் அவ்விதியில் "
+"அடங்கும். கூடுதலான தகவல்கள் <a href=\"%2$s\">இத்தொடுப்பில் கிடைக்கும்</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
