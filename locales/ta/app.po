@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 10:20+0000\n"
+"PO-Revision-Date: 2018-07-17 10:26+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -467,7 +467,7 @@ msgstr "அனுமதி இல்லை. உங்கள் இருப்�
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "சேமிப்பகம் கிடைக்கவில்லை. படங்கள் மற்றும் கோப்புகளை உங்களுடைய கருவியில் சேமிக்க அனுமதியுங்கள்."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -529,7 +529,7 @@ msgstr "பதிவிறக்குகிறது…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "பதிவிறக்க நெறிமுறை ஆதரிக்கப்படவில்லை"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -599,16 +599,16 @@ msgstr "SD அட்டை"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "உள்ளார்ந்த சேமிப்பகம்"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "உலாவல் வரலாற்றைத் துடை"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாறு இல்லை"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
