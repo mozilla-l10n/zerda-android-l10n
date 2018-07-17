@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 08:11+0000\n"
+"PO-Revision-Date: 2018-07-17 08:13+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -258,7 +258,7 @@ msgstr "లంకెను తెరువగల అనువర్తనాన�
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "మీ పరికరంలోని అనువర్తనాల్లో ఏదీ ఈ లింక్ను తెరవలేకపోతుంది. మీరు చేయగల అనువర్తనం కోసం %2$sను శోధించడానికి %1$sను వదిలివేయవచ్చు."
+msgstr "మీ పరికరంలోని అనువర్తనాల్లో ఏదీ ఈ లంకెను తెరవలేకపోతుంది. దీన్ని తెరువగల అనువర్తనం కోసం %2$s‌లో వెతకడానికి %1$sను వెళ్ళవచ్చు."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
