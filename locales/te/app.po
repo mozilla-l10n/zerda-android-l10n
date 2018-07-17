@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 18:02+0000\n"
+"PO-Revision-Date: 2018-07-17 18:11+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}}‌తో వెతుకు"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s అనేది మొజిల్లా వారు తయారుచేసిన వేగవంతమైన, తేలికైన విహారిణి. ఆరోగ్యకరమైన, స్వేచ్ఛాయుతమైన అంతర్జాలాన్ని వృద్ధిచేయడం మా ఆశయం."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -815,7 +815,7 @@ msgstr "ఉత్పత్తి తాజాకరణ గమనిక"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "Firefox Rocket‌ని మీకూ, ప్రతీఒక్కరికీ మెరుగుపరిచేందుకు, మా గోప్యతా విధానానికి మేం కొన్ని మార్పులు చేసాం. తెలుసుకోడానికి తాకండి."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -963,7 +963,7 @@ msgstr "మీ జీవితానికి రంగులద్దండి!
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "అలంకారాన్ని మార్చుకోడానికి ముంగిలి వెనుతలంపై రెండుసార్లు నొక్కండి."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
