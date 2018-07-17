@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 17:40+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-07-17 08:11+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "సరే"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "శోధించండి లేదా చిరునామాను నమోదు చేయండి"
+msgstr "వెతకండి లేదా చిరునామాను ఇవ్వండి"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -53,7 +53,7 @@ msgstr "మీ హక్కులు"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr "అభిప్రాయాన్ని తెలియజేయండి"
+msgstr "ప్రతిస్పందనను తెలియజేయండి"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
@@ -70,7 +70,7 @@ msgstr "దీనిద్వారా పంచుకోండి"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search in {{app_name}}"
-msgstr "{{app_name}} లో శోధించండి"
+msgstr "{{app_name}}‌తో వెతుకు"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
@@ -85,7 +85,7 @@ msgstr "ఇంకా తెలుసుకోండి"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr "మద్దతు"
+msgstr "తోడ్పాటు"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
@@ -249,7 +249,7 @@ msgstr "ట్రాకర్లను నిరోధించండి"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "లింక్ను తెరవగల అనువర్తనాన్ని కనుగొనండి"
+msgstr "లంకెను తెరువగల అనువర్తనాన్ని కనుగొనండి"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
