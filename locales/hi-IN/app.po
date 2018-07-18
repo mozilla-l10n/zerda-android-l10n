@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 14:59+0000\n"
+"PO-Revision-Date: 2018-07-18 15:05+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}} में खोजें"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s Mozilla द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र है. हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है."
+msgstr "%1$s मोज़िला द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र है. हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -93,7 +93,7 @@ msgstr "आपके अधिकार / लाइसेंस"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr "गोपनीयता नीति"
+msgstr "गोपनीयता सूचना"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
