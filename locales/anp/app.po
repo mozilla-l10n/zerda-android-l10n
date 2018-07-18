@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 14:13+0000\n"
+"PO-Revision-Date: 2018-07-18 14:31+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -126,7 +126,7 @@ msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "मे डाउनलोड सेव करियै"
+msgstr "में डाउनलोड सेव करियै"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -142,7 +142,7 @@ msgstr "डिफ़ॉल्ट ब्राउज़र बनैइयै"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "सेटिंग्स बदलि रहलो छs..."
+msgstr "सेटिंग्स बदलि रहलो छै..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -157,7 +157,7 @@ msgstr "उपयोग डेटा भेजियै"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोजिला केवल ओ चीज के जमा करै छै जकरा %1$s मे सभक लेली सुधार करै केरो आवश्यक्ता छै."
+msgstr "मोजिला खलि ओ चीज के जमा करै छै जकरा %1$s मे सभक लेली सुधार करै के आवश्यक्ता छै."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
