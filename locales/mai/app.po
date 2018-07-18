@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 00:21+0000\n"
+"PO-Revision-Date: 2018-07-18 00:24+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -463,11 +463,11 @@ msgstr "स्थान मोजुद नहि अछि. अपन स्थ
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति दिअ."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "संग्रहण मोजुद नहि अछि. फोटो आओर फाइल केँ अपन डिवाइस मे संग्रहीत करए कलेल अनुमति दिअ."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
