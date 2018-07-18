@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:00+0000\n"
+"PO-Revision-Date: 2018-07-18 15:11+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -580,12 +580,12 @@ msgstr "डाउनलोडिंग..."
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr "सफल भेलइयै"
+msgstr "सफल"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr "असफल भेलइयै"
+msgstr "असफल"
 
 #. File download status is unknown
 msgctxt "unknown"
@@ -608,7 +608,7 @@ msgstr "ब्राउजिंग इतिहास मेटैइयै"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "ब्राउजिंग इतिहास नय छअ"
+msgstr "ब्राउजिंग इतिहास नय छै"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -692,11 +692,11 @@ msgstr "एसडी कार्ड नै मिलल. फ़ाइल क �
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "एसडी कार्ड मे फाइल सवे भे गेलै"
+msgstr "एसडी कार्ड मे फाइल सवे करल गेल छै"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "एसडी कार्ड लगभग भरल छै. फ़ाइल क इंटरनल एस्टोरेज में सेव करल गेल छै"
+msgstr "एसडी कार्ड लगभग भैर गेलै. फ़ाइल क इंटरनल एस्टोरेज में सेव करल गेल रहै."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -717,7 +717,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "पुरे वेबपेज केपचर करै ल मेनु दबाइयै."
+msgstr " पुरे वेबपेज केपचर करै ल मेनु दबाइयै."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
