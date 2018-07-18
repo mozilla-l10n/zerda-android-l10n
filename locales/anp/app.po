@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:21+0000\n"
+"PO-Revision-Date: 2018-07-18 15:27+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -867,14 +867,14 @@ msgstr "हे, मोज़िला के इ तेज आरु हल्�
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s मोज़िला आरू आन योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छै."
+msgstr "%1$s मोज़िला आरू दोसरो योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छियै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">मोज़िला सार्वजनिक लाइसेंस</a> आरू आन मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."
+msgstr "%1$s <a href=\"%2$s\">मोज़िला सार्वजनिक लाइसेंस</a> आरू दोसरो मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -892,7 +892,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s लेली अतिरिक्त स्रोत कोड अनेक आन निशुल्क आरू मुक्त स्रोत <a href=\"%2$s\">लाइसेन्स</a>केरो अंतर्गत उपलब्ध छै."
+msgstr "%1$s लेली अतिरिक्त स्रोत कोड अनेक दोसरो निशुल्क आरू मुक्त स्रोत <a href=\"%2$s\">लाइसेन्स</a>केरो अंतर्गत उपलब्ध छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -916,7 +916,7 @@ msgstr "हमरो तोहर जरुरत छै! %1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "इंडोनेशिया खातिर एगो बेहतर आकार कअ उत्पाद छेकै "
+msgstr "इंडोनेशिया खातिर एगो बेहतर आकार के उत्पाद छेकै "
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -935,7 +935,7 @@ msgstr "स्विच"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr "सेटिंग्स बदलि रहलो छs..."
+msgstr "सेटिंग्स बदलि रहलो छै..."
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
