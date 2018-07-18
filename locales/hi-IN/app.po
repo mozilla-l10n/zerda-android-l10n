@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 17:08+0000\n"
+"PO-Revision-Date: 2018-07-18 17:37+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -915,7 +915,7 @@ msgstr "%1$s हमे आपकी जरुरत है!"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "इंडोनेशिया के लिए एक बेहतर उत्पाद विकसित करें।"
+msgstr "भारत के लिए एक बेहतर उत्पाद विकसित करें।"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
