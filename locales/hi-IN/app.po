@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:27+0000\n"
+"PO-Revision-Date: 2018-07-18 15:40+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -230,26 +230,26 @@ msgstr "पीछे आयें"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "वेबसाइट लोडिंग रोकें"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "पिछले एप्प पर वापस जाएँ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ट्रैकर्स को अवरुद्ध करें"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "लिंक खोलने हेतु कोई एप्प तलाशें"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -263,47 +263,47 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "वेबपेज उपलब्ध नहीं है"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "सुनिश्चित करें की आप इंटरनेट से जुड़े हुए हैं"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "पता जाँचें"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "पुनः प्रयास करें"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "पता समझा नहीं गया था"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है |"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "लिंक साझा करें"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "लिंक पता कॉपी करें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "चित्र साझा करें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "चित्र पते कॉपी करें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
