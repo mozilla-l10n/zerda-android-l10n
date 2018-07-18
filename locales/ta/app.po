@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 06:59+0000\n"
+"PO-Revision-Date: 2018-07-18 08:14+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -146,7 +146,7 @@ msgstr "அமைவுகளை மாற்றுகிறது…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "சுழலி முறைமை"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
@@ -427,7 +427,7 @@ msgstr "பக்கத்தைப் கைப்பற்று"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "சுழலி முறைமை"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -762,11 +762,11 @@ msgstr "பதிவேற்ற ஒரு கோப்பைத் தேர
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "சுழலி முறைமை செயற்படத்தப்பட்டது"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "சுழலி முறைமை முடக்கப்பட்டது"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
