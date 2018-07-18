@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 09:14+0000\n"
+"PO-Revision-Date: 2018-07-18 09:22+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -338,7 +338,7 @@ msgstr "முன்பை விட வேகமாக உலாவுங்க
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "தடமறி விளம்பரங்களை தடுத்து சுழலி முறைமையை பயன்படுத்தி உலாவல் வேகத்தை முடுக்குங்கள். வலைத் தளங்கள் தடுமாறினால் பட்டியலில் உள்ள சுழலி முறைமை சாவியைத் தட்டுங்கள்."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
