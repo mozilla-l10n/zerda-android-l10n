@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 23:48+0000\n"
+"PO-Revision-Date: 2018-07-17 23:58+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -157,7 +157,7 @@ msgstr "उपयोग डेटा भेजू"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "मोजिला केवल ओ सामग्री केँ जमा करैत अछि जकरा %1$s मे सभक लेली बेहतर गुंजाइश आओर सुधार भ सकैत अछि."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -824,7 +824,7 @@ msgstr "हमर प्रोडक्ट केँ चुनबाक ले�
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr "हँ,  5 सितारा रेट करू!"
+msgstr "हँ, 5 सितारा रेट करू!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -856,13 +856,13 @@ msgstr "साझा करू"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "सुनियौ, मोजिला केरो ई तेज आआोर हलुक ब्राउज़र केँ एकबेर चलाएब कए देखू.{{app_name}}{{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s एकटा मुफ्त आरू ओपन सोर्स सॉफ्टवेयर अछि जकरा मोजिला आओर आन दोसर योगदानकर्ता द्वारा बनाएल गेल अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
