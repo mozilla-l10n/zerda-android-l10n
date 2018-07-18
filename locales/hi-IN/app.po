@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:51+0000\n"
+"PO-Revision-Date: 2018-07-18 16:02+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -407,51 +407,51 @@ msgstr "डाउनलोड"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "कैश मिटायें"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "इतिहास"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "साझा करें"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "मेरे चित्र"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "पृष्ठ कैप्चर"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "विज्ञापन अवरुद्ध करें"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "चित्र अवरुद् करें"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "निकास"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "सेटिंग्स"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "अभी नहीं"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -481,162 +481,162 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "अनुमति दें"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "अवरुद्ध करें"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "डेटा मिटायें"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करें"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ब्राउज़िंग इतिहास"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "खोज इतिहास"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "फॉर्म इतिहास"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "कुकीज़"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "कैश"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "कोई डाउनलोड नहीं"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "डाउनलोड हो रहा है…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "डाउनलोड प्रोटोकॉल समर्थित नहीं है"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "फ़ाइल नहीं मिल रहा"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "फाइल मिट नहीं सका |"
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s डाउनलोड हो गया"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s हटाया गया"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "डाउनलोड रद्द हुआ"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "पहले जैसा करें"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "खोलें"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "रोका गया"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "पेन्डिंग"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "डाउनलोड हो रहा है"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "सफल"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "विफल"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "अज्ञात"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "एसडी कार्ड"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "इंटरनल स्टोरेज"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "राउज़िंग इतिहास मिटायें"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "कोई ब्राउज़िंग इतिहास नहीं"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "आज"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "कल"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "मिटाएँ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "सभी ब्राउज़िंग इतिहास मिटायें?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "साफ करें"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "सूची से हटाएँ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "फाइल मिटायें"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
