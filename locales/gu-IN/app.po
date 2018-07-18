@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 13:23+0000\n"
+"PO-Revision-Date: 2018-07-18 13:25+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -330,7 +330,7 @@ msgstr "%1$s પસંદગી માટે આભાર"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Mozilla દ્વારા ઇન્ડોનેશિયા માટે બનાવાયેલા એક બ્રાઉઝર, બિન નફાકારક એક મફત અને ખુલ્લા વેબ માટે પ્રતિબદ્ધ છે."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -729,7 +729,7 @@ msgstr "તારીખ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "માપ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
@@ -865,7 +865,7 @@ msgstr "Mozilla દ્વારા બનાવવામાં આવેલુ�
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s Mozilla અને અન્ય યોગદાનકર્તાઓ દ્વારા બનાવવામાં આવેલ મફત અને ઓપન સોર્સ સૉફ્ટવેર છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -959,7 +959,7 @@ msgstr "તમારાં જીવનમાં રંગ પૂરો!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "થીમ બદલવા માટે મૂળ બેકગ્રાઉન્ડ પર બે વખત ક્લિક કરો."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
