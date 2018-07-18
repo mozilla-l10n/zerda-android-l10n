@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-16 11:37+0000\n"
+"PO-Revision-Date: 2018-07-18 13:23+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Pontoon\n"
 
@@ -338,7 +338,7 @@ msgstr "ક્યારેય કરતાં વધુ ઝડપી બ્ર�
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ટ્રેકિંગ જાહેરાતોને અવરોધિત કરવા ટર્બો મોડનો ઉપયોગ કરો કે જેનાથી તમે ખૂબ ઝડપથી બ્રાઉઝ કરી શકશો. જો વેબસાઉટમાં ભંગાણ દેખાય તો મેનુમાં જઇને ટર્બો મોડ બંધ કરો."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -346,7 +346,7 @@ msgstr "ડેટા બચાવો = પૈસા બચાવો"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "જાહેરાતને અવરોધિત કરવાથી માત્ર બ્રાઉઝીંગની ઝડપ નહી વધે , તેનાથી ડૅટા પણ બચશે. છબીઓને અવરોધિત કરીને એનાથી પણ વધુ બચાવો."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -365,7 +365,7 @@ msgstr "અમે તમારી પ્રતિક્રિયા સાંભ
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. %s એ જ સમયે ખોલીને બહુવિધ કામ એક સાથે કરો!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -455,7 +455,7 @@ msgstr "હમણાં નહિ"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "પરવાનગી મળી રહેલ નથી. Firefox Rocket ને તમારા સ્થાનને અૅક્સેસ કરવાની પરવાનગી આપો."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -463,7 +463,7 @@ msgstr "સ્થાન ઉપલબ્ધ નથી. તમારા સ્થ�
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "પરવાનગી મળી રહેલ નથી. Firefox Rocket ને તમારા સ્થાનને અૅક્સેસ કરવાની પરવાનગી આપો."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
@@ -653,7 +653,7 @@ msgstr "સ્ક્રીનશૉટ કેપ્ચર કરવામાં 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "સમગ્ર પાનાંનો સ્ક્રીનશોટ લઈ રહ્યાં છીએ…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -715,7 +715,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr ""
+msgstr " સમગ્ર પાનાંને આવરી લેવાં માટે મેનું પર જાઓ."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -778,18 +778,18 @@ msgstr "કેશ સાફ કરવામાં અક્ષમ છે"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "સંગ્રહમાં પ્રવેશ કરી શકાતો નથી. ડાઉનલોડ રદ કરવામાં આવ્યુ છે."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s કેશ સાફ થયી ગઈ"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "બ્રાઉઝીંગ ડૅટા સાફ કરવામાં આવ્યો છે"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -797,7 +797,7 @@ msgstr "સ્ક્રીનશોટ કાઢી નાખ્યો"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "સ્ક્રીનશોટ બતાવી શકતાં નથી"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -807,11 +807,11 @@ msgstr "દૂર કરો"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "ઉત્પાદન અધ્યતન બનાવવાની સૂચના"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "Firefox Rocket ને તમારાં માટે અને બીજા બધાં માટે વધુ સારુ બનાવવા, અમે ખાનગી પાૅલીસિમાં અમુક સુધારા કરેલ છે. વધું જાણવાં માટે આ દબાવો."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -828,7 +828,7 @@ msgstr "હા, 5 સ્ટાર્સ આપો!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 સ્ટાર્સ આપો"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -859,7 +859,7 @@ msgstr "વહેંચો"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "Mozilla દ્વારા બનાવવામાં આવેલું ઝડપી અને ઓછી જગ્યા રોકે તેવું આ બ્રાઉઝર જુઓ. {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
