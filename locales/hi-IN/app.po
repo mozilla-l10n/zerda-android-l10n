@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 16:51+0000\n"
+"PO-Revision-Date: 2018-07-18 17:01+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -358,7 +358,7 @@ msgstr "पूरे वेब पृष्ठों का स्क्री�
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr "हमने आपकी प्रतिक्रिया सुनी!"
+msgstr "हमने आपकी राय सुनी！"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -376,11 +376,11 @@ msgstr "विभिन्न टैब"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr "2. %s द्वारा जल्दी से अपनी पसंदीदा साइटों तक पहुंचें"
+msgstr "2. %s द्वारा जल्दी से अपने पसंदीदा साइटों का चलायें"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr "उन्हें मुखपटल पर जोड़ा जा रहा है!"
+msgstr "उन्हें होम स्क्रीन पर लाया जा रहा है!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -694,7 +694,7 @@ msgstr "फ़ाइल एसडी कार्ड में सहेज ग�
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "एसडी कार्ड लगभग भर चूका है । फाइल को इंटरनल स्टोरेज में सहेज दिया गया ।"
+msgstr "एसडी कार्ड लगभग भर चूका है। फाइल को इंटरनल संग्रहण में सहेज दिया गया।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -766,7 +766,7 @@ msgstr "टर्बो मोड अक्षम"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr "अब चित्र अवरुद्ध हो रहे हैं"
+msgstr "अब चित्र ब्लॉक हो रहे हैं"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
@@ -774,18 +774,18 @@ msgstr "अब चित्र दिख रहे हैं"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr "कैश मिटाने में अक्षम"
+msgstr "कैशे मिटाने में अक्षम"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "टोरेज पहुंच से बाहर । डाउनलोड रद्द किया गया ।"
+msgstr "संग्रहण पहुंच से बाहर। डाउनलोड रद्द किया गया।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr "%1$s कैश मिटा दिया गया"
+msgstr "%1$s कैशे मिटा दिया गया"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -793,11 +793,11 @@ msgstr "राउज़िंग डेटा मिटा दिया गय�
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr "रीनशॉट मिटा दिया गया"
+msgstr "स्क्रीनशॉट मिटा दिया गया"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "रीनशॉट प्रदर्शित नहीं किया जा सकता"
+msgstr "स्क्रीनशॉट प्रदर्शित नहीं किया जा सकता"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -811,7 +811,7 @@ msgstr "प्रोडक्ट अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स रॉकेट को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए टैप करें।"
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -832,11 +832,11 @@ msgstr "5 स्टार रेट करें"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr "नहीं , राय भेजें ।"
+msgstr "नहीं, प्रतिक्रिया भेजें।"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr "राय दें"
+msgstr "प्रतिक्रिया दें"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
@@ -859,20 +859,20 @@ msgstr "साझा करें"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "सुनो, मोज़िला द्वारा इस तेज और सहज़ ब्राउज़र को देखें।{{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s मोज़िला और अन्य योगदानकर्ताओं द्वारा निर्मित मुफ़्त और मुक्त स्रोत सॉफ्टवेयर हैं।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s आपको <a href=\\\"%2$s\\\"> मोज़िला लोक लायसेंस</a> और अन्य मुक्त स्रोत लायसेंस के तहत उपलब्ध कराया गया है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -883,6 +883,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"आपको मोज़िला फाउंडेशन या मोज़िला, फ़ायरफ़ॉक्स या %1$s नाम या लोगो सहित, किसी भी अन्य पक्ष के व्यापार चिह्न को कोई अधिकार या लाइसेंस नहीं दिया गया है। अतिरिक्त जानकारी <a href=\"%2$s\">यहाँ</a>मिल सकती"
+" है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
