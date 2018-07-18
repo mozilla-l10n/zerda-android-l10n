@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 07:57+0000\n"
+"PO-Revision-Date: 2018-07-18 08:05+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -902,7 +902,7 @@ msgstr "%1$s కొరకు అదనపు సోర్సు కోడు వ
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "Disconnect, Inc. వారు అందించే నిరోధపు జాబితాలను కూడా విడి స్వతంత్ర కృతులుగా <a href=\"%2$s\">GNU జనరల్ పబ్లిక్ లైసెన్సు v3</a> ప్రకారం %1$s వాడుకుంటుంది, అవి <a href=\"%3$s\">ఇక్కడ</a> లభిస్తాయి."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
