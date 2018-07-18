@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 00:24+0000\n"
-"Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
+"PO-Revision-Date: 2018-07-18 07:01+0000\n"
+"Last-Translator: osimpleo <osimpleo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
 "MIME-Version: 1.0\n"
@@ -869,7 +869,7 @@ msgstr "%1$s एकटा मुफ्त आरू ओपन सोर्स �
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "मोजिला पब्लिक साइसेंस </a> आओर आन ओपन सोर्स लाइसेंस %1$s अहाँक लेल उपलब्ध कराएल गेल अछि<a href=\"%2$s\">शर्त केरो अधीन."
+msgstr "<a href=\"%2$s\">मोजिला पब्लिक साइसेंस </a> आओर आन ओपन सोर्स लाइसेंस %1$s अहाँक लेल उपलब्ध कराएल गेल अछिशर्त केरो अधीन."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
