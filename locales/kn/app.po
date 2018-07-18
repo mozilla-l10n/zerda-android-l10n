@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-14 02:33+0000\n"
-"Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
+"PO-Revision-Date: 2018-07-18 13:49+0000\n"
+"Last-Translator: Yogi (ಯೋಗಿ) <csyogech@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
@@ -249,7 +249,7 @@ msgstr "ಜಾಡುಹಿಡಿಯುವರನ್ನು ನಿರ್ಬಂಧ�
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "ಕೊಂಡಿಯನ್ನು ತೆರೆಯುವ ಆಪ್ಅನ್ನು ಹುಡುಕಿ"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -263,19 +263,19 @@ msgstr ""
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "ಜಾಲಪುಟವು ಲಭ್ಯವಿಲ್ಲ"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "ನೀವು ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿರುವುದನ್ನು ಖಾತರಿಪಡಿಸಿಕೊಳ್ಳಿ"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಿರಿ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
@@ -326,7 +326,7 @@ msgstr "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಚಿತ್ರವನ್�
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s ಆಯ್ಕೆಮಾಡಿದ್ದಕ್ಕೆ ವಂದನೆಗಳು"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -334,7 +334,7 @@ msgstr ""
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "ಹಿಂದಿನಕ್ಕಿಂತೆ ವೇಗವಾಗಿ ಜಾಲಾಡಿ"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -342,7 +342,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ಡೆಟಾ ಉಳಿತಾಯ = ದುಡ್ಡು ಉಳಿತಾಯ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -724,7 +724,7 @@ msgstr "ಮಾಹಿತಿ"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "ದಿನಾಂಕ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
