@@ -338,7 +338,7 @@ msgstr "पहनो स तेज ब्राउज़ करियै"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोक करै लअ टर्बो मोड क उपयोग करियै ताकि तोय तेजि से ब्राउज़ करियै.आगर साइटें टूटै छै,तअ मेनू में टर्बो मोड स्विच क स्विच क टैप करिइयै"
+msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
