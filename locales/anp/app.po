@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 14:38+0000\n"
+"PO-Revision-Date: 2018-07-18 14:50+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -283,7 +283,7 @@ msgstr "ई पता नै समझलिइयै"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "इ पता कअ खोलै ल दोसरो सॉफ़्टवेयर इंस्टॉल करे पैर सकै छ."
+msgstr "इ पता कअ खोलै ल अहा के दोसरो सॉफ़्टवेयर इंस्टॉल करे पैर सकै छै."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -303,12 +303,12 @@ msgstr "चित्र शेयर करियै"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "इमेज पता कॉपी करियै"
+msgstr "इमेज एड्रेस कॉपी करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "चित्र सहेजियै"
+msgstr "चित्र सवे करियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
@@ -338,7 +338,7 @@ msgstr "पहनो स तेज ब्राउज़ करियै"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोक करै लअ टर्बो मोड क उपयोग करियै ताकि तोय तेजि से ब्राउज़ कैर पाबियै.आगर साइटें टूटै छै,तअ मेनू में टर्बो मोड स्विच क स्विच क टैप करिइयै."
+msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोक करै लअ टर्बो मोड क उपयोग करियै ताकि तोय तेजि से ब्राउज़ कैर पाबियै.आगर साइट सिनि टूटै छै,तअ मेनू में टर्बो मोड स्विच क टैप करिइयै."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
