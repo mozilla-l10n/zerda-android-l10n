@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:40+0000\n"
+"PO-Revision-Date: 2018-07-18 15:51+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -308,17 +308,17 @@ msgstr "चित्र पते कॉपी करें"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "चित्र सहेजें"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "नये टैब में लिंक खोलें"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "नये टैब में चित्र खोलें"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -326,11 +326,11 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s चुनने के लिए धंयवाद"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "मोज़िला द्वारा भारत के ज़रूरत के मुताबिक बनाया गया ब्राउज़र, गैर-लाभकारी एक मुफ़्त और उन्मुक्त वेब के लिए प्रतिबद्ध |"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -384,26 +384,26 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "अच्छा, समझ गया!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "छोड़ें"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "अगला"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "बुक्मार्क"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "डाउनलोड"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -983,17 +983,17 @@ msgstr ""
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "सहेजें"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "नाम"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "स्थान"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
