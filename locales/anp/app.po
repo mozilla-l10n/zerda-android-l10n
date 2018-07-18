@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 15:11+0000\n"
+"PO-Revision-Date: 2018-07-18 15:21+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: anp\n"
@@ -787,19 +787,19 @@ msgstr "स्टोरेज पहुच स जादा छअ. डाउन
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr "%1$s कैश मेटैइबै"
+msgstr "%1$s कैश मेटाल्य गेलै"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr "ब्राउज़िंग डेटा मेटैइयै"
+msgstr "ब्राउज़िंग डेटा मेटाल्य गेलै"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr "स्क्रीनशॉट हटैइयै"
+msgstr "स्क्रीनशॉट मेटाल्य गेलै"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "ई स्क्रीनशॉट नै दिखय सकै छै"
+msgstr "ई स्क्रीनशॉट नै दिखायै सकै छै"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -813,7 +813,7 @@ msgstr "उत्पाद अपडेट सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "फ़ायरफ़ॉक्स रॉकेट कअ तोहरो आरु हर एक खतिर बेटर बनबे लअ, हम अपनो गोपनीयता नीति करलियै यै. अधिक जानै लअ टेप करिइयै."
+msgstr "फ़ायरफ़ॉक्स रॉकेट कअ तोहरो आरु हर एक खतिर बेटर बनबे लअ, हम अपनो गोपनीयता नीति मे बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -851,7 +851,7 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
-"- तेज आरु हल्का वजन\n"
+"- तेज आरु हल्का\n"
 "- डेटा क बचत\n"
 "- शक्तिशाली स्क्रीनशॉट"
 
