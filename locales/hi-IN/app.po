@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 17:01+0000\n"
+"PO-Revision-Date: 2018-07-18 17:08+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -891,7 +891,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s के लिए अतिरिक्त स्रोत कोड विभिन्न अन्य मुफ़्त और मुक्त स्रोत <a href=\"%2$s\">लायसेंस</a> के तहत उपलब्ध है। "
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -901,6 +901,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Disconnect, Inc. द्वारा प्रदान की गई ब्लॉकलिस्ट का भी उपयोग करता है जो <a href=\\\"%2$s\\\">जीएनयू सामान्य लोक लायसेंस v3</a> के तहत अलग और स्वतंत्र काम करता है, और <a "
+"href=\\\"%3$s\\\">यहाँ</a> उपलब्ध है।"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -913,7 +915,7 @@ msgstr "%1$s हमे आपकी जरुरत है!"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "भारत के लिए एक बेहतर प्रोडक्ट विकसित करें"
+msgstr "इंडोनेशिया के लिए एक बेहतर उत्पाद विकसित करें।"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
@@ -940,7 +942,7 @@ msgstr "इसमें कुछ समय लग सकता है"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr "डिफ़ॉल्ट ब्राउज़र सेट करने के लिए टैप करें"
+msgstr "तयशुदा ब्राउज़र सेट करने के लिए दबाएँ"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
@@ -966,12 +968,12 @@ msgstr "थीम बदलने के लिए होम बैकग्र�
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr "बुकमार्क सहेजा गया"
+msgstr "पुस्तचिह्न सहेजा गया"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr "बुकमार्क हटाया गया"
+msgstr "पुस्तचिह्न हटाया गया"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -982,7 +984,7 @@ msgstr "संपादित"
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr "बुकमार्क संपादित करें"
+msgstr "पुस्तचिह्न संपादित करें"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -1003,12 +1005,12 @@ msgstr "स्थान"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr "बुकमार्क अद्यतित"
+msgstr "पुस्तचिह्न अद्यतित"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr "कोई बुकमार्क नहीं"
+msgstr "कोई पुस्तचिह्न नहीं"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
@@ -1041,4 +1043,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr "आपका निजी ब्राउज़िंग इतिहास मिट गया है."
+msgstr "आपका निजी ब्राउज़िंग इतिहास मिटा दिया गया हैं।"
