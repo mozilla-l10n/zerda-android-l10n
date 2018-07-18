@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 18:16+0000\n"
+"PO-Revision-Date: 2018-07-18 07:57+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -157,7 +157,7 @@ msgstr "వాడుక డేటాను పంపించు"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "అందరికీ %1$s‌ని అందించడానికి మెరుగుపరచడానికి కావలసినంత తక్కువ మాత్రమే సేకరించడానికి మొజిల్లా ప్రయత్నిస్తుంది."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -330,7 +330,7 @@ msgstr "%1$s‌ను ఎంచుకున్నందుకు కృతజ్
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "స్వేచ్ఛా, బహిరంగ జాలానికి కట్టుబడ్డ లాభాపేక్ష-లేని మొజిల్లా వారు భారతదేశం కోసం ప్రత్యేకంగా తయారుచేసిన విహరిణి."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -886,14 +886,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "మొజిల్లా ఫౌండేషను, మొజిల్లా, Firefox లేదా %1$s లేదా మరే ఇతర పక్షాల ట్రేడుమార్కులపై హక్కులు గానీ లైసెన్సు గానీ మీకు జారీచేయలేదు. అదనపు సమాచారాన్ని <a href=\"%2$s\">ఇక్కడ</a> చూడవచ్చు."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s కొరకు అదనపు సోర్సు కోడు వివిధ ఇతర స్వేచ్ఛా, ఓపెన్ సోర్సు <a href=\"%2$s\">లైసెన్సుల</a> కింద లభిస్తుంది."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
