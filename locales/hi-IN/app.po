@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 16:41+0000\n"
+"PO-Revision-Date: 2018-07-18 16:51+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -354,33 +354,33 @@ msgstr "सबकुछ स्क्रीनशॉट लें"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "पूरे वेब पृष्ठों का स्क्रीनशॉट लें। एक स्क्रीनशॉट को ऑफ़लाइन देखें (बिना डेटा का उपयोग किए) या वेब पृष्ठ पर फिर से जाने के लिए इसे टैप करें।"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "हमने आपकी प्रतिक्रिया सुनी!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. एक ही समय में %s खोलकर बहु कार्यण!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr "नेक टैब"
+msgstr "विभिन्न टैब"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. %s द्वारा जल्दी से अपनी पसंदीदा साइटों तक पहुंचें"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "उन्हें मुखपटल पर जोड़ा जा रहा है!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -399,7 +399,7 @@ msgstr "अगला"
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr "बुक्मार्क"
+msgstr "पुस्तचिन्ह"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
@@ -407,7 +407,7 @@ msgstr "डाउनलोड"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr "कैश मिटायें"
+msgstr "कैशे मिटायें"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -423,7 +423,7 @@ msgstr "मेरे चित्र"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr "पृष्ठ कैप्चर"
+msgstr "पृष्ठ कैद करें"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -431,11 +431,11 @@ msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr "विज्ञापन अवरुद्ध करें"
+msgstr "विज्ञापन ब्लॉक करें"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "चित्र अवरुद् करें"
+msgstr "चित्र ब्लॉक करें"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -455,19 +455,19 @@ msgstr "अभी नहीं"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "अनुपलब्ध अनुमतियाँ। फ़ायरफ़ॉक्स रॉकेट को आपके स्थान तक पहुँचने की अनुमति दें।"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "स्थान उपलब्ध नहीं है। अपने स्थान तक पहुँचने के लिए अनुमति दें।"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "अनुपलब्ध अनुमतियाँ। फ़ायरफ़ॉक्स रॉकेट को आपके स्थान तक पहुँचने की अनुमति दें।"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "संग्रहण उपलब्ध नहीं है। अपने डिवाइस पर फ़ोटो और फ़ाइलें संग्रहीत करने की अनुमति दें।"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -477,7 +477,7 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr ""
+msgstr "%1$s आपके स्थान तक पहुंचना चाहते हैं।"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -485,7 +485,7 @@ msgstr "अनुमति दें"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "अवरुद्ध करें"
+msgstr "ब्लॉक करें"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -514,7 +514,7 @@ msgstr "कुकीज़"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr "कैश"
+msgstr "कैशे"
 
 #. Download list
 msgctxt "no_downloads"
@@ -535,7 +535,7 @@ msgstr "फ़ाइल नहीं मिल रहा"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr "फाइल मिट नहीं सका ।"
+msgstr "फाइल मिट नहीं सका।"
 
 #, c-format
 msgctxt "download_completed"
@@ -597,12 +597,12 @@ msgstr "एसडी कार्ड"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "इंटरनल स्टोरेज"
+msgstr "इंटरनल संग्रहण"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "राउज़िंग इतिहास मिटायें"
+msgstr "ब्राउज़िंग इतिहास मिटायें"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -686,7 +686,7 @@ msgstr "साझा करें"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "कोई एसडी कार्ड नहीं पाया गया । फाइल को इंटरनल स्टोरेज में सहेज दिया गया ।"
+msgstr "कोई एसडी कार्ड नहीं पाया गया। फाइल को इंटरनल संग्रहण में सहेज दिया गया।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
