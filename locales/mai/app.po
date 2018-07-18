@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 18:51+0000\n"
+"PO-Revision-Date: 2018-07-18 19:01+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -346,7 +346,7 @@ msgstr "डेटा बचाबू = टका बचाबू"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ट्रैकिंग विज्ञापन केँ ब्लॉक करै सँ ई ब्राउज़िंग केँ गति देत अछि, आओर डेटा बचबैत अछि सेहो. जँ अहाँ छवि केँ ब्लॉक करैत छी तँ आओर भी सहेजू."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -354,7 +354,7 @@ msgstr "सभक स्क्रीनशॉट लिअ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "सौंसे वेब पृष्ठक स्क्रीनशॉट लिअ. एकटा स्क्रीनशॉट केँ ऑफ़लाइन देखू (बिनु डेटा उपयोग कएने) या वेब पृष्ठ पर फिनु सँ जाए कलेल एकरा टैप करू."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -455,7 +455,7 @@ msgstr "अखन नहि"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति दिअ."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -477,7 +477,7 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr ""
+msgstr "%1$s अहाँक स्थान धरि पहुँचब चाहैत अछि."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -849,6 +849,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- तेज आओर हलुक\n"
+"- डेटा बचाबैबला\n"
+"- शक्तिशाली स्क्रीनशॉट"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -880,13 +883,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"अहाँक मोज़िला फाउंडेशन अथवा मोज़िला, फ़ायरफ़ॉक्स या %1$s नाम या लोगो सहित, कोनो भी आन पक्ष क व्यापार चिह्न केँ कोनो अधिकार या लाइसेंस नहि देल गेल अछि. बेसी जानकारी <a href=\"%2$s\">एतय</a>भेंट सकैत "
+"अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s लेली अतिरिक्त स्रोत कोड अनेक आन मुफ़्त आओर मुक्त स्रोत <a href=\"%2$s\">लायसेंस</a> क तहत उपलब्ध अछि. "
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -896,6 +901,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Disconnect, Inc. द्वारा प्रदान कएल गेल ब्लॉकलिस्ट क भी उपयोग करैत अछि जे <a href=\\\"%2$s\\\">जीएनयू सामान्य पब्लिक लायसेंस v3</a> क तहत अलग आओर स्वतंत्र काज करैत अछि, आओर <a "
+"href=\\\"%3$s\\\">एतय</a> उपलब्ध अछि."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
