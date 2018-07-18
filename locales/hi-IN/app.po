@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 16:18+0000\n"
-"Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
+"PO-Revision-Date: 2018-07-18 16:31+0000\n"
+"Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "रद्द करें"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr "ओके"
+msgstr "ठीक"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -41,7 +41,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "परिचय"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -49,11 +49,11 @@ msgstr "सहायता"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr "आपके अधिकार"
+msgstr "आपका अधिकार"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr "राय दें"
+msgstr "प्रतिक्रिया दें"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
@@ -63,7 +63,7 @@ msgstr "दोस्तों के साथ साझा करें"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "इससे साझा करें"
+msgstr "के माध्यम से साझा करें"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -77,7 +77,7 @@ msgstr "{{app_name}} में खोजें"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s मोज़िला द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र है । हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है ।"
+msgstr "%1$s मोज़िला द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र हैं। हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना हैं।"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -89,7 +89,7 @@ msgstr "समर्थन"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr "आपके अधिकार / लाइसेंस"
+msgstr "आपका अधिकार / लाइसेंस"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -98,7 +98,7 @@ msgstr "गोपनीयता सूचना"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr "डिफ़ॉल्ट खोज इंजन"
+msgstr "तयशुदा खोज इंजन"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -108,16 +108,16 @@ msgstr "भाषा"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "सिस्टम डिफ़ॉल्ट"
+msgstr "प्रणालीगत तयशुदा"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr "डिफ़ॉल्ट खोज इंजन"
+msgstr "तयशुदा खोज इंजन"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "चित्र अवरुद्ध करें"
+msgstr "चित्र अवरोधित करें"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -134,7 +134,7 @@ msgstr "में डाउनलोड्स को सहेजें"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "डिफ़ॉल्ट ब्राउज़र बनायें"
+msgstr "तयशुदा ब्राउज़र बनायें"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -142,7 +142,7 @@ msgstr "डिफ़ॉल्ट ब्राउज़र बनायें"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "सेटिंग्स परिवर्तित हो रहा है…"
+msgstr "सेटिंग्स बदले जा रहे हैं…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -832,16 +832,16 @@ msgstr "5 स्टार रेट करें"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "नहीं , राय भेजें ।"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "राय दें"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "दोस्तों के साथ {{app_name}} साझा करें!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -849,10 +849,13 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- तीव्र एवं हल्का\n"
+"- डेटा बचानेवाला\n"
+"- शक्तिशाली स्क्रीनशॉट"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "साझा करें"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
@@ -902,82 +905,82 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "%1$s हमे आपकी जरुरत है!"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "भारत के लिए एक बेहतर प्रोडक्ट विकसित करें"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "नया टैब खुला"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "स्विच"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "सेटिंग्स परिवर्तित् किया जा रहा है…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "इसमें कुछ समय लग सकता है"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "डिफ़ॉल्ट ब्राउज़र सेट करने के लिए टैप करें"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "सभी बंद करें"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "सभी टैब बंद करें?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "अपने जीवन रंगें!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "थीम बदलने के लिए होम बैकग्राउंड पर डबल क्लिक करें ।"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "बुकमार्क सहेजा गया"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "बुकमार्क हटाया गया"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "संपादित"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "बुकमार्क संपादित करें"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -998,31 +1001,31 @@ msgstr "स्थान"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "बुकमार्क अद्यतित"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "कोई बुकमार्क नहीं"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "संपादन"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "निजी ब्राउज़िंग"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "निजी ब्राउज़िंग इतिहास मिटाएं"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
