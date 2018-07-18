@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 16:31+0000\n"
+"PO-Revision-Date: 2018-07-18 16:41+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -157,7 +157,7 @@ msgstr "उपयोग डेटा भेजें"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोज़िला मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए जरूरत है ।"
+msgstr "मोज़िला मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए जरूरत है।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -236,20 +236,20 @@ msgstr "वेबसाइट लोडिंग रोकें"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "पिछले एप्प पर वापस जाएँ"
+msgstr "पिछले एप पर वापस जाएँ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ट्रैकर्स को अवरुद्ध करें"
+msgstr "ट्रैकर्स को ब्लॉक करें"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "लिंक खोलने हेतु कोई एप्प तलाशें"
+msgstr "लिंक खोलने हेतु कोई एप तलाशें"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -258,7 +258,7 @@ msgstr "लिंक खोलने हेतु कोई एप्प तल�
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "आपके उपकरण पर कोई भी ऐप इस लिंक को खोलने में सक्षम नहीं हैं।आप %2$s को खोजने हेतु एक ऐप के लिए %1$s को छोड़ सकते हैं जो कर सकता हैं।"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -283,7 +283,7 @@ msgstr "पता समझा नहीं गया था"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है ।"
+msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -303,7 +303,7 @@ msgstr "चित्र साझा करें"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "चित्र पते कॉपी करें"
+msgstr "चित्र पता कॉपी करें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -326,7 +326,7 @@ msgstr "नये टैब में चित्र खोलें"
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr "%1$s चुनने के लिए धंयवाद"
+msgstr "%1$s चुनने के लिए धन्यवाद"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
@@ -334,23 +334,23 @@ msgstr "मोज़िला द्वारा भारत के ज़र�
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "पहले से तेज ब्राउज़ करें"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची में टर्बो प्रणाली बटन को बंद करें।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "डेटा सहेजें = पैसे बचाएँ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करना न केवल ब्राउज़िंग को गति देता है, यह डेटा बचाता है। जब आप छवियों को ब्लॉक करते हैं तो और भी सहेजें।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "सबकुछ स्क्रीनशॉट लें"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "नेक टैब"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -1031,7 +1031,7 @@ msgstr "निजी ब्राउज़िंग इतिहास मिट
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "खोलें"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1039,4 +1039,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "आपका निजी ब्राउज़िंग इतिहास मिट गया है."
