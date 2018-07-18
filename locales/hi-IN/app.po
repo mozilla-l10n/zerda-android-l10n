@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 16:11+0000\n"
+"PO-Revision-Date: 2018-07-18 16:18+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}} में खोजें"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s मोज़िला द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र है | हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है |"
+msgstr "%1$s मोज़िला द्वारा निर्मित तीव्र तथा हल्का ब्राउज़र है । हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है ।"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -157,7 +157,7 @@ msgstr "उपयोग डेटा भेजें"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोज़िला मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए जरूरत है |"
+msgstr "मोज़िला मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए जरूरत है ।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -283,7 +283,7 @@ msgstr "पता समझा नहीं गया था"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है |"
+msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है ।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -330,7 +330,7 @@ msgstr "%1$s चुनने के लिए धंयवाद"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "मोज़िला द्वारा भारत के ज़रूरत के मुताबिक बनाया गया ब्राउज़र, गैर-लाभकारी एक मुफ़्त और उन्मुक्त वेब के लिए प्रतिबद्ध |"
+msgstr "मोज़िला द्वारा भारत के ज़रूरत के मुताबिक बनाया गया ब्राउज़र, गैर-लाभकारी एक मुफ़्त और उन्मुक्त वेब के लिए प्रतिबद्ध ।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -535,7 +535,7 @@ msgstr "फ़ाइल नहीं मिल रहा"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr "फाइल मिट नहीं सका |"
+msgstr "फाइल मिट नहीं सका ।"
 
 #, c-format
 msgctxt "download_completed"
@@ -686,7 +686,7 @@ msgstr "साझा करें"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "कोई एसडी कार्ड नहीं पाया गया | फाइल को इंटरनल स्टोरेज में सहेज दिया गया |"
+msgstr "कोई एसडी कार्ड नहीं पाया गया । फाइल को इंटरनल स्टोरेज में सहेज दिया गया ।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -694,7 +694,7 @@ msgstr "फ़ाइल एसडी कार्ड में सहेज ग�
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "एसडी कार्ड लगभग भर चूका है | फाइल को इंटरनल स्टोरेज में सहेज दिया गया |"
+msgstr "एसडी कार्ड लगभग भर चूका है । फाइल को इंटरनल स्टोरेज में सहेज दिया गया ।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -715,7 +715,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "  संपूर्ण वेब पेज कैप्चर करने के लिए मेनू पर |"
+msgstr "  संपूर्ण वेब पेज कैप्चर करने के लिए मेनू पर ।"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -778,7 +778,7 @@ msgstr "कैश मिटाने में अक्षम"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "टोरेज पहुंच से बाहर | डाउनलोड रद्द किया गया |"
+msgstr "टोरेज पहुंच से बाहर । डाउनलोड रद्द किया गया ।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -797,17 +797,17 @@ msgstr "रीनशॉट मिटा दिया गया"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "रीनशॉट प्रदर्शित नहीं किया जा सकता"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटाएँ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "प्रोडक्ट अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -816,19 +816,19 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}}पसंद आया?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "हमारे प्रोडक्ट को चुनने के लिए धन्यवाद । आपका प्रतिक्रिया हमारे लिए महत्वपूर्ण है ।"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "हाँ，5 स्टार रेट करें!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "5 स्टार रेट करें"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
