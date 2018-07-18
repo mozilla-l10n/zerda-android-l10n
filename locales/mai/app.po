@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-17 23:58+0000\n"
+"PO-Revision-Date: 2018-07-18 00:10+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mai\n"
@@ -258,7 +258,7 @@ msgstr "एकटा ऐप खोजू जे लिंक खोलि सक
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "अहाँक डिवाइस केरो कोनो एप ई लिंक केँ खोलब मे समर्थ नहि अछि. अहाँ एप खोजए कलेल %1$s छोड़ि सकैत छी %2$s जे एप खोजि सकैत अछि."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -869,7 +869,7 @@ msgstr "%1$s एकटा मुफ्त आरू ओपन सोर्स �
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "मोजिला पब्लिक साइसेंस </a> आओर आन ओपन सोर्स लाइसेंस %1$s अहाँक लेल उपलब्ध कराएल गेल अछि<a href=\"%2$s\">शर्त केरो अधीन."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
