@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 19:38+0000\n"
+"PO-Revision-Date: 2018-07-19 19:51+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -354,7 +354,7 @@ msgstr "ಎಲ್ಲವನ್ನೂ ತೆರೆಚಿತ್ರವಾಗಿದ�
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "ಇಡೀ ಜಾಲ ಪುಟಗಳ ತೆರೆಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ತೆರೆಚಿತ್ರವನ್ನು ಆಫ್‍ಲೈನ್ ನೋಡಿ (ಡೇಟಾ ಬಳಸದೆ) ಅಥವಾ ಜಾಲ ಪುಟವನ್ನು ಪುನ: ವೀಕ್ಷಿಸಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -365,7 +365,7 @@ msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕೇ�
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. ಹಲವು ಕೆಲಸಗಳನ್ನು ಒಮ್ಮೆಲೆ %s ತೆರೆಯುವುದರಿಂದ ಮಾಡಿ!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -376,7 +376,7 @@ msgstr "ಹೆಚ್ಚಿನ ಟ್ಯಾಬ್‍ಗಳು"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. ನಿಮ್ಮ ಮೆಚ್ಚಿನ ತಾಣಗಳನ್ನು %s ವೀಕ್ಷಿಸಿ"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
@@ -455,19 +455,19 @@ msgstr "ಈಗ ಬೇಡ"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "ಅನುಮತಿಗಳು ಕಾಣೆಯಾಗಿವೆ. ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್‍ಗೆ ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು ಅನುಮತಿಸಿ."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "ಸ್ಥಳ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ. ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು ಅನುಮತಿಸಿ."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "ಅನುಮತಿಗಳು ಕಾಣೆಯಾಗಿವೆ. ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್‍ಗೆ ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು ಅನುಮತಿಸಿ."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "ಶೇಖರಣೆ ಲಭ್ಯವಿಲ್ಲ. ಚಿತ್ರಗಳನ್ನು ಮತ್ತು ಕಡತಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಶೇಖರಿಸಲು ಅನುಮತಿಸಿ."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -815,7 +815,7 @@ msgstr "ಉತ್ಪನ್ನದ ಪರಿಷ್ಕರಣೆಯ ಸೂಚನೆ"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್ ಅನ್ನು ನಿಮಗೆ ಮತ್ತು ಎಲ್ಲರಿಗಾಗಿ ಉತ್ತಮಗೊಳಿಸಲು, ನಾವು ಖಾಸಗಿತನದ ನೀತಿಗಳಲ್ಲಿ ಕೆಲವೊಂದು ಬದಲಾವಣೆಗಳನ್ನು ತಂದಿದ್ದೇವೆ. ಹೆಚ್ಚಿಗೆ ತಿಳಿಯಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -824,7 +824,7 @@ msgstr "{{app_name}} ಇಷ್ಟವೇ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "ನಮ್ಮ ಉತ್ಪನ್ನವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ನಮಗೆ ತುಂಬಾ ಮುಖ್ಯವಾಗುತ್ತದೆ."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -869,7 +869,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s ಒಂದು ಮುಕ್ತ ಹಾಗೂ ಸ್ವತಂತ್ರ ತಂತ್ರಾಂಶವಾಗಿದ್ದು ಮೋಝಿಲ್ಲಾ ಮತ್ತು ಇತರೆ ಕೊಡುಗೆದಾರರಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
