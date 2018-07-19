@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 19:04+0000\n"
+"PO-Revision-Date: 2018-07-19 19:20+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -478,6 +478,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s\n"
+"ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪ್ರವೇಶಿಸಬಯಸುತ್ತಿದೆ."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -778,7 +780,7 @@ msgstr "ಕ್ಯಾಶೆ ತೆರವುಗೊಳಲು ಸಾಧ್ಯವಾ�
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "ಶೇಖರಣೆ ಲಭ್ಯವಿಲ್ಲ. ಡೌನ್‍ಲೋಡ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
