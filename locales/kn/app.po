@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 13:49+0000\n"
-"Last-Translator: Yogi (ಯೋಗಿ) <csyogech@gmail.com>\n"
+"PO-Revision-Date: 2018-07-19 18:29+0000\n"
+"Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
@@ -258,7 +258,7 @@ msgstr "ಕೊಂಡಿಯನ್ನು ತೆರೆಯುವ ಆಪ್ಅನ್�
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ ಯಾವುದೇ ಅನ್ವಯಗಳು ಈ ಕೊಂಡಿಯನ್ನು ತೆರೆಯಲಾಗಲಿಲ್ಲ. ನೀವು %1$s ನಿಂದ ಹೊರ ಹೊರಟು ಇದನ್ನು ತೆರೆಯಬಲ್ಲ %2$s ವನ್ನು ಹುಡುಕಬಹುದು."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -283,7 +283,7 @@ msgstr "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳ�
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "ಈ ವಿಳಾಸವನ್ನು ತೆರೆಯಲು ನೀವು ಇತರೆ ತಂತ್ರಾಂಶವನ್ನು ಸ್ಥಾಪಿಸಬೇಕಾಗಬಹುದು."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
