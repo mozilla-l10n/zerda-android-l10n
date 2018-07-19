@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 19:20+0000\n"
+"PO-Revision-Date: 2018-07-19 19:28+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -380,7 +380,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "ಇವುಗಳನ್ನು ಮುಖ ಪರದೆಗೆ ಸೇರಿಸಲಾಗುತ್ತಿದೆ!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -688,7 +688,7 @@ msgstr "ಹಂಚು"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "ಎಸ್‍ಡಿ ಕಾರ್ಡ್ ಕಂಡು ಬಂದಿಲ್ಲ. ಕಡತವನ್ನು ಆಂತರಿಕ ಶೇಖರಣೆಯಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -696,7 +696,7 @@ msgstr "ಕಡತವನ್ನು ಎಸ್‍ಡಿ ಕಾರ್ಡ್‍ಗೆ 
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "ಎಸ್‍ಡಿ ಕಾರ್ಡ್ ಬಹುತೇಕ ತುಂಬಿದೆ. ಕಡತವನ್ನು ಆಂತರಿಕ ಶೇಖರಣೆಯಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -718,6 +718,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" ಇಡೀ ಜಾಲ ಪುಟವನ್ನು ಸೆರೆಹಿಡುಯುವ \n"
+"ಮೆನುವಿನ ಮೇಲೆ."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -961,7 +963,7 @@ msgstr "ನಿಮ್ಮ ಜೀವನವನ್ನು ವರ್ಣಮಯವಾಗ�
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "ಥೀಮ್‍ಗಳನ್ನು ಬದಲಾಯಿಸಲು ಮುಖಪುಟದ ಹಿಂಬದಿ ಎರಡು ಸಲ ಒತ್ತಿ."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
