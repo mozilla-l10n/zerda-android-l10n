@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 19:28+0000\n"
+"PO-Revision-Date: 2018-07-19 19:38+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -338,7 +338,7 @@ msgstr "ಹಿಂದಿನಕ್ಕಿಂತೆ ವೇಗವಾಗಿ ಜಾಲ�
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "ಟರ್ಬೋ ಸ್ಥಿತಿ ಬಳಸಿ ಜಾಲಾಟದ ಜಾಡುಹಿಡಿಯುವ ಜಾಹೀರಾತುಗಳನ್ನು ತಡೆಯುವುದರ ಮೂಲಕ ಮಿಂಚಿನವೇಗಗಳಲ್ಲಿ ಜಾಲಾಡಿ. ನಿಮ್ಮ ಜಾಲತಾಣಗಳು ಮುರಿದಂತೆ ಕಂಡುಬಂದಲ್ಲಿ, ಮೆನುವಿನಲ್ಲಿ ಟರ್ಬೋ ಸ್ಥಿತಿಯನ್ನು ತಟ್ಟಿ ಸ್ಥಗಿತಗೊಳಿಸಿ."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -346,7 +346,7 @@ msgstr "ಡೆಟಾ ಉಳಿತಾಯ = ದುಡ್ಡು ಉಳಿತಾಯ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ಜಾಡುಹಿಡಿಯುವ ಜಾಹೀರಾತುಗಳನ್ನು ತಡೆಯುವುದು ಜಾಲಾಟದ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ದತ್ತಾಂಶವನ್ನು ಉಳಿಸುತ್ತದೆ. ಚಿತ್ರಗಳನ್ನೂ ತಡೆಹಿಡಿಯುವುದರಿಂದ ಇನ್ನೂ ಹೆಚ್ಚಿಗೆ ಉಳಿಸಬಹುದು."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
