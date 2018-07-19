@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 18:29+0000\n"
+"PO-Revision-Date: 2018-07-19 18:41+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -330,7 +330,7 @@ msgstr "%1$s ಆಯ್ಕೆಮಾಡಿದ್ದಕ್ಕೆ ವಂದನೆಗ
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತ ಸಂಸ್ಥೆಯಾದ, ಮೊಜಿಲ್ಲಾದಿಂದ ಇಂಡೋನೇಶಿಯಾಗಾಗಿ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಒಂದು ಬ್ರೌಸರ್."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "ಹೆಚ್ಚಿನ ಟ್ಯಾಬ್‍ಗಳು"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -407,7 +407,7 @@ msgstr "ಡೌನ್‌ಲೋಡ್‌ಗಳು"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "ಕ್ಯಾಶೆ ತೆರವುಗೊಳಿಸಿ"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -423,7 +423,7 @@ msgstr "ನನ್ನ ಫೋಟೋಗಳು‍"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "ಪುಟವನ್ನು ಸೆರೆಹಿಡಿ"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -431,7 +431,7 @@ msgstr "ಟರ್ಬೋ ಮೋಡ್"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "ಜಾಹಿರಾತು ನಿರ್ಬಂಧಿಸು"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
@@ -540,12 +540,12 @@ msgstr ""
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ಡೌನ್ಲೋಡ್ ಆಗಿದೆ"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s ಅನ್ನು ಅಳಿಸಲಾಗಿದೆ"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
@@ -593,16 +593,16 @@ msgstr "ಗೊತ್ತಿರದ"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "ಎಸ್‍ಡಿ ಕಾರ್ಡ್"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "ಆಂತರಿಕ ಶೇಖರಣೆ"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "ತೆರೆವುಗೊಳಿಸು ಜಾಲಾಡು ಇತಿಹಾಸ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -648,12 +648,12 @@ msgstr "ತೆರೆಚಿತ್ರ ಉಳಿಸು"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "ತೆರೆಚಿತ್ರ ಸೆರೆಹಿಡಿಯಲು ವಿಫಲವಾಗಿದೆ"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "ಇಡೀ ಪುಟದ ತೆರೆಚಿತ್ರ ಸೆರೆಹಿಡಿಯಲಾಗುತ್ತಿದೆ…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -690,7 +690,7 @@ msgstr ""
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ಕಡತವನ್ನು ಎಸ್‍ಡಿ ಕಾರ್ಡ್‍ಗೆ ಉಳಿಸಲಾಗಿದೆ"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
