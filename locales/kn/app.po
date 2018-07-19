@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 20:01+0000\n"
+"PO-Revision-Date: 2018-07-19 20:03+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -895,7 +895,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s ಗೆ ಹೆಚ್ಚಿನ ಸೋರ್ಸ್ ಕೋಡ್ ಅನೇಕ ಇತರೆ ಮುಕ್ತ ಮತ್ತು ಸ್ವತಂತ್ರ ತಂತ್ರಾಂಶ <a href=\"%2$s\">ಪರವಾನಗಿಗಳ</a> ಮೂಲಕ ಲಭ್ಯವಿವೆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
