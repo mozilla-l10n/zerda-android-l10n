@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 18:51+0000\n"
+"PO-Revision-Date: 2018-07-19 19:01+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕೇಳಿದ್ದೇವೆ!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -490,7 +490,7 @@ msgstr "ನಿರ್ಬಂಧಿಸು"
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
@@ -527,15 +527,15 @@ msgstr "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "ಡೌನ್‍ಲೋಡ್ ಪ್ರೋಟೋಕೋಲ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "ಕಡತವನ್ನು ಹುಡುಕಲಾಗಿಲ್ಲ"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "ಕಡತವನ್ನು ಅಳಿಸಲಾಗಿಲ್ಲ."
 
 #, c-format
 msgctxt "download_completed"
@@ -729,12 +729,12 @@ msgstr "ದಿನಾಂಕ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "ರೆಸಲ್ಯೂಶನ್: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "ಗಾತ್ರ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
@@ -753,28 +753,28 @@ msgstr "ಈ ಚಿತ್ರ ಅಳಿಸಬೇಕೆ?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "ಅಪ್ಲೋಡ್ ಮಾಡಲು ಕಡತವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "ಟರ್ಬೋ ಸ್ಥಿತಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "ಟರ್ಬೋ ಸ್ಥಿತಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "ಈಗ ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "ಈಗ ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "ಕ್ಯಾಶೆ ತೆರವುಗೊಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -785,7 +785,7 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s ಕ್ಯಾಶೆ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -793,11 +793,11 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "ತೆರೆಚಿತ್ರ ಅಳಿಸಲಾಗಿದೆ"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "ತೆರೆಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -807,7 +807,7 @@ msgstr "ತೆಗೆದು ಹಾಕು"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "ಉತ್ಪನ್ನದ ಪರಿಷ್ಕರಣೆಯ ಸೂಚನೆ"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -816,7 +816,7 @@ msgstr ""
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
 msgid "Love {{app_name}}?"
-msgstr ""
+msgstr "{{app_name}} ಇಷ್ಟವೇ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -934,7 +934,7 @@ msgstr "ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಿಸುವುದು�
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "ಇದು ಇನ್ನಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಬಹುದು"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
@@ -954,7 +954,7 @@ msgstr "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚಬ�
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಜೀವನವನ್ನು ವರ್ಣಮಯವಾಗಿಸಿ!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
