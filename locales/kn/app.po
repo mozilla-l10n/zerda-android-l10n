@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 18:41+0000\n"
+"PO-Revision-Date: 2018-07-19 18:51+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "ಎಲ್ಲವನ್ನೂ ತೆರೆಚಿತ್ರವಾಗಿದೆ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -739,16 +739,16 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "ಶೀರ್ಷಿಕೆ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "ಈ ಚಿತ್ರ ಅಳಿಸಬೇಕೆ?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -824,24 +824,24 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "ಹೌದು, 5 ನಕ್ಷತ್ರಗಳ ಬೆಲೆಕಟ್ಟಿ!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "ಬೆಲೆ 5 ನಕ್ಷತ್ರಗಳು"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
-msgstr ""
+msgstr "ಇಲ್ಲ, ಅಭಿಪ್ರಾಯವನ್ನು ಕಳುಹಿಸಿ."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "ಪ್ರತಿಕ್ರಿಯ"
 
 #. In-app Promotion, Share app
 msgctxt "share_app_dialog_text_title"
 msgid "Share {{app_name}} with friends!"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಗೆಳೆಯರೊಂದಿಗೆ {{app_name}} ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -849,6 +849,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- ವೇಗ ಮತ್ತು ಹಗುರವಾದದ್ದು\n"
+"- ದತ್ತಾಂಶ ಉಳಿಸುವಂತದ್ದು\n"
+"- ಶಕ್ತಿಯುತವಾದ ತೆರೆಚಿತ್ರಗಳು"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -902,7 +905,7 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "ನಮಗೆ ನಿಮ್ಮ ಅಗತ್ಯವಿದೆ! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
