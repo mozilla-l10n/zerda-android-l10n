@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-18 13:25+0000\n"
-"Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
+"PO-Revision-Date: 2018-07-19 14:29+0000\n"
+"Last-Translator: Mehul Patel <iamrowdymehul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -872,7 +872,7 @@ msgstr "%1$s Mozilla અને અન્ય યોગદાનકર્તાઓ
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s એ <a href=\"%2$s\">Mozilla સાર્વજનિક પરવાનગીની શરતો પર </a> અને બીજી ઓપનસોર્સ પરવાનગીનાં આધાર પર તમારાં માટે ઉપ્લબ્ધ કરવામાં આવેલ છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -882,14 +882,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "તમને Mozilla ફાઉન્ડેશન અથવા અન્ય કોઇ પક્ષ, Mozilla, Firefox કે %1$s નામ અથવા લોગો સહિતનાં વ્યાપાર ચિહ્નનાં કોઇ અધિકાર કે પરવાનગી આપવામાં આવેલ નથી. વધારાની માહિતી <a href=\"%2$s\">અહિંયા મળશે</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "બીજા વિભિન્ન પ્રકારનાં નિઃશુલ્ક અને ઓપન સોર્સ<a href=\"%2$s\">ની પરવાનગી હેઠળ</a>%1$s માટે વધારાનાં સોર્સ કોડ ઉપ્લબ્ધ છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -899,6 +899,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s એ Disconnect, Inc. દ્વારા આપવામાં આવેલ બ્લોકલિસ્ટનો ઉપયોગ પણ કરે છે કે જે <a href=\"%2$s\">GNU જનરલ પબ્લિક લાયસેંસ v3</a>,હેઠળ અલગથી અને સ્વતન્તર રીતે કામ કરે છે, અને અહિંયા <a "
+"href=\"%3$s\">ઉપ્લબ્ધ છે</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
