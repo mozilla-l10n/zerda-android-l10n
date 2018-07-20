@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-20 13:49+0000\n"
+"PO-Revision-Date: 2018-07-20 13:54+0000\n"
 "Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -193,13 +193,13 @@ msgstr "सुरक्षित संपर्क"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "लोडिंग"
+msgstr "लोड हो रहा है"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "वेबसाइट लोड हो गया"
+msgstr "वेबसाइट लोड हो चूका"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -249,7 +249,7 @@ msgstr "ट्रैकर्स को ब्लॉक करें"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "लिंक खोलने हेतु कोई एप तलाशें"
+msgstr "लिंक खोलने हेतु कोई एप्प तलाशें"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -477,7 +477,9 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr "%1$s आपके स्थान तक पहुंचना चाहते हैं।"
+msgstr ""
+"%1$s\n"
+"आपके स्थान की जानकारी प्राप्त करना चाहता है."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
