@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-21 03:51+0000\n"
+"PO-Revision-Date: 2018-07-21 06:58+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_IN\n"
@@ -338,49 +338,49 @@ msgstr "আগের চেয়ে দ্রুত ব্রাউজ কর�
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "টার্বো মোড ব্যবহার করে ট্র্যাকিং করার বিজ্ঞাপনগুলিকে ব্লক করুন যাতে আপনি ঝড়ের গতিতে ব্রাউজ করতে পারেন। সাইট ঠিক ভাবে দেখা না গেলে, মেনুতে টার্বো মোড সুইচটিকে বন্ধ করুন।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "ডেটা সংরক্ষণ = অর্থ সংরক্ষণ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ব্লক করা ট্র্যাকিং বিজ্ঞাপনগুলি শুধুমাত্র ব্রাউজিং-র গতি বৃদ্ধি করে না সাথে, এটি ডেটা সংরক্ষণ করে। যদি আপনি ছবি ব্লক করেন তাহলে আরও সংরক্ষণ করতে পারেন।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "সবকিছুর স্ক্রিনশট নিন"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "পুরো ওয়েব পেজগুলির স্ক্রিনশটগুলি নিন। একটি স্ক্রিনশটকে অফলাইনে দেখুন (ডেটা ব্যবহার না করে) অথবা ওয়েবপেজটির পুনরারম্ভ করতে ট্যাপ করুন।"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "আমরা আপনার প্রতিক্রিয়া শুনেছি!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. একই সময়ে %s খুলে রেখে অন্য কাজ করতে পারেন!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "একাধিক ট্যাব"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. %s দ্বারা আপনার প্রিয় সাইটগুলিকে দ্রুত অ্যাক্সেস করুন"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "হোম স্ক্রিনে তাদের যোগ করুন!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -455,7 +455,7 @@ msgstr "এখন নয়"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "অনুমতি নেই। আপনার অবস্থান অ্যাক্সেস করতে Firefox Rocket কে অনুমতি দিন।"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
