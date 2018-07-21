@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-21 03:31+0000\n"
+"PO-Revision-Date: 2018-07-21 03:50+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_IN\n"
@@ -77,7 +77,7 @@ msgstr "{{app_name}} এ খুঁজুন"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s Mozilla-র তৈরি একটি দ্রুত এবং হালকা ব্রাউজার। আমাদের লক্ষ্য হল একটি ভালো, মুক্ত ইন্টারনেটের উন্নতিবিধান করা।"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -157,7 +157,7 @@ msgstr "ব্যবহারের তথ্য পাঠান"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla কেবলমাত্র সেটাই সংগ্রহ করার চেষ্টা করে যা প্রত্যেকের জন্য %1$sকে প্রদান এবং উন্নতি করতে লাগে।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -283,7 +283,7 @@ msgstr "ঠিকানাটি বোধগম্য হয়নি"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "আপনি এই ঠিকানাটি খুলতে অন্যান্য সফ্টওয়্যার ইনস্টল করতে পারেন।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -330,7 +330,7 @@ msgstr "%1$s পছন্দ করার জন্য ধন্যবাদ"
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "ইন্দোনেশিয়ার জন্য একটি ব্রাউসার টেলর যা Mozilla-র তৈরি, একটি বিনামূল্যে এবং মুক্ত ওয়েবের জন্য প্রতিশ্রুতিবদ্ধ অলাভজনক সংস্থা।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -636,14 +636,14 @@ msgstr "তালিকা থেকে মুছে ফেলুন"
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr "ফাইল মুছে ফেলা হবে"
+msgstr "ফাইল মুছে ফেলুন"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "স্ক্রিনশট সংরক্ষিত হয়েছে"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -660,28 +660,28 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "ভিউ"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "সম্পাদনা"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "মুছুন"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "শেয়ার"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "তথ্য"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
@@ -802,7 +802,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "অপসারণ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -921,7 +921,7 @@ msgstr ""
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "পরিবর্তন"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -972,63 +972,63 @@ msgstr ""
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "সম্পাদনা"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "বুকমার্ক সম্পাদনা করুন"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "অবস্থান"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "বুকমার্ক আপডেট করা আছে"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "বুকমার্ক নেই"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "সম্পাদনা"
 
 #. Private Browsing
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "ব্যক্তিগত ব্রাউজিং"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "ব্রাউজিং-র পূর্ববর্তী তথ্য মুছে দিন"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "খুলুন"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1037,3 +1037,5 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
+"আপনার ব্যক্তিগত ব্রাউজিংয়ের \n"
+"পূর্ববর্তী তথ্য মুছে ফেলা হয়েছে।"
