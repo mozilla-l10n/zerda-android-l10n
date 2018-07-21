@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-21 06:58+0000\n"
+"PO-Revision-Date: 2018-07-21 08:08+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_IN\n"
@@ -459,15 +459,15 @@ msgstr "অনুমতি নেই। আপনার অবস্থান �
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "অবস্থান উপলব্ধ নেই। আপনার অবস্থান অ্যাক্সেস করার অনুমতি দিন।"
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "অনুমতি নেই। আপনার অবস্থান অ্যাক্সেস করতে Firefox Rocket কে অনুমতি দিন।"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "স্টোরেজ উপলব্ধ নেই। আপনার ডিভাইসে ফটো এবং ফাইলগুলি সঞ্চয় করার অনুমতি দিন।"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -478,6 +478,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s \n"
+"আপনার অবস্থান অ্যাক্সেস করতে চায়।"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -527,29 +529,29 @@ msgstr "ডাউনলোড করা হচ্ছে…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "ডাউনলোড করা প্রোটোকল সমর্থিত নয়"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "ফাইলটি খুঁজে পাচ্ছি না"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "ফাইলটি মুছতে পারছি না।"
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ডাউনলোড করা হয়েছে"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s মুছে ফেলা হয়েছে"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "ডাউনলোড বাতিল হয়েছে"
 
 msgctxt "undo"
 msgid "Undo"
@@ -648,12 +650,12 @@ msgstr "স্ক্রিনশট সংরক্ষিত হয়েছে"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "স্ক্রিনশট ক্যাপচার করতে ব্যর্থ"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "সম্পূর্ণ পেজের স্ক্রিনশট ক্যাপচার করা হচ্ছে..."
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -686,27 +688,27 @@ msgstr "শেয়ার"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "কোন SD কার্ডকে সনাক্ত করা হয়নি। ফাইলটিকে অভ্যন্তরীণ স্টোরেজে সংরক্ষণ করা হয়েছে।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "ফাইলটিকে SD কার্ডে সংরক্ষিত হয়েছে"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD কার্ড প্রায় ভর্তি। ফাইলটিকে অভ্যন্তরীণ স্টোরেজে সংরক্ষণ করা হয়েছে।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "স্ক্রিনশট নেই"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "ট্যাপ"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -716,6 +718,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" করুন মেনুতে একটি সম্পূর্ণ\n"
+"ওয়েব পেজ ক্যাপচার করতে।"
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
@@ -724,80 +728,80 @@ msgstr "তথ্য"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "তারিখ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "রেজল্যুশন: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "সাইজ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "শিরোনাম: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "এই ছবিটি মুছে ফেলবেন কি?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "আপলোড করার জন্য একটি ফাইল চয়ন করুন"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "টার্বো মোড সক্রিয় আছে"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "টার্বো মোড নিষ্ক্রিয় আছে"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "এখন ছবি ব্লক করা হচ্ছে"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "এখন ছবি দেখানো হচ্ছে"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "ক্যাশে সাফ করতে অক্ষম"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "স্টোরেজ অপ্রাপ্য। ডাউনলোড বাতিল হয়েছে।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s ক্যাশ সাফ হয়েছে"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "ব্রাউজিং ডেটা সাফ হয়েছে"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "স্ক্রিনশট মুছে ফেলা হয়েছে"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "স্ক্রিনশট প্রদর্শন করা যাবে না"
 
 #. Remove Top site item
 msgctxt "remove"
