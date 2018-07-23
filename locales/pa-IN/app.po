@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-22 23:50+0000\n"
+"PO-Revision-Date: 2018-07-23 00:00+0000\n"
 "Last-Translator: jimidar <jimidar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -339,6 +339,7 @@ msgstr "ਸੱਭ ਤੋਂ ਤੇਜ ਬਰਾਊਜ਼ ਕਰੋ"
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
+"ਤੁਹਾਡੀ ਪੈੜ੍ਹ ਨੱਪਣ ਵਾਲੀਆਂ ਮਸ਼ਹੂਰੀਆਂ ਤੇ ਰੋਕ ਲਾਉਣ ਲਈ ਟਰਬੋ ਮੋਡ ਵਰਤੋ ਤਾਂ ਕਿ ਤੁਸੀਂ ਬਿਜਲੀ ਦੀ ਤੇਜੀ ਨਾਲ ਬਰਾਊਜ਼ ਕਰ ਸਕੋ। ਜੇ ਸਾਈਟਾਂ ਕਿਤੇ ਵਿੱਚ ਖੜੋਤ ਆਉਂਦੀ ਦਿਸੇ ਤਾਂ ਮੇਨੂ ਵਿੱਚੋਂ ਬੱਸ ਟਰਬੋ ਮੋਡ ਬਟਨ ਛੂਹ ਕੇ ਬੰਦ ਕਰ ਦਿਉ।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -811,7 +812,7 @@ msgstr "ਉਤਪਾਦ ਅਪਡੇਟ ਨੋਟਿਸ"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਲਈ ਤੇ ਹਰੇਕ ਲਈ ਫਾਇਰਫੌਕਸ ਰੌਕੇਟ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਵਿੱਚ ਕੁੱਝ ਬਦਲਾਅ ਕੀਤੇ ਹਨ। ਹੋਰ ਜਾਨਣ ਲਈ ਛੂਹੋ।"
 
 #. In-app Promotion, Rate the App
 msgctxt "rate_app_dialog_text_title"
@@ -856,7 +857,7 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. {{app_name}} {{share_app_google_play_url}}"
-msgstr ""
+msgstr "ਜ਼ਰਾ, ਮੌਜ਼ੀਲਾ ਦਾ ਇਹ ਤੇਜ਼ ਅਤੇ ਹਲਕਾ ਫੁਲਕਾ ਬਰਾਊਜ਼ਰ ਅਜਮਾ ਕੇ ਦੇਖੋ। {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
@@ -869,7 +870,7 @@ msgstr "ਮੋਜ਼ੀਲਾ ਅਤੇ ਹੋਰ ਯੋਗਦਾਨੀਆਂ �
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ਤੁਹਾਨੂੰ <a href=\"%2$s\">ਮੌਜ਼ੀਲਾ ਜਨਤਕ ਲਸੰਸ</a> ਅਤੇ ਹੋਰ ਖੁੱਲ੍ਹੇ ਵਸੀਲਿਆਂ ਦੇ ਲਸੰਸਾਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ ਮੁਹੱਈਆ ਕਰਵਾਇਆ ਗਿਆ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
