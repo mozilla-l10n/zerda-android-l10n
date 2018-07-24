@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 10:31+0000\n"
+"PO-Revision-Date: 2018-07-24 08:48+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -57,7 +57,7 @@ msgstr "ప్రతిస్పందనను తెలియజేయండ�
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr "మిత్రులతో పంచుకో"
+msgstr "మిత్రులతో పంచుకోండి"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
