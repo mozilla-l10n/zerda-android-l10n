@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-24 16:25+0000\n"
+"PO-Revision-Date: 2018-07-24 16:52+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -78,7 +78,7 @@ msgstr "ค้นหาใน Firefox Rocket"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
-msgstr "%1$s เป็นเว็บเบราว์เซอร์ที่เร็วและเบาสร้างโดย Mozilla ภารกิจของเราคือทำให้อินเทอร์เน็ตเปิดกว้าง เร็วขึ้น สุขภาพดีขึ้น"
+msgstr "%1$s เป็นเบราว์เซอร์ที่เร็วและเบาที่สร้างขึ้นโดย Mozilla ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -868,10 +868,10 @@ msgstr "แบ่งปัน"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url.
-#, c-format, fuzzy
+#, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. %1$s %2$s"
-msgstr "นี่แน่ะ! ลองดูเว็บเบราว์เซอร์ {{app_name}} ที่เร็วและเบาจาก Mozilla {{share_app_google_play_url}}"
+msgstr "เฮ้ ลองดูเบราว์เซอร์ %1$s ที่เร็วและเบาจาก Mozilla %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
