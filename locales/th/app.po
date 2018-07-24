@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-24 16:52+0000\n"
+"PO-Revision-Date: 2018-07-24 17:07+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -118,7 +118,7 @@ msgstr "เครื่องมือค้นหาเริ่มต้น"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "ไม่แสดงภาพ"
+msgstr "ปิดกั้นภาพ"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -687,15 +687,15 @@ msgstr "แบ่งปัน"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "ไม่พบการ์ด SD จึงบันทึกไฟล์ลงหน่วยความจำภายใน"
+msgstr "ไม่พบการ์ด SD ไฟล์ถูกบันทึกไปยังที่เก็บข้อมูลภายใน"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "บันทึกไฟล์ลงการ์ด SD แล้ว"
+msgstr "บันทึกไฟล์ไปยังการ์ด SD แล้ว"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "การ์ด SD ใกล้เต็มแล้ว จึงได้บันทึกไฟล์ลงหน่วยความจำภายใน"
+msgstr "การ์ด SD ใกล้เต็ม ไฟล์ถูกบันทึกไปยังที่เก็บข้อมูลภายใน"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -769,11 +769,11 @@ msgstr "ปิดใช้งานโหมดเทอร์โบแล้ว
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr "เปิดการปิดกั้นภาพแล้ว"
+msgstr "ขณะนี้กำลังปิดกั้นภาพ"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr "เปิดการแสดงภาพแล้ว"
+msgstr "ขณะนี้กำลังแสดงภาพ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
@@ -781,7 +781,7 @@ msgstr "ไม่สามารถล้างแคช"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "เข้าถึงที่เก็บข้อมูลไม่ได้ ยกเลิกการดาวน์โหลด"
+msgstr "ไม่สามารถเข้าถึงที่เก็บข้อมูล การดาวน์โหลดถูกยกเลิก"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
