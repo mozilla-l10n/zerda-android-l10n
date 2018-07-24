@@ -2,22 +2,23 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-14 14:48+0000\n"
-"Last-Translator: Vee Satayamas <vsatayamas@gmail.com>\n"
-"Language: th\n"
+"PO-Revision-Date: 2018-07-24 16:25+0000\n"
+"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -68,21 +69,16 @@ msgstr "แบ่งปันผ่าน"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Rocket"
-msgstr "ค้นหาใน {{app_name}}"
+msgstr "ค้นหาใน Firefox Rocket"
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
 #. Firefox Rocket
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
-"is to foster a healthy, open internet."
-msgstr ""
-"%1$s เป็นเว็บเบราว์เซอร์ที่เร็วและเบาสร้างโดย Mozilla "
-"ภารกิจของเราคือทำให้อินเทอร์เน็ตเปิดกว้าง เร็วขึ้น สุขภาพดีขึ้น"
+msgid "%1$s is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet."
+msgstr "%1$s เป็นเว็บเบราว์เซอร์ที่เร็วและเบาสร้างโดย Mozilla ภารกิจของเราคือทำให้อินเทอร์เน็ตเปิดกว้าง เร็วขึ้น สุขภาพดีขึ้น"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -161,13 +157,8 @@ msgstr "ส่งข้อมูลการใช้งาน"
 #. Parameter 1 is the app name, i.e. Firefox Rocket.
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla "
-"มุ่งมั่นที่จะเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง %1$s"
-" สำหรับทุกคน"
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla มุ่งมั่นที่จะเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง %1$s สำหรับทุกคน"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -267,12 +258,8 @@ msgstr "ค้นหาแอปที่สามารถเปิดลิง
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ไม่มีแอปในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s "
-"เพื่อค้นหา %2$s สำหรับแอปที่สามารถทำได้"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ไม่มีแอปในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s เพื่อค้นหา %2$s สำหรับแอปที่สามารถทำได้"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -343,50 +330,32 @@ msgid "Thanks for choosing %1$s"
 msgstr "ขอบคุณที่เลือก %1$s"
 
 msgctxt "first_run_page1_text"
-msgid ""
-"A browser tailor-made for Indonesia by Mozilla, the non-profit committed "
-"to a free and open web."
-msgstr ""
-"เบราว์เซอร์ที่สร้างขึ้นโดยเฉพาะสำหรับอินโดนีเซียโดย Mozilla "
-"องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง"
+msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
+msgstr "เบราว์เซอร์ที่สร้างขึ้นโดยเฉพาะสำหรับอินโดนีเซียโดย Mozilla องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "ท่องเว็บได้เร็วขึ้นกว่าที่เคย"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"ใช้โหมดเทอร์โบเพื่อปิดกั้นโฆษณาที่แกะรอยข้อมูลของคุณ "
-"จึงเปิดเว็บได้อย่างรวดเร็ว; ถ้าเว็บไซต์ดูเหมือนจะพัง "
-"ก็เพียงแค่แตะปิดโหมดเทอร์โบในเมนู"
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "ใช้โหมดเทอร์โบเพื่อปิดกั้นโฆษณาที่แกะรอยข้อมูลของคุณ จึงเปิดเว็บได้อย่างรวดเร็ว; ถ้าเว็บไซต์ดูเหมือนจะพัง ก็เพียงแค่แตะปิดโหมดเทอร์โบในเมนู"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ประหยัดข้อมูล = ประหยัดเงิน"
 
 msgctxt "first_run_page3_text"
-msgid ""
-"Blocking tracking ads not only speeds up browsing, it saves data. Save "
-"even more when you block images."
-msgstr ""
-"การปิดกั้นโฆษณาที่ตามรอยคุณไม่เพียงแต่ทำให้เปิดเว็บเร็ว "
-"แต่ยังช่วยประหยัดการรับส่งข้อมูล "
-"และยังประหยัดได้มากกว่านั้นอีกด้วยการปิดกั้นรูปภาพ"
+msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
+msgstr "การปิดกั้นโฆษณาที่ตามรอยคุณไม่เพียงแต่ทำให้เปิดเว็บเร็ว แต่ยังช่วยประหยัดการรับส่งข้อมูล และยังประหยัดได้มากกว่านั้นอีกด้วยการปิดกั้นรูปภาพ"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
 msgstr "จับภาพหน้าจอของทุกสิ่ง"
 
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshots of entire web pages. View a screenshot offline (without "
-"using data) or tap it to revisit the web page."
-msgstr ""
-"จับภาพของทั้งหน้าเว็บ "
-"ดูภาพหน้าจอโดยไม่ต้องต่อเน็ตหรือแตะเพื่อเปิดหน้าเว็บอีกครั้ง"
+msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
+msgstr "จับภาพของทั้งหน้าเว็บ ดูภาพหน้าจอโดยไม่ต้องต่อเน็ตหรือแตะเพื่อเปิดหน้าเว็บอีกครั้ง"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -486,9 +455,7 @@ msgid "not now"
 msgstr "ไม่ใช่ตอนนี้"
 
 msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
 msgstr "ยังไม่ได้รับอนุญาต อนุญาตให้ Firefox Rocket เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_location"
@@ -496,15 +463,11 @@ msgid "Location not available. Give permission to access your location."
 msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช้ อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
 msgstr "ยังไม่ได้รับอนุญาต อนุญาตให้ Firefox Rocket เข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
+msgid "Storage not available. Give permission to store photos and files on your device."
 msgstr "ที่เก็บข้อมูลไม่พร้อมใช้งาน อนุญาตให้เก็บภาพและไฟล์ในอุปกรณ์ของคุณ"
 
 #. When the webpage request access to geolocation a dialog will popup.
@@ -850,20 +813,16 @@ msgid "Product Update Notice"
 msgstr "การแจ้งอัปเดตผลิตภัณฑ์"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
-msgstr ""
-"เพื่อทำให้ Firefox Rocket ดีขึ้นสำหรับคุณและคนอื่นๆ "
-"เราเปลี่ยนแปลงนโยบายความเป็นส่วนตัวของเรา แตะเพื่อดูเพิ่ม"
+msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "เพื่อทำให้ Firefox Rocket ดีขึ้นสำหรับคุณและคนอื่นๆ เราเปลี่ยนแปลงนโยบายความเป็นส่วนตัวของเรา แตะเพื่อดูเพิ่ม"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
 #. is the App name i.e. Rocket.
-#, c-format, fuzzy
+#, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr "รัก {{app_name}}?"
+msgstr "รัก %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -888,10 +847,10 @@ msgstr "ข้อคิดเห็น"
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
 #. is the App name i.e. Rocket.
-#, c-format, fuzzy
+#, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr "แบ่งปัน {{app_name}} กับเพื่อน!"
+msgstr "แบ่งปัน %1$s กับเพื่อน!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -912,30 +871,20 @@ msgstr "แบ่งปัน"
 #, c-format, fuzzy
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from Mozilla. %1$s %2$s"
-msgstr ""
-"นี่แน่ะ! ลองดูเว็บเบราว์เซอร์ {{app_name}} ที่เร็วและเบาจาก Mozilla "
-"{{share_app_google_play_url}}"
+msgstr "นี่แน่ะ! ลองดูเว็บเบราว์เซอร์ {{app_name}} ที่เร็วและเบาจาก Mozilla {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s เป็นซอฟต์แวร์เสรีและเปิดต้นฉบับที่สร้างขึ้นโดย Mozilla "
-"และผู้มีส่วนร่วมอื่น ๆ"
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s เป็นซอฟต์แวร์เสรีและเปิดต้นฉบับที่สร้างขึ้นโดย Mozilla และผู้มีส่วนร่วมอื่น ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s ให้คุณใช้ภายใต้เงื่อนไขของ <a href=\"%2$s\">Mozilla Public "
-"License</a> และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s ให้คุณใช้ภายใต้เงื่อนไขของ <a href=\"%2$s\">Mozilla Public License</a> และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -943,25 +892,16 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"คุณไม่ได้รับสิทธิหรือสัญญาอนุญาตใด ๆ ในเครื่องหมายการค้าของมูลนิธิ "
-"Mozilla หรือบุคคลใด ๆ รวมทั้งชื่อหรือโลโก้ Mozilla, Firefox หรือ %1$s "
-"ข้อมูลเพิ่มเติมอาจพบได้ <a href=\"%2$s\">ที่นี่</a>"
+msgstr "คุณไม่ได้รับสิทธิหรือสัญญาอนุญาตใด ๆ ในเครื่องหมายการค้าของมูลนิธิ Mozilla หรือบุคคลใด ๆ รวมทั้งชื่อหรือโลโก้ Mozilla, Firefox หรือ %1$s ข้อมูลเพิ่มเติมอาจพบได้ <a href=\"%2$s\">ที่นี่</a>"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a "
-"href=\"%2$s\">สัญญาอนุญาต</a> เสรีและเปิดต้นฉบับต่าง ๆ"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a href=\"%2$s\">สัญญาอนุญาต</a> เสรีและเปิดต้นฉบับต่าง ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -969,14 +909,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s ยังใช้รายการปิดกั้นที่ให้บริการโดย Disconnect, Inc. "
-"ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public "
-"License v3</a> และใช้ได้ <a href=\"%3$s\">ที่นี่</a>"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s ยังใช้รายการปิดกั้นที่ให้บริการโดย Disconnect, Inc. ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public License v3</a> และใช้ได้ <a href=\"%3$s\">ที่นี่</a>"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1096,20 +1030,20 @@ msgstr "แก้ไข"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "การท่องเว็บแบบส่วนตัว"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "ล้างประวัติการท่องเว็บแบบส่วนตัว"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "เปิด"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1117,5 +1051,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
-
+msgstr "ล้างประวัติการท่องเว็บแบบส่วนตัวของคุณแล้ว"
