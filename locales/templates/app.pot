@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-11 13:17+0800\n"
+"POT-Creation-Date: 2018-07-24 23:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,9 +64,10 @@ msgstr ""
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
-#. perform a search in the default search engine.
+#. perform a search in the default search engine.          Please keep the
+#. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
-msgid "Search in {{app_name}}"
+msgid "Search in Firefox Rocket"
 msgstr ""
 
 #. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
@@ -833,8 +834,11 @@ msgid ""
 msgstr ""
 
 #. In-app Promotion, Rate the App
+#. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
+#. is the App name i.e. Rocket.
+#, c-format
 msgctxt "rate_app_dialog_text_title"
-msgid "Love {{app_name}}?"
+msgid "Love %1$s?"
 msgstr ""
 
 msgctxt "rate_app_dialog_text_content"
@@ -857,9 +861,12 @@ msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
 msgstr ""
 
-#. In-app Promotion, Share app
+#. In-app Promotion, Share app.
+#. The title of the Message to prompt users to share Rocket with friends, %1$s
+#. is the App name i.e. Rocket.
+#, c-format
 msgctxt "share_app_dialog_text_title"
-msgid "Share {{app_name}} with friends!"
+msgid "Share %1$s with friends!"
 msgstr ""
 
 msgctxt "share_app_dialog_text_content"
@@ -873,10 +880,11 @@ msgctxt "share_app_dialog_btn_share"
 msgid "Share"
 msgstr ""
 
+#. The message template used when user shares Rocket with friends. %1$s is the
+#. App name i.e. Rocket, and %2$s is the Google Play url.
+#, c-format
 msgctxt "share_app_promotion_text"
-msgid ""
-"Hey, check out this fast and lightweight browser from Mozilla. "
-"{{app_name}} {{share_app_google_play_url}}"
+msgid "Hey, check out this fast and lightweight browser from Mozilla. %1$s %2$s"
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
