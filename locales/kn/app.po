@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-11 13:17+0800\n"
-"PO-Revision-Date: 2018-07-19 20:03+0000\n"
+"PO-Revision-Date: 2018-07-24 15:25+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -330,7 +330,7 @@ msgstr "%1$s ಆಯ್ಕೆಮಾಡಿದ್ದಕ್ಕೆ ವಂದನೆಗ
 
 msgctxt "first_run_page1_text"
 msgid "A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web."
-msgstr "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತ ಸಂಸ್ಥೆಯಾದ, ಮೊಜಿಲ್ಲಾದಿಂದ ಇಂಡೋನೇಶಿಯಾಗಾಗಿ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಒಂದು ಬ್ರೌಸರ್."
+msgstr "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತ ಸಂಸ್ಥೆಯಾದ, ಮೊಜಿಲ್ಲಾದಿಂದ ಭಾರತಕ್ಕಾಗಿ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಒಂದು ಬ್ರೌಸರ್."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -919,7 +919,7 @@ msgstr "ನಮಗೆ ನಿಮ್ಮ ಅಗತ್ಯವಿದೆ! %1$s"
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr "ಇಂಡೋನೇಶಿಕ್ಕೆ ಒಂದು ಉತ್ತಮ ಉತ್ಪನ್ನ ರೂಪಿಸಿ"
+msgstr "ಭಾರತಕ್ಕಾಗಿ ಒಂದು ಉತ್ತಮ ಉತ್ಪನ್ನ ರೂಪಿಸಿ"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
