@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-25 16:28+0000\n"
+"PO-Revision-Date: 2018-07-25 16:50+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -812,7 +812,7 @@ msgstr "การแจ้งอัปเดตผลิตภัณฑ์"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "เพื่อทำให้ Firefox Rocket ดีขึ้นสำหรับคุณและคนอื่นๆ เราเปลี่ยนแปลงนโยบายความเป็นส่วนตัวของเรา แตะเพื่อดูเพิ่ม"
+msgstr "เพื่อทำให้ Firefox Rocket ดีขึ้นสำหรับคุณและทุกคน เราได้ทำการเปลี่ยนแปลงบางอย่างกับนโยบายความเป็นส่วนตัวของเรา แตะเพื่อเรียนรู้เพิ่มเติม"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
