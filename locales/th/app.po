@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-25 17:27+0000\n"
+"PO-Revision-Date: 2018-07-25 17:32+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -351,7 +351,7 @@ msgstr "การปิดกั้นโฆษณาที่ตามรอย
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr "จับภาพหน้าจอของทุกสิ่ง"
+msgstr "จับภาพหน้าจอทุกอย่าง"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
