@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-24 23:44+0800\n"
-"PO-Revision-Date: 2018-07-25 17:08+0000\n"
+"PO-Revision-Date: 2018-07-25 17:27+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -57,7 +57,7 @@ msgstr "เสนอข้อคิดเห็น"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr "แบ่งปันกับเพื่อน"
+msgstr "แบ่งปันกับเพื่อน ๆ"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -848,7 +848,7 @@ msgstr "ข้อคิดเห็น"
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr "แบ่งปัน %1$s กับเพื่อน!"
+msgstr "แบ่งปัน %1$s กับเพื่อน ๆ!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
