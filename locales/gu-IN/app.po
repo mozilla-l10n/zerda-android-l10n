@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-24 23:44+0800\n"
+"POT-Creation-Date: 2018-07-26 20:09+0800\n"
 "PO-Revision-Date: 2018-07-14 14:20+0000\n"
 "Last-Translator: siddhi_dave <siddhi_dave@yahoo.in>\n"
 "Language: gu_IN\n"
@@ -73,13 +73,13 @@ msgctxt "text_selection_search_action"
 msgid "Search in Firefox Rocket"
 msgstr "{{app_name}} માં શોધો"
 
-#. Content of about Rocket. Argument 1 is the app name of the content. i.e.x.
-#. Firefox Rocket
-#, c-format
+#. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
+#. Firefox Rocket     %2$s is "Mozilla"
+#, c-format, fuzzy
 msgctxt "about_content_body"
 msgid ""
-"%1$s is a fast and lightweight browser produced by Mozilla. Our mission "
-"is to foster a healthy, open internet."
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
 msgstr ""
 "%1$s એ Mozilla દ્વારા ઉત્પાદિત કરવામાં આવેલું ઝડપી અને ઓછી જગ્યા રોકે "
 "તેવું છે. અમારું લક્ષ્ય એક યોગ્ય , બધાં વાપરી શકે તેવું ઇન્ટરનેટ "
@@ -159,12 +159,12 @@ msgid "Send usage data"
 msgstr "ઉપયોગ ડેટા મોકલો"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
-#. Parameter 1 is the app name, i.e. Firefox Rocket.
-#, c-format
+#. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
+#, c-format, fuzzy
 msgctxt "preference_mozilla_telemetry_summary"
 msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
 msgstr ""
 "Mozilla માત્ર દરેકને માટે %1$s પ્રદાન અને સુધારવાની જરૂર છે તે એકત્રિત "
 "કરવાનો પ્રયત્ન કરે છે."
@@ -173,11 +173,10 @@ msgctxt "preference_learn_more"
 msgid "Learn more"
 msgstr "વધુ શીખો"
 
-#. Item in Preferences that shows the about page. Parameter 1 is the app name,
-#. i.e. Firefox Rocket.
-#, c-format
+#. Item in Preferences that shows the about page.
+#, fuzzy
 msgctxt "preference_about"
-msgid "About %1$s"
+msgid "About"
 msgstr "%1$s વિશે"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
@@ -342,10 +341,10 @@ msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
 msgstr "%1$s પસંદગી માટે આભાર"
 
+#. Message for first page of FirstRun, %1$s will be "Mozilla"
+#, c-format, fuzzy
 msgctxt "first_run_page1_text"
-msgid ""
-"A browser tailor-made for Indonesia by Mozilla, the non-profit committed "
-"to a free and open web."
+msgid "A browser made by %1$s, the non-profit committed to a free and open web."
 msgstr ""
 "Mozilla દ્વારા ઇન્ડોનેશિયા માટે બનાવાયેલા એક બ્રાઉઝર, બિન નફાકારક એક મફત "
 "અને ખુલ્લા વેબ માટે પ્રતિબદ્ધ છે."
@@ -913,31 +912,32 @@ msgid "Share"
 msgstr "વહેંચો"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
-#. App name i.e. Rocket, and %2$s is the Google Play url.
+#. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
 #, c-format, fuzzy
 msgctxt "share_app_promotion_text"
-msgid "Hey, check out this fast and lightweight browser from Mozilla. %1$s %2$s"
+msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
 msgstr ""
 "Mozilla દ્વારા બનાવવામાં આવેલું ઝડપી અને ઓછી જગ્યા રોકે તેવું આ બ્રાઉઝર "
 "જુઓ. {{app_name}} {{share_app_google_play_url}}"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
-#. name of the app (e.g. Firefox Rocket)
+#. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
+#, fuzzy
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by %2$s and other contributors."
 msgstr ""
 "%1$s Mozilla અને અન્ય યોગદાનકર્તાઓ દ્વારા બનાવવામાં આવેલ મફત અને ઓપન "
 "સોર્સ સૉફ્ટવેર છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
-#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
+#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
+#. be replaced by "Mozilla Public License"
+#, fuzzy
 msgctxt "your_rights_content2"
 msgid ""
 "%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+"href=\"%2$s\">%3$s</a> and other open source licenses."
 msgstr ""
 "%1$s એ <a href=\"%2$s\">Mozilla સાર્વજનિક પરવાનગીની શરતો પર </a> અને બીજી"
 " ઓપનસોર્સ પરવાનગીનાં આધાર પર તમારાં માટે ઉપ્લબ્ધ કરવામાં આવેલ છે."
@@ -945,13 +945,14 @@ msgstr ""
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the trademark policy (e.g.
-#. https://www.mozilla.org/foundation/trademarks/policy/)
+#. https://www.mozilla.org/foundation/trademarks/policy/)     %3$s will be
+#. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
+#, fuzzy
 msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
 "તમને Mozilla ફાઉન્ડેશન અથવા અન્ય કોઇ પક્ષ, Mozilla, Firefox કે %1$s નામ "
 "અથવા લોગો સહિતનાં વ્યાપાર ચિહ્નનાં કોઇ અધિકાર કે પરવાનગી આપવામાં આવેલ "
