@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-26 14:47+0000\n"
-"Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2018-07-27 09:32+0000\n"
+"Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgstr "दोस्तों के साथ साझा करें"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "के माध्यम से साझा करें"
+msgstr "इससे साझा करें"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -71,7 +71,7 @@ msgstr "के माध्यम से साझा करें"
 #. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Rocket"
-msgstr "Firefox रॉकेट में खोजें"
+msgstr "Firefox Rocket में खोजें"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -86,7 +86,7 @@ msgstr "अधिक जानें"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr "समर्थन"
+msgstr "सहारा"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
@@ -109,7 +109,7 @@ msgstr "भाषा"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "प्रणालीगत तयशुदा"
+msgstr "सिस्टम तयशुदा"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -127,7 +127,7 @@ msgstr "ब्राउज़िंग डेटा मिटायें"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "में डाउनलोड्स को सहेजें"
+msgstr "डाउनलोड्स को सहेजें"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -400,7 +400,7 @@ msgstr "अगला"
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr "पुस्तचिन्ह"
+msgstr "बुकमार्क्स"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
@@ -522,7 +522,7 @@ msgstr "कैशे"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr "कोई डाउनलोड नहीं"
+msgstr "कोई डाउनलोड नहीं "
 
 msgctxt "download_started"
 msgid "Downloading…"
@@ -609,7 +609,7 @@ msgstr "ब्राउज़िंग इतिहास मिटायें"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "कोई ब्राउज़िंग इतिहास नहीं"
+msgstr "कोई ब्राउज़िंग इतिहास नहीं "
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -985,12 +985,12 @@ msgstr "थीम बदलने के लिए होम बैकग्र�
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr "पुस्तचिह्न सहेजा गया"
+msgstr "बुकमार्क्स सहेजा गया"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr "पुस्तचिह्न हटाया गया"
+msgstr "बुकमार्क्स हटाया गया"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -1001,7 +1001,7 @@ msgstr "संपादित"
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr "पुस्तचिह्न संपादित करें"
+msgstr "बुकमार्क्स संपादित करें"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -1022,12 +1022,12 @@ msgstr "स्थान"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr "पुस्तचिह्न अद्यतित"
+msgstr "बुकमार्क्स अद्यतित"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr "कोई पुस्तचिह्न नहीं"
+msgstr "कोई बुकमार्क्स नहीं "
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
