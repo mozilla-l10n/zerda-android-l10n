@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-26 14:40+0000\n"
+"PO-Revision-Date: 2018-07-27 11:55+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -75,10 +75,10 @@ msgstr "பயர்பாக்சு இராக்கெட் உலாவ�
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s மொசில்லாவால் தயாரிக்கப்பட்ட ஒரு விரைவான இலேசான உலாவி. ஆரோக்கியமான திறந்த இணையத்தை கிடைக்கச் செய்வதே எங்களின் நோக்கம்."
+msgstr "%1$s , %2$s நிறுவனத்தால் தயாரிக்கப்பட்ட ஒரு விரைவான இலேசான உலாவி. ஆரோக்கியமான திறந்த இணையத்தை கிடைக்கச் செய்வதே எங்களின் நோக்கம்."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -155,10 +155,10 @@ msgstr "பயனளவு தரவை அனுப்பு"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க மொசில்லா உறுதிபூண்டுள்ளது."
+msgstr "அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க %2$s உறுதிபூண்டுள்ளது."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -870,40 +870,37 @@ msgstr "பகிர்"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "வணக்கம், மொசில்லாவின் வேகமான இலகுவான உலாவியைப் பாவித்துப் பாருங்கள்.%1$s %2$s"
+msgstr "வணக்கம், %3$s நிறுவனத்தின் வேகமான இலகுவான உலாவியைப் பாவித்துப் பாருங்கள்.%1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
-#, fuzzy
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s மொசில்லா மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
+msgstr "%1$s, %2$s மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
-#, fuzzy
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்லா பொது உரிமம்</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
+msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">%3$s</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the trademark policy (e.g.
 #. https://www.mozilla.org/foundation/trademarks/policy/)     %3$s will be
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
-#, fuzzy
 msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"உங்களுக்கு மொசில்லா அறக்கட்டளை அல்லது பிற தரப்பினரின் வணிகச் சின்னங்களுக்கான உரிமங்கள் அல்லது உரிமைகள் அல்லது வேற எந்த உரிமைகளும் வழங்கப்படவில்லை மேலும் மொசில்லா, பயர்பாக்சு அல்லது %1$s போன்ற "
-"பெயர்களும் அதன் படங்களும் அவ்விதியில் அடங்கும். கூடுதலான தகவல்கள் <a href=\"%2$s\">இத்தொடுப்பில் கிடைக்கும்</a>."
+"உங்களுக்கு மொசில்லா அறக்கட்டளை அல்லது பிற தரப்பினரின் வணிகச் சின்னங்களுக்கான உரிமங்கள் அல்லது உரிமைகள் அல்லது வேற எந்த உரிமைகளும் வழங்கப்படவில்லை மேலும் %3$s, %4$sஅல்லது %1$s போன்ற பெயர்களும் அதன்"
+" படங்களும் அவ்விதியில் அடங்கும். கூடுதலான தகவல்கள் <a href=\"%2$s\">இங்கு கிடைக்கும்</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
