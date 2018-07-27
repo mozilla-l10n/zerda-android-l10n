@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-27 06:32+0000\n"
-"Last-Translator: Sahithi <sahithi.thinker@gmail.com>\n"
+"PO-Revision-Date: 2018-07-27 13:43+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -331,7 +331,7 @@ msgstr "%1$s‌ను ఎంచుకున్నందుకు కృతజ్
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "స్వేచ్ఛా, బహిరంగ జాలానికి కట్టుబడ్డ లాభాపేక్షలేని %1$s వారు తయారుచేసిన విహారిణి."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -885,10 +885,9 @@ msgstr "%1$s అనేది %2$s, ఇతర తోడ్పాటుదార�
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
-#, fuzzy
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s మీకు <a href=\"%2$s\">మొజిల్లా పబ్లిక్ లైసెన్సు</a>, ఇతర ఓపెన్ సోర్సు లైసెన్సుల నిబంధనల క్రింద లభిస్తుంది."
+msgstr "%1$s <a href=\"%2$s\">%3$s</a>, ఇతర ఓపెన్ సోర్సు లైసెన్సుల నిబంధనల క్రింద లభిస్తుంది."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -900,6 +899,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"మొజిల్లా ఫౌండేషను లేదా ఇతర పక్షాల ట్రేడుమార్కులపై, %3$s, %4$s లేదా %1$s పేర్లు లేదా చిహ్నాలతో కలిపి, మీకు ఎటువంటి హక్కులు గానీ లైసెన్సు గానీ జారీచేయలేదు. అదనపు సమాచారాన్ని <a href=\"%2$s\">ఇక్కడ</a>"
+" చూడవచ్చు."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
