@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-27 12:57+0000\n"
-"Last-Translator: ravi <ravi.103151@gmail.com>\n"
+"PO-Revision-Date: 2018-07-28 19:29+0000\n"
+"Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -155,10 +155,10 @@ msgstr "उपयोग डेटा भेजें"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए जरूरत है."
+msgstr "%2$s मात्र वही जानकारी एकत्र करने का प्रयास करता है जिससे हम %1$s को सभी के लिए उपलब्ध तथा बेहतर बना सकें."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -328,10 +328,10 @@ msgid "Thanks for choosing %1$s"
 msgstr "%1$s चुनने के लिए धन्यवाद"
 
 #. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "मोज़िला द्वारा भारत के ज़रूरत के मुताबिक बनाया गया ब्राउज़र, गैर-लाभकारी एक मुफ़्त और उन्मुक्त वेब के लिए प्रतिबद्ध ।"
+msgstr "गैर-लाभकारी %1$s द्वारा निर्मित एक ब्राउज़र, एक मुफ्त तथा खुले वेब के लिए समर्पित."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -894,14 +894,13 @@ msgstr "%1$s आपको <a href=\\\"%2$s\\\"> मोज़िला लोक ल
 #. linking to the trademark policy (e.g.
 #. https://www.mozilla.org/foundation/trademarks/policy/)     %3$s will be
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
-#, fuzzy
 msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"आपको मोज़िला फाउंडेशन या मोज़िला, फ़ायरफ़ॉक्स या %1$s नाम या लोगो सहित, किसी भी अन्य पक्ष के व्यापार चिह्न को कोई अधिकार या लाइसेंस नहीं दिया गया है। अतिरिक्त जानकारी <a href=\"%2$s\">यहाँ</a>मिल सकती"
-" है।"
+"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है . अधिक जानकारी <a href=\"%2$s\">यहाँ</a>से पा सकते "
+"हैं."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
