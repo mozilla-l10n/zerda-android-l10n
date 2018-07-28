@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-28 19:29+0000\n"
+"PO-Revision-Date: 2018-07-28 19:42+0000\n"
 "Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -868,26 +868,24 @@ msgstr "साझा करें"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "सुनो, मोज़िला द्वारा इस तेज और सहज़ ब्राउज़र को देखें। %1$s %2$s"
+msgstr "सुनो, %3$s द्वारा निर्मित तीव्र तथा हलके ब्राउज़र का जायजा लो. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
-#, fuzzy
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s मोज़िला और अन्य योगदानकर्ताओं द्वारा निर्मित मुफ़्त और मुक्त स्रोत सॉफ्टवेयर हैं।"
+msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपेन सोर्स सॉफ्टवेयर है."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
-#, fuzzy
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s आपको <a href=\\\"%2$s\\\"> मोज़िला लोक लायसेंस</a> और अन्य मुक्त स्रोत लायसेंस के तहत उपलब्ध कराया गया है।"
+msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
