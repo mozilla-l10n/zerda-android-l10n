@@ -867,7 +867,7 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "ਜ਼ਰਾ, ਮੌਜ਼ੀਲਾ ਦਾ ਇਹ ਤੇਜ਼ ਅਤੇ ਹਲਕਾ ਫੁਲਕਾ ਬਰਾਊਜ਼ਰ ਅਜਮਾ ਕੇ ਦੇਖੋ। %1$s %2$s"
+msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
