@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-29 08:49+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-07-29 10:05+0000\n"
+"Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
@@ -331,7 +331,7 @@ msgstr "%1$s ಆಯ್ಕೆಮಾಡಿದ್ದಕ್ಕೆ ವಂದನೆಗ
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತ ಸಂಸ್ಥೆಯಾದ, %1$s ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಒಂದು ಬ್ರೌಸರ್."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -873,13 +873,13 @@ msgstr "ಹಂಚು"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "ಹೇ, %3$s ದ ವೇಗದ ಮತ್ತು ಹಗುರವಾದ ಬ್ರೌಸರ್ ಅನ್ನು ಒಮ್ಮೆ ನೋಡಿ. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%1$s ಒಂದು ಮುಕ್ತ ಹಾಗೂ ಸ್ವತಂತ್ರ ತಂತ್ರಾಂಶವಾಗಿದ್ದು %2$s ಮತ್ತು ಇತರೆ ಕೊಡುಗೆದಾರರಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -887,7 +887,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ಅನ್ನು ನಿಮಗಾಗಿ <a href=\"%2$s\">%3$s ಸಾರ್ವಜನಿಕ ಪರವಾನಗಿ</a> ಮತ್ತು ಇತರೆ ಮುಕ್ತ ತಂತ್ರಾಂಶ ಪರವಾನಗಿಗಳ ಕರಾರುಗಳೊಂದಿಗೆ ಲಭ್ಯವಾಗಿಸಲಾಗಿದೆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -899,6 +899,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"ನಿಮಗೆ ಮೊಝಿಲ್ಲಾ ಫೌಂಡೇಷನ್ ಅಥವಾ ಯಾವುದೇ ಪಕ್ಷದ, ಇವನ್ನೂ ಒಳಗೊಂಡಂತೆ %3$s, %4$s ಅಥವಾ %1$s ಹೆಸರುಗಳು ಅಥವಾ ಲೋಗೋಗಳ ಯಾವುದೇ ಹಕ್ಕುಗಳು ಅಥವಾ ಪರವಾನಗಿಯನ್ನು ನೀಡಲಾಗಿಲ್ಲ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು <a href=\"%2$s\">ಇಲ್ಲಿ</a> "
+"ಕಾಣಬಹುದಾಗಿದೆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
