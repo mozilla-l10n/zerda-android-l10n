@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 03:08+0000\n"
+"PO-Revision-Date: 2018-07-30 03:34+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: mai <LL@li.org>\n"
 "\n"
@@ -243,7 +243,7 @@ msgstr "पछिला ऐप पर वापस जाउ"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ट्रेकर्स ब्लॉक करू"
+msgstr "ट्रैकर्स ब्लॉक करू"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -258,7 +258,7 @@ msgstr "एकटा ऐप खोजू जे लिंक खोलि सक
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "अहाँक डिवाइस केरो कोनो एप ई लिंक केँ खोलब मे समर्थ नहि अछि. अहाँ एप खोजए कलेल %1$s छोड़ि सकैत छी %2$s जे एप खोजि सकैत अछि."
+msgstr "अहाँक डिवाइस केरो कोनो ऐप ई लिंक केँ खोलब मे समर्थ नहि अछि. अहाँ ऐप खोजए कलेल %1$s छोड़ि सकैत छी %2$s जे ऐप खोजि सकैत अछि."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
