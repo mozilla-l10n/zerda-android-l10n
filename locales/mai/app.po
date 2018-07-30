@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-29 08:54+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-07-30 03:08+0000\n"
+"Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: mai <LL@li.org>\n"
 "\n"
 "Language: mai\n"
@@ -79,7 +79,7 @@ msgstr "Firefox Rocket मे खोजू"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s %2$s द्वारा बनाएल गेल एकटा तेज आ हलुक ब्राउज़र अछि. हमर लक्ष्य अछि स्वस्थ, मुक्त इंटरनेट केँ बढ़ावा देनाय अछि."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -159,7 +159,7 @@ msgstr "उपयोग डेटा भेजू"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "%2$s मात्र ओहि जानकारी एकत्र करबाक प्रयास करैत अछि जकरा सँ हम %1$s केँ सभक लेल उपलब्ध तथा बेहतर बनाए सकब."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -332,7 +332,7 @@ msgstr "%1$s चुनए कलेल धन्यवाद"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "गैर-लाभकारी %1$s द्वारा बनाएल गेल एकटा ब्राउज़र, एकटा मुफ्त तथा खुलल वेब कलेल समर्पित."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -870,13 +870,13 @@ msgstr "साझा करू"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "सुनियौ, %3$s मोजिला केरो ई तेज आआोर हलुक ब्राउज़र केँ एकबेर चलाएब कए देखू. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%1$s %2$s तथा आन योगदानकर्ता द्वारा बनाएल गेल मुफ्त आओर मुक्त स्रोत सॉफ्टवेयर अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -884,7 +884,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s <a href=\"%2$s\">%3$s</a> आओर आन ओपन सोर्स लाइसेंसक शर्त क अधीन अहाँक लेल उपलब्ध कराएल जाएत अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -896,6 +896,7 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Mozilla फ़ाउंडेशन अथवा कोनो पार्टी क ट्रेडमार्क सँगे सँग %3$s, %4$s या %1$s क नाम अथवा लोगो, कलेल कोनो अधिकार या लाइसेंस अहाँक नहि देल जाएत अछि. बेसी जानकारी <a href=\"%2$s\">एतय</a>सँ पाबि सकैत छी."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
