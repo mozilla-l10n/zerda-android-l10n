@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 13:32+0000\n"
+"PO-Revision-Date: 2018-07-30 13:46+0000\n"
 "Last-Translator: jimidar <jimidar@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -348,7 +348,7 @@ msgstr "ਡੇਟਾ ਦੀ ਬੱਚਤ = ਪੈਸੇ ਦੀ ਬੱਚਤ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr ""
+msgstr "ਤੁਹਾਡੀ ਪੈੜ੍ਹ ਨੱਪਣ ਵਾਲੀਆਂ ਮਸ਼ਹੂਰੀਆਂ ਤੇ ਪਾਬੰਦੀ ਨਾਲ ਨਾ ਸਿਰਫ ਬਰਾਊਜ਼ ਕਰਨ ਵਿੱਚ ਤੇਜੀ ਆਉਂਦੀ ਹੈ, ਬਲਕਿ ਇਸ ਨਾਲ ਡੇਟਾ ਦੀ ਵੀ ਬੱਚਤ ਹੁੰਦੀ ਹੈ।ਜੇ ਤੁਸੀਂ ਤਸਵੀਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿਉ ਤਾਂ ਬੱਚਤ ਹੋਰ ਵੀ ਜਿਆਦਾ ਹੁੰਦੀ ਹੈ।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -356,7 +356,7 @@ msgstr "ਸਭ ਕੁਝ ਸਕ੍ਰੀਨਸ਼ਾਟ ਕਰੋ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "ਸਾਰੇ ਵੈੱਬ ਵਰਕੇ ਦੀ ਤਸਵੀਰ ਖਿੱਚ ਲਉ। ਇਸ ਤਸਵੀਰ ਨੂੰ ਔਫਲਾਇਨ (ਡੇਟਾ ਵਰਤੇ ਬਗੈਰ) ਵੇਖੋ ਜਾਂ ਮੁੜ ਕੇ ਉਸ ਵਰਕੇ ਤੇ ਜਾਣ ਲਈ ਇਸ ਤੇ ਉਂਗਲ ਲਾਉ।"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -867,13 +867,13 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "ਜ਼ਰਾ, %3$s ਦਾ ਇਹ ਤੇਜ਼ ਅਤੇ ਹਲਕਾ ਫੁਲਕਾ ਬਰਾਊਜ਼ਰ ਅਜਮਾ ਕੇ ਦੇਖੋ। %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%2$s ਅਤੇ ਹੋਰ ਯੋਗਦਾਨੀਆਂ ਵੱਲੋਂ ਬਣਾਇਆ ਗਿਆ %1$s ਇੱਕ ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -881,7 +881,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ਤੁਹਾਨੂੰ <a href=\"%2$s\">%3$s</a> ਅਤੇ ਹੋਰ ਖੁੱਲ੍ਹੇ ਵਸੀਲਿਆਂ (ਓਪਨ ਸੋਰਸ) ਦੇ ਲਸੰਸਾਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ ਮੁਹੱਈਆ ਕਰਵਾਇਆ ਗਿਆ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -900,7 +900,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s ਲਈ ਹੋਰ ਸੋਰਸ ਕੋਡ ਹੋਰ ਕਈ ਮੁਫਤ ਅਤੇ ਖੁੱਲ੍ਹੇ ਵਸੀਲਿਆਂ (ਓਪਨ ਸੋਰਸ) ਦੇ <a href=\"%2$s\">ਲਸੰਸਾਂ</a> ਹੇਠ ਮਿਲਦਾ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
