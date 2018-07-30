@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 15:15+0000\n"
+"PO-Revision-Date: 2018-07-30 15:17+0000\n"
 "Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -915,6 +915,8 @@ msgstr "%1$s के लिए अतिरिक्त स्रोत कोड
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Disconnect, Inc. द्वारा प्रदान की गई ब्लॉकलिस्ट का भी उपयोग करता है जो <a href=\"%2$s\">जीएनयू सामान्य लोक लायसेंस v3</a> के तहत अलग और स्वतंत्र काम करता है, और <a href=\"%3$s\">यहाँ</a> उपलब्ध"
+" है।"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
