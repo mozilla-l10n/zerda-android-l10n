@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 13:33+0000\n"
-"Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2018-07-30 15:15+0000\n"
+"Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -158,7 +158,7 @@ msgstr "उपयोग डेटा भेजें"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s मात्र वही जानकारी एकत्र करने का प्रयास करता है जिससे हम %1$s को सभी के लिए उपलब्ध तथा बेहतर बना सकें."
+msgstr "%2$s मात्र वही जानकारी एकत्र करने का प्रयास करता है जिससे हम %1$s को सभी के लिए उपलब्ध तथा बेहतर बना सकें ।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -331,7 +331,7 @@ msgstr "%1$s चुनने के लिए धन्यवाद"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "गैर-लाभकारी %1$s द्वारा निर्मित एक ब्राउज़र, एक मुफ्त तथा खुले वेब के लिए समर्पित."
+msgstr "गैर-लाभकारी %1$s द्वारा निर्मित एक ब्राउज़र, एक मुफ्त तथा खुले वेब के लिए समर्पित ।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -480,7 +480,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s\n"
-"आपके स्थान की जानकारी प्राप्त करना चाहता है."
+"आपके स्थान की जानकारी प्राप्त करना चाहता है।"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -877,7 +877,7 @@ msgstr "सुनो, %3$s द्वारा निर्मित तीव्
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपेन सोर्स सॉफ्टवेयर है."
+msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपेन सोर्स सॉफ्टवेयर है ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -885,7 +885,7 @@ msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है."
+msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -898,7 +898,7 @@ msgid ""
 "href=\"%2$s\">here</a>."
 msgstr ""
 "Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है . अधिक जानकारी <a href=\"%2$s\">यहाँ</a>से पा सकते "
-"हैं."
+"हैं ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -975,7 +975,7 @@ msgstr "अपने जीवन रंगें!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr "थीम बदलने के लिए होम बैकग्राउंड पर डबल क्लिक करें ।"
+msgstr "थीम बदलने के लिए होम बैकग्राउंड पर डबल क्लिक करें।"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
@@ -1057,4 +1057,4 @@ msgid ""
 "history has been erased."
 msgstr ""
 "आपका निजी ब्राउज़िंग \n"
-"इतिहास मिटा दिया गया है."
+"इतिहास मिटा दिया गया है।"
