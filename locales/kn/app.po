@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-29 10:05+0000\n"
+"PO-Revision-Date: 2018-07-31 19:45+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -832,7 +832,7 @@ msgstr "ನಮ್ಮ ಉತ್ಪನ್ನವನ್ನು ಆಯ್ಕೆ ಮಾ
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr "ಹೌದು, 5 ನಕ್ಷತ್ರಗಳ ಬೆಲೆಕಟ್ಟಿ!"
+msgstr "ಹೌದು, 5 ನಕ್ಷತ್ರಗಳನ್ನು ನೀಡಿ!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
@@ -844,7 +844,7 @@ msgstr "ಇಲ್ಲ, ಅಭಿಪ್ರಾಯವನ್ನು ಕಳುಹಿಸ
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr "ಪ್ರತಿಕ್ರಿಯ"
+msgstr "ಪ್ರತಿಕ್ರಿಯೆ"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
