@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 13:46+0000\n"
-"Last-Translator: jimidar <jimidar@gmail.com>\n"
+"PO-Revision-Date: 2018-08-02 23:32+0000\n"
+"Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "ਠੀਕ ਹੈ"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "ਖੋਜੋ ਜਾਂ ਪਤਾ ਦਰਜ ਕਰੋ"
+msgstr "ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -167,7 +167,7 @@ msgstr "ਹੋਰ ਜਾਣੋ"
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr "ਦੇ ਬਾਰੇ"
+msgstr "ਇਸ ਬਾਰੇ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -242,7 +242,7 @@ msgstr "ਪਿਛਲੇ ਐਪ 'ਤੇ ਜਾਓ"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ਟ੍ਰੈਕਰਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ"
+msgstr "ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -257,7 +257,7 @@ msgstr "ਅਜਿਹੀ ਐਪ ਲੱਭੋ ਜੋ ਲਿੰਕ ਨੂੰ ਖੋ
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਪਰਲੀ ਕੋਈ ਵੀ ਐਪ ਇਸ ਤੰਦ ਨੂੰ ਖੋਲ੍ਹਣ ਦੇ ਕਾਬਲ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ %2$s ਦੇ ਲਈ ਕਿਸੇ ਕਾਬਲ ਐਪ ਨੂੰ ਲੱਭਣ ਲਈ %1$s ਛੱਡ ਸਕਦੇ ਹੋ।"
+msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਪਰਲੀ ਕੋਈ ਵੀ ਐਪ ਇਸ ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਦੇ ਕਾਬਲ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ %2$s ਦੇ ਲਈ ਕਿਸੇ ਕਾਬਲ ਐਪ ਨੂੰ ਲੱਭਣ ਲਈ %1$s ਛੱਡ ਸਕਦੇ ਹੋ।"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -270,7 +270,7 @@ msgstr "ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋਣਾ ਪੱ�
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "ਪਤੇ ਨੂੰ ਜਾਂਚੋ"
+msgstr "ਸਿਰਨਾਵੇਂ ਨੂੰ ਜਾਂਚੋ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -335,7 +335,7 @@ msgstr "ਇੱਕ ਗੈਰ-ਮੁਨਾਫ਼ਾ ਸੰਸਥਾ ਦੇ ਤੌ�
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "ਸੱਭ ਤੋਂ ਤੇਜ ਬਰਾਊਜ਼ ਕਰੋ"
+msgstr "ਸਭ ਤੋਂ ਤੇਜ ਬਰਾਊਜ਼ ਕਰੋ"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -413,7 +413,7 @@ msgstr "ਕੈਸ਼ ਸਾਫ ਕਰੋ"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr "ਇਤਿਹਾਸ"
+msgstr "ਅਤੀਤ"
 
 msgctxt "label_menu_share"
 msgid "Share"
@@ -433,11 +433,11 @@ msgstr "ਟਰਬੋ ਮੋਡ"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr "ਵਿਗਿਆਪਨ ਬਲੌਕ ਕਰੋ"
+msgstr "ਇਸ਼ਤਿਹਾਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "ਚਿੱਤਰਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ"
+msgstr "ਚਿੱਤਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -457,7 +457,7 @@ msgstr "ਹੁਣੇ ਨਹੀਂ"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "ਗੁੰਮ ਅਨੁਮਤੀਆਂ। ਫਾਇਰਫਾਕਸ ਰਾਕਟ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਤੇ ਪਹੁੰਚਣ ਦੀ ਆਗਿਆ ਦਿਓ।"
+msgstr "ਗੁੰਮ ਆਗਿਆਵਾਂ। ਫਾਇਰਫਾਕਸ ਰਾਕਟ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਤੇ ਪਹੁੰਚਣ ਦੀ ਆਗਿਆ ਦਿਓ।"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -483,11 +483,11 @@ msgstr "%1$s ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚਣਾ ਚ
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr "ਆਗਿਆ"
+msgstr "ਮਨਜ਼ੂਰ"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "ਬਲੌਕ"
+msgstr "ਪਾਬੰਦੀ"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -500,15 +500,15 @@ msgstr "ਰੱਦ ਕਰੋ"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr "ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ"
+msgstr "ਬ੍ਰਾਊਜ਼ਿੰਗ ਅਤੀਤ"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr "ਇਤਿਹਾਸ ਲੱਭੋ"
+msgstr "ਅਤੀਤ ਲੱਭੋ"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr "ਇਤਿਹਾਸ ਦਾ ਫਾਰਮ"
+msgstr "ਫਾਰਮ ਅਤੀਤ"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
@@ -525,7 +525,7 @@ msgstr "ਡਾਊਨਲੋਡ ਨਹੀਂ"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ…"
+msgstr "…ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -570,17 +570,17 @@ msgstr "ਰੁਕਿਆ"
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr "ਅਪੂਰਨ"
+msgstr "ਬਕਾਇਆ"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ"
+msgstr "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr "ਸਫਲ"
+msgstr "ਕਾਮਯਾਬ"
 
 #. File download status is failed
 msgctxt "failed"
