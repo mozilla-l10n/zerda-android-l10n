@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-02 23:32+0000\n"
+"PO-Revision-Date: 2018-08-02 23:38+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -585,30 +585,30 @@ msgstr "ਕਾਮਯਾਬ"
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr "ਅਸਫਲ"
+msgstr "ਨਾਕਾਮਯਾਬ"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr "ਅਣਜਾਣ"
+msgstr "ਅਣਪਛਾਤਾ"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr "ਐਸ ਡੀ ਕਾਰਡ"
+msgstr "SD ਕਾਰਡ"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "ਅੰਦਰੂਨੀ ਭੰਡਾਰ"
+msgstr "ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ਼"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਸਾਫ ਕਰੋ"
+msgstr "ਬਰਾਊਜਿੰਗ ਅਤੀਤ ਸਾਫ ਕਰੋ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਨਹੀਂ"
+msgstr "ਬਰਾਊਜਿੰਗ ਅਤੀਤ ਨਹੀਂ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -662,14 +662,14 @@ msgstr "ਪੂਰੇ ਸਫ਼ੇ ਦਾ ਸਕ੍ਰੀਨਸ਼ਾਟ ਕੈ�
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr "ਦ੍ਰਿਸ਼"
+msgstr "ਝਲਕ"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr "ਸੋਧਨਾ"
+msgstr "ਸੋਧੋ"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -731,12 +731,12 @@ msgstr "ਮਿਤੀ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr "ਕਰਾਰਾਪਨ: %1$s"
+msgstr "ਰੈਜ਼ੋਲੂਸ਼ਨ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr "ਕੱਦ: %1$s"
+msgstr "ਆਕਾਰ: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
@@ -750,7 +750,7 @@ msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr "ਇਹ ਚਿੱਤਰ ਮਿਟਾ ਦਿੱਤਾ ਗਏ?"
+msgstr "ਇਹ ਚਿੱਤਰ ਹਟਾਉਣਾ ਹੈ?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -768,15 +768,15 @@ msgstr "ਟਰਬੋ ਮੋਡ ਅਸਮਰੱਥ ਕੀਤਾ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਬਲਾਕ ਕਰੋ"
+msgstr "ਹੁਣ ਤਸਵੀਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾ ਰਹੀ ਹੈ"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਦਿਖਾ ਰਿਹਾ"
+msgstr "ਹੁਣ ਤਸਵੀਰਾਂ ਦਿਖਾਈ ਦੇ ਰਹੀਆਂ ਹਨ"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr "ਕੈਸ਼ ਸਾਫ ਕਰਨ ਦੇ ਅਯੋਗ"
+msgstr "ਕੈਸ਼ ਸਾਫ ਕਰਨ ਦੇ ਅਸਮਰੱਥ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -804,7 +804,7 @@ msgstr "ਡਿਸਪਲੇਅ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਕਰ �
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr "ਹਟਾਉ"
+msgstr "ਹਟਾਓ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -841,7 +841,7 @@ msgstr "ਨਹੀਂ, ਮੋੜਵੀਂ ਰਾਇ ਭੇਜੋ।"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr "FEEDBACK"
+msgstr "ਮੋੜਵੀਂ ਰਾਇ"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -849,7 +849,7 @@ msgstr "FEEDBACK"
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr "ਬੇਲੀਆਂ/ਸਹੇਲੀਆਂ ਨਾਲ %1$s ਸਾੰਝੀ ਕਰੋ!"
+msgstr "ਬੇਲੀਆਂ/ਸਹੇਲੀਆਂ ਨਾਲ %1$s ਸਾਂਝਾ ਕਰੋ!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -888,12 +888,13 @@ msgstr "%1$s ਤੁਹਾਨੂੰ <a href=\"%2$s\">%3$s</a> ਅਤੇ ਹੋਰ
 #. linking to the trademark policy (e.g.
 #. https://www.mozilla.org/foundation/trademarks/policy/)     %3$s will be
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
-#, fuzzy
 msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"ਤੁਹਾਨੂੰ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਜਾਂ ਕਿਤੇ ਵੀ ਹੋਰ ਧਿਰ ਦੇ ਟਰੇਡਮਾਰਕ ਲਈ ਹੱਕ ਜਾਂ ਲਸੰਸ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਗਈ ਹੈ, ਜਿਸ ਵਿੱਚ %3$s, %4$s ਜਾਂ %1$s ਨਾਂ ਜਾਂ ਲੋਗੋ ਸ਼ਾਮਲ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ <a href=\"%2$s\">ਇੱਥੇ</a> ਲੱਭੀ ਜਾ "
+"ਸਕਦੀ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -909,7 +910,7 @@ msgstr "%1$s ਲਈ ਹੋਰ ਸੋਰਸ ਕੋਡ ਹੋਰ ਕਈ ਮੁਫ�
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s Disconnect, Inc. ਵਲੋਂ ਪਾਬੰਦੀਸੁਦਾ-ਸੂਚੀਆਂ ਦੀ ਵਰਤੋਂ ਵੱਖਰੇ ਅਤੇ ਆਜ਼ਾਦਾਨਾ ਤੌਰ 'ਤੇ <a href=\"%2$s\">GNU ਜਰਨਲ ਪਬਲਿਕ ਲਸੰਸ v3</a> ਦੇ ਤਹਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਇਹ <a href=\"%3$s\">ਇੱਥ ਮੌਜੂਦ ਹੈ</a>।"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -935,7 +936,7 @@ msgstr "ਨਵਾਂ ਪੱਲ੍ਹਾ ਖੋਲ੍ਹਿਆ ਗਿਆ"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "ਸਵਿੱਚ ਕਰੋ"
+msgstr "ਬਦਲੋ"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -945,7 +946,7 @@ msgstr "…ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਿਆ ਜਾ ਰਿਹ�
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr "ਇਸ ਨੂੰ ਕੁੱਝ ਵੇਲਾ ਲੱਗ ਸਕਦਾ ਹੈ"
+msgstr "ਇਸ ਨੂੰ ਕੁਝ ਵੇਲਾ ਲੱਗ ਸਕਦਾ ਹੈ"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
@@ -986,7 +987,7 @@ msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਹਟਾਈ ਗਈ"
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr "ਸੋਧਣਾ"
+msgstr "ਸੋਧੋ"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
@@ -997,12 +998,12 @@ msgstr "ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਸੋਧੋ"
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr "ਸ਼ੰਭਾਲੋ"
+msgstr "ਸੰਭਾਲੋ"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr "ਨਾਉਂ"
+msgstr "ਨਾਂ"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
@@ -1036,7 +1037,7 @@ msgstr "ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr "ਪ੍ਰਾਇਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਓ"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1050,4 +1051,4 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr "ਤੁਹਾਡਾ ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+msgstr "ਤੁਹਾਡਾ ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
