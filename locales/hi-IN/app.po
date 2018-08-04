@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 18:26+0000\n"
-"Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2018-08-04 18:26+0000\n"
+"Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgstr "तयशुदा खोज इंजन"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "चित्र अवरोधित करें"
+msgstr "चित्र ब्लॉक करें"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -235,7 +235,7 @@ msgstr "वेबसाइट लोडिंग रोकें"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "पिछले एप पर वापस जाएँ"
+msgstr "पिछले ऐप पर वापस जाएँ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -248,7 +248,7 @@ msgstr "ट्रैकर्स को ब्लॉक करें"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "लिंक खोलने हेतु कोई एप्प तलाशें"
+msgstr "लिंक खोलने हेतु कोई ऐप तलाशें"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -693,7 +693,7 @@ msgstr "कोई एसडी कार्ड नहीं पाया गय�
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "फ़ाइल एसडी कार्ड में सहेज गया"
+msgstr "फ़ाइल एसडी कार्ड में सहेजा गया"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
@@ -826,7 +826,7 @@ msgstr "%1$s पसंद आया?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "हमारे प्रोडक्ट को चुनने के लिए धन्यवाद । आपका प्रतिक्रिया हमारे लिए महत्वपूर्ण है ।"
+msgstr "हमारे प्रोडक्ट को चुनने के लिए धन्यवाद। आपका प्रतिक्रिया हमारे लिए महत्वपूर्ण है।"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -871,7 +871,7 @@ msgstr "साझा करें"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "सुनो, %3$s द्वारा निर्मित तीव्र तथा हलके ब्राउज़र का जायजा लो. %1$s %2$s"
+msgstr "सुनो, %3$s द्वारा निर्मित तीव्र तथा हलके ब्राउज़र का जायजा लें। %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
