@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-04 18:26+0000\n"
+"PO-Revision-Date: 2018-08-04 18:39+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -709,7 +709,7 @@ msgstr "कोई स्क्रीनशॉट नहीं "
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "टैप करें  "
+msgstr "दबाएँ"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -814,7 +814,7 @@ msgstr "प्रोडक्ट अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "फ़ायरफ़ॉक्स रॉकेट को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए टैप करें।"
+msgstr "फ़ायरफ़ॉक्स रॉकेट को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -897,8 +897,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है . अधिक जानकारी <a href=\"%2$s\">यहाँ</a>से पा सकते "
-"हैं ।"
+"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है। अधिक जानकारी <a href=\"%2$s\">यहाँ</a>से पा सकते "
+"हैं।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -948,7 +948,7 @@ msgstr "स्विच"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr "सेटिंग्स परिवर्तित् किया जा रहा है…"
+msgstr "सेटिंग्स बदले जा रहे हैं…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
