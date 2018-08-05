@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-05 05:52+0000\n"
+"PO-Revision-Date: 2018-08-05 05:53+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -877,7 +877,7 @@ msgstr "सुनो, %3$s द्वारा निर्मित तीव्
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपेन सोर्स सॉफ्टवेयर है ।"
+msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपेन सोर्स सॉफ्टवेयर है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -885,7 +885,7 @@ msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है ।"
+msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
