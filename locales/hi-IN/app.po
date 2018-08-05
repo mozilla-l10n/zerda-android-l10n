@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-05 04:42+0000\n"
+"PO-Revision-Date: 2018-08-05 05:52+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -339,7 +339,7 @@ msgstr "पहले से तेज ब्राउज़ करें"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची में टर्बो प्रणाली बटन को बंद करें।"
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची में टर्बो मोड बटन को दबाएँ।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -347,7 +347,7 @@ msgstr "डेटा सहेजें = पैसे बचाएँ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करना न केवल ब्राउज़िंग को गति देता है, यह डेटा बचाता है। जब आप छवियों को ब्लॉक करते हैं तो और भी सहेजें।"
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करना न केवल ब्राउज़िंग को गति देता है, यह डेटा बचाता है। जब आप चित्र को ब्लॉक करते हैं तो और भी सहेजें।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -629,7 +629,7 @@ msgstr "सभी ब्राउज़िंग इतिहास मिटा
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr "साफ करें"
+msgstr "मिटायें"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
@@ -651,7 +651,7 @@ msgstr "स्क्रीनशॉट सहेजा गया"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr "स्क्रीनशॉट कैप्चर करने में विफल"
+msgstr "स्क्रीनशॉट कैद करने में विफल"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
@@ -718,7 +718,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "  मेनू पर संपूर्ण वेब पेज कैप्चर करने के लिए। "
+msgstr "मेनू पर संपूर्ण वेब पेज कैद करने के लिए। "
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
