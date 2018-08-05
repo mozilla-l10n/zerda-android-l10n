@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-04 18:39+0000\n"
+"PO-Revision-Date: 2018-08-05 04:42+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -456,7 +456,7 @@ msgstr "अभी नहीं"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "अनुपलब्ध अनुमतियाँ। फ़ायरफ़ॉक्स रॉकेट को आपके स्थान तक पहुँचने की अनुमति दें।"
+msgstr "अनुपलब्ध अनुमतियाँ। Firefox Rocket को आपके स्थान तक पहुँचने की अनुमति दें।"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -464,7 +464,7 @@ msgstr "स्थान उपलब्ध नहीं है। अपने �
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "अनुपलब्ध अनुमतियाँ। फ़ायरफ़ॉक्स रॉकेट को आपके स्थान तक पहुँचने की अनुमति दें।"
+msgstr "अनुपलब्ध अनुमतियाँ। Firefox Rocket को आपके स्थान तक पहुँचने की अनुमति दें।"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
@@ -814,7 +814,7 @@ msgstr "प्रोडक्ट अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "फ़ायरफ़ॉक्स रॉकेट को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
+msgstr "Firefox Rocket आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
