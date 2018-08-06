@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-26 13:48+0000\n"
+"PO-Revision-Date: 2018-08-06 12:37+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -703,7 +703,7 @@ msgstr "एसडी कार्ड लगभग भैर गेलै. फ़
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr "कोय स्क्रीनशॉट नै"
+msgstr "कोय स्क्रीनशॉट नै छकै"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -719,7 +719,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr " पुरे वेबपेज केपचर करै ल मेनु दबाइयै."
+msgstr "पुरे वेबपेज केपचर करै ल मेनु दबाइयै."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
