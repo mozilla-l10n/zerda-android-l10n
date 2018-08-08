@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-26 19:29+0000\n"
+"PO-Revision-Date: 2018-07-26 19:31+0000\n"
 "Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -75,10 +75,10 @@ msgstr "Cari di Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s adalah sebuah peramban cepat dan ringan buatan Mozilla. Misi kami adalah untuk mendorong internet yang sehat dan terbuka."
+msgstr "%1$s adalah sebuah peramban cepat dan ringan buatan %2$s. Misi kami adalah untuk mendorong internet yang sehat dan terbuka."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -155,10 +155,10 @@ msgstr "Kirim data penggunaan"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki %1$s bagi Anda."
+msgstr "%2$s hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki %1$s bagi Anda."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -328,10 +328,10 @@ msgid "Thanks for choosing %1$s"
 msgstr "Terima kasih telah memilih %1$s"
 
 #. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "Sebuah peramban yang dibuat khusus untuk Indonesia oleh Mozilla, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
+msgstr "Peramban yang dibuat oleh %1$s, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -870,39 +870,36 @@ msgstr "Bagikan"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
-#, c-format, fuzzy
+#, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "Yuk, coba peramban cepat dan ringan dari Mozilla. %1$s %2$s"
+msgstr "Yuk, coba peramban cepat dan ringan dari %3$s. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
-#, fuzzy
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh Mozilla dan kontributor lainnya."
+msgstr "%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh %2$s dan kontributor lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
-#, fuzzy
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi Publik Mozilla</a> dan lisensi sumber terbuka lainnya."
+msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">%3$s</a> dan lisensi sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the trademark policy (e.g.
 #. https://www.mozilla.org/foundation/trademarks/policy/)     %3$s will be
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
-#, fuzzy
 msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak mana pun, termasuk nama atau logo Mozilla, Firefox, atau %1$s. Informasi lebih lanjut bisa ditemukan <a "
+"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak mana pun, termasuk nama atau logo %3$s, %4$s, atau %1$s. Informasi lebih lanjut bisa ditemukan <a "
 "href=\"%2$s\">di sini</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
