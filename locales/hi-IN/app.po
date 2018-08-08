@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-05 06:39+0000\n"
+"PO-Revision-Date: 2018-08-08 10:06+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -709,7 +709,7 @@ msgstr "कोई स्क्रीनशॉट नहीं "
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "दबाएँ"
+msgstr "दबाएँ  "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -718,7 +718,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "मेनू पर संपूर्ण वेब पेज कैद करने के लिए। "
+msgstr "  मेनू पर संपूर्ण वेब पेज कैद करने के लिए। "
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
