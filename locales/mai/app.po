@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-07-30 03:34+0000\n"
-"Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
+"PO-Revision-Date: 2018-08-08 01:02+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: mai <LL@li.org>\n"
 "\n"
 "Language: mai\n"
@@ -913,8 +913,8 @@ msgstr "%1$s लेली अतिरिक्त स्रोत कोड अ
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s Disconnect, Inc. द्वारा प्रदान कएल गेल ब्लॉकलिस्ट क भी उपयोग करैत अछि जे <a href=\\\"%2$s\\\">जीएनयू सामान्य पब्लिक लायसेंस v3</a> क तहत अलग आओर स्वतंत्र काज करैत अछि, आओर <a "
-"href=\\\"%3$s\\\">एतय</a> उपलब्ध अछि."
+"%1$s Disconnect, Inc. द्वारा प्रदान कएल गेल ब्लॉकलिस्ट क भी उपयोग करैत अछि जे <a href=\"%2$s\">जीएनयू सामान्य पब्लिक लायसेंस v3</a> क तहत अलग आओर स्वतंत्र काज करैत अछि, आओर <a href=\"%3$s\">एतय</a> "
+"उपलब्ध अछि."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
