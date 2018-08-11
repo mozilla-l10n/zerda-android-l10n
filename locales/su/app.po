@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 04:28+0000\n"
+"PO-Revision-Date: 2018-08-11 04:46+0000\n"
 "Last-Translator: ia.adnan <ia.adnan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
@@ -216,7 +216,7 @@ msgstr "Maju"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Muat ulang raramatloka"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -229,7 +229,7 @@ msgstr "Mundur"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Eureunan ngamuat raramatloka"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
