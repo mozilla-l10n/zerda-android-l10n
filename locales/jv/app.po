@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 08:50+0000\n"
+"PO-Revision-Date: 2018-08-11 18:13+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -975,7 +975,7 @@ msgstr "Wernani urip sampéyan!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr "Klik ping loro ing mbalik ing kaca kanggo ngganti téma."
+msgstr "Klik pindho ing latar tepas kanggo ngganti téma."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
