@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 06:53+0000\n"
-"Last-Translator: Nur Fahmia <nfahmia.id@gmail.com>\n"
+"PO-Revision-Date: 2018-08-11 07:02+0000\n"
+"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr "%1$s iku peramban sing ènthèng lan bantèr digawé déning %2$s. Misi 
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Sinau liyané"
 
 msgctxt "about_link_support"
 msgid "Support"
@@ -90,16 +90,16 @@ msgstr "Dhukungan"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr "Hak Sampeyan / Lisensi"
+msgstr "Hak Sampéyan / Lisènsi"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Pratélan Wadi"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "Mesin panggolèk standar"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -114,20 +114,20 @@ msgstr "Gawan sistem"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "Mesin panggolèk standar"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Blokir gambar"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "Resikaké dhata peramban"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "Simpen undhuhan ing"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -135,7 +135,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Dadèkaké peramban standar"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -143,15 +143,15 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Ngowahi setélan…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Mode turbo"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "Kirim dhata panggunaan"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
@@ -162,31 +162,31 @@ msgstr ""
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Sinau liyané"
 
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr ""
+msgstr "Ngenani"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Resikaké lebon"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Singkirké"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sambungan aman"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
