@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 07:51+0000\n"
-"Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
+"PO-Revision-Date: 2018-08-11 08:12+0000\n"
+"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
 "MIME-Version: 1.0\n"
@@ -501,169 +501,169 @@ msgstr "Batal"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Riwayat dlajahan"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Riwayat golèkan"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Riwayat formulir"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Kuki"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Ampiran"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Ora ana undhuhan"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Ngundhuh…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Protokol undhuhan ora kadhukung"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Berkas ora ketemu"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Berkas ora kabusak."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s diundhuh"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s dibusak"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Undhuhan dibatalaké"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Wurung"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Bukak"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "dilèrènké"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "Katundha"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ngundhuh"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Suksès"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "gagal"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ora tepung"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "Kartu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Panyimpenan internal"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "RESIKAKÉ RIWAYAT PERAMBAN"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Ora ana riwayat dlajahan"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Dina iki"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Wingi"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Busak"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Resikaké kabèh riwayat dlajahan?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Resikaké"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Busak saka daptar"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "Busak berkas"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Jeprètan layar kasimpen"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Gagal njeprèt layar"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Njeprèt layar sakabèhané kaca…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "DELENG"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -677,39 +677,39 @@ msgstr "BESUT"
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "BUSAK"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "DUMKÉ"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Ora ana kertu SD sing kedeteksi. Berkas kasimpen ing panyimpenan internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Berkas kasimpen ing kertu SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "Kertu SD mèh kebak. Berkas kasimpen ing panyimpenan internal."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Ora ana jeprètan layar"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "Tunyuk"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -719,98 +719,100 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" ing menu kanggo njeprèt \n"
+"kaca sakkabèhé."
 
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "Tanggal: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Résolusi: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "Ukuran: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Judhul: %1$s"
 
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "Busak gambar iki?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Pilih berkas kanggo diunggah"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Mode turbo diuripké"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Mode turbo dipatèni"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Saiki mblokir gambar"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Saiki nuduhaké gambar "
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Ora bisa ngresikaké ampiran"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Panyimpenan dhata ora bisa diaksès. Undhuhan batal."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s ampiran diresikaké"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "Dhata dlajahan diresikaké"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Jeprètan layar dibusak"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Jeprètan layar ora bisa dituduhaké"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Ilangi"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "Pratélan Panganyaran Produk"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
