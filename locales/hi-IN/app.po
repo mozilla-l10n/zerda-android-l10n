@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-08 10:06+0000\n"
+"PO-Revision-Date: 2018-08-11 15:58+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -343,7 +343,7 @@ msgstr "ट्रैकिंग विज्ञापनों को ब्ल
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr "डेटा सहेजें = पैसे बचाएँ"
+msgstr "डेटा बचाएँ = पैसा बचाएँ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
