@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 05:18+0000\n"
-"Last-Translator: ia.adnan <ia.adnan@gmail.com>\n"
+"PO-Revision-Date: 2018-08-11 06:28+0000\n"
+"Last-Translator: Fauzan Alfi <fauzanalfi@mozilla.web.id>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
 "MIME-Version: 1.0\n"
@@ -23,17 +23,17 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "CANCEL"
-msgstr ""
+msgstr "BEDO"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OKÉH"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Paluruh atawa asupkeun alamat"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -41,29 +41,29 @@ msgstr "Setélan"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Ngeunaan"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Pitulung"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Hak Anjeun"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr ""
+msgstr "Béré pangdeudeul"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "Bagikeun ka babaturan"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Bagikeun kana"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -71,14 +71,14 @@ msgstr ""
 #. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Rocket"
-msgstr ""
+msgstr "Paluruh di Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s téh panyungsi anu gancang tur hampang karya %2$s. Ari udaganana nya éta pikeun ngarojong internét nembrak anu séhat."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -86,48 +86,48 @@ msgstr "Lenyepan"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr "Rojong"
+msgstr "Pangrojong"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "Hak Anjeun / Lisénsi"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Iber Privasi"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "Mesin pamaluruh baku"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Basa"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Bawaan sistem"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "Mesin pamaluruh baku"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Peungpeuk gambar"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "Beresihan data sungsian"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "Teundeun undeuran kana"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -135,7 +135,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Jadikeun panyungsi baku"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -143,15 +143,15 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Ngarobah setélan..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Modeu turbo"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "Kirim data pamakéan"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr "Lenyepan"
+msgstr ""
 
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
@@ -186,7 +186,7 @@ msgstr ""
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr "Sambungan aman"
+msgstr ""
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -198,7 +198,7 @@ msgstr ""
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "Situs wéb geus dimuat"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -210,26 +210,26 @@ msgstr ""
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "Maju"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "Muat ulang raramatloka"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "Mundur"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "Eureunan ngamuat raramatloka"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -278,11 +278,11 @@ msgstr ""
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr "Alamat teu kaharti"
+msgstr ""
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "Sigana anjeun kudu masang sopwér séjén pikeun muka ieu alamat."
+msgstr ""
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1049,5 +1049,3 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
-"Jujutan langlangan pribadi\n"
-"anjeun geus dihapus."
