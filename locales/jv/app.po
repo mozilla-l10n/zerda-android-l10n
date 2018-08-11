@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 18:13+0000\n"
+"PO-Revision-Date: 2018-08-11 18:36+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -866,7 +866,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr "Dhumkè"
+msgstr "Dumké"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
