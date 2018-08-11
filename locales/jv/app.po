@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-02 06:56+0000\n"
+"PO-Revision-Date: 2018-08-02 09:15+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -86,7 +86,7 @@ msgstr ""
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr ""
+msgstr "Dhukungan"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
@@ -109,7 +109,7 @@ msgstr "Basa"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Gawan sistem"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
