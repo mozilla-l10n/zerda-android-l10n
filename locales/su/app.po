@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 04:11+0000\n"
-"Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
+"PO-Revision-Date: 2018-08-11 04:28+0000\n"
+"Last-Translator: ia.adnan <ia.adnan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
 "MIME-Version: 1.0\n"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Lenyepan"
 
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
@@ -186,7 +186,7 @@ msgstr ""
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sambungan aman"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -198,7 +198,7 @@ msgstr ""
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Situs wéb geus dimuat"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -210,7 +210,7 @@ msgstr ""
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Maju"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -222,7 +222,7 @@ msgstr ""
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Mundur"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
