@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-12 04:06+0000\n"
+"PO-Revision-Date: 2018-08-12 04:25+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -689,15 +689,15 @@ msgstr "DUMKÉ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "Ora ana kertu SD sing kedeteksi. Berkas kasimpen ing panyimpenan internal."
+msgstr "Ora ana kartu SD sing kedeteksi. Berkas kasimpen ing panyimpenan internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "Berkas kasimpen ing kertu SD"
+msgstr "Berkas kasimpen ing kartu SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "Kertu SD mèh kebak. Berkas kasimpen ing panyimpenan internal."
+msgstr "Kartu SD mèh kebak. Berkas kasimpen ing panyimpenan internal."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -1012,7 +1012,7 @@ msgstr "Jeneng"
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr "Panggonan"
+msgstr "Panggon"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
