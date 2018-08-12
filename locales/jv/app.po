@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-12 04:55+0000\n"
-"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
+"PO-Revision-Date: 2018-08-12 06:43+0000\n"
+"Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
 "MIME-Version: 1.0\n"
@@ -634,7 +634,7 @@ msgstr "Resikaké"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr "Busak saka daptar"
+msgstr "Ilangké saka daptar"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -807,7 +807,7 @@ msgstr "Jeprètan layar ora bisa dituduhaké"
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr "Ilangi"
+msgstr "Ilangké"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
