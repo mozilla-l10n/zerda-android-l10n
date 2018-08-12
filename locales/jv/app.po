@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 18:36+0000\n"
+"PO-Revision-Date: 2018-08-12 03:47+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -53,7 +53,7 @@ msgstr "Hak Sampéyan"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr "Wénéhi tanggepan"
+msgstr "Wènèhi tanggepan"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
@@ -123,7 +123,7 @@ msgstr "Blokir gambar"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "Resikaké dhata peramban"
+msgstr "Resikaké dhata paramban"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -605,7 +605,7 @@ msgstr "Panyimpenan internal"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "RESIKAKÉ RIWAYAT PERAMBAN"
+msgstr "RESIKAKÉ RIWAYAT PARAMBAN"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -824,7 +824,7 @@ msgstr "Supaya Firefox Rocket luwih apik kanggo sampéyan lan wong liya, kita ng
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr "Gandrung %1$s?"
+msgstr "Dhemen %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -832,11 +832,11 @@ msgstr "Matur nuwun wis milih produk kita. Tanggepan sampéyan penting kanggo ki
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr "Ya, wenèhi 5 lintang!"
+msgstr "Ya, wènèhi 5 lintang!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr "WENÈHI 5 LINTANG"
+msgstr "WÈNÈHI 5 LINTANG"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -873,7 +873,7 @@ msgstr "Dumké"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "Hèh, priksa peramban ingkang cepet lan ènthèng saka %3$s. %1$s %2$s"
+msgstr "Hèh, priksa paramban ingkang cepet lan ènthèng saka %3$s. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -954,7 +954,7 @@ msgstr "Sedhela"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr "Tunyuk kanggo ndadèkaké peramban standar"
+msgstr "Tunyuk kanggo ndadèkaké paramban standar"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
