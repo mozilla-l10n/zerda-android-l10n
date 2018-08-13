@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-12 22:26+0000\n"
+"PO-Revision-Date: 2018-08-13 01:48+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
@@ -944,7 +944,7 @@ msgstr "Tab anyar dibuka"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "GANTI"
+msgstr "GILIR"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
