@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-01 18:26+0000\n"
-"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
+"PO-Revision-Date: 2018-08-14 18:31+0000\n"
+"Last-Translator: Hiran Venugopalan <hiran.v@gmail.com>\n"
 "Language-Team: ml <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -33,11 +33,11 @@ msgstr "ശരി"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "വിലാസം അല്ലെങ്കില്‍ തിരയുക"
+msgstr "തിരയുക, അല്ലെങ്കിൽ വിലാസം നൽകുക"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "സജ്ജീകരണം‍"
+msgstr "സജ്ജീകരണങ്ങൾ"
 
 msgctxt "menu_about"
 msgid "About"
@@ -78,7 +78,7 @@ msgstr "Firefox Rocket ഇതിൽ തിരയൂ"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s %2$s നിർമ്മിച്ച ഒരു വേഗമേറിയതും ലഘുവുമായിട്ടുള്ള ബ്രൗസറാണ്. ഞങ്ങളുടെ ലക്ഷ്യം ഒരു ആരോഗ്യമുള്ള തുറന്ന ഇന്റർനെറ്റിന്റെ വളർച്ചയാണ്."
+msgstr "%1$s %2$s നിർമ്മിച്ച വേഗമേറിയ ചെറിയ ബ്രൗസറാണ്. ഞങ്ങളുടെ ലക്ഷ്യം ആരോഗ്യമുള്ള തുറന്ന ഇന്റർനെറ്റിന്റെ വളർച്ചയാണ്."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -167,7 +167,7 @@ msgstr "കൂടുതല്‍ അറിയുക"
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr "നെ കുറിച്ച്"
+msgstr "കുറിച്ച്"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -899,6 +899,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"മോസില്ല ഫൗണ്ടേഷനുമായി ബന്ധപ്പെട്ട %3$s, %4$s, %1$s എന്നിവയുടെ പേരകളും ലോഗോകളും അടക്കം ഒന്നിന്റേയും മുകളിൽ അവകാശമൊ ട്രൈഡ്മാർക്ക് ഉപയോഗിക്കാനുള്ള അനുമതിയൊ നിങ്ങൾക്ക് നൽകപ്പെട്ടിട്ടില്ല. കൂടുതൽ "
+"വിവരങ്ങൾ <a href=\"%2$s\">ഇവിടെ </a> നോക്കുക"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
