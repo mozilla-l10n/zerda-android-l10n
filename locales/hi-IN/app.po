@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-07-26 20:09+0800\n"
-"PO-Revision-Date: 2018-08-11 15:58+0000\n"
+"PO-Revision-Date: 2018-08-15 16:06+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -982,12 +982,12 @@ msgstr "थीम बदलने के लिए होम बैकग्र�
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr "बुकमार्क्स सहेजा गया"
+msgstr "बुकमार्क सहेजा गया"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr "बुकमार्क्स हटाया गया"
+msgstr "बुकमार्क हटाया गया"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -998,7 +998,7 @@ msgstr "संपादित"
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr "बुकमार्क्स संपादित करें"
+msgstr "बुकमार्क संपादित करें"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -1019,12 +1019,12 @@ msgstr "स्थान"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr "बुकमार्क्स अद्यतित"
+msgstr "बुकमार्क अद्यतित"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr "कोई बुकमार्क्स नहीं "
+msgstr "कोई बुकमार्क नहीं "
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
