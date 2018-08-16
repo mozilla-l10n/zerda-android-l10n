@@ -2,23 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-26 20:09+0800\n"
+"POT-Creation-Date: 2018-08-16 18:25+0800\n"
 "PO-Revision-Date: 2018-08-14 18:31+0000\n"
 "Last-Translator: Hiran Venugopalan <hiran.v@gmail.com>\n"
-"Language-Team: ml <LL@li.org>\n"
 "Language: ml\n"
+"Language-Team: ml <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -77,8 +76,12 @@ msgstr "Firefox Rocket ഇതിൽ തിരയൂ"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s %2$s നിർമ്മിച്ച വേഗമേറിയ ചെറിയ ബ്രൗസറാണ്. ഞങ്ങളുടെ ലക്ഷ്യം ആരോഗ്യമുള്ള തുറന്ന ഇന്റർനെറ്റിന്റെ വളർച്ചയാണ്."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%1$s %2$s നിർമ്മിച്ച വേഗമേറിയ ചെറിയ ബ്രൗസറാണ്. ഞങ്ങളുടെ ലക്ഷ്യം "
+"ആരോഗ്യമുള്ള തുറന്ന ഇന്റർനെറ്റിന്റെ വളർച്ചയാണ്."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -157,8 +160,12 @@ msgstr "ഉപയോഗ ഡാറ്റ അയക്കുക"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%1$s എല്ലാവര്‍ക്കും മെച്ചപ്പെട്ടതാക്കാൻ ആവശ്യമുള്ള ഡാറ്റ മാത്രം ശേഖരിക്കാൻ %2$s ശ്രമിക്കുന്നു."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%1$s എല്ലാവര്‍ക്കും മെച്ചപ്പെട്ടതാക്കാൻ ആവശ്യമുള്ള ഡാറ്റ മാത്രം "
+"ശേഖരിക്കാൻ %2$s ശ്രമിക്കുന്നു."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -256,8 +263,12 @@ msgstr "കണ്ണി തുറക്കാൻ പറ്റിയ ഒരു �
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "താങ്കളുടെ ഉപകരണത്തിലെ പ്രയോഗങ്ങൾക്കൊന്നും ഈ കണ്ണി തുറക്കാനാവില്ല. %2$s-ൽ അത്തരം ഒരു പ്രയോഗത്തിനായി തിരയാൻ %1$s-നെ വിടൂ."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"താങ്കളുടെ ഉപകരണത്തിലെ പ്രയോഗങ്ങൾക്കൊന്നും ഈ കണ്ണി തുറക്കാനാവില്ല. %2$s-ൽ "
+"അത്തരം ഒരു പ്രയോഗത്തിനായി തിരയാൻ %1$s-നെ വിടൂ."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -282,7 +293,9 @@ msgstr "വിലാസം മനസ്സിലാക്കാന്‍ പറ�
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "ഈ വിലാസം സന്ദർശിക്കാൻ ചിലപ്പോൾ താങ്കൽ മറ്റൊരു പ്രയോഗം ചേർക്കേണ്ടി വന്നേക്കാം."
+msgstr ""
+"ഈ വിലാസം സന്ദർശിക്കാൻ ചിലപ്പോൾ താങ്കൽ മറ്റൊരു പ്രയോഗം ചേർക്കേണ്ടി "
+"വന്നേക്കാം."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -338,24 +351,39 @@ msgid "Browse faster than ever"
 msgstr "എന്നത്തെക്കാളും വേഗത്തിൽ ബ്രൗസ് ചെയ്യൂ"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "പിന്തുടരുന്ന പരസ്യങ്ങൾ തടയുന്നതിലൂടെ വളരെ വേഗത്തിൽ ബ്രൗസ് ചെയ്യാൻ ടർബോ രീതി ഉപയോഗിക്കൂ. സൈറ്റ് വികലമായി അനുഭവപ്പെട്ടാൽ മെനുവിലെ ടർബോ മോഡ് സ്വിച്ച് ഓഫാക്കൂ."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+"പിന്തുടരുന്ന പരസ്യങ്ങൾ തടയുന്നതിലൂടെ വളരെ വേഗത്തിൽ ബ്രൗസ് ചെയ്യാൻ ടർബോ "
+"രീതി ഉപയോഗിക്കൂ. സൈറ്റ് വികലമായി അനുഭവപ്പെട്ടാൽ മെനുവിലെ ടർബോ മോഡ് "
+"സ്വിച്ച് ഓഫാക്കൂ."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ഡാറ്റ ലാഭം = കാശ് ലാഭം"
 
 msgctxt "first_run_page3_text"
-msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "പിന്തുടരുന്ന പരസ്യങ്ങൾ തടയുന്നത് ബ്രൗസിംഗിന്റെ വേഗത വര്‍ധിപ്പിക്കുക മാത്രമല്ല, അത് ഡാറ്റ സംരക്ഷിക്കുകയും ചെയ്യുന്നു. ചിത്രങ്ങൾ തടയുന്നതിലൂടെ കൂടുതല്‍ ഡാറ്റ സംരക്ഷിക്കൂ."
+msgid ""
+"Blocking tracking ads not only speeds up browsing, it saves data. Save "
+"even more when you block images."
+msgstr ""
+"പിന്തുടരുന്ന പരസ്യങ്ങൾ തടയുന്നത് ബ്രൗസിംഗിന്റെ വേഗത വര്‍ധിപ്പിക്കുക "
+"മാത്രമല്ല, അത് ഡാറ്റ സംരക്ഷിക്കുകയും ചെയ്യുന്നു. ചിത്രങ്ങൾ തടയുന്നതിലൂടെ "
+"കൂടുതല്‍ ഡാറ്റ സംരക്ഷിക്കൂ."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
 msgstr "എല്ലാത്തിന്റെയും സ്ക്രീൻഷോട്ടെടുക്കൂ"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "മുഴുവൻ വെബ് പേജുകളുടേയും സ്ക്രീൻഷോട്ടുകളെടുക്കൂ. ഒരു സ്ക്രീൻഷോട്ട് ഓഫ്‌ലൈനായി (ഡാറ്റ ഉപയോഗിക്കാതെ) കാണൂ അല്ലെങ്കിൽ ആ വെബ് പേജ് വീണ്ടും സന്ദർശിക്കാനായി അമർത്തൂ."
+msgid ""
+"Take screenshots of entire web pages. View a screenshot offline (without "
+"using data) or tap it to revisit the web page."
+msgstr ""
+"മുഴുവൻ വെബ് പേജുകളുടേയും സ്ക്രീൻഷോട്ടുകളെടുക്കൂ. ഒരു സ്ക്രീൻഷോട്ട് "
+"ഓഫ്‌ലൈനായി (ഡാറ്റ ഉപയോഗിക്കാതെ) കാണൂ അല്ലെങ്കിൽ ആ വെബ് പേജ് വീണ്ടും "
+"സന്ദർശിക്കാനായി അമർത്തൂ."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -455,20 +483,32 @@ msgid "not now"
 msgstr "ഇപ്പോള്‍ വേണ്ട"
 
 msgctxt "permission_dialog_msg_location"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "അനുമതികള്‍ ലഭ്യമല്ല. ഫയര്‍ഫോക്സ് റോക്കറ്റിന് നിങ്ങളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നല്‍കുക."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+"അനുമതികള്‍ ലഭ്യമല്ല. ഫയര്‍ഫോക്സ് റോക്കറ്റിന് നിങ്ങളുടെ സ്ഥാനം "
+"ലഭിക്കാനുള്ള അനുമതി നല്‍കുക."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "സ്ഥാനം ലഭ്യമല്ല. താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നൽകൂ."
 
 msgctxt "permission_dialog_msg_storage"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "അനുമതികൾ ലഭ്യമല്ല. ഫയർഫോക്സ് റോക്കറ്റിന് താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നൽകൂ."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+"അനുമതികൾ ലഭ്യമല്ല. ഫയർഫോക്സ് റോക്കറ്റിന് താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള "
+"അനുമതി നൽകൂ."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "സംഭരണി ലഭ്യമല്ല. താങ്കളുടെ ഉപകരണത്തിൽ ചിത്രങ്ങളും ഫയലുകളും സംരക്ഷിക്കാനുള്ള അനുമതി നൽകൂ."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"സംഭരണി ലഭ്യമല്ല. താങ്കളുടെ ഉപകരണത്തിൽ ചിത്രങ്ങളും ഫയലുകളും "
+"സംരക്ഷിക്കാനുള്ള അനുമതി നൽകൂ."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -722,30 +762,54 @@ msgstr ""
 " മെനുവിൽ \n"
 "ഒരു വെബ് പേജ് മുഴുവൻ പകർത്താൻ."
 
+#. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
 msgstr "വിവരം"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Date: When the screenshot
+#. is taken.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
 msgstr "തീയതി: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Category: Which category
+#. does the screenshotted page falls in.
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_category"
+msgid "Category: %1$s"
+msgstr ""
+
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Resolution: The height
+#. and the width of the screenshot.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
 msgstr "റെസല്യൂഷൻ: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Size: The disk size of
+#. the saved screenshot file.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
 msgstr "വലിപ്പം: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Title: The title of the
+#. screenshotted web page.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
 msgstr "തലക്കെട്ട്: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is URL: The url of the
+#. screenshotted web page.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
@@ -815,8 +879,13 @@ msgid "Product Update Notice"
 msgstr "ഉല്പന്നത്തിന്റെ പുതുക്കൽ നോട്ടീസ്"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "ഫയർഫോക്സ് റോക്കറ്റ് താങ്കൾക്കും മറ്റെല്ലാവർക്കും മികച്ചതാക്കാൻ, ഞങ്ങൾ ഞങ്ങളുടെ സ്വകാര്യതാനയത്തിൽ കുറച്ച് മാറ്റങ്ങൾ വരുത്തി. കൂടുതൽ അറിയാൻ അമർത്തൂ."
+msgid ""
+"To make Firefox Rocket better for you and everyone, we made some changes "
+"to our privacy policy. Tap to learn more."
+msgstr ""
+"ഫയർഫോക്സ് റോക്കറ്റ് താങ്കൾക്കും മറ്റെല്ലാവർക്കും മികച്ചതാക്കാൻ, ഞങ്ങൾ "
+"ഞങ്ങളുടെ സ്വകാര്യതാനയത്തിൽ കുറച്ച് മാറ്റങ്ങൾ വരുത്തി. കൂടുതൽ അറിയാൻ "
+"അമർത്തൂ."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -828,7 +897,9 @@ msgstr "%1$s ഇഷ്ടമായോ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "ഞങ്ങളുടെ ഉല്പന്നം തിരഞ്ഞെടുത്തതിനു നന്ദി. താങ്കളുടെ പ്രതികരണം ഞങ്ങൾക്ക് വിലപ്പെട്ടത്താണ്."
+msgstr ""
+"ഞങ്ങളുടെ ഉല്പന്നം തിരഞ്ഞെടുത്തതിനു നന്ദി. താങ്കളുടെ പ്രതികരണം ഞങ്ങൾക്ക് "
+"വിലപ്പെട്ടത്താണ്."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -879,15 +950,21 @@ msgstr "ഏയ്, %3$sൽ നിന്നുള്ള വേഗമേറിയ�
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$sയും മറ്റ് പങ്കാളികളും ചേർന്ന് നിർമ്മിച്ച ഒരു സ്വതന്ത്രസോഫ്റ്റ്‌വെയറാണ്."
+msgstr ""
+"%1$s %2$sയും മറ്റ് പങ്കാളികളും ചേർന്ന് നിർമ്മിച്ച ഒരു "
+"സ്വതന്ത്രസോഫ്റ്റ്‌വെയറാണ്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s താങ്കൾക്ക് <a href=\"%2$s\">%3$s</a> മറ്റ് സ്വതന്ത്ര ലൈസൻസുകളിലേയും ഉപാധികളോടെയാണ് ലഭ്യമാക്കിയിരിക്കുന്നത്."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s താങ്കൾക്ക് <a href=\"%2$s\">%3$s</a> മറ്റ് സ്വതന്ത്ര ലൈസൻസുകളിലേയും "
+"ഉപാധികളോടെയാണ് ലഭ്യമാക്കിയിരിക്കുന്നത്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -896,18 +973,25 @@ msgstr "%1$s താങ്കൾക്ക് <a href=\"%2$s\">%3$s</a> മറ്�
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
-"മോസില്ല ഫൗണ്ടേഷനുമായി ബന്ധപ്പെട്ട %3$s, %4$s, %1$s എന്നിവയുടെ പേരകളും ലോഗോകളും അടക്കം ഒന്നിന്റേയും മുകളിൽ അവകാശമൊ ട്രൈഡ്മാർക്ക് ഉപയോഗിക്കാനുള്ള അനുമതിയൊ നിങ്ങൾക്ക് നൽകപ്പെട്ടിട്ടില്ല. കൂടുതൽ "
-"വിവരങ്ങൾ <a href=\"%2$s\">ഇവിടെ </a> നോക്കുക"
+"മോസില്ല ഫൗണ്ടേഷനുമായി ബന്ധപ്പെട്ട %3$s, %4$s, %1$s എന്നിവയുടെ പേരകളും "
+"ലോഗോകളും അടക്കം ഒന്നിന്റേയും മുകളിൽ അവകാശമൊ ട്രൈഡ്മാർക്ക് ഉപയോഗിക്കാനുള്ള"
+" അനുമതിയൊ നിങ്ങൾക്ക് നൽകപ്പെട്ടിട്ടില്ല. കൂടുതൽ വിവരങ്ങൾ <a "
+"href=\"%2$s\">ഇവിടെ </a> നോക്കുക"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s എന്നതിന്റെ കൂടുതൽ സോഴ്സ് കോഡ് മറ്റു പല സ്വതന്ത്ര <a href=\"%2$s\">ലൈസൻസുകൾ</a> പ്രകാരം ലഭ്യമാണ്."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s എന്നതിന്റെ കൂടുതൽ സോഴ്സ് കോഡ് മറ്റു പല സ്വതന്ത്ര <a "
+"href=\"%2$s\">ലൈസൻസുകൾ</a> പ്രകാരം ലഭ്യമാണ്."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -915,10 +999,15 @@ msgstr "%1$s എന്നതിന്റെ കൂടുതൽ സോഴ്സ�
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"<a href=\"%3$s\">ഇവിടെ</a> ലഭ്യമായിട്ടുള്ളതും, <a href=\"%2$s\">GNU സാർവ്വജനിക അനുവാദപത്രത്തിന്റെ 3ാം പതിപ്പ്</a> പ്രകാരം Disconnect, Inc. സ്വതന്ത്രവും വേറിട്ടതുമായി പുറത്തിറക്കിയിട്ടുള്ള തടയൽ "
-"പട്ടികകളും %1$s ഉപയോഗിക്കുന്നു."
+"<a href=\"%3$s\">ഇവിടെ</a> ലഭ്യമായിട്ടുള്ളതും, <a href=\"%2$s\">GNU "
+"സാർവ്വജനിക അനുവാദപത്രത്തിന്റെ 3ാം പതിപ്പ്</a> പ്രകാരം Disconnect, Inc. "
+"സ്വതന്ത്രവും വേറിട്ടതുമായി പുറത്തിറക്കിയിട്ടുള്ള തടയൽ പട്ടികകളും %1$s "
+"ഉപയോഗിക്കുന്നു."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1062,3 +1151,18 @@ msgid ""
 msgstr ""
 "നിങ്ങളുടെ സ്വകാര്യ ബ്രൌസിങ്ങ്\n"
 "നാള്‍വഴി മായ്ചു."
+
+#. Message shown when the user is using screenshot for the first time. Guide
+#. them how to go to "My shots".
+msgctxt "my_shot_on_boarding_message"
+msgid "View your screenshots here!"
+msgstr ""
+
+#. The notice shown along with the message when the user captures screenshot
+#. for the first time
+msgctxt "my_shot_on_boarding_category_message"
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots' categories."
+msgstr ""
+
