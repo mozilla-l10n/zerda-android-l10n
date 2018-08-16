@@ -2,24 +2,23 @@
 # Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-07-26 20:09+0800\n"
+"POT-Creation-Date: 2018-08-16 18:25+0800\n"
 "PO-Revision-Date: 2018-08-08 01:02+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"Language: mai\n"
 "Language-Team: mai <LL@li.org>\n"
 "\n"
-"Language: mai\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -78,8 +77,12 @@ msgstr "Firefox Rocket मे खोजू"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s %2$s द्वारा बनाएल गेल एकटा तेज आ हलुक ब्राउज़र अछि. हमर लक्ष्य अछि स्वस्थ, मुक्त इंटरनेट केँ बढ़ावा देनाय अछि."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%1$s %2$s द्वारा बनाएल गेल एकटा तेज आ हलुक ब्राउज़र अछि. हमर लक्ष्य अछि "
+"स्वस्थ, मुक्त इंटरनेट केँ बढ़ावा देनाय अछि."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -158,8 +161,12 @@ msgstr "उपयोग डेटा भेजू"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s मात्र ओहि जानकारी एकत्र करबाक प्रयास करैत अछि जकरा सँ हम %1$s केँ सभक लेल उपलब्ध तथा बेहतर बनाए सकब."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%2$s मात्र ओहि जानकारी एकत्र करबाक प्रयास करैत अछि जकरा सँ हम %1$s केँ "
+"सभक लेल उपलब्ध तथा बेहतर बनाए सकब."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -257,8 +264,12 @@ msgstr "एकटा ऐप खोजू जे लिंक खोलि सक
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "अहाँक डिवाइस केरो कोनो ऐप ई लिंक केँ खोलब मे समर्थ नहि अछि. अहाँ ऐप खोजए कलेल %1$s छोड़ि सकैत छी %2$s जे ऐप खोजि सकैत अछि."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"अहाँक डिवाइस केरो कोनो ऐप ई लिंक केँ खोलब मे समर्थ नहि अछि. अहाँ ऐप खोजए "
+"कलेल %1$s छोड़ि सकैत छी %2$s जे ऐप खोजि सकैत अछि."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -332,31 +343,45 @@ msgstr "%1$s चुनए कलेल धन्यवाद"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "गैर-लाभकारी %1$s द्वारा बनाएल गेल एकटा ब्राउज़र, एकटा मुफ्त तथा खुलल वेब कलेल समर्पित."
+msgstr ""
+"गैर-लाभकारी %1$s द्वारा बनाएल गेल एकटा ब्राउज़र, एकटा मुफ्त तथा खुलल वेब "
+"कलेल समर्पित."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "पहिने सँ तेज ब्राउज करू"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "टर्बो मोड द्वारा ट्रैकिंग एड केँ ब्लॉक करू अहाँ तूफानी गति सँ ब्राउज कए सकब. जँ साइट टूटल बुझाएत अछि, टर्बो मोड केँ टैप ऑफ करू आओर मेनू मे जाउ."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+"टर्बो मोड द्वारा ट्रैकिंग एड केँ ब्लॉक करू अहाँ तूफानी गति सँ ब्राउज कए "
+"सकब. जँ साइट टूटल बुझाएत अछि, टर्बो मोड केँ टैप ऑफ करू आओर मेनू मे जाउ."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "डेटा बचाबू = टका बचाबू"
 
 msgctxt "first_run_page3_text"
-msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "ट्रैकिंग विज्ञापन केँ ब्लॉक करै सँ ई ब्राउज़िंग केँ गति देत अछि, आओर डेटा बचबैत अछि सेहो. जँ अहाँ छवि केँ ब्लॉक करैत छी तँ आओर भी सहेजू."
+msgid ""
+"Blocking tracking ads not only speeds up browsing, it saves data. Save "
+"even more when you block images."
+msgstr ""
+"ट्रैकिंग विज्ञापन केँ ब्लॉक करै सँ ई ब्राउज़िंग केँ गति देत अछि, आओर डेटा"
+" बचबैत अछि सेहो. जँ अहाँ छवि केँ ब्लॉक करैत छी तँ आओर भी सहेजू."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
 msgstr "सभक स्क्रीनशॉट लिअ"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "सौंसे वेब पृष्ठक स्क्रीनशॉट लिअ. एकटा स्क्रीनशॉट केँ ऑफ़लाइन देखू (बिनु डेटा उपयोग कएने) या वेब पृष्ठ पर फिनु सँ जाए कलेल एकरा टैप करू."
+msgid ""
+"Take screenshots of entire web pages. View a screenshot offline (without "
+"using data) or tap it to revisit the web page."
+msgstr ""
+"सौंसे वेब पृष्ठक स्क्रीनशॉट लिअ. एकटा स्क्रीनशॉट केँ ऑफ़लाइन देखू (बिनु "
+"डेटा उपयोग कएने) या वेब पृष्ठ पर फिनु सँ जाए कलेल एकरा टैप करू."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -456,20 +481,32 @@ msgid "not now"
 msgstr "अखन नहि"
 
 msgctxt "permission_dialog_msg_location"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति दिअ."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+"अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति "
+"दिअ."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "स्थान मोजुद नहि अछि. अपन स्थान धरि पहुँचब कलेल अनुमति दिअ."
 
 msgctxt "permission_dialog_msg_storage"
-msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr "अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति दिअ."
+msgid ""
+"Missing permissions. Give Firefox Rocket permission to access your "
+"location."
+msgstr ""
+"अनुमति नहि अछि. फ़ायरफ़ॉक्स रॉकेट केँ अपन स्थान धरि पहुँचब कलेल अनुमति "
+"दिअ."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "संग्रहण मोजुद नहि अछि. फोटो आओर फाइल केँ अपन डिवाइस मे संग्रहीत करए कलेल अनुमति दिअ."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"संग्रहण मोजुद नहि अछि. फोटो आओर फाइल केँ अपन डिवाइस मे संग्रहीत करए कलेल "
+"अनुमति दिअ."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -719,30 +756,54 @@ msgid ""
 "an entire web page."
 msgstr "सौंसे पृष्ठ केँ कैप्चर करबाक लेल मेनू पर जाउ."
 
+#. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
 msgstr "सूचना"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Date: When the screenshot
+#. is taken.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
 msgstr "तिथि: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Category: Which category
+#. does the screenshotted page falls in.
+#, c-format
+msgctxt "screenshot_image_viewer_dialog_info_category"
+msgid "Category: %1$s"
+msgstr ""
+
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Resolution: The height
+#. and the width of the screenshot.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
 msgstr "रिजोल्यूसन: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Size: The disk size of
+#. the saved screenshot file.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
 msgstr "आकार: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is Title: The title of the
+#. screenshotted web page.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
 msgstr "आकार: %1$s"
 
+#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. is the attribute and the name of this attribute is URL: The url of the
+#. screenshotted web page.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
@@ -812,8 +873,12 @@ msgid "Product Update Notice"
 msgstr "प्रोडक्ट अपडेट जानकारी"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "अहाँ आओर सभक लेली फ़ायरफ़ॉक्स रॉकेट केँ बेहतर बनाबै कलेल, हम अपन गोपनीयता नीति मे किछु परिवर्तन कएलहुँ. बेसी जानबाक लेल टैप करू."
+msgid ""
+"To make Firefox Rocket better for you and everyone, we made some changes "
+"to our privacy policy. Tap to learn more."
+msgstr ""
+"अहाँ आओर सभक लेली फ़ायरफ़ॉक्स रॉकेट केँ बेहतर बनाबै कलेल, हम अपन गोपनीयता"
+" नीति मे किछु परिवर्तन कएलहुँ. बेसी जानबाक लेल टैप करू."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -825,7 +890,9 @@ msgstr "%1$s बड़ पसिन्न अछि?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "हमर प्रोडक्ट केँ चुनबाक लेल अहाँक धन्यवाद. अहाँक प्रतिक्रिया हमरा सभक लेली बड़ महत्वपूर्ण अछि."
+msgstr ""
+"हमर प्रोडक्ट केँ चुनबाक लेल अहाँक धन्यवाद. अहाँक प्रतिक्रिया हमरा सभक "
+"लेली बड़ महत्वपूर्ण अछि."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -870,21 +937,29 @@ msgstr "साझा करू"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "सुनियौ, %3$s मोजिला केरो ई तेज आआोर हलुक ब्राउज़र केँ एकबेर चलाएब कए देखू. %1$s %2$s"
+msgstr ""
+"सुनियौ, %3$s मोजिला केरो ई तेज आआोर हलुक ब्राउज़र केँ एकबेर चलाएब कए "
+"देखू. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$s तथा आन योगदानकर्ता द्वारा बनाएल गेल मुफ्त आओर मुक्त स्रोत सॉफ्टवेयर अछि."
+msgstr ""
+"%1$s %2$s तथा आन योगदानकर्ता द्वारा बनाएल गेल मुफ्त आओर मुक्त स्रोत "
+"सॉफ्टवेयर अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">%3$s</a> आओर आन ओपन सोर्स लाइसेंसक शर्त क अधीन अहाँक लेल उपलब्ध कराएल जाएत अछि."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s <a href=\"%2$s\">%3$s</a> आओर आन ओपन सोर्स लाइसेंसक शर्त क अधीन "
+"अहाँक लेल उपलब्ध कराएल जाएत अछि."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -893,17 +968,24 @@ msgstr "%1$s <a href=\"%2$s\">%3$s</a> आओर आन ओपन सोर्�
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
-"Mozilla फ़ाउंडेशन अथवा कोनो पार्टी क ट्रेडमार्क सँगे सँग %3$s, %4$s या %1$s क नाम अथवा लोगो, कलेल कोनो अधिकार या लाइसेंस अहाँक नहि देल जाएत अछि. बेसी जानकारी <a href=\"%2$s\">एतय</a>सँ पाबि सकैत छी."
+"Mozilla फ़ाउंडेशन अथवा कोनो पार्टी क ट्रेडमार्क सँगे सँग %3$s, %4$s या "
+"%1$s क नाम अथवा लोगो, कलेल कोनो अधिकार या लाइसेंस अहाँक नहि देल जाएत अछि."
+" बेसी जानकारी <a href=\"%2$s\">एतय</a>सँ पाबि सकैत छी."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s लेली अतिरिक्त स्रोत कोड अनेक आन मुफ़्त आओर मुक्त स्रोत <a href=\"%2$s\">लायसेंस</a> क तहत उपलब्ध अछि. "
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s लेली अतिरिक्त स्रोत कोड अनेक आन मुफ़्त आओर मुक्त स्रोत <a "
+"href=\"%2$s\">लायसेंस</a> क तहत उपलब्ध अछि. "
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -911,10 +993,14 @@ msgstr "%1$s लेली अतिरिक्त स्रोत कोड अ
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s Disconnect, Inc. द्वारा प्रदान कएल गेल ब्लॉकलिस्ट क भी उपयोग करैत अछि जे <a href=\"%2$s\">जीएनयू सामान्य पब्लिक लायसेंस v3</a> क तहत अलग आओर स्वतंत्र काज करैत अछि, आओर <a href=\"%3$s\">एतय</a> "
-"उपलब्ध अछि."
+"%1$s Disconnect, Inc. द्वारा प्रदान कएल गेल ब्लॉकलिस्ट क भी उपयोग करैत "
+"अछि जे <a href=\"%2$s\">जीएनयू सामान्य पब्लिक लायसेंस v3</a> क तहत अलग "
+"आओर स्वतंत्र काज करैत अछि, आओर <a href=\"%3$s\">एतय</a> उपलब्ध अछि."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1056,3 +1142,18 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr "अहाँक निजी ब्राउजिंग इतिहास केँ मेटाएब देल गेल."
+
+#. Message shown when the user is using screenshot for the first time. Guide
+#. them how to go to "My shots".
+msgctxt "my_shot_on_boarding_message"
+msgid "View your screenshots here!"
+msgstr ""
+
+#. The notice shown along with the message when the user captures screenshot
+#. for the first time
+msgctxt "my_shot_on_boarding_category_message"
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots' categories."
+msgstr ""
+
