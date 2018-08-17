@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-16 18:25+0800\n"
+"POT-Creation-Date: 2018-08-17 10:29+0800\n"
 "PO-Revision-Date: 2018-08-12 07:14+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language: jv\n"
@@ -763,7 +763,7 @@ msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
 msgstr "Info"
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Date: When the screenshot
 #. is taken.
 #, c-format
@@ -771,15 +771,15 @@ msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
 msgstr "Tanggal: %1$s"
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
-#. does the screenshotted page falls in.
+#. does the screenshotted page fall in.
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
 msgstr ""
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
 #. and the width of the screenshot.
 #, c-format
@@ -787,7 +787,7 @@ msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
 msgstr "Résolusi: %1$s"
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Size: The disk size of
 #. the saved screenshot file.
 #, c-format
@@ -795,7 +795,7 @@ msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
 msgstr "Ukuran: %1$s"
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Title: The title of the
 #. screenshotted web page.
 #, c-format
@@ -803,7 +803,7 @@ msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
 msgstr "Judhul: %1$s"
 
-#. A row displaying an attibute of a screenshot and the attribute's name. %1$s
+#. A row displaying an attibute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is URL: The url of the
 #. screenshotted web page.
 #, c-format
