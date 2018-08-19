@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-17 04:49+0000\n"
+"PO-Revision-Date: 2018-08-19 03:29+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -742,7 +742,7 @@ msgstr "Tanggal: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr ""
+msgstr "Tataran: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
