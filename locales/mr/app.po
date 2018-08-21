@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-21 12:50+0000\n"
+"PO-Revision-Date: 2018-08-21 13:13+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -913,7 +913,7 @@ msgstr "%1$s %2$s आणि इतर योगदानकर्त्यां
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s आपल्याला <a href=\"%2$s\">%3$s</a> आणि इतर खुल्या स्त्रोत परवान्यांच्या नियमांतर्गत उपलब्ध करून दिले गेले आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -924,14 +924,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "%3$s, %4$s किंवा %1$s यांच्या नाव व चिन्हांसह Mozilla Foundation किंवा इतर पार्टीच्या व्यापारचिन्हाचे हक्क किंवा परवाने आपणास दिलेले नाहीत. अधिक माहिती <a href=\"%2$s\">इथे</a> मिळेल."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s साठी अधिक स्रोत कोड इतर अनेक मुक्त आणि खुल्या स्त्रोताच्या <a href=\"%2$s\">परवान्यांतर्गत</a> उपलब्ध आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -941,6 +941,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Disconnect, Inc. यांनी पुरवलेले अवरोध तक्ते स्वतंत्र व विभक्त कार्य म्हणून पण वापरते जे <a href=\"%2$s\">GNU General Public License v3</a> अंतर्गत उपलब्ध आहे आणि <a href=\"%3$s\">इथून</a> "
+"मिळवता येते."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1001,7 +1003,7 @@ msgstr "आपले जीवन रंगवा!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "थिम बदलण्यासाठी मुख्य पृष्ठभागावर दोन वेळा क्लिक करा."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
