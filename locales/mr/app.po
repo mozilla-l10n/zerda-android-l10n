@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-21 11:35+0000\n"
+"PO-Revision-Date: 2018-08-21 11:49+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -355,7 +355,7 @@ msgstr "सर्वकाही स्क्रीनशॉट घ्या"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr ""
+msgstr "संपूर्ण पृष्ठाचे स्क्रीनशॉट घ्या. स्क्रीनशॉट ऑफलाईन (डेटा न वापरता) पहा किंवा पुन्हा भेट देण्यासाठी टॅप करा."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -366,7 +366,7 @@ msgstr "आम्ही आपला अभिप्राय ऐकला!"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. एकाच वेळी %s उघडून अनेक कामे करा!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -532,7 +532,7 @@ msgstr "डाउनलोड करीत आहे…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "डाउनलोड प्रोटोकॉल समर्थित नाही"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -598,7 +598,7 @@ msgstr "अपरिचीत"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "SD कार्ड"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
@@ -665,7 +665,7 @@ msgstr "संपूर्ण पृष्ठाचा स्क्रीनश�
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "पहा"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -679,27 +679,27 @@ msgstr "संपादित करा"
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "हटवा"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "शेअर करा"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "SD कार्ड सापडले नाही. अंतर्गत साठ्यात फाईल साठवली."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "SD कार्ड वर फाईल साठवली"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD कार्ड भरलेय. अंतर्गत साठ्यात फाईल साठवली."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -721,6 +721,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+" संपूर्ण वेब पृष्ठ\n"
+"साठवण्याच्या मेनू वर."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
@@ -787,11 +789,11 @@ msgstr "अपलोड करण्यासाठी एक फाईल न�
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "टर्बो मोड कार्यान्वयीत"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "टर्बो मोड निष्प्रभ"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
@@ -803,18 +805,18 @@ msgstr "आता प्रतिमा दर्शवित आहे"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "कॅश पुसण्यास असमर्थ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "साठा वापरता येत नाही. डाउनलोड रद्द केले."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s कॅश पुसला"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -836,7 +838,7 @@ msgstr "काढून टाका"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "उत्पादन अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
