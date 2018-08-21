@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-21 07:36+0000\n"
+"PO-Revision-Date: 2018-08-21 10:16+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -672,7 +672,7 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "संपादित करा"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -733,7 +733,7 @@ msgstr "माहिती"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "दिनांक: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
@@ -741,7 +741,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr ""
+msgstr "श्रेणी: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
@@ -749,7 +749,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "रिझॉल्युशन: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Size: The disk size of
@@ -757,7 +757,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "आकार: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Title: The title of the
@@ -765,7 +765,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "शीर्षक: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is URL: The url of the
@@ -773,7 +773,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
