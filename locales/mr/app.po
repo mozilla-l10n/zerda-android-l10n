@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-21 05:24+0000\n"
+"PO-Revision-Date: 2018-08-21 07:09+0000\n"
 "Last-Translator: Aniket Deshpande <djaniketster@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -302,22 +302,22 @@ msgstr "प्रतिमा सामयिक करा"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "प्रतिमा पत्याची प्रत बनवा"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "प्रतिमा साठवा"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "दुवा नवीन टॅबमध्ये उघडा"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "नवीन टॅबमध्ये प्रतिमा उघडा"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -325,7 +325,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "%1$s निवडल्याबद्दल धन्यवाद"
 
 #. Message for first page of FirstRun, %1$s will be "Mozilla"
 #, c-format
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "नेहमीपेक्षा जलद ब्राउझ करा"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "डेटा वाचवा = पैसे वाचवा"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr ""
+msgstr "सर्वकाही स्क्रीनशॉट घ्या"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "आम्ही आपला अभिप्राय ऐकला!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -370,105 +370,105 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "एकाधिक टॅब"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. %s द्वारे आपल्या आवडीच्या साइट मध्ये लवकर प्रवेश करा"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "त्यांना मुख्य पडद्यावर जोडूया!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ठीक आहे, समजले!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "वगळा"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "पुढचे"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "वाचनखूणा"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "डाउनलोड"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "कॅशे साफ करा"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "इतिहास"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "सामयिक करा"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "माझे शॉट"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "पृष्ठ कॅप्चर करा"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "टर्बो मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "जाहिराती अवरोधित करा"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "प्रतिमा अवरोधित करा"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "बाहेर पडा"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "सेटिंग"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "आता नाही"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "परवानगी उपलब्ध नाही. Firefox Rocket ला आपल्या स्थानावर प्रवेश करण्यासाठी परवानगी द्या."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "स्थान उपलब्ध नाही. आपले स्थान माहिती करण्याची परवानगी द्या."
 
 msgctxt "permission_dialog_msg_storage"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
-msgstr ""
+msgstr "परवानगी उपलब्ध नाही. Firefox Rocket ला आपल्या स्थानावर प्रवेश करण्यासाठी परवानगी द्या."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "संचयन उपलब्ध नाही. आपल्या डिव्हाइसवर फोटो आणि फाईल साठवण्या करिता परवानगी द्या."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -479,6 +479,10 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s"
+"                                                                                                                                                                                                                                     "
+"आपल्या स्थानाबद्दल माहिती प्राप्त करू इच्छित आहे!"
+"                                                                                                                                                                                                                               "
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -491,19 +495,19 @@ msgstr "BLOCK"
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "डेटा साफ करा"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करा"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "ब्राउझिंग इतिहास"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "इतिहास शोधा"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
@@ -511,7 +515,7 @@ msgstr ""
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "कूकिज"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
@@ -520,11 +524,11 @@ msgstr "कॅशे"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "कोणतेही डाउनलोड नाहीत"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "डाउनलोड करीत आहे…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
@@ -532,64 +536,64 @@ msgstr ""
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "फाईल शोधू शकत नाही"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "फाइल हटवू शकत नाही."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s डाउनलोड झाले"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s हटविले होते"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "डाउनलोड रद्द केले"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "पूर्ववत करा"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "उघडा"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "विराम दिले"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "प्रलंबित"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "डाउनलोड करत आहे"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "यशस्वी"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "अयशस्‍वी झाले"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "अपरिचीत"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -598,7 +602,7 @@ msgstr ""
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "अंतर्गत संचयन"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -607,37 +611,37 @@ msgstr ""
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "ब्राउजिंग इतिहास नाही"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "आज"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "काल"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "हटवा"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "सर्व ब्राउझिंग इतिहास साफ करायचा?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "साफ करा"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "सूचीमधून काढून टाका"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "फाईल हटवा"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -649,7 +653,7 @@ msgstr ""
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "स्क्रीनशॉट घेण्यास अयशस्वी"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
@@ -700,14 +704,14 @@ msgstr ""
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "स्क्रीनशॉटस नाही"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "टॅप करा"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -721,7 +725,7 @@ msgstr ""
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "माहिती"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Date: When the screenshot
@@ -773,12 +777,12 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "ही प्रतिमा हटवायची?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "अपलोड करण्यासाठी एक फाईल निवडा"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
@@ -791,11 +795,11 @@ msgstr ""
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "आता प्रतिमा अवरोधित करत अाहे"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "आता प्रतिमा दर्शवित आहे"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
