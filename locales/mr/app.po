@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-21 07:34+0000\n"
+"PO-Revision-Date: 2018-08-21 07:36+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -607,7 +607,7 @@ msgstr "अंतर्गत संचयन"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "ब्राऊझिंग इतिहास नष्ट करा"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -648,7 +648,7 @@ msgstr "फाईल हटवा"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "स्क्रीनशॉट साठवला"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -658,7 +658,7 @@ msgstr "स्क्रीनशॉट घेण्यास अयशस्व�
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "संपूर्ण पृष्ठाचा स्क्रीनशॉट घेत आहे…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
