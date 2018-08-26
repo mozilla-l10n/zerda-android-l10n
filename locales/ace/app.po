@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-26 08:09+0000\n"
+"PO-Revision-Date: 2018-08-26 08:34+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -400,7 +400,7 @@ msgstr ""
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Peutanda"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
@@ -408,7 +408,7 @@ msgstr ""
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "Peugléh cache"
 
 msgctxt "label_menu_history"
 msgid "History"
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Bulueng"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Mode turbo"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -440,19 +440,19 @@ msgstr ""
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Peuatô"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Teubiët"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "peuatô"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "bèk jinoë"
 
 msgctxt "permission_dialog_msg_location"
 msgid "Missing permissions. Give Firefox Rocket permission to access your location."
@@ -482,16 +482,16 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "PEUIDIN"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "THAM"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Peugléh Data"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
@@ -499,7 +499,7 @@ msgstr "Bateuë"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Riwayat peuhah wèb"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
@@ -511,11 +511,11 @@ msgstr ""
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Kukis"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 #. Download list
 msgctxt "no_downloads"
@@ -554,11 +554,11 @@ msgstr ""
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Peubateuë"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Peuhah"
 
 #. Download status
 #. File download status is paused
@@ -589,7 +589,7 @@ msgstr ""
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Hana Jituri"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -603,7 +603,7 @@ msgstr ""
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "PEUGLÉH RIWAYAT PEUHAH WÈB"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
@@ -611,11 +611,11 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Uroë Nyoë"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Baroë"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
@@ -627,7 +627,7 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Peugléh"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
@@ -682,7 +682,7 @@ msgstr "SAMPÔH"
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "BULUENG"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -827,7 +827,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Sampôh"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -872,7 +872,7 @@ msgstr ""
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr ""
+msgstr "Bulueng %1$s ngön rakan!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -883,7 +883,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "Bulueng"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
@@ -1019,12 +1019,12 @@ msgstr ""
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "KEUBAH"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "Nan"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
