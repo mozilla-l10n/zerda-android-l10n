@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-28 00:02+0000\n"
+"PO-Revision-Date: 2018-08-28 03:29+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -359,29 +359,29 @@ msgstr "Côk skrinsyut nibak mandum laman web. Kalen skrinsyut oflén (hana meun
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "Kamoe deungö masukan droen!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. Multibuet waté ipeuhah %s meusigö!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "Multitab"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. Akses situs nyang droen galak beubagah ngön %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "tamah atanyan lam layeu phôn!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
