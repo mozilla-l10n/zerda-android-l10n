@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-29 13:22+0000\n"
+"PO-Revision-Date: 2018-08-29 15:29+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -468,7 +468,7 @@ msgstr "Hana idin. Neubri idin keu Firefox Rocket keu jitupeue neuduekneuh."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "Hana bak keubah. Neupeuidin keu keubah fôtô ngön beureukaih lam peukakaih Droeneuh."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -479,6 +479,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s \n"
+"keumeung jitupeue neuduekneuh."
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -503,11 +505,11 @@ msgstr "Riwayat peuhah wèb"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Riwayat mita"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Riwayat formulir"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
@@ -520,33 +522,33 @@ msgstr "Cache"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Hana beureukaih nyang teukeubah"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Teungöh ceumeucok..."
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Protokol ceumeucok hana geudhueng"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Han jiteumèe beureukaih"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Han jeuet jisampôh beureukaih."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s ka teucok"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s ka teusampôh"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
