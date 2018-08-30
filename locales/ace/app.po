@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 01:38+0000\n"
-"Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
+"PO-Revision-Date: 2018-08-30 02:12+0000\n"
+"Last-Translator: M. Ridha Ridwan <reedjaz.reedjaz@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
 "MIME-Version: 1.0\n"
@@ -689,27 +689,27 @@ msgstr "BULUENG"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Hana SD card meuteumeuëng. Beureukaih meukeubah bak internal storage."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Beureukaih meukeubah bak SD card"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD card ka rap punoh. Beureukaih meukeubah bak internal storage."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Hana drop layeuë"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "Cukèh"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -718,7 +718,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr ""
+msgstr "bak menu keu cok bandum asoë bak saboh laman web."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
@@ -731,7 +731,7 @@ msgstr "Infô"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "Tanggai: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
@@ -747,7 +747,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Rèsolusi: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Size: The disk size of
@@ -775,7 +775,7 @@ msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "Sampôh gamba nyoë?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -820,7 +820,7 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Drop layeuë ka meusampôh"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
@@ -846,7 +846,7 @@ msgstr ""
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Galak %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -940,7 +940,7 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "Kamoë peureulèë droëneuh! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
@@ -952,14 +952,14 @@ msgstr ""
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "Tab barô ka teuhah"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "GANTOË"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -978,13 +978,13 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "Tôp bandum"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "Tôp bandum tab?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -999,12 +999,12 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "Peutanda meukeubah"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "Peutanda meusampôh"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
@@ -1036,12 +1036,12 @@ msgstr "Neuduek"
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "Peutanda meuseubarô"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "Hana peutanda"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
@@ -1080,7 +1080,7 @@ msgstr ""
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr ""
+msgstr "Kalön drop layeuë droëneuh di sinoë!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
