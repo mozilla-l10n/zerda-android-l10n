@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 12:13+0000\n"
+"PO-Revision-Date: 2018-08-30 12:23+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -739,7 +739,7 @@ msgstr "Tanggai: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr ""
+msgstr "Kawan: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
@@ -763,7 +763,7 @@ msgstr "Ukôran: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Nan: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is URL: The url of the
@@ -780,28 +780,28 @@ msgstr "Sampôh gamba nyoë?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Piléh beureukaih keu neupasoe"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Mode turbo geupeuudép"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Mode turbo geupumaté"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Jinoe teumeuheun gamba"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Jinoe pumeudeuih gamba"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Han jeuet sampôh cache"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -989,12 +989,12 @@ msgstr "Tôp bandum tab?"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "Puwareuna udépneuh!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "Teugön dua go bak layeue keue keu neugantoe tèma."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
