@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 14:02+0000\n"
+"PO-Revision-Date: 2018-08-30 14:35+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -866,7 +866,7 @@ msgstr "H'an, peuét saran."
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "SARAN"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -882,6 +882,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- Bagah ngön phui\n"
+"- Himat data\n"
+"- Drop layeue hayeue"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -965,11 +968,11 @@ msgstr "GANTOË"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Gantoe peuatô..."
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "Peureulèe watèe siat"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
