@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 02:24+0000\n"
-"Last-Translator: M. Ridha Ridwan <reedjaz.reedjaz@gmail.com>\n"
+"PO-Revision-Date: 2018-08-30 12:13+0000\n"
+"Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
 "MIME-Version: 1.0\n"
@@ -1053,14 +1053,14 @@ msgstr "Andam"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "Seumeulop Rahsia"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "Sampôh riwayat seumeulop droe"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1075,6 +1075,8 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
+"Riwayat seumeulop rahsia Droeneuh\n"
+"ka geusampôh."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
