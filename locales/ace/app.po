@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 12:23+0000\n"
+"PO-Revision-Date: 2018-08-30 13:47+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -805,7 +805,7 @@ msgstr "Han jeuet sampôh cache"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Bak keubah han jeuet jiteumèe. Ceuneucok geupubateue."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
