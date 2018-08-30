@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-29 16:40+0000\n"
+"PO-Revision-Date: 2018-08-30 01:38+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -576,17 +576,17 @@ msgstr "Geutanggôh"
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "ceumeucok"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Meuhasé"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "hana meuhasé"
 
 #. File download status is unknown
 msgctxt "unknown"
@@ -596,11 +596,11 @@ msgstr "Hana Jituri"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "Keureutu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Bak keubah dalam"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -609,7 +609,7 @@ msgstr "PEUGLÉH RIWAYAT PEUHAH WÈB"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Hana riwayat seumeulop"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -625,7 +625,7 @@ msgstr "Sampôh"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Sampôh ban dum riwayat seumeulop?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -634,7 +634,7 @@ msgstr "Peugléh"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Sampôh nibak dapeuta"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -646,12 +646,12 @@ msgstr "Sampôh beureukaih"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Deuneurop layeue teukeubah"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Hana meuhasé drop layeue"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
