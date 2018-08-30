@@ -976,7 +976,7 @@ msgstr "Peureulèe watèe siat"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr "Thôk keu neuatô browser teutap"
+msgstr "Teugön keu neuatô browser teutap"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
