@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 14:58+0000\n"
+"PO-Revision-Date: 2018-08-30 16:09+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -838,7 +838,7 @@ msgstr "Bri Thèe Pubarô Produk"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "Mangat Firefox Rocket leubèh göt keu Droeneuh ngön ban dum ureueng, kamoe meupeugöt padum-padum boh hai barô lam keubijakan privasi kamoe. Neuteugön keu neumeurunoe leubèh lanjut."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -850,7 +850,7 @@ msgstr "Galak keu %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "Sabah ka neupiléh produk kamoe. Saran Droeneuh peunténg keu kamoe."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -895,13 +895,13 @@ msgstr "Bulueng"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "Hai, neuci browser atra %3$s nyoe. Bagah ngön phui. %1$s%2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%1$s nakeuh saboh software bibeueh ngön open source nyang geupeugöt lé %2$s ngön ureueng laén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -909,7 +909,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s geuseudia keu Droeneuh ngön syarat <a href=\"%2$s\">%3$s</a> dan lisènsi nè teuhah nyang laén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
