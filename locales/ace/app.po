@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 02:12+0000\n"
+"PO-Revision-Date: 2018-08-30 02:24+0000\n"
 "Last-Translator: M. Ridha Ridwan <reedjaz.reedjaz@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -33,7 +33,7 @@ msgstr "GÖT"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "Mita atawa peutamong alamat"
+msgstr "Mita atawa pasoë alamat"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -127,7 +127,7 @@ msgstr "Peugléh data seumeulop"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "Keubah beureukaih u"
+msgstr "Keubah beureukaih ceuneucok u"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -351,7 +351,7 @@ msgstr "Teumeutheun iklan peulacak kön jipubagah seumeulop mantöng, meutapi ji
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
-msgstr "Keubah layeue dum peue"
+msgstr "Drop barangkapeuë bak layeuë"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
@@ -552,7 +552,7 @@ msgstr "%1$s ka teusampôh"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr "Ceuneucok geupubateue"
+msgstr "Ceuneucok geupubateuë"
 
 msgctxt "undo"
 msgid "Undo"
@@ -656,7 +656,7 @@ msgstr "Hana meuhasé drop layeue"
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Cok drop layeuë dum meusaboh laman…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -812,7 +812,7 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s cache ka teusampôh"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -820,11 +820,11 @@ msgstr ""
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr "Drop layeuë ka meusampôh"
+msgstr "Drop layeuë ka teusampôh"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Han jeuët peuleumah drop layeuë"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -846,7 +846,7 @@ msgstr ""
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr "Galak %1$s?"
+msgstr "Galak keu %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -1080,7 +1080,7 @@ msgstr ""
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr "Kalön drop layeuë droëneuh di sinoë!"
+msgstr "Kalön deuneurop layeuë droëneuh di sinoë!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
