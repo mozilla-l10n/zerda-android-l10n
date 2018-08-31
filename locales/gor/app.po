@@ -242,7 +242,7 @@ msgstr "Mohuwalingo ode aplikasi yilamuma'o"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Bubuli pelacak"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
