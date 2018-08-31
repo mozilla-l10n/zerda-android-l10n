@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-31 05:46+0000\n"
+"PO-Revision-Date: 2018-08-31 06:12+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gor\n"
@@ -123,11 +123,11 @@ msgstr "Bubuli gāmbari"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "Beresiya data peramban"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "Tahuwa unduhan to"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -135,7 +135,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Pohutuwa peramban uda'a"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -143,7 +143,7 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Boli'a setelan…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Pobalājariyapo"
 
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
@@ -173,20 +173,20 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Beresiya tiluwoto"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Hulīma'o"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sambungan āmani"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -198,31 +198,31 @@ msgstr ""
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Situs web diletohu"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Tulawota uwēwo"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Maju"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Detohe ūlangi situs web"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Mohuwalingo"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -235,7 +235,7 @@ msgstr ""
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Mohuwalingo ode aplikasi yilamuma'o"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
