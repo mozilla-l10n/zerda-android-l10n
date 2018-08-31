@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-30 16:40+0000\n"
-"Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
+"PO-Revision-Date: 2018-08-31 14:11+0000\n"
+"Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgstr "Meurunoe lom"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr "Dhueng"
+msgstr "Dukông"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
@@ -404,7 +404,7 @@ msgstr "Peutanda"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr "Cok beureukaih"
+msgstr "Beureukaih teukeubah"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -526,11 +526,11 @@ msgstr "Hana beureukaih nyang teukeubah"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr "Teungöh ceumeucok..."
+msgstr "Teungöh ceumeucok beureukaih..."
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr "Protokol ceumeucok hana geudhueng"
+msgstr "Protokol ceumeucok beureukaih hana geudukông"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -576,7 +576,7 @@ msgstr "Geutanggôh"
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr "ceumeucok"
+msgstr "teungöh ceumeucok beureukaih"
 
 #. File download status is successful
 msgctxt "successful"
@@ -805,7 +805,7 @@ msgstr "Han jeuet sampôh cache"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "Bak keubah han jeuet jiteumèe. Ceuneucok geupubateue."
+msgstr "Bak keubah han jeuet jiteumèe. Beureukaih ceuneucok geupubateue."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
