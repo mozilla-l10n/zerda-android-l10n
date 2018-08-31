@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-31 05:28+0000\n"
+"PO-Revision-Date: 2018-08-31 05:46+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gor\n"
@@ -78,23 +78,23 @@ msgstr ""
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr ""
+msgstr "%1$s utiye peramban molinggahu wawu mohēlo pilohutu lo %2$s. Patuju lami mopolayi'a internet sēhati wawu bu'a-bu'adu."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Pobalājariyapo"
 
 msgctxt "about_link_support"
 msgid "Support"
-msgstr ""
+msgstr "Modūkungi"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr ""
+msgstr "Haku / Ījinimu"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Tinepo Privasi"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -118,7 +118,7 @@ msgstr ""
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Bubuli gāmbari"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
