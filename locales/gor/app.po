@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-17 12:05+0800\n"
-"PO-Revision-Date: 2018-08-31 10:33+0000\n"
+"PO-Revision-Date: 2018-08-31 10:51+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gor\n"
@@ -292,7 +292,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Wamiya alamat wūmbuta"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -302,7 +302,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Wamiya alamat logāmbari"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -385,7 +385,7 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OKE, mā otāwa!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -482,7 +482,7 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "POLULIYA"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
@@ -532,11 +532,11 @@ msgstr ""
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Beras ja yilotapu"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Berkas ja mowali lulutolo."
 
 #, c-format
 msgctxt "download_completed"
@@ -594,7 +594,7 @@ msgstr ""
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "Kartu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
@@ -783,23 +783,23 @@ msgstr ""
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Turbo mode pasi-pasi"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Turbo mode ja pasi-pasi"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Sa'ati boyiya bubuli gāmbari"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Sa'ati botiya popobilohe gāmbari"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Ja mowali moluluta pilohepita"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
@@ -810,7 +810,7 @@ msgstr ""
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "%1$s pilohepita yiluluto"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
