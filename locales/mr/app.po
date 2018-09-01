@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-01 07:31+0000\n"
+"PO-Revision-Date: 2018-09-01 09:52+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -82,7 +82,7 @@ msgstr "%2$s द्वारे तयार केलेला %1$s हा ए�
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
-msgstr "अधिक जाणून घ्या"
+msgstr "अधिक जाणा"
 
 msgctxt "about_link_support"
 msgid "Support"
