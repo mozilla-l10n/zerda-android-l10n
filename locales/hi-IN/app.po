@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-01 09:06+0000\n"
-"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2018-09-01 09:35+0000\n"
+"Last-Translator: Dhiraj Kumar Singh <Singhdhiraj255@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -1103,7 +1103,6 @@ msgstr "अपने स्क्रीनशॉटों को यहाँ �
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
-#, fuzzy
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "आपके प्रोडक्ट अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट' श्रेणियों के बारे में जानकारियाँ जमा करते हैंl"
+msgstr "आपके उत्पाद अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे में जानकारियाँ जमा करते हैं।"
