@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-01 02:24+0000\n"
+"PO-Revision-Date: 2018-09-01 15:12+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -34,7 +34,7 @@ msgstr "OKE"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Lolohe meyalo tuwota alamat"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -42,11 +42,11 @@ msgstr "Setelan"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Tomimbihu"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Wubodu"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
@@ -58,7 +58,7 @@ msgstr ""
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr ""
+msgstr "Tayade ode tamani"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -72,7 +72,7 @@ msgstr ""
 #. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Rocket"
-msgstr ""
+msgstr "Lolohe to Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -100,22 +100,22 @@ msgstr "Tinepo Privasi"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "Masina dudelo pololohu"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Dudelo losistem"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "Masina dudelo pololohu"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -148,18 +148,18 @@ msgstr "Boli'a setelan…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Turbo mode"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "Lawola data pilomake"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "%2$s mopoyimo'o wolo u paralu po'opiyohulo %1$s ode nga'amila"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -168,7 +168,7 @@ msgstr "Pobalājariyapo"
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr ""
+msgstr "Tomimbihu"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -230,7 +230,7 @@ msgstr "Mohuwalingo"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Mohuheli modetohu situs web"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "Parakisayi alamat"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -288,7 +288,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Tayade wūmbuta"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
@@ -298,7 +298,7 @@ msgstr "Wamiya alamat wūmbuta"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Tayade gāmbari"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
@@ -308,17 +308,17 @@ msgstr "Wamiya alamat logāmbari"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Tahuwa gāmbari"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Hu'owa wūmbuta to tab bohu"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "Hu'owa gāmbari to tab bohu"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -326,7 +326,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "Odu'olo mā lolulawoto %1$s"
 
 #. Message for first page of FirstRun, %1$s will be "Mozilla"
 #, c-format
@@ -371,7 +371,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "multi tab"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
@@ -390,7 +390,7 @@ msgstr "OKE, mā otāwa!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Lawodi"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
@@ -401,7 +401,7 @@ msgstr ""
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Tuwoto buku"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
@@ -413,11 +413,11 @@ msgstr ""
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "Riwāyati"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Tayade"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -429,27 +429,27 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Turbo mode"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "Bubuli Ads"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "Bubuli gāmbari"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Setelan"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Lumuwalo"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "setelan"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
@@ -497,28 +497,28 @@ msgstr "POLULIYA"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "BUBULI"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Beresiya data"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Batali"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Riwāyati menjelajah"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Lolohe riwāyati"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Lonto riwāyati"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
@@ -569,13 +569,13 @@ msgstr ""
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Hu'owa"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "mohuheli"
 
 #. File download status is pending
 msgctxt "pending"
@@ -609,7 +609,7 @@ msgstr "Kartu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Tāhuwa internal"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -622,15 +622,15 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Yingontiye"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Olāngo"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Luluta"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
@@ -638,17 +638,17 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Luluta"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Yinggila monto daputari"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "Luluta berkas"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -672,41 +672,41 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "BILOHI"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "BOLI'A"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "LULUTA"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "TAYADE"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Kartu SD ja yilotapu. Berkas mā tilahu to internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Berkas mā tilahu to kartu SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "Kartu SD mā yimbidu mopolu. Berkas mā tilahu to internal."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -732,7 +732,7 @@ msgstr ""
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "Habari"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Date: When the screenshot
@@ -740,7 +740,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "Tanggal: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
@@ -748,7 +748,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr ""
+msgstr "Dalala: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
@@ -756,7 +756,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Resolusi: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Size: The disk size of
@@ -764,7 +764,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "Tu'udu: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Title: The title of the
@@ -772,7 +772,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Judul: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is URL: The url of the
@@ -780,11 +780,11 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "Luluta gāmbari botiya?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -838,7 +838,7 @@ msgstr ""
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Yinggila"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -855,7 +855,7 @@ msgstr ""
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Motohilawo %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
@@ -863,11 +863,11 @@ msgstr ""
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
-msgstr ""
+msgstr "Jō, wohī 5 poliyama!"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE 5 STARS"
-msgstr ""
+msgstr "WOHĪ 5 POLIYAMA"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "No, send feedback."
@@ -883,7 +883,7 @@ msgstr ""
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr ""
+msgstr "Tayade %1$s ode tamani!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -894,7 +894,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "Tayade"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
@@ -968,7 +968,7 @@ msgstr ""
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "MOHEYI"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
