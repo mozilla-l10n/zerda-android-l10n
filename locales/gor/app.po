@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-01 15:12+0000\n"
+"PO-Revision-Date: 2018-09-02 01:03+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -263,11 +263,11 @@ msgstr "Diya'a aplikasi to perangaktimu u mowali momu'o wūmbuta botiya. Yi'o mo
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "Situs web ja sadi-sadiya"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "Popoyakiniya yi'o wuwūmbuta ode internet"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -279,11 +279,11 @@ msgstr "YIMONTALI PE'ĒNTAPO"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Alamat ja otāwa"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "Yi'o paralu mopohuli aplikasi uwēwo alihu mohu'o alamat botiye."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
