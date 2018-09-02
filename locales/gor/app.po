@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-02 04:36+0000\n"
+"PO-Revision-Date: 2018-09-02 07:57+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -91,7 +91,7 @@ msgstr "Modūkungi"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr "Haku / Ījinimu"
+msgstr "Hakūmu / Ījini"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -148,7 +148,7 @@ msgstr "Boli'a setelan…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr "Turbo mode"
+msgstr "Mode susupo"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
@@ -174,7 +174,7 @@ msgstr "Tomimbihu"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "Beresiya tiluwoto"
+msgstr "Luluta tiluwoto"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -243,7 +243,7 @@ msgstr "Mohuwalingo ode aplikasi yilamuma'o"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Bubuli pelacak"
+msgstr "Bubuli alupo"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -283,7 +283,7 @@ msgstr "Alamat ja otāwa"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "Yi'o paralu mopohuli aplikasi uwēwo alihu mohu'o alamat botiye."
+msgstr "Yi'o paralu mopopasi aplikasi uwēwo alihu mohu'o alamat botiye."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
