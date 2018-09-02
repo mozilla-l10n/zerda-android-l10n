@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-02 02:30+0000\n"
+"PO-Revision-Date: 2018-09-02 02:50+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -489,7 +489,7 @@ msgstr "%1$s ohila mongotota bilulo'amu."
 #, c-format
 msgctxt "geolocation_dialog_message_cache_it"
 msgid "Don’t ask again for this site until %1$s restarts"
-msgstr ""
+msgstr "Didu pohintu situs web botiya tunggulo %1$s mopotumulayi"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -526,24 +526,24 @@ msgstr ""
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Pilohepita"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Diya'a u pilopohuli"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Mopohuli..."
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Protokol mopohuli ja dilukungi"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr "Beras ja yilotapu"
+msgstr "Berkas ja yilotapu"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
@@ -552,16 +552,16 @@ msgstr "Berkas ja mowali lulutolo."
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s mā pilopohuli"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s mā yiluluto"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Batali mopohuli"
 
 msgctxt "undo"
 msgid "Undo"
@@ -580,17 +580,17 @@ msgstr "mohuheli"
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "Mohuheli"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "hemopohuli"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Sukses"
 
 #. File download status is failed
 msgctxt "failed"
@@ -600,7 +600,7 @@ msgstr ""
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ja otāwa"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -614,11 +614,11 @@ msgstr "Tāhuwa internal"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "LULUTA RIWĀYATI MONGULI'ATO"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Diya'a riwāyati monguli'ato"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -634,7 +634,7 @@ msgstr "Luluta"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Luluta riwāyati monguli'ato?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -843,7 +843,7 @@ msgstr "Yinggila"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "Mopo'ota mopobohu produk"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
