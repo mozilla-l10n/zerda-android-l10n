@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-02 03:12+0000\n"
+"PO-Revision-Date: 2018-09-02 04:36+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "CANCEL"
-msgstr ""
+msgstr "BATALI"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -64,7 +64,7 @@ msgstr "Tayade ode tamani"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Tayade ode"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
