@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-01 00:05+0800\n"
-"PO-Revision-Date: 2018-09-02 01:46+0000\n"
+"PO-Revision-Date: 2018-09-02 02:30+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -469,7 +469,7 @@ msgstr "Diya'a ījini. Wohiye ījini ode Firefox Rocket mongotota bilulo'amu."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "Tāhuwa ja sadi-sadiya. Wohiye ījini Firefox Rocket molahu gāmbari wawu berkas to pilākasimu."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -479,7 +479,7 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr ""
+msgstr "%1$s ohila mongotota bilulo'amu."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
