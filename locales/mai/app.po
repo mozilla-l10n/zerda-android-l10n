@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 15:47+0800\n"
+"POT-Creation-Date: 2018-09-13 21:22+0800\n"
 "PO-Revision-Date: 2018-08-08 01:02+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: mai\n"
@@ -1212,9 +1212,9 @@ msgid ""
 "screenshots’ categories."
 msgstr ""
 
-#. Message shown in Home Screen with an icon. Users can click on the icon and
-#. click either they want this feature or not. We'll evaluate if we want to
-#. implement this feature base on the users' feedback.
+#. Message shown in Home Screen with an icon. Users can choose either they
+#. want this feature or not. We'll evaluate if we want to implement this
+#. feature base on the users' feedback.
 msgctxt "exp_survey_wifi"
 msgid ""
 "We plan to integrate “Free Wifi-Finder” to help you find quality free "
@@ -1223,9 +1223,9 @@ msgid ""
 " Interested?"
 msgstr ""
 
-#. Message shown in Home Screen with an icon. Users can click on the icon and
-#. click either they want this feature or not. We'll evaluate if we want to
-#. implement this feature base on the users' feedback.
+#. Message shown in Home Screen with an icon. Users can choose either they
+#. want this feature or not. We'll evaluate if we want to implement this
+#. feature base on the users' feedback.
 msgctxt "exp_survey_vpn"
 msgid ""
 "We plan to integrate “VPN service” to get you more freedom and more "
@@ -1234,8 +1234,8 @@ msgid ""
 " Interested?"
 msgstr ""
 
-#. Message shown after the user clicks "YES, PLEASE" or "NOPE" on the survey.
-#. %1$s will be replaced with an smiling face with smiling eyes Emoji (U+1F60A)
+#. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
+#. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
@@ -1248,7 +1248,7 @@ msgid "YES, PLEASE"
 msgstr ""
 
 #. Text on survey feedback button. This means the user don't want this
-#. feature.
+#. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
 msgstr ""
