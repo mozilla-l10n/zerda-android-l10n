@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-13 19:49+0000\n"
+"PO-Revision-Date: 2018-09-13 19:56+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6079@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -1016,7 +1016,7 @@ msgstr "નવી ટૅબ ખૂલી ગઇ છે"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr "SWITCH"
+msgstr ""
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -1170,16 +1170,16 @@ msgstr ""
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "અમને પ્રતિસાદ આપવા બદલ આપનો આભાર %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "હા, કૃપા કરીને"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "ના"
