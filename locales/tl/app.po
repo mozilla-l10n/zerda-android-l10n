@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-14 13:33+0000\n"
+"PO-Revision-Date: 2018-09-14 13:35+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -1162,7 +1162,7 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free internet connection nearby.\n"
+"Balak naming magsama ng “Free Wifi-Finder” para makatulong sa paghahanap ng libreng internet connection na malapit sa iyo.\n"
 "\n"
 " Interessado?"
 
@@ -1175,22 +1175,25 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Balak naming magsama ng “VPN service” para sa mas mainam ng pribasiya habang ikaw ay nagba-browse.\n"
+"\n"
+" Interesado?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "Maraming salamat sa pagbibigay ng feedback %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "OO"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "HINDI"
