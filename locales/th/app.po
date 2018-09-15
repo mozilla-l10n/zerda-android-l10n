@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-15 06:42+0000\n"
+"PO-Revision-Date: 2018-09-15 07:22+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -902,7 +902,7 @@ msgstr "รัก %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "ขอขอบคุณที่เลือกผลิตภัณฑ์ของเรา คำติชมของคุณเป็นสิ่งสำคัญสำหรับเรา"
+msgstr "ขอบคุณที่เลือกผลิตภัณฑ์ของเรา ข้อคิดเห็นของคุณเป็นสิ่งสำคัญสำหรับเรา"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -1168,16 +1168,16 @@ msgstr ""
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "ขอบคุณที่ให้ข้อคิดเห็นกับเรา %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "ใช่ ได้โปรด"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "ไม่"
