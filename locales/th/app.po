@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-15 07:22+0000\n"
+"PO-Revision-Date: 2018-09-15 17:25+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1152,6 +1152,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"เราวางแผนที่จะผนวกรวม “ตัวค้นหา Wifi ฟรี” เพื่อช่วยคุณค้นหาการเชื่อมต่ออินเทอร์เน็ตฟรีที่มีคุณภาพที่อยู่ใกล้เคียง\n"
+"\n"
+" สนใจไหม?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1162,6 +1165,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"เราวางแผนที่จะผนวกรวม “บริการ VPN” เพื่อให้คุณมีอิสรภาพมากขึ้นและความเป็นส่วนตัวมากขึ้นเมื่อท่องเว็บ\n"
+"\n"
+" สนใจไหม?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
