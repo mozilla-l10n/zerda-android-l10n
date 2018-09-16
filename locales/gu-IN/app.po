@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-13 19:56+0000\n"
-"Last-Translator: Hariom Panchal <hariompanchal6079@gmail.com>\n"
+"PO-Revision-Date: 2018-09-16 12:49+0000\n"
+"Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -1016,7 +1016,7 @@ msgstr "નવી ટૅબ ખૂલી ગઇ છે"
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "સ્વિચ"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
@@ -1154,6 +1154,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"અમે નજીકમાં ગુણવત્તાયુક્ત મફત ઇન્ટરનેટ કનેક્શન શોધવામાં તમારી સહાય માટે “મફત Wifi-Finder” ની સંકલન કરવાની યોજના બનાવી છે.\n"
+"\n"
+" શું તમે રસ ધરાવો છો?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1164,6 +1167,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"બ્રાઉઝ કરતી વખતે તમને વધુ સ્વતંત્રતા અને વધુ ગોપનીયતા મેળવવા માટે અમે “VPN સેવા” ને એકીકૃત કરવા માંગીએ છીએ.\n"
+"\n"
+"શું તમે રસ ધરાવો છો?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
