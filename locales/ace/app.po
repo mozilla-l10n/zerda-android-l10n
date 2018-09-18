@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-18 00:10+0000\n"
+"PO-Revision-Date: 2018-09-18 00:45+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -91,19 +91,19 @@ msgstr "%1$d nibak %2$d"
 #. result button.
 msgctxt "accessibility_find_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Kalön hasé u keue"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button.
 msgctxt "accessibility_find_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Kalön hasé u likôt"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI.
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Tôp mita lam laman"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -449,7 +449,7 @@ msgstr "Beureukaih teukeubah"
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "Mita lam laman"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -1161,6 +1161,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Kamoe meureuncana keumeung peugabông “Mita Wifi Pré” keu meubantu Droeneuh keu neumita seunambat internèt pré nyang göt di silingka.\n"
+" \n"
+" Na meuheutneuh?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
