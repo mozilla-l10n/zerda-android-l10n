@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-20 16:50+0000\n"
+"PO-Revision-Date: 2018-09-20 17:10+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -58,7 +58,7 @@ msgstr "Jôk saran"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr "Bulueng ngön rakan"
+msgstr "Bulueng keu rakan - rakan"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -118,7 +118,7 @@ msgstr "Mita lam Firefox Rocket"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s nakeuh saboh browser nyang bagah ngön phui atra jipeugöt lé %2$s. Meukeusud kamoe nakeuh keu meupeularha internet nyang sihat ngön teuhah."
+msgstr "%1$s nakeuh saboh browser nyang bagah ngön phui atra jipeugöt lé %2$s. Meukeusud kamoe nakeuh keu meupeularha internet nyang jroh ngön teupeuhah."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -158,7 +158,7 @@ msgstr "Meusén mita teutap"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "Theun gamba"
+msgstr "Bék deuh gamba - gamba"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
@@ -371,7 +371,7 @@ msgstr "Sabah ka neupiléh %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "Saboh browser nyang geupeugöt lé %1$s, saboh teunubôh hana mita laba nyang na meukeusud keu web nyang bibeueh ngön teuhah."
+msgstr "Browser nyang geupeugöt lé %1$s, saboh teunubôh hana mita laba nyang na meukeusud keu web nyang bibeueh ngön teuhah web jih."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -481,7 +481,7 @@ msgstr "Theun Iklan"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "Theun gamba"
+msgstr "Som gamba"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -929,7 +929,7 @@ msgstr "SARAN"
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr "Bulueng %1$s ngön rakan!"
+msgstr "Bulueng %1$s keu rakan!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -1150,7 +1150,7 @@ msgstr "Kalön deuneurop layeuë droëneuh di sinoë!"
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "Keu tapeujroh peungalaman produk Droeneuh, kamoe meupeusapat informasi bhaih kawan deuneurop layeue Droeneuh."
+msgstr "Keu tapeujroh peungalaman produk droen, kamoe meupeusapat maklumat bhaih katagori deuneurop layeue droeneuh."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
