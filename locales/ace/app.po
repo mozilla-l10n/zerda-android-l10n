@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-20 17:10+0000\n"
+"PO-Revision-Date: 2018-09-20 17:27+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -167,7 +167,7 @@ msgstr "Peugléh data seumeulop"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "Keubah beureukaih ceuneucok u"
+msgstr "Keubah keuneubah u"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -444,7 +444,7 @@ msgstr "Peutanda"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr "Beureukaih teukeubah"
+msgstr "Keuneubah"
 
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
@@ -577,15 +577,15 @@ msgstr "Cache"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr "Hana beureukaih nyang teukeubah"
+msgstr "Hana keuneubah"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr "Teungöh ceumeucok beureukaih..."
+msgstr "Teungöh cok keubah beureukaih…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr "Protokol ceumeucok beureukaih hana geudukông"
+msgstr "Protokol cok keubah beureukaih hana jidukông"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
@@ -598,16 +598,16 @@ msgstr "Han jeuet jisampôh beureukaih."
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr "%1$s ka teucok"
+msgstr "%1$s ka jicok keubah"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr "%1$s ka teusampôh"
+msgstr "%1$s ka jisampôh"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr "Ceuneucok geupubateuë"
+msgstr "Cok keubah hana jadéh"
 
 msgctxt "undo"
 msgid "Undo"
@@ -626,12 +626,12 @@ msgstr "geupupiyôh"
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr "Geutanggôh"
+msgstr "Meutanggôh"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr "teungöh ceumeucok beureukaih"
+msgstr "teungöh cok keubah beureukaih"
 
 #. File download status is successful
 msgctxt "successful"
@@ -773,7 +773,9 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr "bak menu keu cok bandum asoë bak saboh laman web."
+msgstr ""
+"  bak menu beujeuet ta capture\n"
+"mandum asoë bak saboh laman web."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
