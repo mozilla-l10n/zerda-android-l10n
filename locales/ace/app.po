@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-20 16:22+0000\n"
+"PO-Revision-Date: 2018-09-20 16:50+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -118,7 +118,7 @@ msgstr "Mita lam Firefox Rocket"
 #, c-format
 msgctxt "about_content_body"
 msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s nakeuh saboh browser nyang bagah ngön phui atra jipeugöt lé %2$s. Meukeusud kamoe nakeuh keu meuplara internet nyang sihat ngön teuhah."
+msgstr "%1$s nakeuh saboh browser nyang bagah ngön phui atra jipeugöt lé %2$s. Meukeusud kamoe nakeuh keu meupeularha internet nyang sihat ngön teuhah."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -175,7 +175,7 @@ msgstr "Keubah beureukaih ceuneucok u"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "Peugöt browser teutap"
+msgstr "Peuteutap ngön browser nyoe"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -1174,6 +1174,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Kamoe keuneuk peusahô “layanan VPN\" beu leubeh bibeueh ngön na privasi lom watèe neubrowsing.\n"
+" \n"
+" Kiban?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
