@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-20 17:27+0000\n"
+"PO-Revision-Date: 2018-09-21 02:55+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -302,7 +302,7 @@ msgstr "Hana meusabôh app pih lam peukakah droen nyang jeut peuhah link nyoe. D
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr "Laman web hana hinan"
+msgstr "Laman web hana"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
