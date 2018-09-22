@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-21 02:55+0000\n"
-"Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
+"PO-Revision-Date: 2018-09-22 13:48+0000\n"
+"Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
 "Language: ace\n"
@@ -69,7 +69,7 @@ msgstr "Bulueng röt"
 #. Watermark/Hint for the find in page input field.
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr "Teumè lam laman"
+msgstr "Mita lam laman"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -306,7 +306,7 @@ msgstr "Laman web hana"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr "Droeneuh beu yakin ka meuhubông ngön internet"
+msgstr "Droeneuh beu yakin ka teusambat ngön internet"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
@@ -395,11 +395,11 @@ msgstr "Drop barangkapeuë bak layeuë"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page."
-msgstr "Côk skrinsyut nibak mandum laman web. Kalen skrinsyut oflén (hana meungui paket data) atawa neu thép lom bah jeut tagisa keulayi bak laman web nyan."
+msgstr "Cök skrinsyut nibak mandum laman wèb. Kalön skrinsyut oflèn (hana meungui paket data) atawa neuthèp lom bah jeuet tagisa keulayi bak laman web nyan."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr "Kamoe deungö masukan droen!"
+msgstr "Kamoe meudeungö saran droeneuh!"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -465,7 +465,7 @@ msgstr "Bulueng"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr "Deuneurop lôn"
+msgstr "Hasé drop layeue"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -655,7 +655,7 @@ msgstr "Keureutu SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "Bak keubah dalam"
+msgstr "Teumpat keubah internal"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
