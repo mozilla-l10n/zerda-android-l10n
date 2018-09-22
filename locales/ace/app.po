@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-22 13:48+0000\n"
+"PO-Revision-Date: 2018-09-22 13:58+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -757,7 +757,7 @@ msgstr "SD card ka rap punoh. Beureukaih meukeubah bak internal storage."
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr "Hana drop layeuë"
+msgstr "Hana deuneurop layeue"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -788,7 +788,7 @@ msgstr "Infô"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr "Tanggai: %1$s"
+msgstr "Uroe buleuen: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
@@ -862,7 +862,7 @@ msgstr "Han jeuet sampôh cache"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "Bak keubah han jeuet jiteumèe. Beureukaih ceuneucok geupubateue."
+msgstr "Teumpat keubah hana jiteumèe. Beureukaih ceuneucok geupubateue."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
