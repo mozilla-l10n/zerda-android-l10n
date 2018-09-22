@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-13 21:22+0800\n"
-"PO-Revision-Date: 2018-09-13 21:35+0000\n"
+"PO-Revision-Date: 2018-09-22 02:11+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -382,7 +382,7 @@ msgstr "ट्रैकिंग विज्ञापनों को ब्ल
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr "डेटा बचाएँ = पैसा बचाएँ"
+msgstr "डेटा बचाएँ = पैसे बचाएँ"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
@@ -975,7 +975,7 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है। अधिक जानकारी <a href=\"%2$s\">यहाँ</a>से पा सकते "
+"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है। अधिक जानकारी <a href=\"%2$s\">यहाँ</a> से पा सकते "
 "हैं।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
