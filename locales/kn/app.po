@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 21:22+0800\n"
+"POT-Creation-Date: 2018-09-27 17:19+0800\n"
 "PO-Revision-Date: 2018-09-07 20:30+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language: kn\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -214,6 +214,11 @@ msgstr "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
 msgctxt "preference_about"
 msgid "About"
 msgstr "ನ ಬಗ್ಗೆ"
+
+#. Item in Preferences that shows the night mode adjust brightness widget.
+msgctxt "preference_night_mode_brightness"
+msgid "Night mode brightness"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -500,6 +505,11 @@ msgstr "ಪುಟವನ್ನು ಸೆರೆಹಿಡಿ"
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
 msgstr "ಟರ್ಬೋ ಮೋಡ್"
+
+#. Menu text for night mode.
+msgctxt "label_menu_night_mode"
+msgid "Night mode"
+msgstr ""
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -1174,6 +1184,12 @@ msgid "Edit"
 msgstr "ಸಂಪಾದನೆ"
 
 #. Private Browsing
+#. This is used in the menu. User can click the menu item and open a private
+#. tab.
+msgctxt "private_tab"
+msgid "Private tab"
+msgstr ""
+
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
