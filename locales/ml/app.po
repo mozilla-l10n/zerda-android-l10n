@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 21:22+0800\n"
+"POT-Creation-Date: 2018-09-27 17:19+0800\n"
 "PO-Revision-Date: 2018-08-14 18:31+0000\n"
 "Last-Translator: Hiran Venugopalan <hiran.v@gmail.com>\n"
 "Language: ml\n"
@@ -214,6 +214,11 @@ msgstr "കൂടുതല്‍ അറിയുക"
 msgctxt "preference_about"
 msgid "About"
 msgstr "കുറിച്ച്"
+
+#. Item in Preferences that shows the night mode adjust brightness widget.
+msgctxt "preference_night_mode_brightness"
+msgid "Night mode brightness"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -501,6 +506,11 @@ msgstr "താള്‍ എടുക്കുക"
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
 msgstr "വേഗ മോഡ്"
+
+#. Menu text for night mode.
+msgctxt "label_menu_night_mode"
+msgid "Night mode"
+msgstr ""
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -1177,6 +1187,12 @@ msgid "Edit"
 msgstr "തിരുത്തുക"
 
 #. Private Browsing
+#. This is used in the menu. User can click the menu item and open a private
+#. tab.
+msgctxt "private_tab"
+msgid "Private tab"
+msgstr ""
+
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
