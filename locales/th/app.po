@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-27 17:19+0800\n"
-"PO-Revision-Date: 2018-09-27 17:24+0000\n"
+"PO-Revision-Date: 2018-09-27 17:46+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -211,7 +211,7 @@ msgstr "เกี่ยวกับ"
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
 msgid "Night mode brightness"
-msgstr ""
+msgstr "ความสว่างโหมดกลางคืน"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
