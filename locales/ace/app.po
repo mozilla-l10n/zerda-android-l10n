@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-09-27 17:19+0800\n"
-"PO-Revision-Date: 2018-10-01 15:14+0000\n"
+"PO-Revision-Date: 2018-10-02 16:07+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -163,7 +163,7 @@ msgstr "Bék deuh gamba - gamba"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "Peugléh data seumeulop"
+msgstr "Peugléh data peuhah wèb"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -380,7 +380,7 @@ msgstr "Browser nyang geupeugöt lé %1$s, saboh teunubôh hana mita laba nyang 
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "Seumeulop leubèh bagah nibak nyang ka-ka"
+msgstr "Peuhah wèb leubèh bagah nibak nyang ka-ka"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -392,7 +392,7 @@ msgstr "Himat data = Himat pèng"
 
 msgctxt "first_run_page3_text"
 msgid "Blocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images."
-msgstr "Teumeutheun iklan peulacak kön jipubagah seumeulop mantöng, meutapi jipeuhimat data cit. Neuhimat leubèh le lom meunyo neutheun gamba."
+msgstr "Teumeutheun iklan peulacak kön jipubagah peuhah wèb mantöng, meutapi jipeuhimat data cit. Neuhimat leubèh le lom meunyo neutheun gamba."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot everything"
@@ -674,7 +674,7 @@ msgstr "PEUGLÉH RIWAYAT PEUHAH WÈB"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "Hana riwayat seumeulop"
+msgstr "Hana riwayat peuhah wèb"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -690,7 +690,7 @@ msgstr "Sampôh"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "Sampôh ban dum riwayat seumeulop?"
+msgstr "Sampôh ban dum riwayat peuhah wèb?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -883,7 +883,7 @@ msgstr "%1$s cache ka teusampôh"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr "Data seumeulop geusampôh"
+msgstr "Data peuhah wèb geusampôh"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -1133,14 +1133,14 @@ msgstr "Tab rahsia"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr "Seumeulop Rahsia"
+msgstr "Peuhah Wèb Rahsia"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr "Sampôh riwayat seumeulop droe"
+msgstr "Sampôh riwayat peuhah wèb privat"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1155,8 +1155,8 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
-"Riwayat seumeulop rahsia Droeneuh\n"
-"ka geusampôh."
+"Riwayat peuhah wèb ngön rahsia \n"
+"Droeneuh ka geusampôh."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
