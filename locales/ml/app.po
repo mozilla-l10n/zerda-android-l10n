@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-27 17:19+0800\n"
+"POT-Creation-Date: 2018-10-11 17:30+0800\n"
 "PO-Revision-Date: 2018-08-14 18:31+0000\n"
 "Last-Translator: Hiran Venugopalan <hiran.v@gmail.com>\n"
 "Language: ml\n"
@@ -407,31 +407,56 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ഡാറ്റ ലാഭം = കാശ് ലാഭം"
 
+#, fuzzy
 msgctxt "first_run_page3_text"
 msgid ""
-"Blocking tracking ads not only speeds up browsing, it saves data. Save "
-"even more when you block images."
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
 msgstr ""
 "പിന്തുടരുന്ന പരസ്യങ്ങൾ തടയുന്നത് ബ്രൗസിംഗിന്റെ വേഗത വര്‍ധിപ്പിക്കുക "
 "മാത്രമല്ല, അത് ഡാറ്റ സംരക്ഷിക്കുകയും ചെയ്യുന്നു. ചിത്രങ്ങൾ തടയുന്നതിലൂടെ "
 "കൂടുതല്‍ ഡാറ്റ സംരക്ഷിക്കൂ."
 
+#, fuzzy
 msgctxt "first_run_page4_title"
-msgid "Screenshot everything"
+msgid "Screenshot the whole page"
 msgstr "എല്ലാത്തിന്റെയും സ്ക്രീൻഷോട്ടെടുക്കൂ"
 
+#, fuzzy
 msgctxt "first_run_page4_text"
 msgid ""
-"Take screenshots of entire web pages. View a screenshot offline (without "
-"using data) or tap it to revisit the web page."
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
 msgstr ""
 "മുഴുവൻ വെബ് പേജുകളുടേയും സ്ക്രീൻഷോട്ടുകളെടുക്കൂ. ഒരു സ്ക്രീൻഷോട്ട് "
 "ഓഫ്‌ലൈനായി (ഡാറ്റ ഉപയോഗിക്കാതെ) കാണൂ അല്ലെങ്കിൽ ആ വെബ് പേജ് വീണ്ടും "
 "സന്ദർശിക്കാനായി അമർത്തൂ."
 
+msgctxt "first_run_page5_title"
+msgid "Next-level privacy"
+msgstr ""
+
+msgctxt "first_run_page5_text"
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
 msgstr "ഞങ്ങൾ താങ്കളുടെ പ്രതികരണം കേട്ടു!"
+
+msgctxt "new_name_upgrade_page_title"
+msgid "We have a new look!"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Firefox Lite"
+#, c-format
+msgctxt "new_name_upgrade_page_text"
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -527,6 +552,16 @@ msgstr "സജ്ജീകരണങ്ങള്‍"
 msgctxt "label_menu_exit"
 msgid "Exit"
 msgstr "പുറത്തു കടക്കുക"
+
+#. Message shown after user denied location permission prompt.
+msgctxt "permission_toast_location_deny"
+msgid "Location permission is denied."
+msgstr ""
+
+#. Message shown after user denied storage permission prompt.
+msgctxt "permission_toast_storage_deny"
+msgid "Storage permission is denied."
+msgstr ""
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
