@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-27 17:19+0800\n"
+"POT-Creation-Date: 2018-10-11 17:30+0800\n"
 "PO-Revision-Date: 2018-07-29 08:45+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: bn_IN\n"
@@ -407,30 +407,55 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ডেটা সংরক্ষণ = অর্থ সংরক্ষণ"
 
+#, fuzzy
 msgctxt "first_run_page3_text"
 msgid ""
-"Blocking tracking ads not only speeds up browsing, it saves data. Save "
-"even more when you block images."
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
 msgstr ""
 "ব্লক করা ট্র্যাকিং বিজ্ঞাপনগুলি শুধুমাত্র ব্রাউজিং-র গতি বৃদ্ধি করে না "
 "সাথে, এটি ডেটা সংরক্ষণ করে। যদি আপনি ছবি ব্লক করেন তাহলে আরও সংরক্ষণ করতে"
 " পারেন।"
 
+#, fuzzy
 msgctxt "first_run_page4_title"
-msgid "Screenshot everything"
+msgid "Screenshot the whole page"
 msgstr "সবকিছুর স্ক্রিনশট নিন"
 
+#, fuzzy
 msgctxt "first_run_page4_text"
 msgid ""
-"Take screenshots of entire web pages. View a screenshot offline (without "
-"using data) or tap it to revisit the web page."
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
 msgstr ""
 "পুরো ওয়েব পেজগুলির স্ক্রিনশটগুলি নিন। একটি স্ক্রিনশটকে অফলাইনে দেখুন "
 "(ডেটা ব্যবহার না করে) অথবা ওয়েবপেজটির পুনরারম্ভ করতে ট্যাপ করুন।"
 
+msgctxt "first_run_page5_title"
+msgid "Next-level privacy"
+msgstr ""
+
+msgctxt "first_run_page5_text"
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
 msgstr "আমরা আপনার প্রতিক্রিয়া শুনেছি!"
+
+msgctxt "new_name_upgrade_page_title"
+msgid "We have a new look!"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Firefox Lite"
+#, c-format
+msgctxt "new_name_upgrade_page_text"
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -526,6 +551,16 @@ msgstr "সেটিংস"
 msgctxt "label_menu_exit"
 msgid "Exit"
 msgstr "প্রস্থান"
+
+#. Message shown after user denied location permission prompt.
+msgctxt "permission_toast_location_deny"
+msgid "Location permission is denied."
+msgstr ""
+
+#. Message shown after user denied storage permission prompt.
+msgctxt "permission_toast_storage_deny"
+msgid "Storage permission is denied."
+msgstr ""
 
 msgctxt "permission_dialog_setting"
 msgid "settings"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-27 17:19+0800\n"
+"POT-Creation-Date: 2018-10-11 17:30+0800\n"
 "PO-Revision-Date: 2018-08-05 12:53+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language: ta\n"
@@ -407,31 +407,56 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "தரவு சிக்கனம் = பண சிக்கனம்"
 
+#, fuzzy
 msgctxt "first_run_page3_text"
 msgid ""
-"Blocking tracking ads not only speeds up browsing, it saves data. Save "
-"even more when you block images."
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
 msgstr ""
 "தடமறி விளம்பரங்களத் தடுத்தால் உலாவல் வேகத்தைக் கூட்டுவதுடன் தரவையும் "
 "சிக்கனப்படுத்துகிறது. பிம்பங்களைத் தடுப்பதன் மூலம் கூடுதலாக "
 "சிக்கனப்படுத்தலாம்."
 
+#, fuzzy
 msgctxt "first_run_page4_title"
-msgid "Screenshot everything"
+msgid "Screenshot the whole page"
 msgstr "அனைத்தையும் திரைப்பிடிப்பு செய்"
 
+#, fuzzy
 msgctxt "first_run_page4_text"
 msgid ""
-"Take screenshots of entire web pages. View a screenshot offline (without "
-"using data) or tap it to revisit the web page."
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
 msgstr ""
 "முழு வலைப் பக்கத்தையும் திரைப்பிடிப்புச் செய். முடக்கலையில் ஒரு "
 "திரைப்பிடிப்பபைப் பார் (கைப்பேசி பிணையமின்றி) அல்லது அதைத் தட்டி மீண்டும்"
 " வலைப் பக்கத்தைப் பார்."
 
+msgctxt "first_run_page5_title"
+msgid "Next-level privacy"
+msgstr ""
+
+msgctxt "first_run_page5_text"
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
 msgstr "உங்களின் கருத்தைக் கேட்டோம்!"
+
+msgctxt "new_name_upgrade_page_title"
+msgid "We have a new look!"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Firefox Lite"
+#, c-format
+msgctxt "new_name_upgrade_page_text"
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -527,6 +552,16 @@ msgstr "அமைவுகள்"
 msgctxt "label_menu_exit"
 msgid "Exit"
 msgstr "வெளியேறு"
+
+#. Message shown after user denied location permission prompt.
+msgctxt "permission_toast_location_deny"
+msgid "Location permission is denied."
+msgstr ""
+
+#. Message shown after user denied storage permission prompt.
+msgctxt "permission_toast_storage_deny"
+msgid "Storage permission is denied."
+msgstr ""
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
