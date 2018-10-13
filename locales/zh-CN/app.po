@@ -389,19 +389,17 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "节省流量 = 节省金钱"
 
-#, fuzzy
 msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "过滤广告跟踪既可加快上网速度，又可节约流量。不载入图像还能再省更多。"
+msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "截取整个页面"
 
-#, fuzzy
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "不但能截取整个网页、离线查看截图（无需流量），还可通过点击截图重新访问原网页。"
+msgstr ""
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
