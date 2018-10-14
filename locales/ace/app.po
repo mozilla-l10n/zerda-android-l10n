@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-10-12 00:48+0000\n"
+"PO-Revision-Date: 2018-10-14 12:18+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -408,7 +408,7 @@ msgstr "Privasi tingkat lanjut"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "Seumeulop hana euncit, tham alat seumeutöt wèb nyang biasa. Peuaman data peunténg droeneuh."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -422,7 +422,7 @@ msgstr "Kamoe na neuleumah barô!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "Ngön produk nyang sabé meuubah, kamoe mumè keu Droeneuh %1$s nyang barô, ngön nan barô dan logo barô."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
