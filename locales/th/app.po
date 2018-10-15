@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-10-12 17:53+0000\n"
+"PO-Revision-Date: 2018-10-15 06:53+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -417,7 +417,7 @@ msgstr "เราได้รับข้อคิดเห็นของคุ
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "เรามีหน้าตาใหม่!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -523,12 +523,12 @@ msgstr "ออก"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "การอนุญาตตำแหน่งที่ตั้งถูกปฏิเสธ"
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "การอนุญาตที่เก็บข้อมูลถูกปฏิเสธ"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
