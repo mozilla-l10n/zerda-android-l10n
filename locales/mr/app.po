@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-10-15 07:36+0000\n"
+"PO-Revision-Date: 2018-10-15 08:06+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -410,7 +410,7 @@ msgstr "पुढील स्तरीय गोपनीयता"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "मागमूसावीन ब्राउझ करा, आणि असंख्य साधारण वेब ट्रॅकर पूर्वनिर्धारीतरित्या आडवा. आपल्या गुप्त माहितीची सुरक्षा निश्चित करा."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -424,7 +424,7 @@ msgstr "आम्ही नवीन रूप धारण केलंय!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "विकसित उत्पादनासह, आम्ही नवीन आणि ताजे %1$s सादर करत आहे, नवीन नाव व चिन्हासह."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
