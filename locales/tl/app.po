@@ -2,25 +2,23 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-09-28 12:10+0000\n"
-"Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
-"Language: fil_PH\n"
+"PO-Revision-Date: 2018-10-16 16:11+0000\n"
+"Last-Translator: Kim Domanog <kjdomanog@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((((0 == 0)) && ((n == 1) || (n == 2) "
-"|| (n == 3))) || (((0 == 0)) && (!(((n % 10) == 4) || ((n % 10) == 6) || "
-"((n % 10) == 9))))) || ((!((0 == 0))) && (!(((0 % 10) == 4) || ((0 % 10) "
-"== 6) || ((0 % 10) == 9))))) ? 0 : 1)\n"
+"Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 3) && (n%10 == 4 || n%10 == 6 || n%10 == 9);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -118,12 +116,8 @@ msgstr "Hanapin sa Firefox Rocket"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
-"to foster a healthy, open internet."
-msgstr ""
-"%1$s ay isang mabilis at magaan na browser na gawa ng %2$s. Ang aming "
-"misyon ay mapanatiling malusog at bukas para sa lahat ang internet."
+msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgstr "%1$s ay isang mabilis at magaan na browser na gawa ng %2$s. Ang aming misyon ay mapanatiling malusog at bukas para sa lahat ang internet."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -202,12 +196,8 @@ msgstr "Ipadala ang mga datos ng paggamit"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"%2$s strives to collect only what we need to provide and improve %1$s for"
-" everyone."
-msgstr ""
-"Nagsusumikap ang %2$s na kumulekta lamang ng mga impormasyon base sa "
-"pangangailangan upang mapagbuti ang %1$s para sa lahat."
+msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Nagsusumikap ang %2$s na kumulekta lamang ng mga impormasyon base sa pangangailangan upang mapagbuti ang %1$s para sa lahat."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -310,13 +300,8 @@ msgstr "Hanapin ang app na maaaring magbukas ng link"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Walang app sa iyong device na maaaring magbukas ng link na ito. Maaarin "
-"mong iwan ang %1$s para maghanap ang %2$s ng app na maaaring magbukas ng "
-"link na ito."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Walang app sa iyong device na maaaring magbukas ng link na ito. Maaarin mong iwan ang %1$s para maghanap ang %2$s ng app na maaaring magbukas ng link na ito."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -341,9 +326,7 @@ msgstr "Hindi maintindihan ang address"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
-"Kinakailangang mag-install ng karagdagang software para mabuksan ang "
-"address na ito."
+msgstr "Kinakailangang mag-install ng karagdagang software para mabuksan ang address na ito."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -392,59 +375,41 @@ msgstr "Salamat sa pagpili ng %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"Ang browser na sadyang ginawa para sa Pilipinas mula sa %1$s, ang non-"
-"profit na nagtataguyod ng isang malaya at bukas na web."
+msgstr "Ang browser na sadyang ginawa para sa Pilipinas mula sa %1$s, ang non-profit na nagtataguyod ng isang malaya at bukas na web."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Mag-browse nang mas matulin"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
-"Gamitin ang turbo mode para harangin ang mga tracking ads at para "
-"makapag-browse nang mas matulin. Kung hindi lalabas ng tama ang mga "
-"website, i-tap lang ang turbo mode mula sa menu para ito ay mag-off."
+"Gamitin ang turbo mode para harangin ang mga tracking ads at para makapag-browse nang mas matulin. Kung hindi lalabas ng tama ang mga website, i-tap lang ang turbo mode mula sa menu para ito ay mag-"
+"off."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Naipong data = Naipong pera"
 
-#, fuzzy
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"Ang pagharang sa mga tracking ads ay hindi lang pinabilis kung hindi "
-"nakakatulong makatipid sa konsumo ng data. Makatitipid ka sa data kung "
-"hindi ipakikita ang mga imahe."
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "Makakatipid ka ng data sa pagharang sa tracking ads. May Karagdagang katipiran kung gagamit din ng image blocking."
 
-#, fuzzy
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr "I-screenshot ang lahat"
+msgstr "I-screenshot ang buong pahina"
 
 #, fuzzy
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"Kunin ang screenshot ng buong web page. Tingnan ang screenshot offline "
-"(hindi gagamit ng data) o kaya ay i-tap ito para puntahan ang web page."
+msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgstr "Kunin ang screenshot ng buong web page. Tingnan ang screenshot offline (hindi gagamit ng data) o kaya ay i-tap ito para puntahan ang web page."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr ""
 
 msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
+msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
 msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
@@ -458,9 +423,7 @@ msgstr ""
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid ""
-"With the evolved product, we bring you a newly refreshed %1$s, with new "
-"name and new logo."
+msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
 msgstr ""
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
@@ -479,9 +442,7 @@ msgstr "maraming mga tab"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
-"2. Puntahan ang iyong mga paboritong website nang mas mabilis sa "
-"pamamagitan ng %s"
+msgstr "2. Puntahan ang iyong mga paboritong website nang mas mabilis sa pamamagitan ng %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
@@ -579,34 +540,20 @@ msgid "not now"
 msgstr "huwag ngayon"
 
 msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"Hindi mahanap na permiso. Bigyan ng permiso ang Firefox Rocket para "
-"malaman ang iyong lokasyon."
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgstr "Hindi mahanap na permiso. Bigyan ng permiso ang Firefox Rocket para malaman ang iyong lokasyon."
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
-"Hindi makita ang iyong lokasyon. Pakibigyan ng pahintulot ang app na "
-"malaman ang iyong lokasyon."
+msgstr "Hindi makita ang iyong lokasyon. Pakibigyan ng pahintulot ang app na malaman ang iyong lokasyon."
 
 msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"Kulang ang mga permission. Bigyang pahintulot ang Firefox Rocket upang "
-"malaman ang iyong lokasyon."
+msgid "Missing permissions. Give Firefox Rocket permission to access your location."
+msgstr "Kulang ang mga permission. Bigyang pahintulot ang Firefox Rocket upang malaman ang iyong lokasyon."
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
-msgstr ""
-"Hindi magamit ang sisidlan. Pakibigyan ng pahintulot ang app na magamit "
-"ang sisidlan para makapagtago ng mga larawan at files sa iyong device."
+msgid "Storage not available. Give permission to store photos and files on your device."
+msgstr "Hindi magamit ang sisidlan. Pakibigyan ng pahintulot ang app na magamit ang sisidlan para makapagtago ng mga larawan at files sa iyong device."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -845,9 +792,7 @@ msgstr "Nasa SD card na ang file"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
-"Halos puno na ang iyong SD card. Ang file ay hindi nai-save sa internal "
-"storage."
+msgstr "Halos puno na ang iyong SD card. Ang file ay hindi nai-save sa internal storage."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -989,13 +934,8 @@ msgid "Product Update Notice"
 msgstr "Abiso sa Update ng Produkto"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
-msgstr ""
-"Upang mapaigi ng lubusan ang Firefox Rocket, may mga pagbabagong ginawa "
-"sa abisong pang-privacy. Mag-tap dito para malaman kung anu-anong "
-"pagbabago ang mga ito."
+msgid "To make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "Upang mapaigi ng lubusan ang Firefox Rocket, may mga pagbabagong ginawa sa abisong pang-privacy. Mag-tap dito para malaman kung anu-anong pagbabago ang mga ito."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1007,9 +947,7 @@ msgstr "Naibigan mo ba ang %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
-"Maraming salamat sa iyong pagtangkilik sa aming produkto. Ang iyong "
-"feedback ay napakahalaga sa amin."
+msgstr "Maraming salamat sa iyong pagtangkilik sa aming produkto. Ang iyong feedback ay napakahalaga sa amin."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Yes, rate 5 stars!"
@@ -1060,21 +998,15 @@ msgstr "Hoy, tingnan itong mabilis at magaan na browser mula sa %3$s. %1$s %2$s"
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
-"%1$s ay libre at open source na software na gawa ng %2$s at ng iba pang "
-"mga taga-ambag."
+msgstr "%1$s ay libre at open source na software na gawa ng %2$s at ng iba pang mga taga-ambag."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
-"%1$s ay gawa mula sa mga panuntunan ng <a href=\"%2$s\">%3$s</a> at iba "
-"pang open source na mga lisensya."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr "%1$s ay gawa mula sa mga panuntunan ng <a href=\"%2$s\">%3$s</a> at iba pang open source na mga lisensya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1083,24 +1015,18 @@ msgstr ""
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 msgstr ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1108,14 +1034,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s ay gumagamit din ng blocklists mula sa Disconnect, Inc. na kabilang "
-"sa <a href=\"%2$s\">GNU General Public License v3</a>, at makikita <a "
-"href=\"%3$s\">dito</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s ay gumagamit din ng blocklists mula sa Disconnect, Inc. na kabilang sa <a href=\"%2$s\">GNU General Public License v3</a>, at makikita <a href=\"%3$s\">dito</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1275,25 +1195,19 @@ msgstr "Tingnan ang mga screenshot dito!"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
-msgstr ""
-"Para mapabuti ang produktong ito, kami ay maaaring mangolekta ng "
-"impormasyon tungkol sa iyong screen."
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgstr "Para mapabuti ang produktong ito, kami ay maaaring mangolekta ng impormasyon tungkol sa iyong screen."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
 #. feature base on the users' feedback.
 msgctxt "exp_survey_wifi"
 msgid ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free "
-"internet connection nearby.\n"
+"We plan to integrate “Free Wifi-Finder” to help you find quality free internet connection nearby.\n"
 "\n"
 " Interested?"
 msgstr ""
-"Balak naming magsama ng “Free Wifi-Finder” para makatulong sa paghahanap "
-"ng libreng internet connection na malapit sa iyo.\n"
+"Balak naming magsama ng “Free Wifi-Finder” para makatulong sa paghahanap ng libreng internet connection na malapit sa iyo.\n"
 "\n"
 " Interessado?"
 
@@ -1302,13 +1216,11 @@ msgstr ""
 #. feature base on the users' feedback.
 msgctxt "exp_survey_vpn"
 msgid ""
-"We plan to integrate “VPN service” to get you more freedom and more "
-"privacy when browsing.\n"
+"We plan to integrate “VPN service” to get you more freedom and more privacy when browsing.\n"
 "\n"
 " Interested?"
 msgstr ""
-"Balak naming magsama ng “VPN service” para sa mas mainam ng pribasiya "
-"habang ikaw ay nagba-browse.\n"
+"Balak naming magsama ng “VPN service” para sa mas mainam ng pribasiya habang ikaw ay nagba-browse.\n"
 "\n"
 " Interesado?"
 
@@ -1330,4 +1242,3 @@ msgstr "OO"
 msgctxt "exp_survey_no"
 msgid "NOPE"
 msgstr "HINDI"
-
