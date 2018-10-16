@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-10-16 14:46+0000\n"
+"PO-Revision-Date: 2018-10-16 17:28+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -408,7 +408,7 @@ msgstr "ความเป็นส่วนตัวระดับถัดไ
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "ท่องเว็บโดยไม่มีร่องรอย และปิดกั้นตัวติดตามเว็บทั่วไปจำนวนมากโดยค่าเริ่มต้น ทำให้มั่นใจในความปลอดภัยของข้อมูลที่เป็นความลับของคุณ"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -422,7 +422,7 @@ msgstr "เรามีหน้าตาใหม่!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "ด้วยผลิตภัณฑ์ที่ได้รับการพัฒนา เรานำ %1$s แบบใหม่พร้อมชื่อใหม่และโลโก้ใหม่มาให้คุณ"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
