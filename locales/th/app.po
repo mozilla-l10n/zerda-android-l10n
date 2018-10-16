@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 17:30+0800\n"
-"PO-Revision-Date: 2018-10-16 18:10+0000\n"
+"PO-Revision-Date: 2018-10-16 18:19+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -521,12 +521,12 @@ msgstr "ออก"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr "การอนุญาตตำแหน่งที่ตั้งถูกปฏิเสธ"
+msgstr "ปฏิเสธการอนุญาตตำแหน่งที่ตั้งแล้ว"
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr "การอนุญาตที่เก็บข้อมูลถูกปฏิเสธ"
+msgstr "ปฏิเสธการอนุญาตที่เก็บข้อมูลแล้ว"
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
