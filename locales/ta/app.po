@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-11 17:30+0800\n"
+"POT-Creation-Date: 2018-10-17 12:21+0800\n"
 "PO-Revision-Date: 2018-08-05 12:53+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language: ta\n"
@@ -218,6 +218,13 @@ msgstr "பற்றி"
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
 msgid "Night mode brightness"
+msgstr ""
+
+#. After users have tried night mode once, the next time the user opens menu
+#. we would like to show them how they can long press the Night Mode icon to
+#. show a widget for brightness adjustments.
+msgctxt "night_mode_on_boarding_message"
+msgid "Long press to adjust brightness"
 msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
@@ -1004,16 +1011,19 @@ msgstr ""
 "எங்களின் தயாரிப்பைத் தேர்ந்தமைக்கு மிக்க நன்றி. உங்களின் கருத்து "
 "எங்களுக்கு மிகவும் அவசியமானது."
 
+#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
-msgid "Yes, rate 5 stars!"
+msgid "Rate Us"
 msgstr "ஆமாம், 5 நட்சித்திரங்கள் வழங்குங்கள்!"
 
+#, fuzzy
 msgctxt "rate_app_notification_action_rate"
-msgid "RATE 5 STARS"
+msgid "RATE US"
 msgstr "5 நட்சித்திரங்கள் வழங்குங்கள்"
 
+#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
-msgid "No, send feedback."
+msgid "Leave Feedback"
 msgstr "வேண்டாம், பின்னூட்டம் அனுப்பு."
 
 msgctxt "rate_app_notification_action_feedback"
