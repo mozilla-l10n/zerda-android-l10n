@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-10-15 08:06+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language: mr\n"
@@ -107,8 +107,9 @@ msgstr "पृष्ठावर शोधणे रद्द करा"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocket मध्ये शोधा"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -580,25 +581,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "आता नाही"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"परवानगी उपलब्ध नाही. Firefox Rocket ला आपल्या स्थानावर प्रवेश करण्यासाठी "
-"परवानगी द्या."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "स्थान उपलब्ध नाही. आपले स्थान माहिती करण्याची परवानगी द्या."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"परवानगी उपलब्ध नाही. Firefox Rocket ला आपल्या स्थानावर प्रवेश करण्यासाठी "
-"परवानगी द्या."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -990,10 +975,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "उत्पादन अद्यतन सूचना"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "FIrefox Rocket सर्वांसाठी सुधारण्यासाठी आम्ही आमच्या गोपनीयता धोरणात बदल "
 "केले आहेत. अधिक जाणून घेण्यासाठी टॅप करा."
