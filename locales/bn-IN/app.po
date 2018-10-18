@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-07-29 08:45+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: bn_IN\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocket এ খুঁজুন"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -577,21 +578,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "এখন নয়"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "অনুমতি নেই। আপনার অবস্থান অ্যাক্সেস করতে Firefox Rocket কে অনুমতি দিন।"
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "অবস্থান উপলব্ধ নেই। আপনার অবস্থান অ্যাক্সেস করার অনুমতি দিন।"
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "অনুমতি নেই। আপনার অবস্থান অ্যাক্সেস করতে Firefox Rocket কে অনুমতি দিন।"
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -979,10 +968,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "প্রোডাক্ট আপডেটের বিজ্ঞপ্তি"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "আপনার এবং প্রত্যেকের জন্য Firefox Rocketকে আরও ভাল করার জন্য, আমরা আমাদের"
 " গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানতে ট্যাপ করুন।"

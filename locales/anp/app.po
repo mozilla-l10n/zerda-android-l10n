@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-09-14 12:46+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language: anp\n"
@@ -108,8 +108,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocket मे खोजियै"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -577,21 +578,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "अभि नै"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "प्रमिशन गुम भे गेलै. Firefox Rocket क अपनो पता तक पहुंचने लअ अनुमति दियै."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "स्थान उपलब्ध नै छै. अपनो स्थान तक पहुंचै ल अनुमति दियै."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "प्रमिशन गुम भे गेलै. Firefox Rocket क अपनो पता तक पहुंचने लअ अनुमति दियै."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -975,10 +964,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "उत्पाद अपडेट सूचना"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "Firefox Rocket कअ तोहरो आरु हर एक खतिर बेटर बनबे लअ, हम अपनो गोपनीयता "
 "नीति मे बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै."

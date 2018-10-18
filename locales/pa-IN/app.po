@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-08-02 23:38+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_Guru_IN\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocket ਵਿੱਚ ਖੋਜੋ"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -577,21 +578,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "ਹੁਣੇ ਨਹੀਂ"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "ਗੁੰਮ ਆਗਿਆਵਾਂ। ਫਾਇਰਫਾਕਸ ਰਾਕਟ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਤੇ ਪਹੁੰਚਣ ਦੀ ਆਗਿਆ ਦਿਓ।"
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "ਸਥਾਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚਣ ਦੀ ਅਾਗਿਆ ਦਿਓ।"
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "ਗੁੰਮ ਅਨੁਮਤੀਆਂ। ਫਾਇਰਫਾਕਸ ਰਾਕਟ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਤੇ ਪਹੁੰਚਣ ਦੀ ਆਗਿਆ ਦਿਓ।"
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -975,10 +964,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "ਉਤਪਾਦ ਅਪਡੇਟ ਨੋਟਿਸ"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "ਤੁਹਾਡੇ ਲਈ ਤੇ ਹਰੇਕ ਲਈ ਫਾਇਰਫੌਕਸ ਰੌਕੇਟ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਆਪਣੀ ਪਰਦੇਦਾਰੀ"
 " ਨੀਤੀ ਵਿੱਚ ਕੁੱਝ ਬਦਲਾਅ ਕੀਤੇ ਹਨ। ਹੋਰ ਜਾਨਣ ਲਈ ਛੂਹੋ।"

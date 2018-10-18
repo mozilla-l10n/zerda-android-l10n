@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-10-02 09:11+0000\n"
 "Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
 "Language: jv\n"
@@ -108,8 +108,9 @@ msgstr "Nolak nemokake ing kaca"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Golèk ing Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -578,21 +579,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "ora saiki"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Idin luput. Wenèhi Firefox Rocket idin kanggo ngaksès panggon sampèyan."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "Panggon ora kasedhiya. Wenèhi idin olèh ngaksès panggon sampèyan."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Idin luput. Wenèhi Firefox Rocket idin kanggo ngaksès panggon sampèyan."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -980,10 +969,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "Pratélan Panganyaran Produk"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "Supaya Firefox Rocket luwih apik kanggo sampéyan lan wong liya, kita "
 "ngowahi niti privasi. Tunyuk kanggo nyinaoni manèh."

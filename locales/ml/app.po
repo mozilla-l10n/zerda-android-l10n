@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-08-14 18:31+0000\n"
 "Last-Translator: Hiran Venugopalan <hiran.v@gmail.com>\n"
 "Language: ml\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocket ഇതിൽ തിരയൂ"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -578,25 +579,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "ഇപ്പോള്‍ വേണ്ട"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"അനുമതികള്‍ ലഭ്യമല്ല. ഫയര്‍ഫോക്സ് റോക്കറ്റിന് നിങ്ങളുടെ സ്ഥാനം "
-"ലഭിക്കാനുള്ള അനുമതി നല്‍കുക."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "സ്ഥാനം ലഭ്യമല്ല. താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള അനുമതി നൽകൂ."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"അനുമതികൾ ലഭ്യമല്ല. ഫയർഫോക്സ് റോക്കറ്റിന് താങ്കളുടെ സ്ഥാനം ലഭിക്കാനുള്ള "
-"അനുമതി നൽകൂ."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -984,10 +969,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "ഉല്പന്നത്തിന്റെ പുതുക്കൽ നോട്ടീസ്"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "ഫയർഫോക്സ് റോക്കറ്റ് താങ്കൾക്കും മറ്റെല്ലാവർക്കും മികച്ചതാക്കാൻ, ഞങ്ങൾ "
 "ഞങ്ങളുടെ സ്വകാര്യതാനയത്തിൽ കുറച്ച് മാറ്റങ്ങൾ വരുത്തി. കൂടുതൽ അറിയാൻ "
