@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-10-11 19:52+0000\n"
 "Last-Translator: kumincir <ia.adnan@gmail.com>\n"
 "Language: su\n"
@@ -108,8 +108,9 @@ msgstr "Tutup téangan dina kaca"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Paluruh di Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -578,21 +579,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "Moal waka"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Can aya idin. Idinan Firefox Rocket ngaksés perenah anjeun."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "Perenah teu sayaga. Idinan pikeun ngaksés perenah anjeun."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Can aya idin. Idinan Firefox Rocket pikeun ngaksés perenah anjeun."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -982,10 +971,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "Iber Apdétan Prodak"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "Ajang ngajadikeun Firefox Rocket leuwih hadé pikeun anjeun jeung balaréa,"
 " kami nyieun sawatara parobahan kana kawijakan salindungan kami. Toél baé"
