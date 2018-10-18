@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-09-07 20:30+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language: kn\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್ ರಾಕೆಟ್‍ನಲ್ಲಿ ಹುಡುಕು"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -577,25 +578,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "ಈಗ ಬೇಡ"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"ಅನುಮತಿಗಳು ಕಾಣೆಯಾಗಿವೆ. ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್‍ಗೆ ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು "
-"ಅನುಮತಿಸಿ."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "ಸ್ಥಳ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ. ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು ಅನುಮತಿಸಿ."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"ಅನುಮತಿಗಳು ಕಾಣೆಯಾಗಿವೆ. ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್‍ಗೆ ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ ತಿಳಿಯಲು "
-"ಅನುಮತಿಸಿ."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -983,10 +968,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "ಉತ್ಪನ್ನದ ಪರಿಷ್ಕರಣೆಯ ಸೂಚನೆ"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್ ಅನ್ನು ನಿಮಗೆ ಮತ್ತು ಎಲ್ಲರಿಗಾಗಿ ಉತ್ತಮಗೊಳಿಸಲು, ನಾವು "
 "ಖಾಸಗಿತನದ ನೀತಿಗಳಲ್ಲಿ ಕೆಲವೊಂದು ಬದಲಾವಣೆಗಳನ್ನು ತಂದಿದ್ದೇವೆ. ಹೆಚ್ಚಿಗೆ ತಿಳಿಯಲು "
