@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-08-05 12:53+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language: ta\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "பயர்பாக்சு இராக்கெட் உலாவியில் தேடவும்"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -578,25 +579,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "இப்போதில்லை"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"அனுமதி இல்லை. உங்கள் இருப்பிடத்தை அறிய பயர்பாக்சு இராக்கெட்டிற்கு அனுமதி "
-"தாருங்கள்."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "இருப்பிடம் கிடைக்கவில்லை. உங்கள் இருப்பிடத்தை அறிய அனுமதி தாருங்கள்."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr ""
-"அனுமதி இல்லை. உங்கள் இருப்பிடத்தை அறிய பயர்பாக்சு இராக்கெட்டிற்கு அனுமதி "
-"தாருங்கள்."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -988,10 +973,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "தயாரிப்பு புதுப்பிப்பு அறிக்கை"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "உங்களுக்கும் எல்லோருக்கும் ஒரு சிறந்த பயர்பாக்சு இராக்கெட்டை வழங்கிட "
 "எங்களின் தனியுரிமை கொள்கையில் சில மாற்றங்களைச் செய்துள்ளோம். தட்டி "
