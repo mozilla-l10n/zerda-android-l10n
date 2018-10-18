@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-10-14 12:18+0000\n"
 "Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language: ace\n"
@@ -108,8 +108,9 @@ msgstr "Tôp mita lam laman"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Mita lam Firefox Rocket"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -580,21 +581,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "bèk jinoë"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Hana idin. Neupeuidin Firefox Rocket keu jitupeue neuduekneuh."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "Neuduek hana jitupeue. Neubri idin keu jitupeue neuduekneuh."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "Hana idin. Neubri idin keu Firefox Rocket keu jitupeue neuduekneuh."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -982,10 +971,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "Bri Thèe Pubarô Produk"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "Mangat Firefox Rocket leubèh göt keu Droeneuh ngön ban dum ureueng, kamoe"
 " meupeugöt padum-padum boh hai barô lam keubijakan privasi kamoe. "
