@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-17 12:21+0800\n"
-"PO-Revision-Date: 2018-10-18 17:07+0000\n"
+"PO-Revision-Date: 2018-10-18 17:21+0000\n"
 "Last-Translator: Kim Domanog <kjdomanog@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -206,7 +206,7 @@ msgstr "Detalye"
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr "Tungkol sa"
+msgstr "Patungkol"
 
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
@@ -218,7 +218,7 @@ msgstr "Liwanag ng Night Mode"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "Pindutin ng matagal para i-adjust ang brightness"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -963,10 +963,9 @@ msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
 msgstr "RATE US"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "Hindi, magpadala ng feedback."
+msgstr "Magiwan ng Feedback"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
