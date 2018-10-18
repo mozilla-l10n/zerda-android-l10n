@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 12:21+0800\n"
+"POT-Creation-Date: 2018-10-19 01:40+0800\n"
 "PO-Revision-Date: 2018-09-17 16:02+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language: te\n"
@@ -107,8 +107,9 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
+#, fuzzy
 msgctxt "text_selection_search_action"
-msgid "Search in Firefox Rocket"
+msgid "Search in Firefox Lite"
 msgstr "Firefox Rocketతో వెతుకు"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
@@ -576,21 +577,9 @@ msgctxt "permission_dialog_not_now"
 msgid "not now"
 msgstr "ఇప్పుడు కాదు"
 
-msgctxt "permission_dialog_msg_location"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "అనుమతులు లేవు. మీ స్థానాన్ని చూడడానికి Firefox Rocketకి అనుమతి ఇవ్వండి."
-
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
 msgstr "స్థానం అందుబాటులో లేదు. మీ స్థానాన్ని చూడడానికి అనుమతి ఇవ్వండి."
-
-msgctxt "permission_dialog_msg_storage"
-msgid ""
-"Missing permissions. Give Firefox Rocket permission to access your "
-"location."
-msgstr "అనుమతులు లేవు. మీ స్థానాన్ని చూడడానికి Firefox Rocketకి అనుమతి ఇవ్వండి."
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -978,10 +967,11 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "ఉత్పత్తి తాజాకరణ గమనిక"
 
+#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid ""
-"To make Firefox Rocket better for you and everyone, we made some changes "
-"to our privacy policy. Tap to learn more."
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr ""
 "Firefox Rocket‌ని మీకూ, ప్రతీఒక్కరికీ మెరుగుపరిచేందుకు, మా గోప్యతా "
 "విధానానికి మేం కొన్ని మార్పులు చేసాం. తెలుసుకోడానికి తాకండి."
