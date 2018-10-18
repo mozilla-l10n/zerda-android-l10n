@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-18 19:40+0000\n"
+"PO-Revision-Date: 2018-10-18 20:15+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -927,10 +927,9 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "प्रोडक्ट अद्यतन सूचना"
 
-#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Firefox Rocket आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
+msgstr "Firefox Lite को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
