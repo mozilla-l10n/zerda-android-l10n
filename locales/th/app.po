@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-19 15:07+0000\n"
+"PO-Revision-Date: 2018-10-19 15:21+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -406,7 +406,7 @@ msgstr "จับภาพหน้าจอทั้งหน้า"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "จับภาพหน้าจอของส่วนที่เลื่อนทั้งหน้า อ่านภาพหน้าจอออฟไลน์โดยไม่ต้องใช้ข้อมูลหรือแตะภาพหน้าจอเพื่อเยี่ยมชมหน้าเว็บใหม่"
+msgstr "จับภาพหน้าจอส่วนที่เลื่อนของทั้งหน้า อ่านภาพหน้าจอออฟไลน์โดยไม่ต้องใช้ข้อมูลหรือแตะภาพหน้าจอเพื่อเยี่ยมชมหน้าเว็บใหม่"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -894,7 +894,7 @@ msgstr "ไม่สามารถล้างแคช"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "ไม่สามารถเข้าถึงที่เก็บข้อมูล การดาวน์โหลดถูกยกเลิก"
+msgstr "ไม่สามารถเข้าถึงที่เก็บข้อมูล ยกเลิกการดาวน์โหลดแล้ว"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
