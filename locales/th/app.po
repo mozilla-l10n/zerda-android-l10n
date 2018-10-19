@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-19 14:50+0000\n"
+"PO-Revision-Date: 2018-10-19 15:07+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -450,7 +450,7 @@ msgstr "2. เข้าถึงเว็บไซต์โปรดของค
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr "เพิ่มไปยังหน้าจอหลัก!"
+msgstr "เพิ่มเว็บไซต์ไปยังหน้าจอหลัก!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -807,7 +807,7 @@ msgctxt "screenshot_grid_empty_text_msg_postfix"
 msgid ""
 "  on the menu to capture\n"
 "an entire web page."
-msgstr " ในเมนูเพื่อจับภาพหน้าเว็บทั้งหน้า"
+msgstr " ในเมนูเพื่อจับภาพทั้งหน้าเว็บ"
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
