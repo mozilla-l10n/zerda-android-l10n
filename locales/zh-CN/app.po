@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-13 01:43+0000\n"
+"PO-Revision-Date: 2018-10-19 03:05+0000\n"
 "Last-Translator: 新垣结衣松冈茉优长泽雅美门胁麦上野树里石原里美 <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -110,7 +110,7 @@ msgstr "关闭页内查找"
 #. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Lite"
-msgstr ""
+msgstr "在 Firefox Lite 中搜索"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -218,7 +218,7 @@ msgstr "夜间模式亮度"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "长按可调节亮度"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -929,7 +929,7 @@ msgstr "产品更新通知"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "为了让 Firefox Lite 更适合您和每个人，我们对隐私政策进行了一些修改。点击以了解更多信息。"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -945,15 +945,15 @@ msgstr "感谢您选择我们的产品。您的反馈有助于我们的改进。
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr ""
+msgstr "为我们打分"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr ""
+msgstr "为我们打分"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr ""
+msgstr "留下反馈"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
