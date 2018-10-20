@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-20 15:11+0000\n"
+"PO-Revision-Date: 2018-10-20 15:50+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "CANCEL"
-msgstr "केंसिल"
+msgstr "रद्द करियै"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -591,7 +591,7 @@ msgstr "डाटा मेटैइयै"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr "कैंसिल"
+msgstr "रद्द करियै"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
@@ -646,7 +646,7 @@ msgstr "%1$s हटाय गलो रहै"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr "डाउनलोड कैंसिल होय गेलै"
+msgstr "डाउनलोड रद्द होय गेलै"
 
 msgctxt "undo"
 msgid "Undo"
@@ -764,7 +764,7 @@ msgstr "राय"
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr "इडिट"
+msgstr "संपादित करियै"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -899,7 +899,7 @@ msgstr "कैश मेटाबै मे असमर्थ छै"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "स्टोरेज पहुच स जादा छअ. डाउनलोड कैंसिल होय गेलै"
+msgstr "स्टोरेज पहुच स जादा छअ. डाउनलोड रद्द होय गेलै"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -1113,12 +1113,12 @@ msgstr "बुकमार्क हटैलो गेलै"
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr "इडिट"
+msgstr "संपादित करियै"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr "बुकमार्क इडिट करियै"
+msgstr "बुकमार्क संपादित करियै करियै"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
@@ -1149,7 +1149,7 @@ msgstr "बुकमार्क खाली छ"
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr "इडिट"
+msgstr "संपादित करियै"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
