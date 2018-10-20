@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-20 06:50+0000\n"
+"PO-Revision-Date: 2018-10-20 07:07+0000\n"
 "Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -218,7 +218,7 @@ msgstr "નાઇટ મોડ તેજસ્વિતા"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "તેજસ્વિતા સંતુલિત કરવા માટે લાંબા સમય સુધી દબાવો"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -414,7 +414,7 @@ msgstr "આગળની કક્ષાની ગોપનીયતા"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "ટ્રેસ વિના બ્રાઉઝ કરો અને ડિફૉલ્ટ રૂપે સામાન્ય વેબ ટ્રેકર્સની વિશાળ શ્રેણીને અવરોધિત કરો. તમારા ગોપનીય ડેટાની સુરક્ષાની ખાતરી કરો."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -428,7 +428,7 @@ msgstr "અમારી પાસે એક નવો દેખાવ છે!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "વિકસિત ઉત્પાદન સાથે, અમે તમારી માટે નવાં નામ અને નવાં લોગો સાથે નવું તાજું %1$s લાવીએ છીએ."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -528,12 +528,12 @@ msgstr "બહાર નીકળો"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "સ્થાનની પરવાનગી નામંજૂર કરવામાં આવી છે."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "સંગ્રહ પરવાનગી નામંજૂર કરવામાં આવી છે."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
