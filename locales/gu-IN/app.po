@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-20 06:30+0000\n"
+"PO-Revision-Date: 2018-10-20 06:50+0000\n"
 "Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -404,14 +404,13 @@ msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "સમગ્ર પાનાંનો સ્ક્રીનશોટ લો"
 
-#, fuzzy
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "સમગ્ર વેબપૃષ્ઠોના સ્ક્રીનશૉટ્સ લો. સ્ક્રિનશોટ ઑફલાઇન જુઓ (માહિતી વગર) અથવા વેબ પૃષ્ઠની ફરી મુલાકાત લેવા માટે તેને ટેપ કરો."
+msgstr "સમગ્ર પૃષ્ઠ સ્ક્રોલનું સ્ક્રીનશોટ લો. ડેટાનો ઉપયોગ કર્યા વિના તેને ઑફલાઇન વાંચો અથવા વેબ પૃષ્ઠ પર ફરીથી મુલાકાત લેવા તે દબાવો."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
-msgstr ""
+msgstr "આગળની કક્ષાની ગોપનીયતા"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
@@ -423,7 +422,7 @@ msgstr "અમે તમારી પ્રતિક્રિયા સાંભ
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "અમારી પાસે એક નવો દેખાવ છે!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
