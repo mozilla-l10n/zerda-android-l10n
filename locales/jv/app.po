@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-23 07:09+0000\n"
+"PO-Revision-Date: 2018-10-23 07:43+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -531,12 +531,12 @@ msgstr "Metu"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "Idin pernah ditolak."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "Idin panyimpenan ditolak."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -548,11 +548,11 @@ msgstr "ora saiki"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "Panggon ora kasedhiya. Wenèhi idin olèh ngaksès panggon sampèyan."
+msgstr "Pernah ora cumepak. Wènèhi idin kanggo ngaksès pernahé sampéyan."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "Panyimpenan ora kasedhiya. Wenèhi idin kanggo nyimpen foto lan arsip ing piranti sampèyan."
+msgstr "Panyimpenan ora cumepak. Wènèhi idin kanggo nyimpen foto lan barkas ing pirantiné sampéyan."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -564,7 +564,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s \n"
-"péngin ngaksès panggon sampéyan."
+"péngin ngaksès pernahé sampéyan."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -578,11 +578,11 @@ msgstr "Aja takon maneh situs iki nganti nganyari maneh %1$s"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr "IDINKÉ"
+msgstr "IDINAKÉ"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr "BLOKIR"
+msgstr "PENGGAK"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
@@ -783,7 +783,7 @@ msgstr "DUMKÉ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "Ora ana kartu SD sing kedeteksi. Berkas kasimpen ing panyimpenan internal."
+msgstr "Ora ana kertu SD kang kasumurupan. Barkas kasimpen ing panyimpenan internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -791,7 +791,7 @@ msgstr "Berkas kasimpen ing kartu SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "Kartu SD mèh kebak. Berkas kasimpen ing panyimpenan internal."
+msgstr "Kertu SD mèh kebak. Barkas kasimpen ing panyimpenan internal."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -901,7 +901,7 @@ msgstr "Ora bisa ngresikaké ampiran"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "Panyimpenan dhata ora bisa diaksès. Undhuhan batal."
+msgstr "Panyimpenan dhata ora bisa kaaksès. Undhuhan kawurungaké."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -1133,7 +1133,7 @@ msgstr "Jeneng"
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr "Panggon"
+msgstr "Pernah"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
