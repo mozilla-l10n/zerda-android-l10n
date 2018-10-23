@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-23 18:30+0000\n"
+"PO-Revision-Date: 2018-10-23 18:36+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -933,7 +933,7 @@ msgstr "Abiso sa Update ng Produkto"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Upang mapaigi ng lubusan ang Firefox Rocket, may mga pagbabagong ginawa sa abisong pang-privacy. Mag-tap dito para malaman kung anu-anong pagbabago ang mga ito."
+msgstr "Upang gawing mas mahusay ang Firefox Lite para sa iyo at sa lahat, gumawa kami ng ilang mga pagbabago sa aming patakaran sa privacy. Tapikin upang matuto nang higit pa."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -949,15 +949,15 @@ msgstr "Maraming salamat sa iyong pagtangkilik sa aming produkto. Ang iyong feed
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr "Rate Us"
+msgstr "Rate sa Amin"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "RATE US"
+msgstr "RATE SA AMIN"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "Magiwan ng Feedback"
+msgstr "Mag-iwan ng opinyon"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
