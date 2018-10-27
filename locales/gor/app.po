@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-27 14:19+0000\n"
+"PO-Revision-Date: 2018-10-27 16:12+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -395,12 +395,11 @@ msgstr ""
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "Hemat data = hemat doyi"
 
-#, fuzzy
 msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr ""
+msgstr "Hemat kuota data wolo momubulo iklan u'alupo. Lebe hemat da'a wonu Yi'o mopo'aktif bubulo gambari."
 
 #, fuzzy
 msgctxt "first_run_page4_title"
@@ -414,7 +413,7 @@ msgstr ""
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
-msgstr ""
+msgstr "Privasi lenggota de yitato"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
@@ -426,7 +425,7 @@ msgstr ""
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "Bibilohu bohu!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -450,11 +449,11 @@ msgstr "multi tab"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. Akses situs favorit Ulemu wolo u molinggahu %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "Duhengi ode duledehu!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -482,7 +481,7 @@ msgstr "Pilopohuli"
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "Lolohe to halaman"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -502,7 +501,7 @@ msgstr ""
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "Tahuwa layar"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -511,7 +510,7 @@ msgstr "Mode susupo"
 #. Menu text for night mode.
 msgctxt "label_menu_night_mode"
 msgid "Night mode"
-msgstr ""
+msgstr "Bibilohu huyi"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -532,7 +531,7 @@ msgstr "Lumuwalo"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "Momilohu bilulo'a diliniliyo."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
@@ -873,7 +872,7 @@ msgstr "Luluta gāmbari botiya?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Tulawota berkas detohulo"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
