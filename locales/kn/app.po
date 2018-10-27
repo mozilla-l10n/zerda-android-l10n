@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-27 15:10+0000\n"
+"PO-Revision-Date: 2018-10-27 15:24+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -414,7 +414,7 @@ msgstr "ಮುಂದಿನ ಹಂತದ ಗೌಪ್ಯತೆ"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "ಜಾಡು ಹಿಡಿಯಲಾಗದಂತೆ ಬ್ರೌಸ್ ಮಾಡಿ, ಮತ್ತು ವ್ಯಾಪಕವಾದ ಸಾಮಾನ್ಯ ವೆಬ್ ಟ್ರ್ಯಾಕರ್ಗಳನ್ನು ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ನಿರ್ಬಂಧಿಸಿ. ನಿಮ್ಮ ಗೌಪ್ಯ ದತ್ತಾಂಶದ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -428,7 +428,7 @@ msgstr "ನಮಗೆ ಹೊಸ ನೋಟ ಲಭ್ಯವಿದೆ!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "ವಿಕಸನಗೊಂಡ ಉತ್ಪನ್ನದೊಂದಿಗೆ, ನಾವು ಹೊಸ ಹೆಸರನ್ನು ಮತ್ತು ಹೊಸ ಲೋಗೋದೊಂದಿಗೆ ಹೊಸದಾಗಿ ರಿಫ್ರೆಶ್ ಮಾಡಿದ %1$s ಅನ್ನು ತರುತ್ತೇವೆ."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -1205,6 +1205,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"ನೀವು ಹತ್ತಿರದ ಉಚಿತ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಹಾಯವಾಗುವಂತೆ “ಫ್ರೀ ವೈಫೈ-ಫೈಂಡರ್” ಅನ್ನು ಸಂಯೋಜಿಸಲು ನಾವು ಯೋಜಿಸುತ್ತಿದ್ದೇವೆ.\n"
+" \n"
+"ಆಸಕ್ತಿ ಇದೆಯೇ?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1215,6 +1218,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"ಬ್ರೌಸಿಂಗ್ ಮಾಡುವಾಗ ನಿಮಗೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಹೆಚ್ಚಿನ ಗೌಪ್ಯತೆ ಪಡೆಯಲು \"VPN ಸೇವೆ\" ಅನ್ನು ಸಂಯೋಜಿಸಲು ನಾವು ಯೋಜಿಸಿದ್ದೇವೆ. \n"
+" \n"
+" ಆಸಕ್ತಿ ಇದೆಯೇ?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
