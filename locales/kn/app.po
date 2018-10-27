@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-27 14:53+0000\n"
+"PO-Revision-Date: 2018-10-27 15:10+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -404,10 +404,9 @@ msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "ಇಡೀ ಪುಟವನ್ನು ತೆರೆಚಿತ್ರವಾಗಿಸಿ"
 
-#, fuzzy
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "ಇಡೀ ಜಾಲ ಪುಟಗಳ ತೆರೆಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ತೆರೆಚಿತ್ರವನ್ನು ಆಫ್‍ಲೈನ್ ನೋಡಿ (ಡೇಟಾ ಬಳಸದೆ) ಅಥವಾ ಜಾಲ ಪುಟವನ್ನು ಪುನ: ವೀಕ್ಷಿಸಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
+msgstr "ಇಡೀ ಜಾಲಪುಟದ ತೆರೆಚಿತ್ರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ತೆರೆಚಿತ್ರವನ್ನು ಆಫ್‍ಲೈನ್ನಲ್ಲಿ ಡೇಟಾ ಬಳಸದೆ ನೋಡಿ ಅಥವಾ ಜಾಲಪುಟವನ್ನು ಪುನ: ವೀಕ್ಷಿಸಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -529,12 +528,12 @@ msgstr "ಹೊರನಡೆ"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "ಸ್ಥಳ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "ಶೇಖರಣಾ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -930,10 +929,9 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "ಉತ್ಪನ್ನದ ಪರಿಷ್ಕರಣೆಯ ಸೂಚನೆ"
 
-#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "ಫೈರ್‍ಫಾಕ್ಸ್ ರಾಕೆಟ್ ಅನ್ನು ನಿಮಗೆ ಮತ್ತು ಎಲ್ಲರಿಗಾಗಿ ಉತ್ತಮಗೊಳಿಸಲು, ನಾವು ಖಾಸಗಿತನದ ನೀತಿಗಳಲ್ಲಿ ಕೆಲವೊಂದು ಬದಲಾವಣೆಗಳನ್ನು ತಂದಿದ್ದೇವೆ. ಹೆಚ್ಚಿಗೆ ತಿಳಿಯಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
+msgstr "ಫೈರ್‍ಫಾಕ್ಸ್ ಲೈಟ್ ಅನ್ನು ನಿಮಗೆ ಮತ್ತು ಎಲ್ಲರಿಗಾಗಿ ಉತ್ತಮಗೊಳಿಸಲು, ನಾವು ಖಾಸಗಿತನದ ನೀತಿಗಳಲ್ಲಿ ಕೆಲವೊಂದು ಬದಲಾವಣೆಗಳನ್ನು ತಂದಿದ್ದೇವೆ. ಹೆಚ್ಚಿಗೆ ತಿಳಿಯಲು ಮೆಲ್ಲ ತಟ್ಟಿ."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -947,20 +945,17 @@ msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
 msgstr "ನಮ್ಮ ಉತ್ಪನ್ನವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ನಮಗೆ ತುಂಬಾ ಮುಖ್ಯವಾಗುತ್ತದೆ."
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr "ಹೌದು, 5 ನಕ್ಷತ್ರಗಳನ್ನು ನೀಡಿ!"
+msgstr "ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
 
-#, fuzzy
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "ಬೆಲೆ 5 ನಕ್ಷತ್ರಗಳು"
+msgstr "ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "ಇಲ್ಲ, ಅಭಿಪ್ರಾಯವನ್ನು ಕಳುಹಿಸಿ."
+msgstr "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
