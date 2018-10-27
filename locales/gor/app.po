@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-27 14:10+0000\n"
+"PO-Revision-Date: 2018-10-27 14:19+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -383,11 +383,11 @@ msgstr "Odu'olo mā lolulawoto %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Peramban pilohutu lo %1$s, organisasi nirlaba yang berkomitmen to situs pereyi wawu bu'a-bu'adu."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "Monguli'ato ngo'ita lomato"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -929,10 +929,9 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "Mopo'ota mopobohu produk"
 
-#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Alihu Firefox Rocket lebe mopiyohu ode olemu wawu nga'amila tawu, ami lomoli'a ngolobotu tinepo privasi lami. Tepuwa u mobalājari."
+msgstr "Alihu Firefox Lite lebe mopiyohu ode olemu wawu nga'amila tawu, ami lomoli'a ngolobotu tinepo privasi lami. Tepuwa u mobalājari."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -946,15 +945,13 @@ msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
 msgstr ""
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr "Jō, wohī 5 poliyama!"
+msgstr "Wohiye Lenggota"
 
-#, fuzzy
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "WOHĪ 5 POLIYAMA"
+msgstr "WOHIYE LENGGOTA"
 
 #, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
@@ -1229,4 +1226,4 @@ msgstr ""
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "DE'E"
