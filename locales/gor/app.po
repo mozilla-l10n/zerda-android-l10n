@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-19 01:40+0800\n"
-"PO-Revision-Date: 2018-10-27 10:51+0000\n"
+"PO-Revision-Date: 2018-10-27 14:10+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -54,7 +54,7 @@ msgstr "Hakūmu"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr ""
+msgstr "Wohiye potuhata"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
@@ -85,34 +85,33 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d lonto %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button.
 msgctxt "accessibility_find_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Lolohe hasili lapatiyo"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button.
 msgctxt "accessibility_find_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Lolohe hasili yilalu"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI.
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "He'uti mololohu to halaman"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Lite"
-msgstr "Lolohe to Firefox Rocket"
+msgstr "Lolohe to Firefox Lite"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -220,7 +219,7 @@ msgstr "Tilango mode huyi"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "Woduta mohihewo mopo'otilango"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
