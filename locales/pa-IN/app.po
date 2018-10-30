@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-19 01:40+0800\n"
+"POT-Creation-Date: 2018-10-30 18:36+0800\n"
 "PO-Revision-Date: 2018-08-02 23:38+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_Guru_IN\n"
@@ -1203,6 +1203,18 @@ msgstr "ਕੋਈ ਵਰਕਾ-ਨਿਸ਼ਾਨੀਆਂ ਨਹੀਂ"
 msgctxt "edit_bookmark"
 msgid "Edit"
 msgstr "ਸੋਧੋ"
+
+#. Content portal
+#. Title of news portal page
+msgctxt "label_menu_news"
+msgid "News"
+msgstr ""
+
+#. Button on the news portal page when a newer list is found. When a user tap
+#. it, the page will refresh and show the latest list.
+msgctxt "news_update_btn"
+msgid "New update"
+msgstr ""
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private

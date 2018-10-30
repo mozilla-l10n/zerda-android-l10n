@@ -2,23 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-19 01:40+0800\n"
+"POT-Creation-Date: 2018-10-30 18:36+0800\n"
 "PO-Revision-Date: 2018-10-26 11:35+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
-"Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
+"Language-Team: mr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -116,8 +115,12 @@ msgstr "Firefox Lite मध्ये शोधा"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%2$s द्वारे तयार केलेला %1$s हा एक जलद आणि उज्वल ब्राउझर आहे. आमचे ध्येय निरोगी , सर्व-वापरण्यायोग्य इंटरनेट स्थापित करणे आहे."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%2$s द्वारे तयार केलेला %1$s हा एक जलद आणि उज्वल ब्राउझर आहे. आमचे ध्येय "
+"निरोगी , सर्व-वापरण्यायोग्य इंटरनेट स्थापित करणे आहे."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -196,8 +199,12 @@ msgstr "वापर डेटा पाठवा"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s सर्वांसाठी फक्त %1$s उपलब्ध करून सुधारण्यासाठी जी माहिती लागते ती जमवते."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%2$s सर्वांसाठी फक्त %1$s उपलब्ध करून सुधारण्यासाठी जी माहिती लागते ती "
+"जमवते."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -307,8 +314,12 @@ msgstr "लिंक उघडू शकतो असा एक अॅप शो
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "आपल्या उपकरणावरील कोणतेही अँप ही दुआ उघडू शकत नाहीत. आपण %1$s सोडून %2$s मध्ये आवश्यक अँप शोधण्यासाठी जाऊ शकता."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"आपल्या उपकरणावरील कोणतेही अँप ही दुआ उघडू शकत नाहीत. आपण %1$s सोडून %2$s "
+"मध्ये आवश्यक अँप शोधण्यासाठी जाऊ शकता."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -333,7 +344,9 @@ msgstr "पत्ता समजला नाही"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "हा पत्ता उघडण्यासाठी कदाचित आपल्याला इतर सॉफ्टवेअर स्थापित करणे आवश्यक आहे."
+msgstr ""
+"हा पत्ता उघडण्यासाठी कदाचित आपल्याला इतर सॉफ्टवेअर स्थापित करणे आवश्यक "
+"आहे."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -389,32 +402,49 @@ msgid "Browse faster than ever"
 msgstr "नेहमीपेक्षा जलद ब्राउझ करा"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "आपले ब्राऊझिंग अतिजलद बनवण्यासाठी टर्बो मोड वापरून मागोवा घेणाऱ्या जाहिराती आडवा. जर एखादे संकेतस्थळ मोडकळलेले दिसले तर फक्त मेनू मधून टर्बो मोड बंद करा."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+"आपले ब्राऊझिंग अतिजलद बनवण्यासाठी टर्बो मोड वापरून मागोवा घेणाऱ्या "
+"जाहिराती आडवा. जर एखादे संकेतस्थळ मोडकळलेले दिसले तर फक्त मेनू मधून टर्बो"
+" मोड बंद करा."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "डेटा वाचवा = पैसे वाचवा"
 
 msgctxt "first_run_page3_text"
-msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "ट्रॅकिंग जाहिराती अडवून डेटा खर्च वाचवा. प्रतिमा अवरोध सक्षम करून आणखी बचत करा."
+msgid ""
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
+msgstr ""
+"ट्रॅकिंग जाहिराती अडवून डेटा खर्च वाचवा. प्रतिमा अवरोध सक्षम करून आणखी "
+"बचत करा."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "पूर्ण पृष्ठाचा स्क्रीनशॉट घ्या"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "पूर्ण पृष्ठाचा स्क्रीनशॉट घ्या. डेटा न वापरता ऑफलाईन पहा किंवा पुन्हा भेट देण्यासाठी टॅप करा."
+msgid ""
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
+msgstr ""
+"पूर्ण पृष्ठाचा स्क्रीनशॉट घ्या. डेटा न वापरता ऑफलाईन पहा किंवा पुन्हा भेट"
+" देण्यासाठी टॅप करा."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "पुढील स्तरीय गोपनीयता"
 
 msgctxt "first_run_page5_text"
-msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "मागमूसावीन ब्राउझ करा, आणि असंख्य साधारण वेब ट्रॅकर पूर्वनिर्धारीतरित्या आडवा. आपल्या गुप्त माहितीची सुरक्षा निश्चित करा."
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+"मागमूसावीन ब्राउझ करा, आणि असंख्य साधारण वेब ट्रॅकर पूर्वनिर्धारीतरित्या "
+"आडवा. आपल्या गुप्त माहितीची सुरक्षा निश्चित करा."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -427,8 +457,12 @@ msgstr "आम्ही नवीन रूप धारण केलंय!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr "विकसित उत्पादनासह, आम्ही नवीन आणि ताजे %1$s सादर करत आहे, नवीन नाव व चिन्हासह."
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
+"विकसित उत्पादनासह, आम्ही नवीन आणि ताजे %1$s सादर करत आहे, नवीन नाव व "
+"चिन्हासह."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -548,8 +582,12 @@ msgid "Location not available. Give permission to access your location."
 msgstr "स्थान उपलब्ध नाही. आपले स्थान माहिती करण्याची परवानगी द्या."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "संचयन उपलब्ध नाही. आपल्या डिव्हाइसवर फोटो आणि फाईल साठवण्या करिता परवानगी द्या."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"संचयन उपलब्ध नाही. आपल्या डिव्हाइसवर फोटो आणि फाईल साठवण्या करिता परवानगी"
+" द्या."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -560,7 +598,11 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
-"%1$s                                                                                                                                                                                                                                     आपल्या स्थानाबद्दल माहिती प्राप्त करू इच्छित आहे!                                                                                                                                                                                                                               \n"
+"%1$s"
+"                                                                                                                                                                                                                                     "
+"आपल्या स्थानाबद्दल माहिती प्राप्त करू इच्छित आहे!"
+"                                                                                                                                                                                                                               \n"
+""
 "\n"
 
 #. A checkbox option in the dialog which ask users to give geolocation
@@ -930,8 +972,12 @@ msgid "Product Update Notice"
 msgstr "उत्पादन अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "FIrefox Lite सर्वांसाठी सुधारण्यासाठी, आम्ही गोपनीयता धोरणात बदल केले आहेत. अधिक जाणून घेण्यासाठी टॅप करा."
+msgid ""
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
+msgstr ""
+"FIrefox Lite सर्वांसाठी सुधारण्यासाठी, आम्ही गोपनीयता धोरणात बदल केले "
+"आहेत. अधिक जाणून घेण्यासाठी टॅप करा."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -943,7 +989,9 @@ msgstr "%1$s आवडलं का?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "आमचे उत्पादन निवडल्याबद्दल धन्यवाद. आपला अभिप्राय आमच्यासाठी महत्त्वाचा आहे."
+msgstr ""
+"आमचे उत्पादन निवडल्याबद्दल धन्यवाद. आपला अभिप्राय आमच्यासाठी महत्त्वाचा "
+"आहे."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -994,15 +1042,21 @@ msgstr "अरे %3$s कडून हा जलद आणि हलका ब�
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$s आणि इतर योगदानकर्त्यांनी बनवलेले मोफत आणि खुल्या स्रोताचे सॉफ्टवेअर आहे."
+msgstr ""
+"%1$s %2$s आणि इतर योगदानकर्त्यांनी बनवलेले मोफत आणि खुल्या स्रोताचे "
+"सॉफ्टवेअर आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s आपल्याला <a href=\"%2$s\">%3$s</a> आणि इतर खुल्या स्त्रोत परवान्यांच्या नियमांतर्गत उपलब्ध करून दिले गेले आहे."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s आपल्याला <a href=\"%2$s\">%3$s</a> आणि इतर खुल्या स्त्रोत "
+"परवान्यांच्या नियमांतर्गत उपलब्ध करून दिले गेले आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1011,16 +1065,24 @@ msgstr "%1$s आपल्याला <a href=\"%2$s\">%3$s</a> आणि इत
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
-msgstr "%3$s, %4$s किंवा %1$s यांच्या नाव व चिन्हांसह Mozilla Foundation किंवा इतर पार्टीच्या व्यापारचिन्हाचे हक्क किंवा परवाने आपणास दिलेले नाहीत. अधिक माहिती <a href=\"%2$s\">इथे</a> मिळेल."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+msgstr ""
+"%3$s, %4$s किंवा %1$s यांच्या नाव व चिन्हांसह Mozilla Foundation किंवा "
+"इतर पार्टीच्या व्यापारचिन्हाचे हक्क किंवा परवाने आपणास दिलेले नाहीत. अधिक"
+" माहिती <a href=\"%2$s\">इथे</a> मिळेल."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s साठी अधिक स्रोत कोड इतर अनेक मुक्त आणि खुल्या स्त्रोताच्या <a href=\"%2$s\">परवान्यांतर्गत</a> उपलब्ध आहे."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s साठी अधिक स्रोत कोड इतर अनेक मुक्त आणि खुल्या स्त्रोताच्या <a "
+"href=\"%2$s\">परवान्यांतर्गत</a> उपलब्ध आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1028,10 +1090,14 @@ msgstr "%1$s साठी अधिक स्रोत कोड इतर अ�
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s Disconnect, Inc. यांनी पुरवलेले अवरोध तक्ते स्वतंत्र व विभक्त कार्य म्हणून पण वापरते जे <a href=\"%2$s\">GNU General Public License v3</a> अंतर्गत उपलब्ध आहे आणि <a href=\"%3$s\">इथून</a> "
-"मिळवता येते."
+"%1$s Disconnect, Inc. यांनी पुरवलेले अवरोध तक्ते स्वतंत्र व विभक्त कार्य "
+"म्हणून पण वापरते जे <a href=\"%2$s\">GNU General Public License v3</a> "
+"अंतर्गत उपलब्ध आहे आणि <a href=\"%3$s\">इथून</a> मिळवता येते."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1146,6 +1212,18 @@ msgctxt "edit_bookmark"
 msgid "Edit"
 msgstr "संपादित करा"
 
+#. Content portal
+#. Title of news portal page
+msgctxt "label_menu_news"
+msgid "News"
+msgstr ""
+
+#. Button on the news portal page when a newer list is found. When a user tap
+#. it, the page will refresh and show the latest list.
+msgctxt "news_update_btn"
+msgid "New update"
+msgstr ""
+
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
 #. tab.
@@ -1191,19 +1269,25 @@ msgstr "येथे आपले स्क्रीनशॉट्स पहा
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "आपला अनुभव सुधारण्यासाठी, आम्ही आपल्या स्क्रीनशॉटच्या श्रेणीची माहिती गोळा करतो."
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots’ categories."
+msgstr ""
+"आपला अनुभव सुधारण्यासाठी, आम्ही आपल्या स्क्रीनशॉटच्या श्रेणीची माहिती "
+"गोळा करतो."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
 #. feature base on the users' feedback.
 msgctxt "exp_survey_wifi"
 msgid ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free internet connection nearby.\n"
+"We plan to integrate “Free Wifi-Finder” to help you find quality free "
+"internet connection nearby.\n"
 "\n"
 " Interested?"
 msgstr ""
-"आपल्याला जवळचे मोफत इंटरनेट शोधून देण्यासाठी आम्ही “मोफत वायफाय-शोधक” सामावण्याच्या विचारात आहे.\n"
+"आपल्याला जवळचे मोफत इंटरनेट शोधून देण्यासाठी आम्ही “मोफत वायफाय-शोधक” "
+"सामावण्याच्या विचारात आहे.\n"
 "इच्छुक आहात?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
@@ -1211,11 +1295,13 @@ msgstr ""
 #. feature base on the users' feedback.
 msgctxt "exp_survey_vpn"
 msgid ""
-"We plan to integrate “VPN service” to get you more freedom and more privacy when browsing.\n"
+"We plan to integrate “VPN service” to get you more freedom and more "
+"privacy when browsing.\n"
 "\n"
 " Interested?"
 msgstr ""
-"आपल्याला ब्राऊझिंग करताना अधिक स्वातंत्र्य व गोपनीयता देण्यासाठी “VPN सेवा” समाविष्ट करण्याच्या विचारात आहे.\n"
+"आपल्याला ब्राऊझिंग करताना अधिक स्वातंत्र्य व गोपनीयता देण्यासाठी “VPN "
+"सेवा” समाविष्ट करण्याच्या विचारात आहे.\n"
 "\n"
 "इच्छुक आहात?"
 
@@ -1237,3 +1323,4 @@ msgstr "YES, PLEASE"
 msgctxt "exp_survey_no"
 msgid "NOPE"
 msgstr "NOPE"
+
