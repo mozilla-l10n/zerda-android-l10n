@@ -2,22 +2,23 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-30 18:36+0800\n"
-"PO-Revision-Date: 2018-07-29 08:45+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
-"Language: bn_IN\n"
+"PO-Revision-Date: 2018-11-01 08:43+0000\n"
+"Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
+"Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -107,21 +108,16 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Lite"
-msgstr "Firefox Rocket এ খুঁজুন"
+msgstr "Firefox Lite এ খুঁজুন"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
-"to foster a healthy, open internet."
-msgstr ""
-"%1$s %2$s-র তৈরি একটি দ্রুত এবং হালকা ব্রাউজার। আমাদের লক্ষ্য হল একটি "
-"ভালো, মুক্ত ইন্টারনেটের উন্নতিবিধান করা।"
+msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgstr "%1$s %2$s-র তৈরি একটি দ্রুত এবং হালকা ব্রাউজার। আমাদের লক্ষ্য হল একটি ভালো, মুক্ত ইন্টারনেটের উন্নতিবিধান করা।"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -200,12 +196,8 @@ msgstr "ব্যবহারের তথ্য পাঠান"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"%2$s strives to collect only what we need to provide and improve %1$s for"
-" everyone."
-msgstr ""
-"%2$s কেবলমাত্র সেটাই সংগ্রহ করার চেষ্টা করে যা প্রত্যেকের জন্য %1$sকে "
-"প্রদান এবং উন্নতি করতে লাগে।"
+msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "%2$s কেবলমাত্র সেটাই সংগ্রহ করার চেষ্টা করে যা প্রত্যেকের জন্য %1$sকে প্রদান এবং উন্নতি করতে লাগে।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -315,12 +307,8 @@ msgstr "একটি অ্যাপ অনুসন্ধান করেন �
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান "
-"করতে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান করতে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -394,22 +382,15 @@ msgstr "%1$s পছন্দ করার জন্য ধন্যবাদ"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"ইন্দোনেশিয়ার জন্য একটি ব্রাউসার টেলর যা %1$s-র তৈরি, একটি বিনামূল্যে এবং "
-"মুক্ত ওয়েবের জন্য প্রতিশ্রুতিবদ্ধ অলাভজনক সংস্থা।"
+msgstr "ইন্দোনেশিয়ার জন্য একটি ব্রাউসার টেলর যা %1$s-র তৈরি, একটি বিনামূল্যে এবং মুক্ত ওয়েবের জন্য প্রতিশ্রুতিবদ্ধ অলাভজনক সংস্থা।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "আগের চেয়ে দ্রুত ব্রাউজ করুন"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"টার্বো মোড ব্যবহার করে ট্র্যাকিং করার বিজ্ঞাপনগুলিকে ব্লক করুন যাতে আপনি "
-"ঝড়ের গতিতে ব্রাউজ করতে পারেন। সাইট ঠিক ভাবে দেখা না গেলে, মেনুতে টার্বো "
-"মোড সুইচটিকে বন্ধ করুন।"
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "টার্বো মোড ব্যবহার করে ট্র্যাকিং করার বিজ্ঞাপনগুলিকে ব্লক করুন যাতে আপনি ঝড়ের গতিতে ব্রাউজ করতে পারেন। সাইট ঠিক ভাবে দেখা না গেলে, মেনুতে টার্বো মোড সুইচটিকে বন্ধ করুন।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -417,13 +398,8 @@ msgstr "ডেটা সংরক্ষণ = অর্থ সংরক্ষণ"
 
 #, fuzzy
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"ব্লক করা ট্র্যাকিং বিজ্ঞাপনগুলি শুধুমাত্র ব্রাউজিং-র গতি বৃদ্ধি করে না "
-"সাথে, এটি ডেটা সংরক্ষণ করে। যদি আপনি ছবি ব্লক করেন তাহলে আরও সংরক্ষণ করতে"
-" পারেন।"
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "ব্লক করা ট্র্যাকিং বিজ্ঞাপনগুলি শুধুমাত্র ব্রাউজিং-র গতি বৃদ্ধি করে না সাথে, এটি ডেটা সংরক্ষণ করে। যদি আপনি ছবি ব্লক করেন তাহলে আরও সংরক্ষণ করতে পারেন।"
 
 #, fuzzy
 msgctxt "first_run_page4_title"
@@ -432,21 +408,15 @@ msgstr "সবকিছুর স্ক্রিনশট নিন"
 
 #, fuzzy
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"পুরো ওয়েব পেজগুলির স্ক্রিনশটগুলি নিন। একটি স্ক্রিনশটকে অফলাইনে দেখুন "
-"(ডেটা ব্যবহার না করে) অথবা ওয়েবপেজটির পুনরারম্ভ করতে ট্যাপ করুন।"
+msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgstr "পুরো ওয়েব পেজগুলির স্ক্রিনশটগুলি নিন। একটি স্ক্রিনশটকে অফলাইনে দেখুন (ডেটা ব্যবহার না করে) অথবা ওয়েবপেজটির পুনরারম্ভ করতে ট্যাপ করুন।"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr ""
 
 msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
+msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
 msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
@@ -460,9 +430,7 @@ msgstr ""
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid ""
-"With the evolved product, we bring you a newly refreshed %1$s, with new "
-"name and new logo."
+msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
 msgstr ""
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
@@ -583,9 +551,7 @@ msgid "Location not available. Give permission to access your location."
 msgstr "অবস্থান উপলব্ধ নেই। আপনার অবস্থান অ্যাক্সেস করার অনুমতি দিন।"
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
+msgid "Storage not available. Give permission to store photos and files on your device."
 msgstr "স্টোরেজ উপলব্ধ নেই। আপনার ডিভাইসে ফটো এবং ফাইলগুলি সঞ্চয় করার অনুমতি দিন।"
 
 #. When the webpage request access to geolocation a dialog will popup.
@@ -817,9 +783,7 @@ msgstr "শেয়ার"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
-"কোন SD কার্ডকে সনাক্ত করা হয়নি। ফাইলটিকে অভ্যন্তরীণ স্টোরেজে সংরক্ষণ করা"
-" হয়েছে।"
+msgstr "কোন SD কার্ডকে সনাক্ত করা হয়নি। ফাইলটিকে অভ্যন্তরীণ স্টোরেজে সংরক্ষণ করা হয়েছে।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -970,12 +934,8 @@ msgstr "প্রোডাক্ট আপডেটের বিজ্ঞপ্�
 
 #, fuzzy
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Lite better for you and everyone, we made some changes to"
-" our privacy policy. Tap to learn more."
-msgstr ""
-"আপনার এবং প্রত্যেকের জন্য Firefox Rocketকে আরও ভাল করার জন্য, আমরা আমাদের"
-" গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানতে ট্যাপ করুন।"
+msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "আপনার এবং প্রত্যেকের জন্য Firefox Rocketকে আরও ভাল করার জন্য, আমরা আমাদের গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানতে ট্যাপ করুন।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -987,9 +947,7 @@ msgstr "%1$s কে ভালোবাসেন কি?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
-"আমাদের প্রোডাক্ট নির্বাচন করার জন্য আপনাকে ধন্যবাদ। আপনার মতামত আমাদের "
-"কাছে গুরুত্বপূর্ণ।"
+msgstr "আমাদের প্রোডাক্ট নির্বাচন করার জন্য আপনাকে ধন্যবাদ। আপনার মতামত আমাদের কাছে গুরুত্বপূর্ণ।"
 
 #, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
@@ -1043,21 +1001,15 @@ msgstr "আরে, %3$s-র এই দ্রুত এবং হালকা ব
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
-"%2$s এবং অন্যান্য অবদানকারীর দ্বারা তৈরি %1$s হল বিনামূল্যের এবং ওপেন "
-"সোর্স সফ্টওয়্যার।"
+msgstr "%2$s এবং অন্যান্য অবদানকারীর দ্বারা তৈরি %1$s হল বিনামূল্যের এবং ওপেন সোর্স সফ্টওয়্যার।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
-"%1$s আপনার কাছে <a href=\"%2$s\">%3$s</a> এবং অন্যান্য ওপেন সোর্স "
-"লাইসেন্সের শর্তাবলী অনুসারে উপলব্ধ করা হয়েছে।"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr "%1$s আপনার কাছে <a href=\"%2$s\">%3$s</a> এবং অন্যান্য ওপেন সোর্স লাইসেন্সের শর্তাবলী অনুসারে উপলব্ধ করা হয়েছে।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1066,24 +1018,16 @@ msgstr ""
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
-msgstr ""
-"%3$s, %4$s বা %1$s নাম বা লোগো সহ Mozilla ফাউন্ডেশন বা কোনও পক্ষের "
-"ট্রেডমার্কে উপর কোন অধিকার বা লাইসেন্স আপনাকে মঞ্জুর করা হয়নি। <a "
-"href=\"%2$s\">here</a> এ অতিরিক্ত তথ্য পাওয়া যেতে পারে।"
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr "%3$s, %4$s বা %1$s নাম বা লোগো সহ Mozilla ফাউন্ডেশন বা কোনও পক্ষের ট্রেডমার্কে উপর কোন অধিকার বা লাইসেন্স আপনাকে মঞ্জুর করা হয়নি। <a href=\"%2$s\">here</a> এ অতিরিক্ত তথ্য পাওয়া যেতে পারে।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s এর জন্য অতিরিক্ত সোর্স কোড অন্যান্য বিনামূল্যে এবং ওপেন সোর্স <a "
-"href=\"%2$s\">লাইসেন্সগুলি</a> এর অধীনে উপলব্ধ।"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s এর জন্য অতিরিক্ত সোর্স কোড অন্যান্য বিনামূল্যে এবং ওপেন সোর্স <a href=\"%2$s\">লাইসেন্সগুলি</a> এর অধীনে উপলব্ধ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1091,14 +1035,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"এছাড়াও %1$s পৃথক ও স্বাধীন ভাবে হিসেবে <a href=\"%2$s\">GNU General "
-"Public License v3</a>-র অধীনে Disconnect, Inc-র প্রদত্ত ব্লকলিস্ট ব্যবহার"
-" করে, ও <a href=\"%3$s\">এখানে</a> উপলব্ধ আছে।"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "এছাড়াও %1$s পৃথক ও স্বাধীন ভাবে হিসেবে <a href=\"%2$s\">GNU General Public License v3</a>-র অধীনে Disconnect, Inc-র প্রদত্ত ব্লকলিস্ট ব্যবহার করে, ও <a href=\"%3$s\">এখানে</a> উপলব্ধ আছে।"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1271,9 +1209,7 @@ msgstr ""
 #. for the first time
 #, fuzzy
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
 msgstr ""
 
 #. Message shown in Home Screen with an icon. Users can choose either they
@@ -1281,8 +1217,7 @@ msgstr ""
 #. feature base on the users' feedback.
 msgctxt "exp_survey_wifi"
 msgid ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free "
-"internet connection nearby.\n"
+"We plan to integrate “Free Wifi-Finder” to help you find quality free internet connection nearby.\n"
 "\n"
 " Interested?"
 msgstr ""
@@ -1292,8 +1227,7 @@ msgstr ""
 #. feature base on the users' feedback.
 msgctxt "exp_survey_vpn"
 msgid ""
-"We plan to integrate “VPN service” to get you more freedom and more "
-"privacy when browsing.\n"
+"We plan to integrate “VPN service” to get you more freedom and more privacy when browsing.\n"
 "\n"
 " Interested?"
 msgstr ""
@@ -1316,4 +1250,3 @@ msgstr ""
 msgctxt "exp_survey_no"
 msgid "NOPE"
 msgstr ""
-
