@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-30 18:36+0800\n"
+"POT-Creation-Date: 2018-11-02 10:21+0800\n"
 "PO-Revision-Date: 2018-10-20 16:52+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language: anp\n"
@@ -1268,6 +1268,15 @@ msgid ""
 msgstr ""
 "अपनो उत्पाद अनुभव क बेहतर बनबै ल, हम आपनो स्क्रीनशॉट श्रेणियों क बारो मे "
 "जानकारी जमा करै छि."
+
+#. Message shown in Home Screen with an icon. Users can choose either they
+#. want this feature or not. Press "Yes, please" then direct users to download
+#. vpn app; Press "Nope" then hide the icon in home screen.
+msgctxt "btn_vpn"
+msgid ""
+"The 7-day free VPN service is ready for you. Install now to browse more "
+"privately and securely."
+msgstr ""
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
