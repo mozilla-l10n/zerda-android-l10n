@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-30 18:36+0800\n"
+"POT-Creation-Date: 2018-11-02 10:21+0800\n"
 "PO-Revision-Date: 2018-10-19 03:05+0000\n"
 "Last-Translator: 新垣结衣松冈茉优长泽雅美门胁麦上野树里石原里美 <eloli@foxmail.com>\n"
 "Language: zh_Hans_CN\n"
@@ -1234,6 +1234,15 @@ msgid ""
 "To improve your product experience, we collect information about your "
 "screenshots’ categories."
 msgstr "为了改善您的产品体验，我们会收集有关您的屏幕截图类别的信息。"
+
+#. Message shown in Home Screen with an icon. Users can choose either they
+#. want this feature or not. Press "Yes, please" then direct users to download
+#. vpn app; Press "Nope" then hide the icon in home screen.
+msgctxt "btn_vpn"
+msgid ""
+"The 7-day free VPN service is ready for you. Install now to browse more "
+"privately and securely."
+msgstr ""
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
