@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-30 18:36+0800\n"
+"POT-Creation-Date: 2018-11-02 10:21+0800\n"
 "PO-Revision-Date: 2018-08-08 01:02+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: mai\n"
@@ -1269,6 +1269,15 @@ msgctxt "my_shot_on_boarding_category_message"
 msgid ""
 "To improve your product experience, we collect information about your "
 "screenshots’ categories."
+msgstr ""
+
+#. Message shown in Home Screen with an icon. Users can choose either they
+#. want this feature or not. Press "Yes, please" then direct users to download
+#. vpn app; Press "Nope" then hide the icon in home screen.
+msgctxt "btn_vpn"
+msgid ""
+"The 7-day free VPN service is ready for you. Install now to browse more "
+"privately and securely."
 msgstr ""
 
 #. Message shown in Home Screen with an icon. Users can choose either they
