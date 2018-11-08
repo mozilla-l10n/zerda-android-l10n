@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-08 11:07+0000\n"
+"PO-Revision-Date: 2018-11-08 11:26+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -1013,13 +1013,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Yi'o ja o'ijini meyalo lisensi apa pun tomimbihu merek dagang Mozilla Foundation meyalo pihak mana pun, wayitiyo tanggulo meyalo logo %3$s, %4$s, meyalo %1$s. Informasi u lebe motombango mowali "
+"bilohelo <a href=\"%2$s\">teye</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Kode bungo duhengiyo ode %1$s sadi-sadiya to tililahepo <a href=\"%2$s\">lisensi</a> pereyi wawu bungoliyo u bu'a-bu'adu uwewoliyo."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
