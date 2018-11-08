@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-08 10:50+0000\n"
+"PO-Revision-Date: 2018-11-08 11:07+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -741,12 +741,12 @@ msgstr "Cuplikan layar tilahu"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Ja lowali lolahu cuplikan layar"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Mohutu cuplikan layar nga'amila laman…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -792,7 +792,7 @@ msgstr "Kartu SD mā yimbidu mopolu. Berkas mā tilahu to internal."
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Diya'a cuplikan layar"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -809,6 +809,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+"  to menu untuk mencuplik\n"
+"mo'a'amila laman."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
@@ -910,11 +912,11 @@ msgstr "Data monguli'ato yiluluto"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Cuplikan layar yiluluto"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Ja mowali mopobilohu cuplikan layar"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -940,7 +942,7 @@ msgstr "Motohilawo %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "Odu'olo ma lolulawoto produk lami. Potunu wawu potuhatamu paralu ode olami."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -950,14 +952,13 @@ msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
 msgstr "WOHIYE LENGGOTA"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr ""
+msgstr "Lawoli potunu"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "POTUNU"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -973,6 +974,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- Molinggahu wawu mohelo\n"
+"- Hemat data\n"
+"- Pencuplik layar yang canggih"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -983,13 +987,13 @@ msgstr "Tayade"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "Wey, yimontali peramban molinggahu wawu mohelo lonto  %3$s. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%1$s yito perangkat moluluhu'o pereyi wawu bungoliyo bu'a-bu'adu u pilohutu lo  %2$s wawu kontributor wuwewo."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -997,7 +1001,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s piloposadiya ode Olemu wolo persyaratan <a href=\"%2$s\">%3$s</a> wawu lisensi bungoliyo u bu'a-bu'adu uwewoliyo."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
