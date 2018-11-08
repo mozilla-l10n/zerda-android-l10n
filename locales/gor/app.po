@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-08 12:13+0000\n"
+"PO-Revision-Date: 2018-11-08 12:28+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -149,7 +149,7 @@ msgstr "Bahasa"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "Dudelo losistem"
+msgstr "Dudelo lo sistem"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -542,7 +542,7 @@ msgstr "setelan"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr "dīpo utiye"
+msgstr "dīpo yintiye"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -1236,19 +1236,22 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Rencana lami yito mopotuwawu \"Layanan VPN\" alihu Yi'o mo'otapu pereyi wawu privasi lebe ngohuntuwa to sa'ati monguli'ato.\n"
+"\n"
+" Mohuto?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "Odu'olo Yi'o ma longohi mayi potunu ode olami %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "JOO, TODUWOLO"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
