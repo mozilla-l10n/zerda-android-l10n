@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-08 10:05+0000\n"
+"PO-Revision-Date: 2018-11-08 10:50+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -309,7 +309,7 @@ msgstr "Lolohe aplikasi u mowali momu'o wūmbuta"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Diya'a aplikasi to perangaktimu u mowali momu'o wūmbuta botiya. Yi'o mowali molola %1$s mololohu %2$s aplikasi u mowali momu'o."
+msgstr "Diya'a aplikasi to perangkatimu u mowali momu'o wūmbuta botiya. Yi'o mowali molola %1$s mololohu %2$s aplikasi u mowali momu'o."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -495,7 +495,7 @@ msgstr "Tayade"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "Cuplikan ula'u"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -603,7 +603,7 @@ msgstr "Lonto riwāyati"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Kuki"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
@@ -646,7 +646,7 @@ msgstr "Batali mopohuli"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Kekeya"
 
 msgctxt "open"
 msgid "Open"
@@ -736,7 +736,7 @@ msgstr "Luluta berkas"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Cuplikan layar tilahu"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
