@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-05 17:50+0000\n"
-"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
+"PO-Revision-Date: 2018-11-04 07:34+0000\n"
+"Last-Translator: lmanishreddy123 <lmanishreddy123@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%2$d లో %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button.
@@ -420,7 +420,7 @@ msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr "మేము మీ ప్రతిస్పందనను విన్నాము!"
+msgstr "మేము మీ ప్రతిస్పందన విన్నాము!"
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
@@ -1153,13 +1153,13 @@ msgstr "మార్చు"
 #. Title of news portal page
 msgctxt "label_menu_news"
 msgid "News"
-msgstr ""
+msgstr "వార్తలు"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
 msgid "New update"
-msgstr ""
+msgstr "కొత్త నవీకరణ"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
