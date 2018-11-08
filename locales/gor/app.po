@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-08 09:51+0000\n"
+"PO-Revision-Date: 2018-11-08 10:05+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language-Team: gor <LL@li.org>\n"
 "\n"
@@ -401,15 +401,13 @@ msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
 msgstr "Hemat kuota data wolo momubulo iklan u'alupo. Lebe hemat da'a wonu Yi'o mopo'aktif bubulo gambari."
 
-#, fuzzy
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr ""
+msgstr "Cuplik nga'amila layar"
 
-#, fuzzy
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr ""
+msgstr "Cuplik layar nga'amila mopoheyi lo layar. Pobacawa secara luring ja momake kuota data meyambo woduta u mona'o ode laman Web boyito."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -417,7 +415,7 @@ msgstr "Privasi lenggota de yitato"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "Monguli'ato ja'o alupo wawu bubuli ngotayade damango alupo web lo'u layito. Pastiya amani lo data rahasia olemu. "
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -431,14 +429,14 @@ msgstr "Bibilohu bohu!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "Melalui evolusi produk, popowuluwo mayi lami %1$s u molamahu, wolo tanggulo wawu logo bohu. "
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. Mowali momu'o wawu mokalaja pe'enta %s nga'amila!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
@@ -1082,7 +1080,7 @@ msgstr "He'uti nga'amila tab?"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "Padeti tutumulumu!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
