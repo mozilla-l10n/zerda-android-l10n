@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-04 07:34+0000\n"
-"Last-Translator: lmanishreddy123 <lmanishreddy123@gmail.com>\n"
+"PO-Revision-Date: 2018-11-09 11:22+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -90,13 +90,13 @@ msgstr "%2$d లో %1$d"
 #. result button.
 msgctxt "accessibility_find_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "తదుపరి ఫలితాన్ని కనుగొనండి"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button.
 msgctxt "accessibility_find_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "మునుపటి ఫలితాన్ని కనుగొనండి"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI.
@@ -211,7 +211,7 @@ msgstr "గురించి"
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
 msgid "Night mode brightness"
-msgstr ""
+msgstr "రాత్రి రీతి ప్రకాశస్థాయి"
 
 #. After users have tried night mode once, the next time the user opens menu
 #. we would like to show them how they can long press the Night Mode icon to
@@ -412,7 +412,7 @@ msgstr "పూర్తి వెబ్ పేజీల తెరపట్లు
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
-msgstr ""
+msgstr "తరువాత స్థాయి అంతరంగికత"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
@@ -424,7 +424,7 @@ msgstr "మేము మీ ప్రతిస్పందన విన్నా
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "మాకు కొత్త రూపం వచ్చింది!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -480,7 +480,7 @@ msgstr "దింపుకోళ్ళు"
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "పేజీలో కనుక్కొండి"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
@@ -509,7 +509,7 @@ msgstr "టర్బో రీతి"
 #. Menu text for night mode.
 msgctxt "label_menu_night_mode"
 msgid "Night mode"
-msgstr ""
+msgstr "రాత్రి రీతి"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
@@ -530,12 +530,12 @@ msgstr "నిష్క్రమించు"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "స్థాన అనుమతి నిరాకరించబడింది."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "నిల్వ అనుమతి నిరాకరించబడింది."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -1166,7 +1166,7 @@ msgstr "కొత్త నవీకరణ"
 #. tab.
 msgctxt "private_tab"
 msgid "Private tab"
-msgstr ""
+msgstr "అంతరంగిక ట్యాబు"
 
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
@@ -1247,10 +1247,10 @@ msgstr ""
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "సరే, కానివ్వు"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "వద్దు"
