@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-11 00:30+0000\n"
+"PO-Revision-Date: 2018-11-11 00:51+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -138,35 +138,35 @@ msgstr "Уведомление о конфиденциальности"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
-msgstr ""
+msgstr "Поисковая система по умолчанию"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 #. This is shown when the user hasn't set a Rocket specific language, i.e.
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Язык устройства"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
-msgstr ""
+msgstr "Поисковая система по умолчанию"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Блокировать изображения"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr ""
+msgstr "Удалять данные веб-сёрфинга"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr ""
+msgstr "Сохранять загрузки в"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -174,7 +174,7 @@ msgstr ""
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Сделать браузером по умолчанию"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -182,124 +182,124 @@ msgstr ""
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Изменение параметров…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Режим Турбо"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr ""
+msgstr "Отправлять данные об использовании"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "%2$s стремится собирать только ту информацию, которая необходима для работы %1$s и его улучшения в будущем."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Подробнее"
 
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
 msgid "Night mode brightness"
-msgstr ""
+msgstr "Яркость в ночном режиме"
 
 #. After users have tried night mode once, the next time the user opens menu
 #. we would like to show them how they can long press the Night Mode icon to
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "Длительное нажатие регулирует яркость"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Очистить ввод"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Убрать"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Защищённое соединение"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Загрузка"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Веб-сайт загружен"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Больше настроек"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Перейти вперёд"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Перезагрузить веб-сайт"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Перейти назад"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Остановить загрузку сайта"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Вернуться к предыдущему приложению"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Блокировать трекеры"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Найдите приложение, которое может открыть эту ссылку"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. Argument 1 is the name of the app (i.e. Firefox Rocket) and %2$s
@@ -308,67 +308,67 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы можете выйти из %1$s для поиска подходящего приложения в %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
 msgid "Webpage not available"
-msgstr ""
+msgstr "Страница не доступна"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "Убедитесь, что вы подключены к Интернету"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "Проверьте адрес"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "ПОПРОБУЙТЕ СНОВА"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Неизвестный тип адреса"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr ""
+msgstr "Для открытия этого адреса вам может понадобиться установить другое программное обеспечение."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Поделиться ссылкой"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Копировать адрес ссылки"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Поделиться изображением"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Копировать адрес изображения"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Сохранить изображение"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Открыть ссылку в новой вкладке"
 
 #. Label used in the contextmenu shown when long-pressing on a image
 msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
-msgstr ""
+msgstr "Открыть изображение в новой вкладке"
 
 #. First run tour
 #. title for first page of FirstRun, Argument 1 will be formatted by product
@@ -376,7 +376,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page1_title"
 msgid "Thanks for choosing %1$s"
-msgstr ""
+msgstr "Спасибо, что выбрали %1$s"
 
 #. Message for first page of FirstRun, %1$s will be "Mozilla"
 #, c-format
@@ -410,7 +410,7 @@ msgstr ""
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
-msgstr ""
+msgstr "Следующий уровень приватности"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
@@ -454,47 +454,47 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ок, понятно!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Пропустить"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "Загрузки"
 
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "Найти на странице"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "Очистить кэш"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "История"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Поделиться"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "Мои снимки"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -502,28 +502,28 @@ msgstr ""
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Режим Турбо"
 
 #. Menu text for night mode.
 msgctxt "label_menu_night_mode"
 msgid "Night mode"
-msgstr ""
+msgstr "Ночной режим"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "Блокировать рекламу"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "Блокировать изображения"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Параметры"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -537,11 +537,11 @@ msgstr ""
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "параметры"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "не сейчас"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
@@ -560,6 +560,8 @@ msgid ""
 "%1$s \n"
 "wants to access your location."
 msgstr ""
+"%1$s\n"
+"хочет получить доступ к вашему местоположению."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -573,114 +575,114 @@ msgstr ""
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "РАЗРЕШИТЬ"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "ЗАПРЕТИТЬ"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Удалить данные"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Журнал посещений"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Журнал поиска"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Журнал форм"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Куки"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Кэш"
 
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Нет загрузок"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Загрузка…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Протокол загрузки не поддерживается"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Не удается найти файл"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Не удается удалить файл."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s загружен"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s был удалён"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Загрузка отменена"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Отменить"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Открыть"
 
 #. Download status
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "приостановлена"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "В ожидании"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "загрузка"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Выполнена"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "не удалась"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Неизвестно"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
@@ -689,53 +691,53 @@ msgstr ""
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Внутренняя память"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "УДАЛИТЬ ИСТОРИЮ ВЕБ-СЁРФИНГА"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Нет истории веб-сёрфинга"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчера"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Удалить всю историю веб-сёрфинга?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Удалить"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Удалить из списка"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "Удалить файл"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Скриншот сохранён"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -752,7 +754,7 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "ПРОСМОТРЕТЬ"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -1025,6 +1027,8 @@ msgstr "Дополнительный исходный код для %1$s дос�
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s также использует списки блокировки от Disconnect, Inc. как отдельные и независимые работы на условиях <a href=\"%2$s\">Генеральной публичной лицензии GNU версии 3</a>, доступные <a "
+"href=\"%3$s\">здесь</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
