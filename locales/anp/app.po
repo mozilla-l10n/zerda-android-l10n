@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-13 12:49+0000\n"
+"PO-Revision-Date: 2018-11-13 12:59+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -69,7 +69,7 @@ msgstr "एकरा द्वारा शेयर करियै"
 #. Watermark/Hint for the find in page input field.
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "पेज मs खोजिइयै"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -77,7 +77,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d / %2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -85,25 +85,25 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%2$d सs %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button.
 msgctxt "accessibility_find_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "अगलो परिणाम जानिइयै"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button.
 msgctxt "accessibility_find_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "पिछ्लो परिणाम जानिइयै"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI.
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "पेज में रद्द करियै"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -483,7 +483,7 @@ msgstr "डाउनलोडस"
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "पेज मs खोजिइयै"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
