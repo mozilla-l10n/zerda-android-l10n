@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-18 16:13+0000\n"
+"PO-Revision-Date: 2018-11-18 16:41+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -168,7 +168,7 @@ msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "में डाउनलोड सेव करियै"
+msgstr "में डाउनलोड सहेजियै"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -360,7 +360,7 @@ msgstr "इमेज एड्रेस कॉपी करियै"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "चित्र सवे करियै"
+msgstr "चित्र सहेजियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
@@ -398,10 +398,9 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "डेटा बचाबियै = पैसे बचाबियै"
 
-#, fuzzy
 msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोकिंग करै सअ न खालि ब्राउज़िंग कअ बढ़बै छै, इ डेटा बचबै छै. इमेज ब्लोक करै छिऐ तअ आरु सवे करिइयै."
+msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोकिंग करै सअ न खालि ब्राउज़िंग कअ बढ़बै छै, इ डेटा बचबै छै. इमेज ब्लोक करै छिऐ तअ आरु सहेजियै."
 
 #, fuzzy
 msgctxt "first_run_page4_title"
@@ -740,7 +739,7 @@ msgstr "फाइल हटैइयै"
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr "स्क्रीनशॉट सवे होए गेलै"
+msgstr "स्क्रीनशॉट सहेजलो गेलै"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
@@ -783,15 +782,15 @@ msgstr "शेयर"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "एसडी कार्ड नै मिलल. फ़ाइल क इंटरनल एस्टोरेज में सेव करल गेल छै"
+msgstr "एसडी कार्ड नै मिलल. फ़ाइल क इंटरनल एस्टोरेज में सहेजल गेल छै"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "एसडी कार्ड मे फाइल सवे करल गेल छै"
+msgstr "एसडी कार्ड मे फाइल सहेजल गेल छै"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "एसडी कार्ड लगभग भैर गेलै. फ़ाइल क इंटरनल एस्टोरेज में सेव करल गेल रहै."
+msgstr "एसडी कार्ड लगभग भैर गेलै. फ़ाइल क इंटरनल एस्टोरेज में सहेजल रहै."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -1102,7 +1101,7 @@ msgstr "थीमस स्विच करै ल होम बेकग्र�
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr "बुकमार्क सेव भेलै"
+msgstr "बुकमार्क सहेजल गेलै"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
@@ -1124,7 +1123,7 @@ msgstr "बुकमार्क संपादित करियै"
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr "सेव करियै"
+msgstr "सहेजियै"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
