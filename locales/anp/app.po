@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-13 12:59+0000\n"
+"PO-Revision-Date: 2018-11-18 16:13+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -733,7 +733,7 @@ msgstr "लिस्ट से हटैइयै"
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr "फाइल हटाबियै"
+msgstr "फाइल हटैइयै"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
@@ -923,7 +923,7 @@ msgstr "ई स्क्रीनशॉट नै दिखायै सकै �
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr "हटाइयै"
+msgstr "हटैइयै"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
