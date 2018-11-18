@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-18 16:52+0000\n"
+"PO-Revision-Date: 2018-11-18 17:00+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -448,11 +448,11 @@ msgstr "множество вкладок"
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. Мгновенно получите доступ к любимым сайтам %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "добавив их на главный экран!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -500,7 +500,7 @@ msgstr "Мои снимки"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "Снимок страницы"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
@@ -517,7 +517,7 @@ msgstr "Блокировать рекламу"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr "Блокировать изображения"
+msgstr "Блокировка изображений"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
@@ -530,12 +530,12 @@ msgstr "Выход"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "Запрос на доступ к местоположению отклонен."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "Запрос на использование хранилища отклонен."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -547,11 +547,11 @@ msgstr "не сейчас"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "Местоположение недоступно. Дайте разрешение на доступ к вашему местоположению."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "Хранилище недоступно. Дайте разрешение на хранение фотографий и файлов на вашем устройстве."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -573,7 +573,7 @@ msgstr ""
 #, c-format
 msgctxt "geolocation_dialog_message_cache_it"
 msgid "Don’t ask again for this site until %1$s restarts"
-msgstr ""
+msgstr "Не спрашивать снова до перезапуска %1$s"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -689,7 +689,7 @@ msgstr "Неизвестно"
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "SD-карта"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
@@ -744,12 +744,12 @@ msgstr "Скриншот сохранён"
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Не удалось сделать скриншот"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Съёмка скриншота всей страницы…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -782,20 +782,20 @@ msgstr "ПОДЕЛИТЬСЯ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "SD-карта не обнаружена. Файл был сохранён во внутреннем хранилище."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Файл сохранён на SD-карте"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "SD-карта почти заполнена. Файл был сохранён во внутреннем хранилище."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Нет скриншотов"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -812,6 +812,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+"  в меню для снимка\n"
+"всей страницы."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
@@ -886,11 +888,11 @@ msgstr "Режим Турбо отключён"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Включена блокировка изображений"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Блокировка изображений отключена"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
@@ -898,7 +900,7 @@ msgstr "Не удалось очистить кеш"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Хранилище недоступно. Загрузка отменена."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -909,7 +911,7 @@ msgstr "Удалено %1$s кэша"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "Данные веб-сёрфинга удалены"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -943,7 +945,7 @@ msgstr "Нравится %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "Благодарим Вас за выбор нашего продукта. Ваше мнение очень важно для нас."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -967,7 +969,7 @@ msgstr "ОТЗЫВ"
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr ""
+msgstr "Поделитесь %1$s с друзьями!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -975,6 +977,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- Быстрый и легкий\n"
+"- Экономия трафика\n"
+"- Мощные скриншоты"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -985,7 +990,7 @@ msgstr "Поделиться"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "Привет, попробуй этот быстрый и лёгкий браузер от %3$s. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1037,19 +1042,19 @@ msgstr ""
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "Мы нуждаемся в Вас! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "Формируйте лучший продукт для Индонезии"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "Открыта новая вкладка"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -1086,12 +1091,12 @@ msgstr "Закрыть все вкладки?"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "Цвет Вашей жизни!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "Дважды нажмите по фону, чтобы сменить тему."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
@@ -1190,25 +1195,27 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
+"Ваша история приватного\n"
+"просмотра стёрта."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr ""
+msgstr "Ваши скриншоты здесь!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr ""
+msgstr "Чтобы улучшить качество работы, мы собираем информацию о категориях ваших скриншотов."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "7-дневный бесплатный VPN готов для Вас. Установите сейчас, чтобы сёрфить более конфиденциально и надежно."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1219,6 +1226,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Мы планируем добавить “Бесплатный поиск WiFi”, чтобы помочь вам найти поблизости качественное бесплатное подключение к Интернету.\n"
+"\n"
+" Заинтересовались?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1229,13 +1239,16 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Мы планируем добавить “VPN сервис”, чтобы дать вам больше свободы и конфиденциальности при сёрфинге.\n"
+"\n"
+" Заинтересовались?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "Благодарим Вас за предоставленный отзыв %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
