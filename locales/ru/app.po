@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-11 01:02+0000\n"
+"PO-Revision-Date: 2018-11-18 16:52+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -382,31 +382,33 @@ msgstr "Спасибо, что выбрали %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Браузер, созданный %1$s, некоммерческой организацией, преданной свободному и открытому Интернету."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr ""
+msgstr "Сёрфите быстрее, чем когда-либо"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
+"Используйте режим Турбо, чтобы блокировать трекеры рекламы, так вы сможете просматривать сайты на молниеносной скорости. Если сайты кажутся сломанными, просто нажмите переключатель режима Турбо в "
+"меню."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr ""
+msgstr "Экономия трафика = Экономии денег"
 
 msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr ""
+msgstr "Экономьте на расходах на Интернет, блокируя трекеры рекламы. Сэкономьте ещё больше, включив блокировку изображений."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr ""
+msgstr "Скриншот всей страницы"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr ""
+msgstr "Сделайте скриншот всей страницы. Читайте её оффлайн без использования Интернета или нажмите на него, чтобы вернуться на веб-страницу."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -414,15 +416,15 @@ msgstr "Следующий уровень приватности"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "Просмотр страниц без слежки и блокировка распространенных веб-трекеров по умолчанию. Обеспечьте безопасность ваших конфиденциальных данных."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
-msgstr ""
+msgstr "Мы услышали ваше мнение!"
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "У нас новый вид!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -435,11 +437,11 @@ msgstr "Благодаря развитию продукта, мы предла�
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. Делайте несколько дел сразу, открывая %s одновременно!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "множество вкладок"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
