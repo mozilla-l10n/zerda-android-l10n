@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-09 11:22+0000\n"
+"PO-Revision-Date: 2018-11-23 08:39+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -1241,7 +1241,7 @@ msgstr ""
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "మీ అభిప్రాయాన్ని మాకు తెలియజేసినందుకు కృతజ్ఞతలు %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
