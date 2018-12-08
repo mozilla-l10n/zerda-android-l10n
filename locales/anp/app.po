@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-11-18 16:41+0000\n"
+"PO-Revision-Date: 2018-12-08 15:47+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -109,10 +109,9 @@ msgstr "पेज में रद्द करियै"
 #. third-party apps.          Clicking this action will launch Rocket and
 #. perform a search in the default search engine.          Please keep the
 #. "Firefox Rocket" part and don't localize the product name.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Lite"
-msgstr "Firefox Rocket मे खोजियै"
+msgstr "Firefox Lite में खोजियै"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -402,10 +401,9 @@ msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
 msgstr "ट्रैकिंग विज्ञापनों कअ ब्लोकिंग करै सअ न खालि ब्राउज़िंग कअ बढ़बै छै, इ डेटा बचबै छै. इमेज ब्लोक करै छिऐ तअ आरु सहेजियै."
 
-#, fuzzy
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr "स्क्रीनशॉट सब कुछ"
+msgstr "पुरे पेज के स्क्रीनशॉट"
 
 #, fuzzy
 msgctxt "first_run_page4_text"
@@ -929,10 +927,9 @@ msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "उत्पाद अपडेट सूचना"
 
-#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Firefox Rocket कअ तोहरो आरु हर एक खतिर बेटर बनबे लअ, हम अपनो गोपनीयता नीति मे बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै."
+msgstr "Firefox Lite कअ तोहरो आरु हर एक खतिर सबसे अच्छा बनबे लअ, हम अपनो गोपनीयता नीति मे कुछ बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -946,20 +943,17 @@ msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
 msgstr "हमरो उत्पाद क चुने ल धन्यवाद. अपनो कअ प्रतिक्रिया हमारा ल जरुरी छै."
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr "हौं, 5 सितारा रेट करियै!"
+msgstr "रेट करियै"
 
-#, fuzzy
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "5 सितारा रेट करियै"
+msgstr "रेट करियै"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "नय,प्रतिक्रिया भेजिइयै."
+msgstr "प्रतिक्रिया भेजिइयै"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
