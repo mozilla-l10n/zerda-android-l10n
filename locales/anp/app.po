@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-12-08 16:14+0000\n"
+"PO-Revision-Date: 2018-12-18 07:51+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -212,7 +212,7 @@ msgstr "के संबंध में"
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
 msgid "Night mode brightness"
-msgstr ""
+msgstr "नाईट मोड चमक"
 
 #. After users have tried night mode once, the next time the user opens menu
 #. we would like to show them how they can long press the Night Mode icon to
@@ -508,7 +508,7 @@ msgstr "टर्बो मोड"
 #. Menu text for night mode.
 msgctxt "label_menu_night_mode"
 msgid "Night mode"
-msgstr ""
+msgstr "नाईट मोड"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
