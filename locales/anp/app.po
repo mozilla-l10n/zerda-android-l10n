@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-12-18 07:51+0000\n"
+"PO-Revision-Date: 2018-12-18 07:55+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1147,7 +1147,7 @@ msgstr "संपादित करियै"
 #. Title of news portal page
 msgctxt "label_menu_news"
 msgid "News"
-msgstr ""
+msgstr "समाचार"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
