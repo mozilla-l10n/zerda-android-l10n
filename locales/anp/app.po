@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 10:21+0800\n"
-"PO-Revision-Date: 2018-12-18 07:55+0000\n"
+"PO-Revision-Date: 2019-01-01 18:33+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1239,10 +1239,10 @@ msgstr ""
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "हाँ, कृपया"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "नै"
