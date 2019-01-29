@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-29 12:32+0000\n"
+"PO-Revision-Date: 2019-01-29 12:53+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -197,7 +197,7 @@ msgstr "傳送使用資料"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "%2$s 致力於只收集用來為眾人改善 %1$s 所需的必要資料。"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -317,11 +317,11 @@ msgstr "無法顯示網頁"
 
 msgctxt "error_page_recover_a"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "請檢查是否已正確連接到網際網路"
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr ""
+msgstr "檢查有沒有打錯網址"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -402,7 +402,7 @@ msgstr ""
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr ""
+msgstr "拍攝整張頁面的擷圖"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
@@ -880,56 +880,56 @@ msgstr "選擇要上傳的檔案"
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "已開啟 Turbo 模式"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "已關閉 Turbo 模式"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "現在起將封鎖圖片"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "現在起將顯示圖片"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "無法清除快取"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "無法存取儲存空間，已取消下載。"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "已清除 %1$s 快取"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "已清除瀏覽資料"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "已刪除擷圖"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "無法顯示擷圖"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "產品更新公告"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -941,27 +941,27 @@ msgstr ""
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "喜歡 %1$s 嗎？"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "感謝您選用我們的產品，您的意見相當重要。"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr ""
+msgstr "幫我們打分數"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr ""
+msgstr "幫我們打分數"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr ""
+msgstr "留下意見回饋"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "意見回饋"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -969,7 +969,7 @@ msgstr ""
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr ""
+msgstr "分享 %1$s 給朋友！"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -980,7 +980,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "分享"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
@@ -1041,45 +1041,45 @@ msgstr ""
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "為印尼打造更好的產品"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "已開啟新分頁"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "切換"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "正在更改設定…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "可能需要一點時間"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "點擊設為預設瀏覽器"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "關閉全部"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "要關閉全部分頁嗎？"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
@@ -1094,92 +1094,92 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "已加入書籤"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "已移除書籤"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "編輯"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "編輯書籤"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "儲存"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "網址"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "已更新書籤"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "無書籤"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #. Content portal
 #. Title of news portal page
 msgctxt "label_menu_news"
 msgid "News"
-msgstr ""
+msgstr "新聞"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
 msgid "New update"
-msgstr ""
+msgstr "最新消息"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
 #. tab.
 msgctxt "private_tab"
 msgid "Private tab"
-msgstr ""
+msgstr "隱私分頁"
 
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "隱私瀏覽模式"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "清除隱私瀏覽紀錄"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "開啟"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1187,13 +1187,13 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr ""
+msgstr "已清除您的隱私瀏覽紀錄。"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr ""
+msgstr "在此檢視您的擷圖！"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
@@ -1233,16 +1233,16 @@ msgstr ""
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "感謝提供意見回饋給我們 %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "好的，謝謝"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "不要"
