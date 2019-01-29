@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-29 13:06+0000\n"
+"PO-Revision-Date: 2019-01-29 13:18+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1028,14 +1028,14 @@ msgstr "%1$s 其他部分的原始碼，則使用各種不同的自由與開放�
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s 還使用由 Disconnect, Inc. 提供的封鎖清單，該清單是一份依照 <a href=\"%2$s\">GNU General Public License v3</a> 提供的獨立作品，可在<a href=\"%3$s\">此處</a>取得。"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "我們需要你！%1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
@@ -1084,12 +1084,12 @@ msgstr "要關閉全部分頁嗎？"
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "為生活添增色彩！"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "雙擊首頁背景，即可切換佈景主題。"
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
