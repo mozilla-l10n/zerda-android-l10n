@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-29 13:18+0000\n"
+"PO-Revision-Date: 2019-01-29 15:40+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -435,22 +435,22 @@ msgstr ""
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. 一次開啟%s，讓您多工作業！"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr "多重分頁標籤"
+msgstr "多個分頁標籤"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. %s，快速開啟最愛的網站！"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "把它們加到主畫面"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -977,6 +977,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- 輕量光速快\n"
+"- 節省流量\n"
+"- 強大的擷圖功能"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
