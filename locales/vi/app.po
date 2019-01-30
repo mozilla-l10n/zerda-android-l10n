@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-30 15:42+0000\n"
+"PO-Revision-Date: 2019-01-30 15:56+0000\n"
 "Last-Translator: Cloney 173741 <best.cloney.1301@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
@@ -224,7 +224,7 @@ msgstr "Nhấn và giữ để điều chỉnh độ sáng"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Xóa đầu vào"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -422,31 +422,31 @@ msgstr "Chúng tôi đã ghi nhận phản hồi của bạn!"
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "Chúng tôi có một cái nhìn mới!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "Với sản phẩm đã phát triển, chúng tôi mang đến cho bạn một %1$s mới mẻ, với tên mới và logo mới."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text1"
 msgid "1. Multitask by opening %s at the same time!"
-msgstr ""
+msgstr "1. Đa nhiệm bằng cách mở %s cùng một lúc!"
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr ""
+msgstr "nhiều thẻ"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr ""
+msgstr "2. Truy cập các trang web yêu thích của bạn một cách nhanh chóng theo %s"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
@@ -454,76 +454,76 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Đã hiểu!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Bỏ qua"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Tiếp"
 
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Dấu trang"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
-msgstr ""
+msgstr "Tải xuống"
 
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr ""
+msgstr "Tìm trong trang"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr ""
+msgstr "Xoá bộ nhớ đệm"
 
 msgctxt "label_menu_history"
 msgid "History"
-msgstr ""
+msgstr "Lịch sử"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Chia sẻ"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
-msgstr ""
+msgstr "Các ảnh chụp của tôi"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
-msgstr ""
+msgstr "Chụp trang"
 
 msgctxt "label_menu_turbo_mode"
 msgid "Turbo mode"
-msgstr ""
+msgstr "Chế độ Turbo"
 
 #. Menu text for night mode.
 msgctxt "label_menu_night_mode"
 msgid "Night mode"
-msgstr ""
+msgstr "Chế độ ban đêm"
 
 msgctxt "label_menu_block_ads"
 msgid "Block Ads"
-msgstr ""
+msgstr "Chặn quảng cáo"
 
 msgctxt "label_menu_block_image"
 msgid "Block images"
-msgstr ""
+msgstr "Chặn hình ảnh"
 
 msgctxt "label_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 msgctxt "label_menu_exit"
 msgid "Exit"
-msgstr ""
+msgstr "Thoát"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -537,19 +537,19 @@ msgstr ""
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "cài đặt"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
-msgstr ""
+msgstr "không phải bây giờ"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr ""
+msgstr "Địa điểm không có sẵn. Cho phép để truy cập vị trí của bạn."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr ""
+msgstr "Lưu trữ không có sẵn. Cho phép để lưu trữ ảnh và tập tin trên thiết bị của bạn."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -559,7 +559,7 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr ""
+msgstr "%1$s muốn truy cập vị trí của bạn."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -569,36 +569,36 @@ msgstr ""
 #, c-format
 msgctxt "geolocation_dialog_message_cache_it"
 msgid "Don’t ask again for this site until %1$s restarts"
-msgstr ""
+msgstr "Đừng hỏi lại trang web này cho đến khi %1$s khởi động lại"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
-msgstr ""
+msgstr "CHO PHÉP"
 
 msgctxt "geolocation_dialog_block"
 msgid "BLOCK"
-msgstr ""
+msgstr "CHẶN"
 
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr ""
+msgstr "Xóa dữ liệu"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr ""
+msgstr "Lịch sử duyệt web"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr ""
+msgstr "Lịch sử tìm kiếm"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
-msgstr ""
+msgstr "Lịch sử biểu mẫu"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
