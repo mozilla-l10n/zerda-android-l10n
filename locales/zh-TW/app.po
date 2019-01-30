@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-30 07:30+0000\n"
+"PO-Revision-Date: 2019-01-30 07:44+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1209,7 +1209,7 @@ msgstr "為了改善產品使用體驗，我們會收集您拍攝的擷圖分類
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "免費的 7 天試用 VPN 服務已經準備好了，現在安裝即可更私密、更安全地上網。"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1220,6 +1220,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"我們想要整合「免費 Wi-Fi 熱點搜尋器」，可幫助您快速找到所在地點附近的免費、高品質網路。\n"
+"\n"
+"您會有興趣嗎？"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1230,6 +1233,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"我們想要整合「VPN 服務」，可讓您上網更有隱私、更加自由。\n"
+"\n"
+"您會有興趣嗎？"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
