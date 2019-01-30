@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-30 03:55+0000\n"
+"PO-Revision-Date: 2019-01-30 07:30+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -428,7 +428,7 @@ msgstr "我們有全新外觀！"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "隨著產品不斷進化，我們推出全新的 %1$s，改為新的名稱也更換商標。"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -933,7 +933,7 @@ msgstr "產品更新公告"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "為了讓 Firefox Lite 能為您與所有人變得更好，我們修改了部分的隱私權保護政策。可點擊此處了解更多資訊。"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -990,7 +990,7 @@ msgstr "分享"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "嘿！看看這套由 %3$s 所打造，光速快的瀏覽器 %1$s。%2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1202,7 +1202,7 @@ msgstr "在此檢視您的擷圖！"
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr ""
+msgstr "為了改善產品使用體驗，我們會收集您拍攝的擷圖分類。"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
