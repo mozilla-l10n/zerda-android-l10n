@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-31 01:58+0000\n"
-"Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
+"PO-Revision-Date: 2019-01-31 06:50+0000\n"
+"Last-Translator: Cloney 173741 <best.cloney.1301@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -450,7 +450,7 @@ msgstr "2. Truy cập các trang web yêu thích của bạn một cách nhanh c
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr ""
+msgstr "thêm chúng vào màn hình chính!"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -528,12 +528,12 @@ msgstr "Thoát"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "Quyền truy cập địa điểm bị từ chối."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "Quyền lưu trữ bị từ chối."
 
 msgctxt "permission_dialog_setting"
 msgid "settings"
@@ -602,11 +602,11 @@ msgstr "Lịch sử biểu mẫu"
 
 msgctxt "setting_dialog_cookies"
 msgid "Cookies"
-msgstr ""
+msgstr "Cookie"
 
 msgctxt "setting_dialog_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Bộ nhớ đệm"
 
 #. Download list
 msgctxt "no_downloads"
@@ -655,7 +655,7 @@ msgstr "Mở"
 #. download status in the panel.
 msgctxt "menu_longpress_downloads"
 msgid "Long press to open Downloads"
-msgstr ""
+msgstr "Nhấn và giữ để mở tải xuống"
 
 #. Download status
 #. File download status is paused
@@ -700,11 +700,11 @@ msgstr "Bộ nhớ trong"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr ""
+msgstr "XOÁ LỊCH SỬ TRUY CẬP"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr ""
+msgstr "Không có lịch sử duyệt"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -716,7 +716,7 @@ msgstr "Hôm qua"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Xóa"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
@@ -724,34 +724,34 @@ msgstr "Xóa tất cả lịch sử duyệt web?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Xóa"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr ""
+msgstr "Xóa khỏi danh sách"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr ""
+msgstr "Xóa tệp"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr ""
+msgstr "Ảnh chụp màn hình đã lưu"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr ""
+msgstr "Không thể chụp ảnh màn hình"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr ""
+msgstr "Chụp ảnh màn hình toàn bộ trang…"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -784,27 +784,27 @@ msgstr "CHIA SẺ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
+msgstr "Không phát hiện thẻ SD. Tập tin đã được lưu vào bộ nhớ trong."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr ""
+msgstr "Tệp được lưu vào thẻ SD"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
+msgstr "Thẻ SD đã gần đầy. Tập tin đã được lưu vào bộ nhớ trong."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr ""
+msgstr "Không có ảnh chụp màn hình"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr ""
+msgstr "Nhấn"
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -834,7 +834,7 @@ msgstr "Ngày: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr ""
+msgstr "Thể loại: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
@@ -842,7 +842,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_resolution1"
 msgid "Resolution: %1$s"
-msgstr ""
+msgstr "Độ phân giải: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Size: The disk size of
@@ -850,7 +850,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_size1"
 msgid "Size: %1$s"
-msgstr ""
+msgstr "Kích thước: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Title: The title of the
@@ -858,7 +858,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_title1"
 msgid "Title: %1$s"
-msgstr ""
+msgstr "Tiêu đề: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is URL: The url of the
@@ -866,7 +866,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_url1"
 msgid "URL: %1$s"
-msgstr ""
+msgstr "URL: %1$s"
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
@@ -875,65 +875,65 @@ msgstr "Xóa hình ảnh này?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr ""
+msgstr "Chọn một tệp để tải lên"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
 msgid "Turbo mode enabled"
-msgstr ""
+msgstr "Chế độ Turbo được kích hoạt"
 
 msgctxt "message_disable_turbo_mode"
 msgid "Turbo mode disabled"
-msgstr ""
+msgstr "Chế độ Turbo bị vô hiệu hóa"
 
 msgctxt "message_enable_block_image"
 msgid "Now blocking images"
-msgstr ""
+msgstr "Hình ảnh đang bị chặn"
 
 msgctxt "message_disable_block_image"
 msgid "Now showing images"
-msgstr ""
+msgstr "Hình ảnh đang được hiển thị"
 
 msgctxt "message_clear_cache_fail"
 msgid "Unable to clear cache"
-msgstr ""
+msgstr "Không thể xóa bộ nhớ đệm"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr ""
+msgstr "Không thể truy cập bộ nhớ. Tải về bị hủy."
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr ""
+msgstr "Đã xóa bộ nhớ đệm của %1$s"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr ""
+msgstr "Đã xóa dữ liệu duyệt web"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr ""
+msgstr "Ảnh chụp màn hình đã bị xóa"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr ""
+msgstr "Không thể hiển thị ảnh chụp màn hình"
 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr ""
+msgstr "Xóa"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr ""
+msgstr "Thông báo cập nhật sản phẩm"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr ""
+msgstr "Để làm cho Firefox Lite tốt hơn cho bạn và mọi người, chúng tôi đã thực hiện một số thay đổi đối với chính sách quyền riêng tư của mình. Nhấn để tìm hiểu thêm."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -941,27 +941,27 @@ msgstr ""
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Yêu %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
+msgstr "Cảm ơn bạn đã chọn sản phẩm của chúng tôi. Phản hồi của bạn rất quan trọng với chúng tôi."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr ""
+msgstr "Đánh giá chúng tôi"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr ""
+msgstr "ĐÁNH GIÁ CHÚNG TÔI"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr ""
+msgstr "Để lại phản hồi"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
-msgstr ""
+msgstr "PHẢN HỒI"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -969,7 +969,7 @@ msgstr ""
 #, c-format
 msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
-msgstr ""
+msgstr "Chia sẻ %1$s với bạn bè!"
 
 msgctxt "share_app_dialog_text_content"
 msgid ""
@@ -977,6 +977,9 @@ msgid ""
 "- Data saving\n"
 "- Powerful screenshots"
 msgstr ""
+"- Nhanh và nhẹ\n"
+"- Tiết kiệm dữ liệu\n"
+"- Chụp ảnh màn hình mạnh mẽ"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -987,13 +990,13 @@ msgstr "Chia sẻ"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
+msgstr "Này, hãy xem trình duyệt nhanh và nhẹ này từ %3$s. %1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
+msgstr "%1$s là phần mềm nguồn mở và miễn phí được tạo bởi %2$s và những người đóng góp khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1001,7 +1004,7 @@ msgstr ""
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">%3$s</a> và các giấy phép nguồn mở khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1013,6 +1016,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Bạn không được cấp bất kỳ quyền hoặc giấy phép nào cho các nhãn hiệu của nền tảng Mozilla hoặc bất kỳ bên nào, bao gồm %3$s, %4$s hoặc tên hoặc logo của %1$s. Thông tin bổ sung có thể được tìm "
+"thấy <a href=\"%2$s\"> tại đây </a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1029,46 +1034,48 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s cũng sử dụng danh sách chặn được cung cấp bởi Disconnect, Inc. là các công việc riêng biệt và độc lập theo <a href=\"%2$s\">GNU General Public License v3</a>, và có sẵn <a href=\"%3$s\">ở "
+"đây</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
 #, c-format
 msgctxt "survey_notification_title"
 msgid "We need you! %1$s"
-msgstr ""
+msgstr "Chúng tôi cần bạn! %1$s"
 
 #. Subtitle for survey notification posted after launching the app on the 3rd
 #. time
 msgctxt "survey_notification_description"
 msgid "Shape a better product for Indonesia"
-msgstr ""
+msgstr "Định hình một sản phẩm tốt hơn cho Indonesia"
 
 #. A message that is shown for a few seconds that indicates there's a new tab
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr ""
+msgstr "Thẻ mới đã được mở"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
 #. temporary message which notify users a new tab is opened.
 msgctxt "new_background_tab_switch"
 msgid "SWITCH"
-msgstr ""
+msgstr "CHUYỂN"
 
 #. Sticky notification to inform user we are in the process of changing
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr ""
+msgstr "Thay đổi các cài đặt…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
-msgstr ""
+msgstr "Nó có thể mất một thời gian"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr ""
+msgstr "Nhấn để đặt trình duyệt mặc định"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
@@ -1079,12 +1086,12 @@ msgstr "Đóng tất cả"
 #. button
 msgctxt "tab_tray_close_tabs_dialog_msg"
 msgid "Close all tabs?"
-msgstr ""
+msgstr "Đóng tất cả cửa sổ?"
 
 #. This is the title of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_title"
 msgid "Color your life!"
-msgstr ""
+msgstr "Tô màu cuộc sống của bạn!"
 
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
@@ -1094,92 +1101,92 @@ msgstr ""
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
 msgid "Bookmark saved"
-msgstr ""
+msgstr "Đã lưu dấu trang"
 
 #. Message shown for a few seconds after a bookmark is removed.
 msgctxt "bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "Trang đánh dấu đã được xóa"
 
 #. An action that is shown along with bookmark_saved to give user an option to
 #. edit the saved bookmark.
 msgctxt "bookmark_saved_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "CHỈNH SỬA"
 
 #. Title of the bookmark editing page
 msgctxt "title_activity_edit_bookmark"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "Chỉnh sửa dấu trang"
 
 #. The only action available in bookmark editing page. Press this label to
 #. save the edited bookmark.
 msgctxt "bookmark_edit_save"
 msgid "SAVE"
-msgstr ""
+msgstr "LƯU"
 
 #. The label of the textbox where user can type the name of the bookmark
 msgctxt "bookmark_edit_name"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr ""
+msgstr "Vị trí"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
 msgid "Bookmark updated"
-msgstr ""
+msgstr "Trang đánh dấu đã được cập nhật"
 
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr ""
+msgstr "Không có dấu trang"
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 #. Content portal
 #. Title of news portal page
 msgctxt "label_menu_news"
 msgid "News"
-msgstr ""
+msgstr "Tin tức"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
 msgid "New update"
-msgstr ""
+msgstr "Cập nhật mới"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
 #. tab.
 msgctxt "private_tab"
 msgid "Private tab"
-msgstr ""
+msgstr "Thẻ riêng tư"
 
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr ""
+msgstr "Duyệt web riêng tư"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr ""
+msgstr "Xóa lịch sử duyệt web riêng tư"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
 msgctxt "private_browsing_open_action"
 msgid "OPEN"
-msgstr ""
+msgstr "MỞ"
 
 #. A message shown briefly after user have cleared the private browsing
 #. history via tapping the notification.
@@ -1188,25 +1195,27 @@ msgid ""
 "Your private browsing\n"
 "history has been erased."
 msgstr ""
+"Trình duyệt riêng tư của bạn\n"
+"lịch sử đã bị xóa."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr ""
+msgstr "Xem ảnh chụp màn hình của bạn ở đây!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr ""
+msgstr "Để cải thiện trải nghiệm sản phẩm của bạn, chúng tôi thu thập thông tin về các loại ảnh chụp màn hình của bạn."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "Dịch vụ VPN miễn phí 7 ngày đã sẵn sàng cho bạn. Cài đặt ngay để duyệt riêng tư và an toàn hơn."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1217,6 +1226,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Chúng tôi dự định tích hợp miễn phí Wifi-Finder để giúp bạn tìm kết nối internet miễn phí chất lượng cao ở xung quanh.\n"
+"\n"
+"Quan tâm?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1227,22 +1239,25 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"Chúng tôi dự định tích hợp dịch vụ VPN để giúp bạn tự do hơn và riêng tư hơn khi duyệt web.\n"
+" \n"
+"Quan tâm?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr ""
+msgstr "Cảm ơn bạn đã cho chúng tôi thông tin phản hồi %1$s"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "VÂNG, LÀM ƠN"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "KHÔNG"
