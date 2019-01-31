@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-30 15:56+0000\n"
-"Last-Translator: Cloney 173741 <best.cloney.1301@gmail.com>\n"
+"PO-Revision-Date: 2019-01-31 01:58+0000\n"
+"Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -611,45 +611,45 @@ msgstr ""
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr ""
+msgstr "Không có tập tin tải về"
 
 msgctxt "download_started"
 msgid "Downloading…"
-msgstr ""
+msgstr "Đang tải xuống…"
 
 msgctxt "download_file_not_supported"
 msgid "Download protocol not supported"
-msgstr ""
+msgstr "Giao thức tải xuống không được hỗ trợ"
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr ""
+msgstr "Không tìm thấy tập tin"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr ""
+msgstr "Không thể xóa tập tin."
 
 #, c-format
 msgctxt "download_completed"
 msgid "%1$s downloaded"
-msgstr ""
+msgstr "%1$s đã được tải xuống"
 
 #, c-format
 msgctxt "download_deleted"
 msgid "%1$s was deleted"
-msgstr ""
+msgstr "%1$s đã bị xóa"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr ""
+msgstr "Đã hủy tải xuống"
 
 msgctxt "undo"
 msgid "Undo"
-msgstr ""
+msgstr "Hoàn tác"
 
 msgctxt "open"
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
 #. The message that indicates users can long press this menu button to see all
 #. download status in the panel.
@@ -661,41 +661,41 @@ msgstr ""
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr ""
+msgstr "tạm dừng"
 
 #. File download status is pending
 msgctxt "pending"
 msgid "Pending"
-msgstr ""
+msgstr "Đang chờ xử lý"
 
 #. File download status is running
 msgctxt "running"
 msgid "downloading"
-msgstr ""
+msgstr "đang tải xuống"
 
 #. File download status is successful
 msgctxt "successful"
 msgid "Successful"
-msgstr ""
+msgstr "Thành công"
 
 #. File download status is failed
 msgctxt "failed"
 msgid "failed"
-msgstr ""
+msgstr "thất bại"
 
 #. File download status is unknown
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Không xác định"
 
 #. Setting data saving path dialog
 msgctxt "setting_dialog_sd_card"
 msgid "SD card"
-msgstr ""
+msgstr "Thẻ SD"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr ""
+msgstr "Bộ nhớ trong"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -708,11 +708,11 @@ msgstr ""
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgctxt "browsing_history_date_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Hôm qua"
 
 msgctxt "browsing_history_menu_delete"
 msgid "Delete"
@@ -720,7 +720,7 @@ msgstr ""
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr ""
+msgstr "Xóa tất cả lịch sử duyệt web?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -758,28 +758,28 @@ msgstr ""
 #. of a successful screenshot capture.
 msgctxt "screenshot_view"
 msgid "VIEW"
-msgstr ""
+msgstr "XEM"
 
 #. The label of an action that gives users an option to edit the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_edit"
 msgid "EDIT"
-msgstr ""
+msgstr "SỬA"
 
 #. The label of an action that gives users an option to delete the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr ""
+msgstr "XÓA"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr ""
+msgstr "CHIA SẺ"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
@@ -818,7 +818,7 @@ msgstr ""
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
 msgid "Info"
-msgstr ""
+msgstr "Thông tin"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Date: When the screenshot
@@ -826,7 +826,7 @@ msgstr ""
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_time1"
 msgid "Date: %1$s"
-msgstr ""
+msgstr "Ngày: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Category: Which category
@@ -870,7 +870,7 @@ msgstr ""
 
 msgctxt "screenshot_image_viewer_dialog_delete_msg"
 msgid "Delete this image?"
-msgstr ""
+msgstr "Xóa hình ảnh này?"
 
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
@@ -980,7 +980,7 @@ msgstr ""
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
-msgstr ""
+msgstr "Chia sẻ"
 
 #. The message template used when user shares Rocket with friends. %1$s is the
 #. App name i.e. Rocket, and %2$s is the Google Play url, and %3$s is "Mozilla"
@@ -1073,7 +1073,7 @@ msgstr ""
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
 msgid "Close all"
-msgstr ""
+msgstr "Đóng tất cả"
 
 #. Confirm message shown on the dialog popped after user clicks close-all-tabs
 #. button
