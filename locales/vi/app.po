@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-01-30 16:13+0000\n"
-"Last-Translator: Duy Toản <Toantddh9x@gmail.com>\n"
+"PO-Revision-Date: 2019-01-31 15:52+0000\n"
+"Last-Translator: Cloney 173741 <best.cloney.1301@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -382,7 +382,7 @@ msgstr "Cảm ơn bạn đã chọn %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
+msgstr "Một trình duyệt được tạo bởi %1$s, phi lợi nhuận đã cam kết với một trang web mở và miễn phí."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -390,7 +390,7 @@ msgstr "Duyệt nhanh hơn bao giờ hết"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
+msgstr "Sử dụng chế độ turbo để chặn quảng cáo theo dõi để bạn và có thể duyệt ở tốc độ nhanh. Nếu các trang web có vẻ bị hỏng, chỉ cần nhấn vào công tắc của chế độ turbo trong menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
@@ -406,7 +406,7 @@ msgstr "Ảnh chụp màn hình toàn bộ trang"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr ""
+msgstr "Chụp ảnh màn hình của toàn bộ trang. Đọc ngoại tuyến mà không sử dụng dữ liệu hoặc chạm vào nó để xem lại trang web."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -414,7 +414,7 @@ msgstr "Quyền riêng tư cấp độ tiếp theo"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "Duyệt mà không để lại dấu vết và chặn một loạt các trình theo dõi web phổ biến theo mặc định. Đảm bảo an toàn cho dữ liệu bí mật của bạn."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -804,7 +804,7 @@ msgstr "Không có ảnh chụp màn hình"
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "Nhấn"
+msgstr "Nhấn "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -814,6 +814,8 @@ msgid ""
 "  on the menu to capture\n"
 "an entire web page."
 msgstr ""
+"  trên menu để chụp\n"
+"toàn bộ trang web."
 
 #. Title of the subpage showing screenshot info.
 msgctxt "screenshot_image_viewer_dialog_title"
@@ -1024,7 +1026,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Đoạn mã bổ sung cho %1$s có sẵn dưới nhiều loại <a href=\"%2$s\">giấy phép</a> tự do và nguồn mở khác nhau."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1096,7 +1098,7 @@ msgstr "Tô màu cuộc sống của bạn!"
 #. This is the description of Themeing on-boarding dialog
 msgctxt "themetoy_onboarding_description"
 msgid "Double click on the home background to switch themes."
-msgstr ""
+msgstr "Nhấp đúp vào hình nền trang chủ để chuyển chủ đề."
 
 #. Message shown for a few seconds after a bookmark is saved.
 msgctxt "bookmark_saved"
