@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-02-07 09:32+0000\n"
+"PO-Revision-Date: 2019-02-07 09:33+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -1171,7 +1171,7 @@ msgstr "புதிய புதுப்பிப்பு"
 #. tab.
 msgctxt "private_tab"
 msgid "Private tab"
-msgstr ""
+msgstr "தனிப்பட்ட கீற்று"
 
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
