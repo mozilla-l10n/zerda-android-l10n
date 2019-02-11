@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-02-08 09:20+0000\n"
+"PO-Revision-Date: 2019-02-11 03:06+0000\n"
 "Last-Translator: அருண் குமார்|Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -1210,17 +1210,16 @@ msgstr "உங்கள் திரைக்காட்சிகளை இங�
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
-#, fuzzy
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr ""
+msgstr "உங்கள் தயாரிப்பு அனுபவத்தை மேம்படுத்த, உங்கள் திரைப்பிடிப்பு பற்றிய தகவல்களை நாங்கள் சேகரிக்கிறோம்."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "7-நாள் இலவச VPN சேவை உங்களுக்குத் தயாராக உள்ளது. மேலும் தனியாகவும் பாதுகாப்பாகவும் உலாவுவதற்கு இப்போதே நிறுவுங்கள்."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1231,6 +1230,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"அருகிலுள்ள தரமான இலவச இணைய இணைப்பு கண்டுபிடிக்க உங்களுக்கு உதவ, “இலவச வைஃபை-கண்டுபிடிப்பான்” ஒருங்கிணைக்க நாங்கள் திட்டமிடுகிறோம்.\n"
+"\n"
+" ஆர்வமா?"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1241,6 +1243,9 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
+"நீங்கள் கட்டற்றும் தனியாகவும் உலாவும் வகையில் “VPN சேவையை” ஒருங்கிணைக்க திட்டமிட்டுள்ளோம்.\n"
+"\n"
+" ஆர்வமா?"
 
 #. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
 #. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
