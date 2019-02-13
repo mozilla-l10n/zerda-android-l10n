@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-03 15:18+0800\n"
-"PO-Revision-Date: 2019-02-12 07:48+0000\n"
+"PO-Revision-Date: 2019-02-13 14:19+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -218,7 +218,7 @@ msgstr "ਰਾਤ ਦਾ ਮੋਡ ਚਮਕ"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "ਚਮਕ ਨੂੰ ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਲੰਮਾ ਦਬਾਓ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -414,7 +414,7 @@ msgstr "ਸਾਰੇ ਵੈੱਬ ਵਰਕੇ ਦੀ ਤਸਵੀਰ ਖਿੱ�
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
-msgstr ""
+msgstr "ਅਗਲੇ-ਪੱਧਰ ਦੀ ਪਰਦੇਦਾਰੀ"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
@@ -426,7 +426,7 @@ msgstr "ਅਸੀਂ ਤੁਹਾਡਾ ਸੁਝਾਅ ਸੁਣਿਆ!"
 
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
-msgstr ""
+msgstr "ਸਾਡੇ ਕੋਲ ਨਵੀਂ ਦਿੱਖ ਹੈ!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1217,7 +1217,7 @@ msgstr ""
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "7-ਦਿਨ ਦੀ ਮੁਫਤ VPN ਸੇਵਾ ਤੁਹਾਡੇ ਲਈ ਤਿਆਰ ਹੈ। ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਹੁਣ ਇੰਸਟਾਲ ਕਰੋ।"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
