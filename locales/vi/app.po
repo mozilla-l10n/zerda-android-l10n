@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-02-18 16:57+0800\n"
-"PO-Revision-Date: 2019-02-20 05:20+0000\n"
+"PO-Revision-Date: 2019-03-01 05:57+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -909,7 +909,7 @@ msgstr "Không thể truy cập bộ nhớ. Tải về bị hủy."
 #, c-format
 msgctxt "message_cleared_cached"
 msgid "%1$s cache cleared"
-msgstr "Đã xóa bộ nhớ đệm của %1$s"
+msgstr "Đã xóa %1$s bộ nhớ đệm"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
@@ -943,7 +943,7 @@ msgstr "Để làm cho Firefox Lite tốt hơn cho bạn và mọi người, ch�
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr "Yêu %1$s?"
+msgstr "Thích ứng dụng %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
