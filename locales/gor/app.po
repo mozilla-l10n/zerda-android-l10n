@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-18 16:57+0800\n"
+"POT-Creation-Date: 2019-03-05 21:56+0800\n"
 "PO-Revision-Date: 2018-11-08 12:28+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language: gor\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -139,6 +139,16 @@ msgctxt "about_link_privacy"
 msgid "Privacy Notice"
 msgstr "Tinepo Privasi"
 
+msgctxt "life_feed"
+msgid "Life Feed"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Life Feed"
+#, c-format
+msgctxt "about_link_life_feed"
+msgid "Learn more about %1$s"
+msgstr ""
+
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default search engine"
@@ -158,6 +168,11 @@ msgstr "Dudelo lo sistem"
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search engine"
 msgstr "Masina dudelo pololohu"
+
+#. This is the title of the dialog for choosing news source
+msgctxt "preference_dialog_title_news_source"
+msgid "News source"
+msgstr ""
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -443,6 +458,23 @@ msgid ""
 msgstr ""
 "Monguli'ato ja'o alupo wawu bubuli ngotayade damango alupo web lo'u "
 "layito. Pastiya amani lo data rahasia olemu. "
+
+msgctxt "first_run_page6_title"
+msgid "Discover new things"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
+#. which is localized in lifefeed_learn_more
+#, c-format
+msgctxt "first_run_page6_text"
+msgid ""
+"Just one flip, keep yourself updated with the “%1$s” - a variety of "
+"contents from the most popular topics to the hottest deals. %2$s"
+msgstr ""
+
+msgctxt "lifefeed_learn_more"
+msgid "Learn more"
+msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
