@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 21:56+0800\n"
+"POT-Creation-Date: 2019-03-07 15:42+0800\n"
 "PO-Revision-Date: 2019-02-20 10:16+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -143,11 +143,17 @@ msgctxt "about_link_privacy"
 msgid "Privacy Notice"
 msgstr "Уведомление о конфиденциальности"
 
+#. Life Feed is an information panel covering content that might help our
+#. customers' life. It covers from the most popular topics to the hottest
+#. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
 msgstr ""
 
-#. The %1$s here is a placeholder for "Life Feed"
+#. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
+#. panel covering content that might help our customers' life. It covers from
+#. the most popular topics to the hottest deals, including news, games,
+#. coupon...etc.
 #, c-format
 msgctxt "about_link_life_feed"
 msgid "Learn more about %1$s"
@@ -473,16 +479,15 @@ msgid "Discover new things"
 msgstr ""
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
-#. which is localized in lifefeed_learn_more
+#. which is localized in preference_learn_more. Life Feed is an information
+#. panel covering content that might help our customers' life. It covers from
+#. the most popular topics to the hottest deals, including news, games,
+#. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
 msgid ""
 "Just one flip, keep yourself updated with the “%1$s” - a variety of "
 "contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-
-msgctxt "lifefeed_learn_more"
-msgid "Learn more"
 msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
