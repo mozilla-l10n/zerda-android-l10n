@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-08 02:52+0000\n"
+"PO-Revision-Date: 2019-03-08 02:56+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -440,7 +440,7 @@ msgstr "Seumeulop hana euncit, tham alat seumeutöt wèb nyang biasa. Peuaman da
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
-msgstr ""
+msgstr "Limeuh nyang barô-barô"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -450,7 +450,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page6_text"
 msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
+msgstr "Sigö cukèh sagai, neuseubarô sabè ngön “%1$s” - meubagoe bhah nibak nyang palèng geuthèe na sampoe án nyang gawat that dum. %2$s"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
