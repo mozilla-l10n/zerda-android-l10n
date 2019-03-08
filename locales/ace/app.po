@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-08 02:56+0000\n"
+"PO-Revision-Date: 2019-03-08 09:12+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -464,7 +464,7 @@ msgstr "Kamoe na neuleumah barô!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr "Ngön produk nyang sabé meuubah, kamoe mumè keu Droeneuh %1$s nyang barô, ngön nan barô dan logo barô."
+msgstr "Ngön produk nyang sabé meutamah, kamoe meuba keu droeneuh %1$s nyang barô, nan barô ngön logo barô."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
