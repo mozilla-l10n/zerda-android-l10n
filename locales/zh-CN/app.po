@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-08 01:03+0000\n"
+"PO-Revision-Date: 2019-03-09 09:21+0000\n"
 "Last-Translator: 张无忌 <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -140,7 +140,7 @@ msgstr "隐私声明"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "生活助手"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
@@ -174,7 +174,7 @@ msgstr "默认搜索引擎"
 #. This is the title of the dialog for choosing news source
 msgctxt "preference_dialog_title_news_source"
 msgid "News source"
-msgstr ""
+msgstr "新闻来源"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -439,7 +439,7 @@ msgstr "无痕浏览。默认阻止各种常见的网络跟踪器。确保私密
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
-msgstr ""
+msgstr "探索新知"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -449,7 +449,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page6_text"
 msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
+msgstr "您只需轻轻翻转，即可在“%1$s”处获取新资讯 - 涵盖最流行的话题到最热门的促销等各种内容。%2$s"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
