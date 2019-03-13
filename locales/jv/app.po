@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-12 02:18+0000\n"
+"PO-Revision-Date: 2019-03-13 00:22+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -141,7 +141,7 @@ msgstr "Pratélan Wadi"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "Warta Pedinan"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
