@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-14 02:26+0000\n"
+"PO-Revision-Date: 2019-03-14 03:49+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -440,7 +440,7 @@ msgstr "Delajah tanpa tilak, lan blokir sawetara pelacak web. Jamin keamanan dat
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
-msgstr ""
+msgstr "Temokaké apa-apa sing anyar"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
