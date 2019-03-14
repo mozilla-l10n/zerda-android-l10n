@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-14 04:53+0000\n"
+"PO-Revision-Date: 2019-03-14 04:54+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -1111,7 +1111,7 @@ msgstr "Sedhéla"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr "Tunyuk kanggo ndadèkaké paramban standar"
+msgstr "Tunyuk kanggo ndadèkaké paramban setandar"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
