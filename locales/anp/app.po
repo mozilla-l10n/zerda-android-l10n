@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2019-03-20 16:50+0000\n"
+"PO-Revision-Date: 2019-03-20 16:59+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -150,7 +150,7 @@ msgstr ""
 #, c-format
 msgctxt "about_link_life_feed"
 msgid "Learn more about %1$s"
-msgstr ""
+msgstr "%1$s के बारो में अधिक जानियै"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
