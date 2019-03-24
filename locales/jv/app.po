@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-07 15:42+0800\n"
-"PO-Revision-Date: 2018-08-14 10:09+0000\n"
+"PO-Revision-Date: 2018-08-14 10:22+0000\n"
 "Last-Translator: Cahyo Ramadhani <cahyo.ramadhani@wikimedia.or.id>\n"
 "Language-Team: jv <LL@li.org>\n"
 "\n"
@@ -370,7 +370,7 @@ msgstr "Nurun alamat pranala"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "Dumké gambar"
+msgstr "Dum gambar"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
@@ -526,7 +526,7 @@ msgstr "Riwayat"
 
 msgctxt "label_menu_share"
 msgid "Share"
-msgstr "Dumké"
+msgstr "Dum"
 
 msgctxt "label_menu_my_shots"
 msgid "My shots"
@@ -817,7 +817,7 @@ msgstr "BUSAK"
 #. of a successful screenshot capture.
 msgctxt "screenshot_share"
 msgid "SHARE"
-msgstr "DUMKÉ"
+msgstr "DUM"
 
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
