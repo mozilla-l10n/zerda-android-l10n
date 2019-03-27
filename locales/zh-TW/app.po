@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-07 15:42+0800\n"
+"POT-Creation-Date: 2019-03-27 10:28+0800\n"
 "PO-Revision-Date: 2019-02-23 06:58+0000\n"
 "Last-Translator: elin <elin@mozilla.com>\n"
 "Language: zh_Hant_TW\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -504,6 +504,17 @@ msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
 msgstr "把它們加到主畫面"
 
+#. Update tour for pin sites to home page
+msgctxt "second_run_upgrade_page_title"
+msgid "Pin your favorite sites"
+msgstr ""
+
+msgctxt "second_run_upgrade_page_text"
+msgid ""
+"You can now pin any top site so it does not get moved. To get you "
+"started, we have pinned some top sites for you to try."
+msgstr ""
+
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
 msgstr "好，知道了！"
@@ -980,6 +991,11 @@ msgctxt "remove"
 msgid "Remove"
 msgstr "移除"
 
+#. Pin Top site item
+msgctxt "pin_site"
+msgid "Pin site"
+msgstr ""
+
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
@@ -1220,6 +1236,10 @@ msgctxt "label_menu_news"
 msgid "News"
 msgstr "新聞"
 
+msgctxt "label_menu_latest_top_trending_news"
+msgid "Latest & Top Trending News"
+msgstr ""
+
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
@@ -1329,4 +1349,22 @@ msgstr "好的，謝謝"
 msgctxt "exp_survey_no"
 msgid "NOPE"
 msgstr "不要"
+
+#. Title on web auth dialog. This dialog hint user authentication is required
+#. to proceed to the website.
+msgctxt "http_auth_dialog_title"
+msgid "Authentication required"
+msgstr ""
+
+#. Text on an input username field in web auth dialog. This hint user to input
+#. username here.
+msgctxt "http_auth_dialog_user_name"
+msgid "Username"
+msgstr ""
+
+#. Text on an input password field in web auth dialog. This hint user to input
+#. password here.
+msgctxt "http_auth_dialog_password"
+msgid "Password"
+msgstr ""
 
