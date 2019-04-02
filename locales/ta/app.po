@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-27 10:28+0800\n"
+"POT-Creation-Date: 2019-04-02 10:38+0800\n"
 "PO-Revision-Date: 2019-03-25 13:01+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language: ta\n"
@@ -1295,6 +1295,11 @@ msgstr ""
 msgctxt "news_update_btn"
 msgid "New update"
 msgstr "புதிய புதுப்பிப்பு"
+
+#. Description of service provided by which parnter
+msgctxt "logo_text"
+msgid "Service provided by"
+msgstr ""
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
