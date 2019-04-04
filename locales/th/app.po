@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-03-27 10:28+0800\n"
-"PO-Revision-Date: 2019-03-30 19:48+0000\n"
+"PO-Revision-Date: 2019-04-04 18:16+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1203,7 +1203,7 @@ msgstr "ข่าว"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "ข่าวล่าสุดและได้รับความนิยมสูงสุด"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
@@ -1313,7 +1313,7 @@ msgstr "ไม่"
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "ต้องมีการรับรองความถูกต้อง"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
