@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-08 23:55+0000\n"
+"PO-Revision-Date: 2019-04-10 00:36+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1218,7 +1218,7 @@ msgstr "点按更新"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr "服务提供商："
+msgstr "服务提供方："
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
