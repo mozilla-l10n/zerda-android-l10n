@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-12 01:06+0000\n"
+"PO-Revision-Date: 2019-04-12 01:24+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: ace <LL@li.org>\n"
 "\n"
@@ -495,7 +495,7 @@ msgstr "Peukab situs favorit droen"
 
 msgctxt "second_run_upgrade_page_text"
 msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr ""
+msgstr "Jinoe ka jeut ta peukab situs nyang hayeu bah bek jeut i seuk-seuk lé. Ka meupeukab padum boh situs nyang hayeu bah jeut neu tré ju."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -978,7 +978,7 @@ msgstr "Sampôh"
 #. Pin Top site item
 msgctxt "pin_site"
 msgid "Pin site"
-msgstr ""
+msgstr "Peukab situs"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1212,7 +1212,7 @@ msgstr "Haba"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "Haba barô & trending"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
@@ -1225,7 +1225,7 @@ msgstr "Haba barô"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "Layanan jipeuna lé"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1331,16 +1331,16 @@ msgstr "H'AN"
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Peureulè autentikasi"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
 msgctxt "http_auth_dialog_user_name"
 msgid "Username"
-msgstr ""
+msgstr "Nan ureung ngui"
 
 #. Text on an input password field in web auth dialog. This hint user to input
 #. password here.
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Lageum tamöng"
