@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-08 16:26+0000\n"
+"PO-Revision-Date: 2019-04-15 07:26+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -572,12 +572,12 @@ msgstr "ออก"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr "ปฏิเสธการอนุญาตตำแหน่งที่ตั้งแล้ว"
+msgstr "ปฏิเสธสิทธิอนุญาตตำแหน่งที่ตั้งแล้ว"
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr "ปฏิเสธการอนุญาตที่เก็บข้อมูลแล้ว"
+msgstr "ปฏิเสธสิทธิอนุญาตที่เก็บข้อมูลแล้ว"
 
 msgctxt "permission_handler_permission_dialog_setting"
 msgid "settings"
@@ -589,11 +589,11 @@ msgstr "ไม่ใช่ตอนนี้"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช้งาน อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณ"
+msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช้งาน ให้สิทธิอนุญาตเข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "ที่เก็บข้อมูลไม่พร้อมใช้งาน อนุญาตให้เก็บรูปถ่ายและไฟล์ในอุปกรณ์ของคุณ"
+msgstr "ที่เก็บข้อมูลไม่พร้อมใช้งาน ให้สิทธิอนุญาตเก็บรูปถ่ายและไฟล์ในอุปกรณ์ของคุณ"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
