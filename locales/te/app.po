@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-17 16:18+0000\n"
+"PO-Revision-Date: 2019-04-17 16:52+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -140,7 +140,7 @@ msgstr "గోప్యతా విధానం"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "జీవనాడి"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
