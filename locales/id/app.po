@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-09 01:11+0000\n"
-"Last-Translator: Fauzan Alfi <fauzanalfi@mozilla.web.id>\n"
+"PO-Revision-Date: 2019-04-17 07:30+0000\n"
+"Last-Translator: Romi Hardiyanto <romihardiyanto@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -1231,7 +1231,7 @@ msgstr "Layanan disediakan oleh"
 #. tab.
 msgctxt "private_tab"
 msgid "Private tab"
-msgstr "Tab privat"
+msgstr "Tab pribadi"
 
 #. This is the title that, when in private browsing mode, will be shown in the
 #. Home page (The page with search box).
@@ -1279,7 +1279,7 @@ msgstr "Untuk meningkatkan pengalaman produk, kami mengumpulkan informasi tentan
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr "Layanan VPN gratis selama 7 hari telah tersedia untuk Anda. Pasang sekarang untuk menjelajah lebih privat dan aman."
+msgstr "Layanan VPN gratis selama 7 hari telah tersedia untuk Anda. Pasang sekarang untuk menjelajah lebih pribadi dan aman."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
