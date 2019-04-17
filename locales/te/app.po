@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-17 16:06+0000\n"
+"PO-Revision-Date: 2019-04-17 16:18+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -239,7 +239,7 @@ msgstr "రాత్రి రీతి ప్రకాశస్థాయి"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "ప్రకాశాన్ని సరిదిద్దుకోడానికి ఎక్కవసేపు నొక్కి ఉంచండి"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -492,7 +492,7 @@ msgstr "ముంగిలి తెరకు చేర్చుకోవడం 
 #. Update tour for pin sites to home page
 msgctxt "second_run_upgrade_page_title"
 msgid "Pin your favorite sites"
-msgstr ""
+msgstr "మీ అభిమాన సైట్లను పిన్ చేసుకోండి"
 
 msgctxt "second_run_upgrade_page_text"
 msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
@@ -979,7 +979,7 @@ msgstr "తొలగించు"
 #. Pin Top site item
 msgctxt "pin_site"
 msgid "Pin site"
-msgstr ""
+msgstr "సైటును పిన్‌చేయి"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1005,11 +1005,11 @@ msgstr "మా ఉత్పాదనను ఎంచుకున్నందు�
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr ""
+msgstr "మమ్మల్ని రేట్ చేయండి"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr ""
+msgstr "మమ్మల్ని రేట్ చేయండి"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
@@ -1225,7 +1225,7 @@ msgstr "కొత్త నవీకరణ"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "సేవను అదించువారు"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
