@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-08 16:35+0800\n"
+"POT-Creation-Date: 2019-04-17 12:03+0800\n"
 "PO-Revision-Date: 2019-03-30 13:50+0000\n"
 "Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language: ml\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -484,6 +484,16 @@ msgctxt "first_run_page6_text"
 msgid ""
 "Just one flip, keep yourself updated with the “%1$s” - a variety of "
 "contents from the most popular topics to the hottest deals. %2$s"
+msgstr ""
+
+#. Title message shown in a privacy on-boarding page. It means to prevent
+#. websites from tracking you.
+msgctxt "first_run_page7_title"
+msgid "Prevent from being tracked"
+msgstr ""
+
+msgctxt "first_run_page7_text"
+msgid "Now you can check how many trackers are blocked in private mode."
 msgstr ""
 
 msgctxt "first_run_upgrade_page_title"
@@ -1332,6 +1342,12 @@ msgid ""
 msgstr ""
 "നിങ്ങളുടെ സ്വകാര്യ ബ്രൌസിങ്ങ്\n"
 "നാള്‍വഴി മായ്ചു."
+
+#. A description is shown below the switch of block trackers when opening
+#. tracker blocked panel
+msgctxt "private_browsing_tracker_blocked_description"
+msgid "Enjoy browsing with extra protection."
+msgstr ""
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
