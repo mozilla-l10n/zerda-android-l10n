@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-17 13:23+0000\n"
-"Last-Translator: Kiran Johns <kiranjohns101@gmail.com>\n"
+"PO-Revision-Date: 2019-04-18 03:48+0000\n"
+"Last-Translator: Balasankar C <balasankarc@autistici.org>\n"
 "Language-Team: ml <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -704,7 +704,7 @@ msgstr "തുറക്കുക"
 #. download status in the panel.
 msgctxt "menu_longpress_downloads"
 msgid "Long press to open Downloads"
-msgstr ""
+msgstr "ഡൗണ്‍ലോഡുകൾ തുറക്കാൻ നീട്ടി അമര്‍ത്തുക"
 
 #. Download status
 #. File download status is paused
@@ -1319,28 +1319,28 @@ msgstr "ഞങ്ങൾക്ക് ഫീഡ്ബാക്ക് നൽകി�
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr ""
+msgstr "വേണം"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
 msgctxt "exp_survey_no"
 msgid "NOPE"
-msgstr ""
+msgstr "വേണ്ട"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "ആധികാരികത ഉറപ്പാക്കേണ്ടതുണ്ട്"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
 msgctxt "http_auth_dialog_user_name"
 msgid "Username"
-msgstr ""
+msgstr "ഉപയോക്തൃനാമം"
 
 #. Text on an input password field in web auth dialog. This hint user to input
 #. password here.
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "രഹസ്യവാക്ക്"
