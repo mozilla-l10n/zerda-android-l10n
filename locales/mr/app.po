@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-08 16:35+0800\n"
-"PO-Revision-Date: 2019-04-17 03:09+0000\n"
-"Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
+"PO-Revision-Date: 2019-04-18 03:23+0000\n"
+"Last-Translator: Aniket Deshpande <djaniketster@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
@@ -494,7 +494,7 @@ msgstr "आपल्या आवडत्या साइट पिन कर�
 
 msgctxt "second_run_upgrade_page_text"
 msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr ""
+msgstr "आता आपण कुठलीही टॉप साइट पिन करू शकता जेणेकरून ती हलणार नाही. आपल्याला सुरूवात करून देण्यासाठी, आम्ही आपल्या वापरासाठी काही टॉप साइट पिन करून ठेवल्या आहेत."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1209,7 +1209,7 @@ msgstr "बातम्या"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "नवीनतम आणि टॉप ट्रेन्डिंग बातम्या"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
@@ -1222,7 +1222,7 @@ msgstr "नवीन अद्यतन"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "याद्वारे सेवा प्रदान केली"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
