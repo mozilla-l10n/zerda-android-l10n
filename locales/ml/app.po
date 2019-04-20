@@ -1276,7 +1276,7 @@ msgstr ""
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "അധിക സുരക്ഷയോടെ ബ്രൌസിങ്ങ് ആസ്വദിക്കു."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
