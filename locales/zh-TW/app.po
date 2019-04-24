@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-22 10:41+0800\n"
-"PO-Revision-Date: 2019-04-24 03:46+0000\n"
+"PO-Revision-Date: 2019-04-24 04:00+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -140,7 +140,7 @@ msgstr "隱私權公告"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "生活情報站"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
@@ -149,7 +149,7 @@ msgstr ""
 #, c-format
 msgctxt "about_link_life_feed"
 msgid "Learn more about %1$s"
-msgstr ""
+msgstr "了解%1$s的更多資訊"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -174,7 +174,7 @@ msgstr "預設搜尋引擎"
 #. This is the title of the dialog for choosing news source
 msgctxt "preference_dialog_title_news_source"
 msgid "News source"
-msgstr ""
+msgstr "新聞來源"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -439,7 +439,7 @@ msgstr "瀏覽不留痕跡，還會預設封鎖一系列常見的網頁追蹤器
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
-msgstr ""
+msgstr "探索新事物"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -449,7 +449,7 @@ msgstr ""
 #, c-format
 msgctxt "first_run_page6_text"
 msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
+msgstr "只要翻一下，就可以透過「%1$s」獲得最新消息 - 各種線上熱門主題與折扣資訊。%2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -1226,7 +1226,7 @@ msgstr "最新消息"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "服務提供者："
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1266,13 +1266,13 @@ msgstr "已清除您的隱私瀏覽紀錄。"
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "追蹤器封鎖數量"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "享受上網時的額外保護。"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
