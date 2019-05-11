@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-22 10:41+0800\n"
-"PO-Revision-Date: 2019-05-08 14:03+0000\n"
+"PO-Revision-Date: 2019-05-11 06:51+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -178,12 +178,12 @@ msgstr "ਖ਼ਬਰਾਂ ਦਾ ਸਰੋਤ"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "ਚਿੱਤਰਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ"
+msgstr "ਚਿੱਤਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "ਬ੍ਰਾਊਜ਼ਿੰਗ ਡੇਟਾ ਨੂੰ ਹਟਾਓ"
+msgstr "ਬਰਾਊਜ਼ਰ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -195,7 +195,7 @@ msgstr "ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਇੱਥੇ ਸੰਭਾਲੋ"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਬਣਾਓ"
+msgstr "ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -203,7 +203,7 @@ msgstr "ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਬਣਾਓ"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "ਸੈਟਿੰਗਾਂ ਬਦਲੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…"
+msgstr "…ਸੈਟਿੰਗਾਂ ਬਦਲੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -211,14 +211,14 @@ msgstr "ਟਰਬੋ ਮੋਡ"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr "ਵਰਤੋਂ ਸਬੰਧੀ ਡੇਟਾ ਭੇਜੋ"
+msgstr "ਵਰਤੋਂ ਸਬੰਧੀ ਡਾਟਾ ਭੇਜੋ"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s ਭਰਪੂਰ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਕਿ ਸਿਰਫ ਉਹੀ ਕੁੱਝ ਇਕੱਠਾ ਕੀਤਾ ਜਾਵੇ ਜੋ ਕਿ %1$s ਨੂੰ ਹਰੇਕ ਲਈ ਮੁਹੱਈਆ ਕਰਾਉਣ ਅਤੇ ਹੋਰ ਸੁਧਾਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੋਵੇ।"
+msgstr "%2$s ਭਰਪੂਰ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਕਿ ਸਿਰਫ ਉਹੀ ਕੁਝ ਇਕੱਠਾ ਕੀਤਾ ਜਾਵੇ, ਜੋ ਕਿ %1$s ਨੂੰ ਹਰੇਕ ਲਈ ਮੁਹੱਈਆ ਕਰਾਉਣ ਅਤੇ ਹੋਰ ਸੁਧਾਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੋਵੇ।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -245,7 +245,7 @@ msgstr "ਚਮਕ ਨੂੰ ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਲੰਮਾ ਦ
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "ਇਨਪੁਟ ਨੂੰ ਹਟਾਓ"
+msgstr "ਇਨਪੁਟ ਸਾਫ਼ ਕਰੋ"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -350,11 +350,11 @@ msgstr "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
-msgstr "ਪਤਾ ਸਮਝ ਵਿੱਚ ਨਹੀਂ ਆਇਆ ਸੀ"
+msgstr "ਸਿਰਨਾਵਾਂ ਸਮਝ ਵਿੱਚ ਨਹੀਂ ਆਇਆ ਸੀ"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "ਇਸ ਪਤੇ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਹਾਨੂੰ ਸ਼ਾਇਦ ਹੋਰ ਸੌਫਟਵੇਅਰ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨਾ ਪੈ ਸਕਦਾ ਹੈ।"
+msgstr "ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਹਾਨੂੰ ਸ਼ਾਇਦ ਹੋਰ ਸਾਫਟਵੇਅਰ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨਾ ਪੈ ਸਕਦਾ ਹੈ।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -364,7 +364,7 @@ msgstr "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr "ਲਿੰਕ ਪਤੇ ਨੂੰ ਕਾਪੀ ਕਰੋ"
+msgstr "ਲਿੰਕ ਸਿਰਨਾਵੇਂ ਨੂੰ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -374,7 +374,7 @@ msgstr "ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕਰੋ"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "ਚਿੱਤਰ ਦਾ ਪਤਾ ਕਾਪੀ ਕਰੋ"
+msgstr "ਚਿੱਤਰ ਦਾ ਸਿਰਨਾਵਾਂ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -403,11 +403,11 @@ msgstr "%1$s ਨੂੰ ਚੁਣਨ ਲਈ ਧੰਨਵਾਦ ਜੀ"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "ਇੱਕ ਗੈਰ-ਮੁਨਾਫ਼ਾ ਸੰਸਥਾ ਦੇ ਤੌਰ ਤੇ ਮੁਫਤ ਅਤੇ ਖੁੱਲ੍ਹੇ-ਡੁੱਲ੍ਹੇ ਵੈੱਬ ਲਈ ਵਚਨਵੱਧ %1$s ਦੇ ਵੱਲੋਂ ਬਣਾਇਆ ਗਿਆ ਬਰਾਊਜ਼ਰ।"
+msgstr "ਇੱਕ ਗੈਰ-ਮੁਨਾਫ਼ਾ ਸੰਸਥਾ ਦੇ ਤੌਰ ਤੇ ਮੁਫਤ ਅਤੇ ਖੁੱਲ੍ਹੇ-ਡੁੱਲ੍ਹੇ ਵੈੱਬ ਲਈ ਵਚਨਬੱਧ %1$s ਦੇ ਵੱਲੋਂ ਬਣਾਇਆ ਗਿਆ ਬਰਾਊਜ਼ਰ।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "ਸਭ ਤੋਂ ਤੇਜ ਬਰਾਊਜ਼ ਕਰੋ"
+msgstr "ਸਭ ਤੋਂ ਤੇਜ਼ ਬਰਾਊਜ਼ ਕਰੋ"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -428,7 +428,7 @@ msgstr "ਪੂਰੇ ਸਫ਼ੇ ਦਾ ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ"
 
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "ਪੂਰੇ ਸਫ਼ੇ ਨੂੰ ਸਕਰੋਲ ਕਰਕੇ ਸਕਰੀਨਸ਼ਾਟ ਲਵੋ। ਇਸ ਨੂੰ ਔਫਲਾਇਨ ਬਗੈਰ ਡੇਟਾ ਵਰਤੇ ਪੜ੍ਹੋ ਜਾਂ ਮੁੜ ਕੇ ਉਸ ਵਰਕੇ ਤੇ ਜਾਣ ਲਈ ਇਸ ਨੂੰ ਛੂਹੋ।"
+msgstr "ਪੂਰੇ ਸਫ਼ੇ ਨੂੰ ਸਕਰੋਲ ਕਰਕੇ ਸਕਰੀਨਸ਼ਾਟ ਲਵੋ। ਇਸ ਨੂੰ ਆਫਲਾਇਨ ਬਗੈਰ ਡੇਟਾ ਵਰਤੇ ਪੜ੍ਹੋ ਜਾਂ ਮੁੜ ਕੇ ਉਸ ਵਰਕੇ ਤੇ ਜਾਣ ਲਈ ਇਸ ਨੂੰ ਛੂਹੋ।"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -485,18 +485,18 @@ msgstr "1. ਇਕੋ ਸਮੇਂ ਵਿੱਚ %s ਖੋਲ੍ਹਣ ਨਾਲ �
 
 msgctxt "first_run_upgrade_page_text1_highlight"
 msgid "multiple tabs"
-msgstr "ਬਹੁਤ ਟੈਬ"
+msgstr "ਕਈ ਟੈਬਾਂ"
 
 #. The %s here is a placeholder for "adding them to the home screen!" (paired
 #. with first_run_upgrade_page_text2_highlight)
 #, c-format, python-format
 msgctxt "first_run_upgrade_page_text2"
 msgid "2. Access your favorite sites quickly by %s"
-msgstr "%s ਦੁਆਰਾ ਛੇਤੀ ਨਾਲ ਆਪਣੀ ਪਸੰਦੀਂਦਾ ਸਾਈਟਾਂ ਤੇ ਪਹੁੰਚੋ"
+msgstr "2. %s ਨਾਲ ਛੇਤੀ ਨਾਲ ਆਪਣੀ ਪਸੰਦੀਂਦਾ ਸਾਈਟਾਂ ਤੇ ਪਹੁੰਚੋ"
 
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
-msgstr "ਉਹਨਾਂ ਨੂੰ ਹੋਮ ਸਕ੍ਰੀਨ ਤੇ ਜੋੜਨਾ!"
+msgstr "ਉਹਨਾਂ ਨੂੰ ਮੁੱਖ ਸਕਰੀਨ 'ਤੇ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ!"
 
 #. Update tour for pin sites to home page
 msgctxt "second_run_upgrade_page_title"
@@ -509,7 +509,7 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "ਠੀਕ ਹੈ, ਇਹ ਮਿਲ ਗਿਆ!"
+msgstr "ਠੀਕ ਹੈ, ਸਮਝ ਗਏ!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -600,11 +600,11 @@ msgstr "ਹੁਣੇ ਨਹੀਂ"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "ਸਥਾਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚਣ ਦੀ ਅਾਗਿਆ ਦਿਓ।"
+msgstr "ਟਿਕਾਣਾ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਆਪਣੇ ਟਿਕਾਣੇ ਲਈ ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।"
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "ਸਟੋਰੇਜ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਆਪਣੀ ਡਿਵਾਈਸ ਤੇ ਫੋਟੋਆਂ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਸਟੋਰ ਕਰਨ ਦੀ ਅਾਗਿਆ ਦਿਓ।"
+msgstr "ਸਟੋਰੇਜ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਆਪਣੀ ਡਿਵਾਈਸ ਤੇ ਫੋਟੋਆਂ ਅਤੇ ਫਾਇਲਾਂ ਨੂੰ ਸੰਭਾਲਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -614,7 +614,9 @@ msgctxt "geolocation_dialog_message"
 msgid ""
 "%1$s \n"
 "wants to access your location."
-msgstr "%1$s ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚਣਾ ਚਾਹੁੰਦਾ ਹੈ।"
+msgstr ""
+"%1$s \n"
+"ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਲਈ ਪਹੁੰਚ ਚਾਹੁੰਦਾ ਹੈ।"
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -645,11 +647,11 @@ msgstr "ਰੱਦ ਕਰੋ"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr "ਬ੍ਰਾਊਜ਼ਿੰਗ ਅਤੀਤ"
+msgstr "ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
-msgstr "ਅਤੀਤ ਲੱਭੋ"
+msgstr "ਖੋਜ ਦਾ ਅਤੀਤ"
 
 msgctxt "setting_dialog_form_history"
 msgid "Form history"
