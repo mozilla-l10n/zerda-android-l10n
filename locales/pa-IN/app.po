@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-04-22 10:41+0800\n"
-"PO-Revision-Date: 2019-05-11 06:51+0000\n"
+"PO-Revision-Date: 2019-05-11 06:58+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -680,11 +680,11 @@ msgstr "ਡਾਊਨਲੋਡ ਪਰੋਟੋਕਾਲ ਸਹਾਇਕ ਨਹੀ
 
 msgctxt "cannot_find_the_file"
 msgid "Cannot find the file"
-msgstr "ਫਾਈਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ"
+msgstr "ਫਾਇਲ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕਦੀ"
 
 msgctxt "cannot_delete_the_file"
 msgid "Cannot delete the file."
-msgstr "ਫਾਈਲ ਹਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+msgstr "ਫਾਇਲ ਹਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 #, c-format
 msgctxt "download_completed"
@@ -698,7 +698,7 @@ msgstr "%1$s ਹਟਾਇਆ ਸੀ"
 
 msgctxt "download_cancel"
 msgid "Download canceled"
-msgstr "ਡਾਊਨਲੋਡ ਰੱਦ ਹੋਈ"
+msgstr "ਡਾਊਨਲੋਡ ਕਰਨਾ ਰੱਦ ਕੀਤਾ"
 
 msgctxt "undo"
 msgid "Undo"
@@ -777,11 +777,11 @@ msgstr "ਹਟਾਓ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "ਸਾਰਾ ਬਰਾਊਜਿੰਗ ਇਤਿਹਾਸ ਸਾਫ ਕਰੋ?"
+msgstr "ਸਾਰਾ ਬਰਾਊਜਿੰਗ ਅਤੀਤ ਸਾਫ ਕਰਨਾ ਹੈ?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
-msgstr "ਸਾਫ ਕਰੋ"
+msgstr "ਸਾਫ਼ ਕਰੋ"
 
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
@@ -791,24 +791,24 @@ msgstr "ਲਿਸਟ ਤੋਂ ਹਟਾਓ"
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr "ਫਾਈਲ ਹਟਾਓ"
+msgstr "ਫਾਇਲ ਹਟਾਓ"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
 #. capture.
 msgctxt "screenshot_saved"
 msgid "Screenshot saved"
-msgstr "ਸਕ੍ਰੀਨਸ਼ਾਟ ਸੰਭਾਲੋ"
+msgstr "ਸਕਰੀਨਸ਼ਾਟ ਸੰਭਾਲਿਆ"
 
 #. Message that is shown for a few seconds after a failed screenshot capture.
 msgctxt "screenshot_failed"
 msgid "Failed to capture screenshot"
-msgstr "ਸਕ੍ਰੀਨਸ਼ਾਟ ਕੈਪਚਰ ਕਰਨ ਤੋਂ ਫੇਲ਼"
+msgstr "ਸਕਰੀਨਸ਼ਾਟ ਕੈਪਚਰ ਕਰਨ ਤੋਂ ਅਸਫ਼ਲ"
 
 #. Message shown when screenshot is being captured.
 msgctxt "screenshot_illustration"
 msgid "Capturing screenshot of entire page…"
-msgstr "ਪੂਰੇ ਸਫ਼ੇ ਦਾ ਸਕ੍ਰੀਨਸ਼ਾਟ ਕੈਪਚਰ ਕਰ ਰਿਹਾ ਹੈ ..."
+msgstr "…ਪੂਰੇ ਸਫ਼ੇ ਦਾ ਸਕਰੀਨਸ਼ਾਟ ਕੈਪਚਰ ਕਰ ਰਿਹਾ ਹੈ"
 
 #. The label of an action that gives users an option to view the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -841,20 +841,20 @@ msgstr "ਸਾਂਝਾ ਕਰੋ"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ। ਫਾਇਲ ਨੂੰ ਅੰਦਰੂਨੀ ਭੰਡਾਰ ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
+msgstr "ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ। ਫਾਇਲ ਨੂੰ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ਼ ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
-msgstr "ਫਾਇਲ SD ਕਾਰਡ ਤੇ ਸੰਭਾਲੀ ਗਈ"
+msgstr "ਫਾਇਲ SD ਕਾਰਡ ’ਤੇ ਸੰਭਾਲੀ ਗਈ"
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "SD ਕਾਰਡ ਤਕਰੀਬਨ ਭਰ ਗਿਆ ਹੈ। ਫਾਈਲ ਨੂੰ ਅੰਦਰੂਨੀ ਭੰਡਾਰ ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
+msgstr "SD ਕਾਰਡ ਤਕਰੀਬਨ ਭਰ ਗਿਆ ਹੈ। ਫਾਈਲ ਨੂੰ ਅੰਦਰੂਨੀ ਭੰਡਾਰ ’ਚ ਸੰਭਾਲਿਆ ਗਿਆ।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr "ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ"
+msgstr "ਕੋਈ ਸਕਰੀਨਸ਼ਾਟ ਨਹੀਂ"
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -891,7 +891,7 @@ msgstr "ਮਿਤੀ: %1$s"
 #, c-format
 msgctxt "screenshot_image_viewer_dialog_info_category"
 msgid "Category: %1$s"
-msgstr "ਸ਼੍ਰੇਣੀ: %1$s"
+msgstr "ਵਰਗ: %1$s"
 
 #. A row displaying an attribute of a screenshot and the attribute name. %1$s
 #. is the attribute and the name of this attribute is Resolution: The height
@@ -932,7 +932,7 @@ msgstr "ਇਹ ਚਿੱਤਰ ਹਟਾਉਣਾ ਹੈ?"
 #. Title for file picker when user trying to upload a file
 msgctxt "file_picker_title"
 msgid "Choose a file to upload"
-msgstr "ਲਦਾਈ ਲਈ ਕੋਈ ਜਿਲਦ (File) ਚੁਣੋ"
+msgstr "ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਫਾਇਲ ਚੁਣੋ"
 
 #. Toast message
 msgctxt "message_enable_turbo_mode"
@@ -957,7 +957,7 @@ msgstr "ਕੈਸ਼ ਸਾਫ ਕਰਨ ਦੇ ਅਸਮਰੱਥ"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "ਸਟੋਰੇਜ ਅਸੁਰੱਖਿਅਤ ਹੈ। ਡਾਊਨਲੋਡ ਰੱਦ ਕੀਤਾ।"
+msgstr "ਸਟੋਰੇਜ਼ ਅਸੁਰੱਖਿਅਤ ਹੈ। ਡਾਊਨਲੋਡ ਰੱਦ ਕੀਤਾ।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -968,15 +968,15 @@ msgstr "%1$s ਕੈਸ਼ ਸਾਫ ਕਰੋ"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr "ਬਰਾਊਜਿੰਗ ਡਾਟਾ ਸਾਫ ਕਰੋ"
+msgstr "ਬਰਾਊਜਿੰਗ ਡਾਟਾ ਸਾਫ ਕੀਤਾ"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
-msgstr "ਸਕਰੀਨਸ਼ਾਂਟ ਹਟਾਇਆ"
+msgstr "ਸਕਰੀਨਸ਼ਾਟ ਹਟਾਇਆ"
 
 msgctxt "message_cannot_find_screenshot"
 msgid "Cannot display the screenshot"
-msgstr "ਡਿਸਪਲੇਅ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਕਰ ਸਕਦਾ"
+msgstr "ਸਕਰੀਨਸ਼ਾਟ ਦਿਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ"
 
 #. Remove Top site item
 msgctxt "remove"
@@ -995,7 +995,7 @@ msgstr "ਉਤਪਾਦ ਅਪਡੇਟ ਨੋਟਿਸ"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "ਤੁਹਾਡੇ ਲਈ ਤੇ ਹਰੇਕ ਲਈ ਫਾਇਰਫਾਕਸ ਰੌਕੇਟ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਵਿੱਚ ਕੁਝ ਬਦਲਾਅ ਕੀਤੇ ਹਨ। ਹੋਰ ਜਾਨਣ ਲਈ ਛੂਹੋ।"
+msgstr "ਤੁਹਾਡੇ ਲਈ ਤੇ ਹਰੇਕ ਲਈ ਫਾਇਰਫਾਕਸ ਰਾਕੇਟ ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਵਿੱਚ ਕੁਝ ਬਦਲਾਅ ਕੀਤੇ ਹਨ। ਹੋਰ ਜਾਨਣ ਲਈ ਛੂਹੋ।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1003,11 +1003,11 @@ msgstr "ਤੁਹਾਡੇ ਲਈ ਤੇ ਹਰੇਕ ਲਈ ਫਾਇਰਫਾ�
 #, c-format
 msgctxt "rate_app_dialog_text_title"
 msgid "Love %1$s?"
-msgstr "%1$s ਚੰਗੀ ਲੱਗੀ?"
+msgstr "%1$s ਚੰਗਾ ਲੱਗਾ?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "ਸਾਡੀ ਉਪਜ ਚੁਣਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਹਾਡੀ ਮੋੜਵੀਂ ਰਾਇ ਸਾਡੇ ਲਈ ਮਾਅਨੇ ਰੱਖਦੀ ਹੈ।"
+msgstr "ਸਾਡੇ ਉਤਪਾਦ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਹਾਡੀ ਮੋੜਵੀਂ ਰਾਇ ਸਾਡੇ ਲਈ ਮਾਅਨੇ ਰੱਖਦੀ ਹੈ।"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -1038,7 +1038,10 @@ msgid ""
 "- Fast and lightweight\n"
 "- Data saving\n"
 "- Powerful screenshots"
-msgstr "ਤੇਜ਼ ਅਤੇ ਹਲਕਾ - ਡਾਟਾ ਸੁਰੱਖਿਅਤ - ਸ਼ਕਤੀਸ਼ਾਲੀ ਸਕ੍ਰੀਨਸ਼ਾਟ"
+msgstr ""
+"- ਤੇਜ਼ ਅਤੇ ਹਲਕਾ\n"
+"- ਡਾਟੇ ਦੀ ਬੱਚਤ\n"
+"- ਵਧੀਆ ਸਕਰੀਨਸ਼ਾਟ"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -1111,7 +1114,7 @@ msgstr "ਇੰਡੋਨੇਸ਼ੀਆ ਲਈ ਆਕਾਰ ਇੱਕ ਵਧੀ�
 #. loaded in the background.
 msgctxt "new_background_tab_hint"
 msgid "New tab opened"
-msgstr "ਨਵਾਂ ਪੱਲ੍ਹਾ ਖੋਲ੍ਹਿਆ ਗਿਆ"
+msgstr "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੀ"
 
 #. The label of an action that gives users an option to switch the newly
 #. loaded background tab to the foreground. This is shown alongside the
@@ -1215,13 +1218,13 @@ msgstr "ਖ਼ਬਰਾਂ"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "ਨਵੀਆਂ ਤੇ ਸਿਖਰਲੀਆਂ ਖ਼ਬਰਾਂ"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
 msgid "New update"
-msgstr "ਨਵਾਂ ਅਪਡੇਟ"
+msgstr "ਨਵਾਂ ਅੱਪਡੇਟ"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1241,7 +1244,7 @@ msgstr "ਪ੍ਰਾਈਵੇਟ ਟੈਬ"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr "ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
@@ -1262,7 +1265,9 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr "ਤੁਹਾਡਾ ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+msgstr ""
+"ਤੁਹਾਡਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜਿੰਗ\n"
+"ਅਤੀਤ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
 
 #. Show how many trackers blocked on tracker blocked panel. In front of
 #. "Trackers blocked", show the number of blocking trackers.
@@ -1274,19 +1279,19 @@ msgstr "ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ"
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "ਵਧੇਰੇ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ ਬਰਾਊਜ਼ਿੰਗ ਦਾ ਆਨੰਦ ਮਾਣੋ।"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr "ਇੱਥੇ ਆਪਣੇ ਸਕ੍ਰੀਨਸ਼ੌਟ ਵੇਖੋ!"
+msgstr "ਆਪਣੇ ਸਕਰੀਨਸ਼ਾਟ ਇੱਥੇ ਵੇਖੋ!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "ਤੁਹਾਡੇ ਉਤਪਾਦ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਤੁਹਾਡੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਦੇ ਵਰਗਾਂ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ।"
+msgstr "ਤੁਹਾਡੇ ਉਤਪਾਦ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ, ਅਸੀਂ ਤੁਹਾਡੇ ਸਕਰੀਨਸ਼ਾਟ ਦੇ ਵਰਗਾਂ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ।"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
@@ -1326,13 +1331,13 @@ msgstr ""
 #, c-format
 msgctxt "exp_survey_thanks"
 msgid "Thank you for giving us feedback %1$s"
-msgstr "ਸਾਨੂੰ ਫੀਡਬੈਕ %1$s ਦੇਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ"
+msgstr "ਸਾਨੂੰ ਮੋੜਵੀਂ ਰਾਇ %1$s ਦੇਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ"
 
 #. Text on survey feedback button. This means the user want to have this
 #. feature.
 msgctxt "exp_survey_yes"
 msgid "YES, PLEASE"
-msgstr "ਜੀ, ਜਰੂਰ"
+msgstr "ਜੀ, ਜ਼ਰੂਰ"
 
 #. Text on survey feedback button. This means the user don't want this
 #. feature. "Nope" is an informal way to express "No".
