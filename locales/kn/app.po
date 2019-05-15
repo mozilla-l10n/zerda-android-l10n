@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-22 10:41+0800\n"
+"POT-Creation-Date: 2019-05-15 16:34+0800\n"
 "PO-Revision-Date: 2019-04-17 01:48+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language: kn\n"
@@ -1300,6 +1300,177 @@ msgctxt "news_update_btn"
 msgid "New update"
 msgstr "ಹೊಸ ಪರಿಷ್ಕರಣೆ"
 
+#. Title of news preferences
+msgctxt "title_news_preferences"
+msgid "News preferences"
+msgstr ""
+
+#. This is the dialog for choosing news language
+msgctxt "news_language_dialog_title"
+msgid "News language"
+msgstr ""
+
+msgctxt "news_language_dialog_option_english"
+msgid "English"
+msgstr ""
+
+msgctxt "news_language_dialog_option_hindi"
+msgid "Hindi"
+msgstr ""
+
+msgctxt "news_language_dialog_option_marathi"
+msgid "Marathi"
+msgstr ""
+
+msgctxt "news_language_dialog_option_kannada"
+msgid "Kannada"
+msgstr ""
+
+msgctxt "news_language_dialog_option_gujarati"
+msgid "Gujarati"
+msgstr ""
+
+msgctxt "news_language_dialog_option_malayalam"
+msgid "Malayalam"
+msgstr ""
+
+msgctxt "news_language_dialog_option_tamil"
+msgid "Tamil"
+msgstr ""
+
+msgctxt "news_language_dialog_option_telugu"
+msgid "Telugu"
+msgstr ""
+
+msgctxt "news_language_dialog_option_urdu"
+msgid "Urdu"
+msgstr ""
+
+msgctxt "news_language_dialog_option_nepali"
+msgid "Nepali"
+msgstr ""
+
+msgctxt "news_language_dialog_option_asamiya"
+msgid "Asamiya"
+msgstr ""
+
+msgctxt "news_language_dialog_option_punjabi"
+msgid "Punjabi"
+msgstr ""
+
+msgctxt "news_language_dialog_option_bengali"
+msgid "Bengali"
+msgstr ""
+
+#. This is the panel for editing show or hide news categories
+msgctxt "news_category_title"
+msgid "Interests"
+msgstr ""
+
+msgctxt "news_category_option_top_news"
+msgid "Top-news"
+msgstr ""
+
+msgctxt "news_category_option_india"
+msgid "India"
+msgstr ""
+
+msgctxt "news_category_option_world"
+msgid "World"
+msgstr ""
+
+msgctxt "news_category_option_technology"
+msgid "Technology"
+msgstr ""
+
+msgctxt "news_category_option_education"
+msgid "Education"
+msgstr ""
+
+msgctxt "news_category_option_politics"
+msgid "Politics"
+msgstr ""
+
+msgctxt "news_category_option_career"
+msgid "Career"
+msgstr ""
+
+msgctxt "news_category_option_cricket"
+msgid "Cricket"
+msgstr ""
+
+msgctxt "news_category_option_sports"
+msgid "Sports"
+msgstr ""
+
+msgctxt "news_category_option_entertainment"
+msgid "Entertainment"
+msgstr ""
+
+msgctxt "news_category_option_business"
+msgid "Business"
+msgstr ""
+
+msgctxt "news_category_option_health"
+msgid "Health"
+msgstr ""
+
+msgctxt "news_category_option_movie_reviews"
+msgid "Movie-reviews"
+msgstr ""
+
+msgctxt "news_category_option_automobile"
+msgid "Automobile"
+msgstr ""
+
+msgctxt "news_category_option_regional"
+msgid "Regional"
+msgstr ""
+
+msgctxt "news_category_option_travel"
+msgid "Travel"
+msgstr ""
+
+msgctxt "news_category_option_lifestyle"
+msgid "Lifestyle"
+msgstr ""
+
+msgctxt "news_category_option_food"
+msgid "Food"
+msgstr ""
+
+msgctxt "news_category_option_video"
+msgid "Video"
+msgstr ""
+
+msgctxt "news_category_option_city"
+msgid "City"
+msgstr ""
+
+msgctxt "news_category_option_events"
+msgid "Events"
+msgstr ""
+
+msgctxt "news_category_option_religion"
+msgid "Religion"
+msgstr ""
+
+msgctxt "news_category_option_crime"
+msgid "Crime"
+msgstr ""
+
+msgctxt "news_category_option_astrology"
+msgid "Astrology"
+msgstr ""
+
+msgctxt "news_category_option_science"
+msgid "Science"
+msgstr ""
+
+msgctxt "news_category_option_jokes"
+msgid "Jokes"
+msgstr ""
+
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
 #. partner.
@@ -1353,6 +1524,40 @@ msgstr ""
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
+msgstr ""
+
+#. Message to prompt users to add private mode shortcut to their device's
+#. home.
+msgctxt "private_browsing_dialog_add_shortcut_title"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_no"
+msgid "No, thanks"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_yes"
+msgid "Yes"
+msgstr ""
+
+#. Message shown after user denied add private mode shortcut's prompt.
+msgctxt "private_browsing_dialog_add_shortcut_no_toast"
+msgid "You can add private mode shortcut later in settings."
+msgstr ""
+
+#. Name of Private mode shortcut. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Lite)
+#, c-format
+msgctxt "private_browsing_shortcut_name"
+msgid "%1$s - Private browsing"
+msgstr ""
+
+#. Item in Preferences that users can add private mode shortcut to their
+#. device' home.
+msgctxt "preference_add_private_browsing_shortcut"
+msgid "Add private mode shortcut to Home screen"
 msgstr ""
 
 #. Message shown when the user is using screenshot for the first time. Guide
