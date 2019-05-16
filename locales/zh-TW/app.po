@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-16 02:51+0000\n"
+"PO-Revision-Date: 2019-05-16 02:54+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1269,128 +1269,128 @@ msgstr "烏爾都語"
 
 msgctxt "news_language_dialog_option_nepali"
 msgid "Nepali"
-msgstr ""
+msgstr "尼泊爾語"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "阿薩密語"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "旁遮普語"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "孟加拉語"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
 msgid "Interests"
-msgstr ""
+msgstr "興趣"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
-msgstr ""
+msgstr "熱門新聞"
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "印度"
 
 msgctxt "news_category_option_world"
 msgid "World"
-msgstr ""
+msgstr "世界"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
-msgstr ""
+msgstr "科技"
 
 msgctxt "news_category_option_education"
 msgid "Education"
-msgstr ""
+msgstr "教育"
 
 msgctxt "news_category_option_politics"
 msgid "Politics"
-msgstr ""
+msgstr "政治"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "職涯"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "板球"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
-msgstr ""
+msgstr "體育"
 
 msgctxt "news_category_option_entertainment"
 msgid "Entertainment"
-msgstr ""
+msgstr "娛樂"
 
 msgctxt "news_category_option_business"
 msgid "Business"
-msgstr ""
+msgstr "商業"
 
 msgctxt "news_category_option_health"
 msgid "Health"
-msgstr ""
+msgstr "健康"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "影評"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
-msgstr ""
+msgstr "汽車"
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "地區新聞"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
-msgstr ""
+msgstr "旅遊"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "生活風格"
 
 msgctxt "news_category_option_food"
 msgid "Food"
-msgstr ""
+msgstr "美食"
 
 msgctxt "news_category_option_video"
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 msgctxt "news_category_option_city"
 msgid "City"
-msgstr ""
+msgstr "城市新聞"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "事件活動"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "宗教"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
-msgstr ""
+msgstr "犯罪"
 
 msgctxt "news_category_option_astrology"
 msgid "Astrology"
-msgstr ""
+msgstr "天文星象"
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "科學"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "笑話"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
