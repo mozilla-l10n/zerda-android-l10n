@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-16 17:51+0000\n"
+"PO-Revision-Date: 2019-05-16 18:02+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1273,15 +1273,15 @@ msgstr "เนปาล"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "อัสสัม"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "ปัญจาบี"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "เบงกาลี"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
@@ -1314,11 +1314,11 @@ msgstr "การเมือง"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "อาชีพ"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "คริกเก็ต"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
@@ -1338,15 +1338,15 @@ msgstr "สุขภาพ"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "บทวิจารณ์ภาพยนตร์"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
-msgstr ""
+msgstr "รถยนต์"
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "ภูมิภาค"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
@@ -1354,7 +1354,7 @@ msgstr "การท่องเที่ยว"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "การดำเนินชีวิต"
 
 msgctxt "news_category_option_food"
 msgid "Food"
@@ -1390,7 +1390,7 @@ msgstr "วิทยาศาสตร์"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "เรื่องตลก"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
