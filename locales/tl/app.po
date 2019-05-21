@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-16 23:42+0000\n"
+"PO-Revision-Date: 2019-05-21 11:59+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -1358,11 +1358,11 @@ msgstr "Pang-Rehiyon"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
-msgstr ""
+msgstr "Paglalakbay"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Lifestyle"
 
 msgctxt "news_category_option_food"
 msgid "Food"
@@ -1378,7 +1378,7 @@ msgstr "Siyudad"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "Mga Event"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
@@ -1398,14 +1398,14 @@ msgstr "Siyensiya"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "Mga Joke"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "Serbisyo ng"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
