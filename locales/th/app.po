@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-16 18:02+0000\n"
+"PO-Revision-Date: 2019-05-22 17:16+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -183,7 +183,7 @@ msgstr "ปิดกั้นภาพ"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "ล้างข้อมูลการท่องเว็บ"
+msgstr "ล้างข้อมูลการเรียกดู"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -407,7 +407,7 @@ msgstr "เบราว์เซอร์ที่สร้างขึ้นโ
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "ท่องเว็บได้เร็วขึ้นกว่าที่เคย"
+msgstr "เรียกดูได้เร็วขึ้นกว่าที่เคย"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -435,7 +435,7 @@ msgstr "ความเป็นส่วนตัวระดับถัดไ
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "ท่องเว็บโดยไม่มีร่องรอย และปิดกั้นตัวติดตามเว็บทั่วไปจำนวนมากโดยค่าเริ่มต้น ทำให้มั่นใจในความปลอดภัยของข้อมูลที่เป็นความลับของคุณ"
+msgstr "เรียกดูโดยไม่มีร่องรอย และปิดกั้นตัวติดตามเว็บทั่วไปจำนวนมากโดยค่าเริ่มต้น ทำให้มั่นใจในความปลอดภัยของข้อมูลที่เป็นความลับของคุณ"
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
@@ -644,7 +644,7 @@ msgstr "ยกเลิก"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
-msgstr "ประวัติการท่องเว็บ"
+msgstr "ประวัติการเรียกดู"
 
 msgctxt "setting_dialog_search_history"
 msgid "Search history"
@@ -754,11 +754,11 @@ msgstr "ที่เก็บข้อมูลภายใน"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "ล้างประวัติการท่องเว็บ"
+msgstr "ล้างประวัติการเรียกดู"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "ไม่มีประวัติการท่องเว็บ"
+msgstr "ไม่มีประวัติการเรียกดู"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -774,7 +774,7 @@ msgstr "ลบ"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "ล้างประวัติการท่องเว็บทั้งหมด?"
+msgstr "ล้างประวัติการเรียกดูทั้งหมด?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
@@ -965,7 +965,7 @@ msgstr "ล้างแคชแล้ว %1$s"
 
 msgctxt "message_cleared_browsing_data"
 msgid "Browsing data cleared"
-msgstr "ล้างข้อมูลการท่องเว็บแล้ว"
+msgstr "ล้างข้อมูลการเรียกดูแล้ว"
 
 msgctxt "message_deleted_screenshot"
 msgid "Screenshot deleted"
@@ -1410,14 +1410,14 @@ msgstr "แท็บส่วนตัว"
 #. Home page (The page with search box).
 msgctxt "private_browsing_title"
 msgid "Private Browsing"
-msgstr "การท่องเว็บแบบส่วนตัว"
+msgstr "การเรียกดูแบบส่วนตัว"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the message of the notification notifying the user that tapping the
 #. notification will erase the private browsing history.
 msgctxt "private_browsing_erase_message"
 msgid "Erase private browsing history"
-msgstr "ล้างประวัติการท่องเว็บแบบส่วนตัว"
+msgstr "ล้างประวัติการเรียกดูแบบส่วนตัว"
 
 #. A notification will be shown when entering private browsing mode, this is
 #. the label of the action that when tapped, will open Rocket.
@@ -1431,7 +1431,7 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
-msgstr "ล้างประวัติการท่องเว็บแบบส่วนตัวของคุณแล้ว"
+msgstr "ล้างประวัติการเรียกดูแบบส่วนตัวของคุณแล้ว"
 
 #. Show how many trackers blocked on tracker blocked panel. In front of
 #. "Trackers blocked", show the number of blocking trackers.
@@ -1443,7 +1443,7 @@ msgstr "ตัวติดตามที่ปิดกั้น"
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr "เพลิดเพลินกับการท่องเว็บด้วยการป้องกันพิเศษ"
+msgstr "เพลิดเพลินกับการเรียกดูด้วยการป้องกันพิเศษ"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
@@ -1462,7 +1462,7 @@ msgstr "เพื่อปรับปรุงประสบการณ์ผ
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr "บริการ VPN ฟรี 7 วันพร้อมแล้วสำหรับคุณ ติดตั้งตอนนี้เพื่อท่องเว็บอย่างเป็นส่วนตัวและปลอดภัยมากขึ้น"
+msgstr "บริการ VPN ฟรี 7 วันพร้อมแล้วสำหรับคุณ ติดตั้งตอนนี้เพื่อเรียกดูอย่างเป็นส่วนตัวและปลอดภัยมากขึ้น"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
@@ -1486,7 +1486,7 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
-"เราวางแผนที่จะผนวกรวม “บริการ VPN” เพื่อให้คุณมีอิสรภาพมากขึ้นและความเป็นส่วนตัวเพิ่มขึ้นเมื่อท่องเว็บ\n"
+"เราวางแผนที่จะผนวกรวม “บริการ VPN” เพื่อให้คุณมีอิสรภาพมากขึ้นและความเป็นส่วนตัวเพิ่มขึ้นเมื่อเรียกดู\n"
 "\n"
 " สนใจไหม?"
 
