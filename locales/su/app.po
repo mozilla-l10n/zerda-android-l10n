@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-16 03:52+0000\n"
-"Last-Translator: kumincir <ia.adnan@gmail.com>\n"
+"PO-Revision-Date: 2019-05-22 11:03+0000\n"
+"Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
 "Language: su\n"
@@ -1274,23 +1274,23 @@ msgstr "Telugu"
 
 msgctxt "news_language_dialog_option_urdu"
 msgid "Urdu"
-msgstr ""
+msgstr "Urdu"
 
 msgctxt "news_language_dialog_option_nepali"
 msgid "Nepali"
-msgstr ""
+msgstr "Népali"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "Asamiya"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "Punjabi"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
@@ -1303,7 +1303,7 @@ msgstr "Sabiwir hiji"
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "India"
 
 msgctxt "news_category_option_world"
 msgid "World"
@@ -1347,15 +1347,15 @@ msgstr "Kaséhatan"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "Ulasan pilem"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
-msgstr ""
+msgstr "Mobil"
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "Régional"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
@@ -1363,7 +1363,7 @@ msgstr "Pelesiran"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Gaya hirup"
 
 msgctxt "news_category_option_food"
 msgid "Food"
@@ -1371,7 +1371,7 @@ msgstr "Kadaharan"
 
 msgctxt "news_category_option_video"
 msgid "Video"
-msgstr ""
+msgstr "Vidio"
 
 msgctxt "news_category_option_city"
 msgid "City"
@@ -1379,11 +1379,11 @@ msgstr "Kota"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "Acara"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "Ageman"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
@@ -1395,7 +1395,7 @@ msgstr "Astrologi"
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "Élmu pangaweruh"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
