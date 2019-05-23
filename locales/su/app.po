@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-22 11:03+0000\n"
+"PO-Revision-Date: 2019-05-23 12:18+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -134,7 +134,7 @@ msgstr "Hak Anjeun / Lisénsi"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr "Iber Salindungan"
+msgstr "Wawar Privasi"
 
 #. Life Feed is an information panel covering content that might help our
 #. customers' life. It covers from the most popular topics to the hottest
@@ -993,7 +993,7 @@ msgstr "Pin loka"
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
-msgstr "Iber Apdétan Prodak"
+msgstr "Wawar Apdétan Prodak"
 
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
@@ -1454,7 +1454,7 @@ msgstr "Palacak dipeungpeuk"
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr "Wilujeng ngalanglang kalawan panyalindungan leuwih."
+msgstr "Wilujeng ngalanglang kalawan paminingan leuwih."
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
