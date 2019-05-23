@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-14 18:07+0800\n"
-"PO-Revision-Date: 2019-05-23 20:10+0000\n"
+"PO-Revision-Date: 2019-05-23 20:25+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1296,55 +1296,55 @@ msgstr "रूचियाँ"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
-msgstr ""
+msgstr "मुख्य-"
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "भारत"
 
 msgctxt "news_category_option_world"
 msgid "World"
-msgstr ""
+msgstr "विश्व"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
-msgstr ""
+msgstr "तकनीक"
 
 msgctxt "news_category_option_education"
 msgid "Education"
-msgstr ""
+msgstr "शिक्षा"
 
 msgctxt "news_category_option_politics"
 msgid "Politics"
-msgstr ""
+msgstr "राजनीति"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "रोज़गार"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "क्रिकेट"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
-msgstr ""
+msgstr "खेल"
 
 msgctxt "news_category_option_entertainment"
 msgid "Entertainment"
-msgstr ""
+msgstr "मनोरंजन"
 
 msgctxt "news_category_option_business"
 msgid "Business"
-msgstr ""
+msgstr "व्यापार"
 
 msgctxt "news_category_option_health"
 msgid "Health"
-msgstr ""
+msgstr "सेहत"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "फिल्म-"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
@@ -1352,51 +1352,51 @@ msgstr ""
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "क्षेत्रीय"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
-msgstr ""
+msgstr "यात्रा"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "लाइफस्टाइल"
 
 msgctxt "news_category_option_food"
 msgid "Food"
-msgstr ""
+msgstr "खाना"
 
 msgctxt "news_category_option_video"
 msgid "Video"
-msgstr ""
+msgstr "वीडियो"
 
 msgctxt "news_category_option_city"
 msgid "City"
-msgstr ""
+msgstr "शहर"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "कार्यक्रम"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "धार्मिक"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
-msgstr ""
+msgstr "अपराध"
 
 msgctxt "news_category_option_astrology"
 msgid "Astrology"
-msgstr ""
+msgstr "ज्योतिष"
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "विज्ञान"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "चुटकुले"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
