@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-14 18:07+0800\n"
+"POT-Creation-Date: 2019-05-29 11:43+0800\n"
 "PO-Revision-Date: 2018-11-01 08:43+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language: bn_IN\n"
@@ -1521,6 +1521,40 @@ msgstr ""
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
+msgstr ""
+
+#. Message to prompt users to add private mode shortcut to their device's
+#. home.
+msgctxt "private_browsing_dialog_add_shortcut_title"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_no"
+msgid "No, thanks"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_yes"
+msgid "Yes"
+msgstr ""
+
+#. Message shown after user denied add private mode shortcut's prompt.
+msgctxt "private_browsing_dialog_add_shortcut_no_toast"
+msgid "You can add private mode shortcut later in settings."
+msgstr ""
+
+#. Name of Private mode shortcut. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Lite)
+#, c-format
+msgctxt "private_browsing_shortcut_name"
+msgid "%1$s - Private browsing"
+msgstr ""
+
+#. Item in Preferences that users can add private mode shortcut to their
+#. device' home.
+msgctxt "preference_add_private_browsing_shortcut"
+msgid "Add private mode shortcut to Home screen"
 msgstr ""
 
 #. Message shown when the user is using screenshot for the first time. Guide
