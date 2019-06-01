@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-01 00:18+0000\n"
+"PO-Revision-Date: 2019-06-01 10:52+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1453,7 +1453,7 @@ msgstr "享受额外保护的浏览。"
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr ""
+msgstr "一键进入隐私模式！要在主屏幕加入隐私模式的快捷方式吗？"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1466,7 +1466,7 @@ msgstr "好的"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
+msgstr "也可稍后到设置页中添加。"
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1479,7 +1479,7 @@ msgstr "%1$s - 隐私浏览"
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "将隐私模式快捷方式添加到主屏幕"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
