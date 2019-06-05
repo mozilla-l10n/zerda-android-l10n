@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-05 03:11+0000\n"
+"PO-Revision-Date: 2019-06-05 03:15+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -1447,23 +1447,23 @@ msgstr ""
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ಜಾಡುಹಿಡಿಯುವವರನ್ನು ನಿರ್ಭಂದಿಸಲಾಗಿದೆ"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "ಹೆಚ್ಚುವರಿ ರಕ್ಷಣೆಯೊಂದಿಗೆ ಬ್ರೌಸಿಂಗ್ ಆನಂದಿಸಿ."
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr ""
+msgstr "ಒಂದು ಕ್ಲಿಕ್ನಲ್ಲಿ ಖಾಸಗಿ ಸ್ಥಿತಿ ಅನ್ನು ಪ್ರವೇಶಿಸಿ! ಮುಖಪುಟಕ್ಕೆ ಖಾಸಗಿ ಸ್ಥಿತಿ ಶಾರ್ಟ್ಕಟ್ ಸೇರಿಸಲು ಬಯಸುವಿರಾ?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr "ಇಲ್ಲ, ಪರವಾಗಿಲ್ಲ"
+msgstr "ಬೇಡ, ಧನ್ಯವಾದಗಳು"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
@@ -1472,20 +1472,20 @@ msgstr "ಹೌದು"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
+msgstr "ನಂತರ ನೀವು ಸಿದ್ಧತೆಗಳಲ್ಲಿ ಖಾಸಗಿ ಸ್ಥಿತಿ ಶಾರ್ಟ್ಕಟ್ ಅನ್ನು ಸೇರಿಸಬಹುದು."
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - ಖಾಸಗಿ ವೀಕ್ಷಣೆ"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "ಮುಖಪುಟದ ಪರದೆಗೆ ಖಾಸಗಿ ಸ್ಥಿತಿ ಶಾರ್ಟ್ಕಟ್ ಸೇರಿಸಿ"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
