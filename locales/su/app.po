@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-01 09:27+0000\n"
+"PO-Revision-Date: 2019-06-06 12:21+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -583,7 +583,7 @@ msgstr "Kaluar"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr "Idin perenah ditolak."
+msgstr "Idin lokasi ditolak."
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
@@ -600,7 +600,7 @@ msgstr "Moal waka"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "Perenah teu sayaga. Idinan pikeun ngaksés perenah anjeun."
+msgstr "Lokasi teu sayaga. Idinan pikeun ngaksés lokasi anjeun."
 
 msgctxt "permission_toast_storage"
 msgid "Storage not available. Give permission to store photos and files on your device."
@@ -616,7 +616,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s\n"
-"hayang nénjo perenah anjeun."
+"hayang nénjo lokasi anjeun."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -1197,7 +1197,7 @@ msgstr "Wasta"
 #. The label of the textbox where user can type the url of the bookmark
 msgctxt "bookmark_edit_location"
 msgid "Location"
-msgstr "Perenah"
+msgstr "Lokasi"
 
 #. Message shown for a few seconds after bookmark edit is saved.
 msgctxt "bookmark_edit_success"
