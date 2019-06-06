@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-06 12:21+0000\n"
+"PO-Revision-Date: 2019-06-06 16:46+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -718,7 +718,7 @@ msgstr "Pencét lila pikeun muka Undeuran"
 #. File download status is paused
 msgctxt "pause"
 msgid "paused"
-msgstr "hanca"
+msgstr "dihancaan"
 
 #. File download status is pending
 msgctxt "pending"
