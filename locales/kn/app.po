@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-10 08:03+0000\n"
+"PO-Revision-Date: 2019-06-10 10:23+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -374,7 +374,7 @@ msgstr "ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "ಚಿತ್ರದ ವಿಳಾಸವನ್ನು ನಕಲಿಸಿ"
+msgstr "ಚಿತ್ರದ ವಿಳಾಸವನ್ನು ನಕಲಿಸು"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -536,7 +536,7 @@ msgstr "ಪುಟದಲ್ಲಿ ಹುಡುಕು"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
-msgstr "ಕ್ಯಾಶೆ ತೆರವುಗೊಳಿಸಿ"
+msgstr "ಕ್ಯಾಶೆ ತೆರವುಗೊಳಿಸು"
 
 msgctxt "label_menu_history"
 msgid "History"
