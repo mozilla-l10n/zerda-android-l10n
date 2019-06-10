@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-05-29 11:43+0800\n"
-"PO-Revision-Date: 2019-06-05 03:15+0000\n"
+"PO-Revision-Date: 2019-06-10 08:03+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "Language: kn\n"
@@ -164,7 +164,7 @@ msgstr "ಭಾಷೆ"
 #. when Rocket          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "ವ್ಯವಸ್ಥೆಯ ಪೂರ್ವನಿಯೋಜಿತ"
+msgstr "ಪೂರ್ವನಿಯೋಜಿತವಾದದ್ದು"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -187,7 +187,7 @@ msgstr "ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ಅಳಿ�
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "ಇಲ್ಲಿಗೆ ಡೌನ್ಲೋಡುಗಳನ್ನು ಉಳಿಸು"
+msgstr "ಡೌನ್ಲೋಡುಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -615,7 +615,7 @@ msgid ""
 "wants to access your location."
 msgstr ""
 "%1$s\n"
-"ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪ್ರವೇಶಿಸಬಯಸುತ್ತಿದೆ."
+"ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪ್ರವೇಶಿಸ ಬಯಸುತ್ತಿದೆ."
 
 #. A checkbox option in the dialog which ask users to give geolocation
 #. permission to the site.         Users' decision will be remembered and
@@ -776,7 +776,7 @@ msgstr "ಅಳಿಸು"
 
 msgctxt "browsing_history_dialog_confirm_clear_message"
 msgid "Clear all browsing history?"
-msgstr "ಎಲ್ಲಾ ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಬೇಕೆ?"
+msgstr "ವೀಕ್ಷಣೆಯ ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಬೇಕೆ?"
 
 msgctxt "browsing_history_dialog_btn_clear"
 msgid "Clear"
