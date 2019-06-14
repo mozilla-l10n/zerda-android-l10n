@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-29 11:43+0800\n"
+"POT-Creation-Date: 2019-06-14 14:04+0800\n"
 "PO-Revision-Date: 2018-08-08 01:02+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: mai\n"
@@ -1533,6 +1533,22 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_title_v2"
+msgid "Add private mode shortcut"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_content_v2"
+msgid "Access private mode quickly from your homescreen."
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_no_v2"
+msgid "NO, THANKS"
+msgstr ""
+
+msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
+msgid "YES, ADD IT NOW!"
 msgstr ""
 
 #. Message shown after user denied add private mode shortcut's prompt.
