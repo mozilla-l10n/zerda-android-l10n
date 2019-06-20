@@ -1487,10 +1487,14 @@ msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
 msgstr ""
 
+#. Message to prompt users to add private mode shortcut to their device's
+#. home.
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
 msgstr ""
 
+#. Message to prompt users to add private mode shortcut to their device's
+#. home.
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
 msgstr ""
