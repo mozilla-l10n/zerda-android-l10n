@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-06-14 14:04+0800\n"
-"PO-Revision-Date: 2019-06-24 06:22+0000\n"
+"PO-Revision-Date: 2019-06-24 06:23+0000\n"
 "Last-Translator: kumincir <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1480,11 +1480,11 @@ msgstr "Gancang asup ka mode nyamuni ti layar tepas."
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "MOAL, NUHUN"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "ENYA, PASANG AYEUNA!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
