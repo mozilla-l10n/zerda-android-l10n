@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-14 14:04+0800\n"
+"POT-Creation-Date: 2019-06-27 15:50+0800\n"
 "PO-Revision-Date: 2019-05-11 06:58+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_Guru_IN\n"
@@ -1030,6 +1030,25 @@ msgstr "ਹਟਾਓ"
 msgctxt "pin_site"
 msgid "Pin site"
 msgstr "ਸਾਈਟ ਟੰਗੋ"
+
+#. In-app message to update to latest build.
+#. Show a toast message when start downloading the new apk from google play.
+msgctxt "update_to_latest_app_toast"
+msgid "Downloading latest build…"
+msgstr ""
+
+#. Show snack bar or notification so users can tap to update the apk
+msgctxt "update_to_latest_app_notification"
+msgid "Latest build has been downloaded. Tap to update."
+msgstr ""
+
+msgctxt "update_to_latest_app_snack_bar_message"
+msgid "Latest build has been downloaded. Tap to update."
+msgstr ""
+
+msgctxt "update_to_latest_app_snack_bar_update"
+msgid "UPDATE"
+msgstr ""
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
