@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-14 14:04+0800\n"
+"POT-Creation-Date: 2019-06-27 15:50+0800\n"
 "PO-Revision-Date: 2019-06-04 03:43+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language: ml\n"
@@ -1039,6 +1039,25 @@ msgstr "നീക്കം ചെയ്യൂ"
 msgctxt "pin_site"
 msgid "Pin site"
 msgstr "സൈറ്റ് പിൻ ചെയ്യുക"
+
+#. In-app message to update to latest build.
+#. Show a toast message when start downloading the new apk from google play.
+msgctxt "update_to_latest_app_toast"
+msgid "Downloading latest build…"
+msgstr ""
+
+#. Show snack bar or notification so users can tap to update the apk
+msgctxt "update_to_latest_app_notification"
+msgid "Latest build has been downloaded. Tap to update."
+msgstr ""
+
+msgctxt "update_to_latest_app_snack_bar_message"
+msgid "Latest build has been downloaded. Tap to update."
+msgstr ""
+
+msgctxt "update_to_latest_app_snack_bar_update"
+msgid "UPDATE"
+msgstr ""
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
