@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-14 14:04+0800\n"
+"POT-Creation-Date: 2019-06-28 13:48+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1004,6 +1004,27 @@ msgctxt "pin_site"
 msgid "Pin site"
 msgstr ""
 
+#. In-app message to update to latest build.
+#. Show a toast message when start downloading the new apk from google play.
+msgctxt "update_to_latest_app_toast"
+msgid "Downloading latest build…"
+msgstr ""
+
+#. Show notification so users can tap to update the apk
+msgctxt "update_to_latest_app_notification"
+msgid "Latest build has been downloaded. Tap to update."
+msgstr ""
+
+#. Show snack bar so users can tap to update the apk
+msgctxt "update_to_latest_app_snack_bar_message"
+msgid "Latest build downloaded"
+msgstr ""
+
+#. Show snack bar so users can tap to update the apk
+msgctxt "update_to_latest_app_snack_bar_update"
+msgid "UPDATE"
+msgstr ""
+
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
@@ -1487,14 +1508,10 @@ msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
 msgstr ""
 
-#. Message to prompt users to add private mode shortcut to their device's
-#. home.
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
 msgstr ""
 
-#. Message to prompt users to add private mode shortcut to their device's
-#. home.
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
 msgstr ""
