@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-27 15:50+0800\n"
+"POT-Creation-Date: 2019-06-28 13:48+0800\n"
 "PO-Revision-Date: 2019-05-21 11:59+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language: fil_PH\n"
@@ -1052,15 +1052,17 @@ msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
 msgstr ""
 
-#. Show snack bar or notification so users can tap to update the apk
+#. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
 msgid "Latest build has been downloaded. Tap to update."
 msgstr ""
 
+#. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
-msgid "Latest build has been downloaded. Tap to update."
+msgid "Latest build downloaded"
 msgstr ""
 
+#. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
 msgstr ""
