@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:48+0800\n"
+"POT-Creation-Date: 2019-07-03 10:28+0800\n"
 "PO-Revision-Date: 2019-04-12 13:57+0000\n"
 "Last-Translator: Drashti Pandya <drashtipandya37@gmail.com>\n"
 "Language: gu_IN\n"
@@ -1685,4 +1685,10 @@ msgstr "વપરાશકર્તા નામ"
 msgctxt "http_auth_dialog_password"
 msgid "Password"
 msgstr "પાસવર્ડ"
+
+#. Name of low priority notification channel, this will be shown on the app
+#. info page in the system setting
+msgctxt "low_priority_notification_channel"
+msgid "Hidden notifications"
+msgstr ""
 
