@@ -2,23 +2,24 @@
 # Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-06-28 13:48+0800\n"
-"PO-Revision-Date: 2019-06-26 07:28+0000\n"
-"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
-"Language: ta\n"
+"PO-Revision-Date: 2019-07-01 12:13+0000\n"
+"Last-Translator: Khaleel Jageer <jskcse4@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -116,12 +117,8 @@ msgstr "பயர்பாக்சு லைட் உலாவியில் 
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
-"to foster a healthy, open internet."
-msgstr ""
-"%1$s , %2$s நிறுவனத்தால் தயாரிக்கப்பட்ட ஒரு விரைவான இலேசான உலாவி. "
-"ஆரோக்கியமான திறந்த இணையத்தை கிடைக்கச் செய்வதே எங்களின் நோக்கம்."
+msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgstr "%1$s , %2$s நிறுவனத்தால் தயாரிக்கப்பட்ட ஒரு விரைவான இலேசான உலாவி. ஆரோக்கியமான திறந்த இணையத்தை கிடைக்கச் செய்வதே எங்களின் நோக்கம்."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -221,12 +218,8 @@ msgstr "பயனளவு தரவை அனுப்பு"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"%2$s strives to collect only what we need to provide and improve %1$s for"
-" everyone."
-msgstr ""
-"அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க "
-"%2$s உறுதிபூண்டுள்ளது."
+msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க %2$s உறுதிபூண்டுள்ளது."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -336,12 +329,8 @@ msgstr "தொடுப்பை திறக்கவல்ல ஒரு செ
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கக்கூடியதல்ல. "
-"நீங்கள் %1$s உலாவியை விடுத்து %2$s சென்று ஒரு செயலியைத் தேடலாம்."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கக்கூடியதல்ல. நீங்கள் %1$s உலாவியை விடுத்து %2$s சென்று ஒரு செயலியைத் தேடலாம்."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -415,59 +404,39 @@ msgstr "%1$s உலாவியைத் தேர்ந்தெடுத்த
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, %1$s "
-"நிறுவனத்தால் உருவாக்கப்பட்ட உலாவி."
+msgstr "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, %1$s நிறுவனத்தால் உருவாக்கப்பட்ட உலாவி."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "முன்பை விட வேகமாக உலாவுங்கள்"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"தடமறி விளம்பரங்களை தடுத்து சுழலி முறைமையை பயன்படுத்தி உலாவல் வேகத்தை "
-"முடுக்குங்கள். வலைத் தளங்கள் தடுமாறினால் பட்டியலில் உள்ள சுழலி முறைமை "
-"சாவியைத் தட்டுங்கள்."
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "தடமறி விளம்பரங்களை தடுத்து சுழலி முறைமையை பயன்படுத்தி உலாவல் வேகத்தை முடுக்குங்கள். வலைத் தளங்கள் தடுமாறினால் பட்டியலில் உள்ள சுழலி முறைமை சாவியைத் தட்டுங்கள்."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "தரவு சிக்கனம் = பண சிக்கனம்"
 
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"பின்தொடரல் விளம்பரங்களைத் தடுத்து தரவைச் சேமியுங்கள். படங்களைத் தடுப்பதன்"
-" மூலம் கூடுதலாகச் சேமிக்கலாம்."
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "பின்தொடரல் விளம்பரங்களைத் தடுத்து தரவைச் சேமியுங்கள். படங்களைத் தடுப்பதன் மூலம் கூடுதலாகச் சேமிக்கலாம்."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "முழுப்பக்கத்தையும் திரைப்பிடிப்பு செய்"
 
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"முழு வலைப்பக்கத்தையும் திரைப்பிடியுங்கள். தரவுப் பயன்பாடின்றி படியுங்கள் "
-"அல்லது வலைப்பக்கத்தை மீண்டும் பார்க்க அதனைத் தட்டுங்கள்."
+msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgstr "முழு வலைப்பக்கத்தையும் திரைப்பிடியுங்கள். தரவுப் பயன்பாடின்றி படியுங்கள் அல்லது வலைப்பக்கத்தை மீண்டும் பார்க்க அதனைத் தட்டுங்கள்."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "அடுத்த நிலை தனியுரிமை"
 
 msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"தடமின்றி உலாவுங்கள், மற்றும் பொதுவான வலை பின்தொடரிகள் பலவற்றை "
-"முன்னிருப்பாக முடக்குங்கள். உங்கள் தனிப்பட்ட தரவின் பாதுகாப்பை "
-"உறுதிசெய்யுங்கள்."
+msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
+msgstr "தடமின்றி உலாவுங்கள், மற்றும் பொதுவான வலை பின்தொடரிகள் பலவற்றை முன்னிருப்பாக முடக்குங்கள். உங்கள் தனிப்பட்ட தரவின் பாதுகாப்பை உறுதிசெய்யுங்கள்."
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
@@ -480,13 +449,8 @@ msgstr "புதியவற்றைக் கண்டறி"
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"ஒற்றை நகர்வில், “%1$s” உடன் உங்களைப் புதுப்பித்துக்கொள்ளுங்கள் - "
-"பரபரப்பான செய்திகளிலிருந்து சிறந்த சலுகைகள் வரை பல்வகை உள்ளடக்கங்கள். "
-"%2$s"
+msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
+msgstr "ஒற்றை நகர்வில், “%1$s” உடன் உங்களைப் புதுப்பித்துக்கொள்ளுங்கள் - பரபரப்பான செய்திகளிலிருந்து சிறந்த சலுகைகள் வரை பல்வகை உள்ளடக்கங்கள். %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -509,12 +473,8 @@ msgstr "எங்களுக்கு ஒரு புதிய தோற்ற
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid ""
-"With the evolved product, we bring you a newly refreshed %1$s, with new "
-"name and new logo."
-msgstr ""
-"உருவான தயாரிப்புடன், புதிய பெயர் மற்றும் புதிய லோகோவுடன் புதிதாகப் "
-"புதுப்பித்த, %1$s உலாவியை உங்களுக்குத் தருகிறோம்."
+msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
+msgstr "உருவான தயாரிப்புடன், புதிய பெயர் மற்றும் புதிய லோகோவுடன் புதிதாகப் புதுப்பித்த, %1$s உலாவியை உங்களுக்குத் தருகிறோம்."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -544,13 +504,8 @@ msgid "Pin your favorite sites"
 msgstr "விருப்பமான தளங்களைச் செருகு"
 
 msgctxt "second_run_upgrade_page_text"
-msgid ""
-"You can now pin any top site so it does not get moved. To get you "
-"started, we have pinned some top sites for you to try."
-msgstr ""
-"இப்போது நீங்கள் சிறந்த தளங்களைச் செருகலாம், அவை பின்னால் நகராது. "
-"தொடக்கத்தில், நீங்கள் முயற்சிப்பதற்காக சில சிறந்த தளங்களை நாங்கள் "
-"செருகுயுள்ளோம்."
+msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
+msgstr "இப்போது நீங்கள் சிறந்த தளங்களைச் செருகலாம், அவை பின்னால் நகராது. தொடக்கத்தில், நீங்கள் முயற்சிப்பதற்காக சில சிறந்த தளங்களை நாங்கள் செருகுயுள்ளோம்."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -648,12 +603,8 @@ msgid "Location not available. Give permission to access your location."
 msgstr "இருப்பிடம் கிடைக்கவில்லை. உங்கள் இருப்பிடத்தை அறிய அனுமதி தாருங்கள்."
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
-msgstr ""
-"சேமிப்பகம் கிடைக்கவில்லை. படங்கள் மற்றும் கோப்புகளை உங்களுடைய கருவியில் "
-"சேமிக்க அனுமதியுங்கள்."
+msgid "Storage not available. Give permission to store photos and files on your device."
+msgstr "சேமிப்பகம் கிடைக்கவில்லை. படங்கள் மற்றும் கோப்புகளை உங்களுடைய கருவியில் சேமிக்க அனுமதியுங்கள்."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -890,9 +841,7 @@ msgstr "பகிர்"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr ""
-"நினைவக அட்டை ஏதுமில்லை. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது "
-"சேமிக்கப்பட்டது."
+msgstr "நினைவக அட்டை ஏதுமில்லை. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது சேமிக்கப்பட்டது."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -900,9 +849,7 @@ msgstr "நினைவக அட்டையில் கோப்பு சே
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr ""
-"நினைவக அட்டை கிட்டத்தட்ட நிரம்பியது. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது"
-" சேமிக்கப்பட்டது."
+msgstr "நினைவக அட்டை கிட்டத்தட்ட நிரம்பியது. உள்ளார்ந்த சேமிப்பகத்தில் கோப்பானது சேமிக்கப்பட்டது."
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
@@ -1047,22 +994,22 @@ msgstr "செருகு"
 #. Show a toast message when start downloading the new apk from google play.
 msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
-msgstr ""
+msgstr "புதிய பதிப்பை தரவிறக்குகிறது…"
 
 #. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
 msgid "Latest build has been downloaded. Tap to update."
-msgstr ""
+msgstr "புதிய பதிப்பு தரவிறக்கப்பட்டது. புதுப்பிக்க தட்டவும்."
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
 msgid "Latest build downloaded"
-msgstr ""
+msgstr "புதிய பதிப்பு தரவிறக்கப்பட்டது"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "புதுப்பி"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1070,13 +1017,8 @@ msgid "Product Update Notice"
 msgstr "தயாரிப்பு புதுப்பிப்பு அறிக்கை"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Lite better for you and everyone, we made some changes to"
-" our privacy policy. Tap to learn more."
-msgstr ""
-"உங்களுக்கும் எல்லோருக்கும் ஒரு சிறந்த பயர்பாக்சு இராக்கெட்டை வழங்கிட "
-"எங்களின் தனியுரிமை கொள்கையில் சில மாற்றங்களைச் செய்துள்ளோம். மேலும் "
-"அறிய தட்டுக."
+msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "உங்களுக்கும் எல்லோருக்கும் ஒரு சிறந்த பயர்பாக்சு இராக்கெட்டை வழங்கிட எங்களின் தனியுரிமை கொள்கையில் சில மாற்றங்களைச் செய்துள்ளோம். மேலும் அறிய தட்டுக."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1088,9 +1030,7 @@ msgstr "%1$s விரும்புகிறீரா?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
-"எங்களின் தயாரிப்பைத் தேர்ந்தமைக்கு மிக்க நன்றி. உங்களின் கருத்து "
-"எங்களுக்கு மிகவும் அவசியமானது."
+msgstr "எங்களின் தயாரிப்பைத் தேர்ந்தமைக்கு மிக்க நன்றி. உங்களின் கருத்து எங்களுக்கு மிகவும் அவசியமானது."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -1135,29 +1075,21 @@ msgstr "பகிர்"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr ""
-"வணக்கம், %3$s நிறுவனத்தின் வேகமான இலகுவான உலாவியைப் பாவித்துப் "
-"பாருங்கள்.%1$s %2$s"
+msgstr "வணக்கம், %3$s நிறுவனத்தின் வேகமான இலகுவான உலாவியைப் பாவித்துப் பாருங்கள்.%1$s %2$s"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
-"%1$s, %2$s மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற "
-"திறந்தமூல மென்பொருள் ஆகும்."
+msgstr "%1$s, %2$s மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
-"%1$s உங்களுக்கு <a href=\"%2$s\">%3$s</a> மற்றும் பிற திறந்த மூல "
-"உரிமங்களின் கீழ் கிடைக்கிறது."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">%3$s</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1166,26 +1098,18 @@ msgstr ""
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 msgstr ""
-"உங்களுக்கு மொசில்லா அறக்கட்டளை அல்லது பிற தரப்பினரின் வணிகச் "
-"சின்னங்களுக்கான உரிமங்கள் அல்லது உரிமைகள் அல்லது வேற எந்த உரிமைகளும் "
-"வழங்கப்படவில்லை மேலும் %3$s, %4$sஅல்லது %1$s போன்ற பெயர்களும் அதன் "
-"படங்களும் அவ்விதியில் அடங்கும். கூடுதலான தகவல்கள் <a href=\"%2$s\">இங்கு "
-"கிடைக்கும்</a>."
+"உங்களுக்கு மொசில்லா அறக்கட்டளை அல்லது பிற தரப்பினரின் வணிகச் சின்னங்களுக்கான உரிமங்கள் அல்லது உரிமைகள் அல்லது வேற எந்த உரிமைகளும் வழங்கப்படவில்லை மேலும் %3$s, %4$sஅல்லது %1$s போன்ற பெயர்களும் அதன்"
+" படங்களும் அவ்விதியில் அடங்கும். கூடுதலான தகவல்கள் <a href=\"%2$s\">இங்கு கிடைக்கும்</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a "
-"href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1193,14 +1117,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"Disconnect, Inc நிறுவனம் வழங்கிய தடுப்பு பட்டியலை %1$s தனியாக "
-"பயன்படுத்துவதுடன் <a href=\"%2$s\"> GNU பொது மக்கள் உரிமத்தின் v3</a>, "
-"கீழ் கிடைக்கப்பெற்ற <a href=\"%3$s\">பட்டியலையும் பயன்படுத்துகிறது</a>."
+"Disconnect, Inc நிறுவனம் வழங்கிய தடுப்பு பட்டியலை %1$s தனியாக பயன்படுத்துவதுடன் <a href=\"%2$s\"> GNU பொது மக்கள் உரிமத்தின் v3</a>, கீழ் கிடைக்கப்பெற்ற <a href=\"%3$s\">பட்டியலையும் "
+"பயன்படுத்துகிறது</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1560,12 +1480,8 @@ msgstr "கூடுதல் பாதுகாப்புடன் உலா�
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid ""
-"Access private mode in one click! Want to add private mode shortcut to "
-"homescreen?"
-msgstr ""
-"அந்தரங்க முறைமையை ஒரு சொடுக்கில் அணுகுக! அந்தரங்க முறைமையின் "
-"குறுக்குவழியை முகத்திரையில் சேர்க்கவா?"
+msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
+msgstr "அந்தரங்க முறைமையை ஒரு சொடுக்கில் அணுகுக! அந்தரங்க முறைமையின் குறுக்குவழியை முகத்திரையில் சேர்க்கவா?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1594,9 +1510,7 @@ msgstr "ஆம், இப்போதே சேர்!"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
-"அந்தரங்க முறைமையின் குறுக்கு வழியைப் பிறகு அமைவிற்கு சென்று சேர்க்க "
-"முடியும்."
+msgstr "அந்தரங்க முறைமையின் குறுக்கு வழியைப் பிறகு அமைவிற்கு சென்று சேர்க்க முடியும்."
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1620,36 +1534,26 @@ msgstr "உங்கள் திரைக்காட்சிகளை இங�
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
-msgstr ""
-"உங்கள் தயாரிப்பு அனுபவத்தை மேம்படுத்த, உங்கள் திரைப்பிடிப்பு பற்றிய "
-"தகவல்களை நாங்கள் சேகரிக்கிறோம்."
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgstr "உங்கள் தயாரிப்பு அனுபவத்தை மேம்படுத்த, உங்கள் திரைப்பிடிப்பு பற்றிய தகவல்களை நாங்கள் சேகரிக்கிறோம்."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
-msgid ""
-"The 7-day free VPN service is ready for you. Install now to browse more "
-"privately and securely."
-msgstr ""
-"7-நாள் இலவச VPN சேவை உங்களுக்குத் தயாராக உள்ளது. மேலும் தனியாகவும் "
-"பாதுகாப்பாகவும் உலாவுவதற்கு இப்போதே நிறுவுங்கள்."
+msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
+msgstr "7-நாள் இலவச VPN சேவை உங்களுக்குத் தயாராக உள்ளது. மேலும் தனியாகவும் பாதுகாப்பாகவும் உலாவுவதற்கு இப்போதே நிறுவுங்கள்."
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
 #. feature base on the users' feedback.
 msgctxt "exp_survey_wifi"
 msgid ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free "
-"internet connection nearby.\n"
+"We plan to integrate “Free Wifi-Finder” to help you find quality free internet connection nearby.\n"
 "\n"
 " Interested?"
 msgstr ""
-"அருகிலுள்ள தரமான இலவச இணைய இணைப்பு கண்டுபிடிக்க உங்களுக்கு உதவ, “இலவச "
-"வைஃபை-கண்டுபிடிப்பான்” ஒருங்கிணைக்க நாங்கள் திட்டமிடுகிறோம்.\n"
+"அருகிலுள்ள தரமான இலவச இணைய இணைப்பு கண்டுபிடிக்க உங்களுக்கு உதவ, “இலவச வைஃபை-கண்டுபிடிப்பான்” ஒருங்கிணைக்க நாங்கள் திட்டமிடுகிறோம்.\n"
 "\n"
 " ஆர்வமா?"
 
@@ -1658,13 +1562,11 @@ msgstr ""
 #. feature base on the users' feedback.
 msgctxt "exp_survey_vpn"
 msgid ""
-"We plan to integrate “VPN service” to get you more freedom and more "
-"privacy when browsing.\n"
+"We plan to integrate “VPN service” to get you more freedom and more privacy when browsing.\n"
 "\n"
 " Interested?"
 msgstr ""
-"நீங்கள் கட்டற்றும் தனியாகவும் உலாவும் வகையில் “VPN சேவையை” ஒருங்கிணைக்க "
-"திட்டமிட்டுள்ளோம்.\n"
+"நீங்கள் கட்டற்றும் தனியாகவும் உலாவும் வகையில் “VPN சேவையை” ஒருங்கிணைக்க திட்டமிட்டுள்ளோம்.\n"
 "\n"
 " ஆர்வமா?"
 
@@ -1704,4 +1606,3 @@ msgstr "பயனர்பெயர்"
 msgctxt "http_auth_dialog_password"
 msgid "Password"
 msgstr "கடவுச்சொல்"
-
