@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-03 10:28+0800\n"
-"PO-Revision-Date: 2019-05-11 06:58+0000\n"
+"POT-Creation-Date: 2019-07-04 09:42+0800\n"
+"PO-Revision-Date: 2019-07-03 06:22+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_Guru_IN\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
@@ -1035,7 +1035,7 @@ msgstr "ਸਾਈਟ ਟੰਗੋ"
 #. Show a toast message when start downloading the new apk from google play.
 msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
-msgstr ""
+msgstr "…ਨਵਾਂ ਬਿਲਡ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
 
 #. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
@@ -1045,12 +1045,12 @@ msgstr ""
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
 msgid "Latest build downloaded"
-msgstr ""
+msgstr "ਨਵਾ ਬਿਲਡ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "ਅੱਪਡੇਟ"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1315,173 +1315,173 @@ msgstr "ਨਵਾਂ ਅੱਪਡੇਟ"
 #. Title of news preferences
 msgctxt "title_news_preferences"
 msgid "News preferences"
-msgstr ""
+msgstr "ਖ਼ਬਰ ਪਸੰਦਾਂ"
 
 #. This is the dialog for choosing news language
 msgctxt "news_language_dialog_title"
 msgid "News language"
-msgstr ""
+msgstr "ਖ਼ਬਰਾਂ ਦੀ ਭਾਸ਼ਾ"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
-msgstr ""
+msgstr "ਅੰਗਰੇਜ਼ੀ"
 
 msgctxt "news_language_dialog_option_hindi"
 msgid "Hindi"
-msgstr ""
+msgstr "ਹਿੰਦੀ"
 
 msgctxt "news_language_dialog_option_marathi"
 msgid "Marathi"
-msgstr ""
+msgstr "ਮਰਾਠੀ"
 
 msgctxt "news_language_dialog_option_kannada"
 msgid "Kannada"
-msgstr ""
+msgstr "ਕੰਨੜ"
 
 msgctxt "news_language_dialog_option_gujarati"
 msgid "Gujarati"
-msgstr ""
+msgstr "ਗੁਜਰਾਤੀ"
 
 msgctxt "news_language_dialog_option_malayalam"
 msgid "Malayalam"
-msgstr ""
+msgstr "ਮਾਲਿਆਲਮ"
 
 msgctxt "news_language_dialog_option_tamil"
 msgid "Tamil"
-msgstr ""
+msgstr "ਤਾਮਿਲ"
 
 msgctxt "news_language_dialog_option_telugu"
 msgid "Telugu"
-msgstr ""
+msgstr "ਤੇਲਗੂ"
 
 msgctxt "news_language_dialog_option_urdu"
 msgid "Urdu"
-msgstr ""
+msgstr "ਉੜਦੂ"
 
 msgctxt "news_language_dialog_option_nepali"
 msgid "Nepali"
-msgstr ""
+msgstr "ਨੇਪਾਲੀ"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "ਅਸਾਮੀ"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "ਪੰਜਾਬੀ"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "ਬੰਗਾਲੀ"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
 msgid "Interests"
-msgstr ""
+msgstr "ਦਿਲਚਸਪੀਆਂ"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
-msgstr ""
+msgstr "ਸੁਰਖੀਆਂ"
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "ਭਾਰਤ"
 
 msgctxt "news_category_option_world"
 msgid "World"
-msgstr ""
+msgstr "ਸੰਸਾਰ"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
-msgstr ""
+msgstr "ਤਕਨੀਕ"
 
 msgctxt "news_category_option_education"
 msgid "Education"
-msgstr ""
+msgstr "ਸਿੱਖਿਆ"
 
 msgctxt "news_category_option_politics"
 msgid "Politics"
-msgstr ""
+msgstr "ਰਾਜਨੀਤੀ"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "ਕੈਰੀਅਰ"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "ਕ੍ਰਿਕਟ"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
-msgstr ""
+msgstr "ਖੇਡਾਂ"
 
 msgctxt "news_category_option_entertainment"
 msgid "Entertainment"
-msgstr ""
+msgstr "ਮਨੋਰੰਜਨ"
 
 msgctxt "news_category_option_business"
 msgid "Business"
-msgstr ""
+msgstr "ਕਾਰੋਬਾਰ"
 
 msgctxt "news_category_option_health"
 msgid "Health"
-msgstr ""
+msgstr "ਸਿਹਤ"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "ਫ਼ਿਲਮੀ-ਪੜਚੋਲ"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
-msgstr ""
+msgstr "ਆਟੋ-ਮੋਬਾਈਲ"
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "ਖੇਤਰੀ"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
-msgstr ""
+msgstr "ਸੈਰ-ਸਪਾਟਾ"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "ਜੀਵਨ-ਸ਼ੈਲੀ"
 
 msgctxt "news_category_option_food"
 msgid "Food"
-msgstr ""
+msgstr "ਭੋਜਣ"
 
 msgctxt "news_category_option_video"
 msgid "Video"
-msgstr ""
+msgstr "ਵੀਡਿਓ"
 
 msgctxt "news_category_option_city"
 msgid "City"
-msgstr ""
+msgstr "ਸ਼ਹਿਰ"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "ਘਟਨਾਵਾਂ"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "ਧਰਮ"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
-msgstr ""
+msgstr "ਜੁਰਮ"
 
 msgctxt "news_category_option_astrology"
 msgid "Astrology"
-msgstr ""
+msgstr "ਭਵਿੱਖਬਾਣੀ"
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "ਵਿਗਿਆਨ"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "ਚੁਟਕਲੇ"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1548,15 +1548,15 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr ""
+msgstr "ਨਹੀਂ, ਸ਼ੁਕਰੀਆ"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr ""
+msgstr "ਹਾਂ"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਢੰਗ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
@@ -1564,11 +1564,11 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "ਨਹੀਂ, ਸ਼ੁਕਰੀਆ"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "ਹਾਂ, ਇਹ ਹੁਣੇ ਜੋੜੋ!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
@@ -1580,13 +1580,13 @@ msgstr ""
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਮੋਡ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
