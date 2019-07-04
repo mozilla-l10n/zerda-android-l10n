@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-04 09:42+0800\n"
-"PO-Revision-Date: 2019-06-26 07:28+0000\n"
-"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
+"POT-Creation-Date: 2019-07-04 16:02+0800\n"
+"PO-Revision-Date: 2019-07-01 12:13+0000\n"
+"Last-Translator: Khaleel Jageer <jskcse4@gmail.com>\n"
 "Language: ta\n"
 "Language-Team: ta <LL@li.org>\n"
 "\n"
@@ -1047,22 +1047,22 @@ msgstr "செருகு"
 #. Show a toast message when start downloading the new apk from google play.
 msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
-msgstr ""
+msgstr "புதிய பதிப்பை தரவிறக்குகிறது…"
 
 #. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
 msgid "Latest build has been downloaded. Tap to update."
-msgstr ""
+msgstr "புதிய பதிப்பு தரவிறக்கப்பட்டது. புதுப்பிக்க தட்டவும்."
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
 msgid "Latest build downloaded"
-msgstr ""
+msgstr "புதிய பதிப்பு தரவிறக்கப்பட்டது"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "புதுப்பி"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
