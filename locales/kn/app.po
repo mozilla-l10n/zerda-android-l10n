@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-08 18:29+0000\n"
+"PO-Revision-Date: 2019-07-08 18:33+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language-Team: kn <LL@li.org>\n"
 "\n"
@@ -184,7 +184,7 @@ msgstr "ಚಿತ್ರಗಳನ್ನು ತಡೆ"
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ"
+msgstr "ಜಾಲಾಟದ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
@@ -757,11 +757,11 @@ msgstr "ಆಂತರಿಕ ಶೇಖರಣೆ"
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
 msgid "CLEAR BROWSING HISTORY"
-msgstr "ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸ ತೆರೆವುಗೊಳಿಸು"
+msgstr "ಜಾಲಾಟದ ಇತಿಹಾಸ ತೆರೆವುಗೊಳಿಸಿ"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ ಇಲ್ಲ"
+msgstr "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ ಲಭ್ಯವಿಲ್ಲ"
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -1475,7 +1475,7 @@ msgstr "ಜಾಡುಹಿಡಿಯುವವರನ್ನು ನಿರ್ಭಂ�
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr "ಹೆಚ್ಚುವರಿ ರಕ್ಷಣೆಯೊಂದಿಗೆ ಬ್ರೌಸಿಂಗ್ ಆನಂದಿಸಿ."
+msgstr "ಹೆಚ್ಚುವರಿ ರಕ್ಷಣೆಯೊಂದಿಗೆ ಜಾಲಾಟವನ್ನು ಆನಂದಿಸಿ."
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
@@ -1566,7 +1566,7 @@ msgid ""
 "\n"
 " Interested?"
 msgstr ""
-"ಬ್ರೌಸಿಂಗ್ ಮಾಡುವಾಗ ನಿಮಗೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಹೆಚ್ಚಿನ ಗೌಪ್ಯತೆ ಪಡೆಯಲು \"VPN ಸೇವೆ\" ಅನ್ನು ಸಂಯೋಜಿಸಲು ನಾವು ಯೋಜಿಸಿದ್ದೇವೆ. \n"
+"ಜಾಲಾಡುವಾಗ ನಿಮಗೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಹೆಚ್ಚಿನ ಗೌಪ್ಯತೆ ಪಡೆಯಲು \"VPN ಸೇವೆ\" ಅನ್ನು ಸಂಯೋಜಿಸಲು ನಾವು ಯೋಜಿಸಿದ್ದೇವೆ. \n"
 " \n"
 " ಆಸಕ್ತಿ ಇದೆಯೇ?"
 
