@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-04 23:37+0000\n"
+"PO-Revision-Date: 2019-07-15 02:49+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -788,7 +788,7 @@ msgstr "Xóa khỏi danh sách"
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr "Xóa tệp"
+msgstr "Xóa tập tin"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
