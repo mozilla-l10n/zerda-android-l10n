@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-10 10:02+0000\n"
+"PO-Revision-Date: 2019-07-26 15:59+0000\n"
 "Last-Translator: Bob Reyes <robert.reyes@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -1319,7 +1319,7 @@ msgstr "Mga Interes"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
-msgstr ""
+msgstr "Pangunahing balita"
 
 msgctxt "news_category_option_india"
 msgid "India"
@@ -1484,7 +1484,7 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr ""
+msgstr "Salamat na lang"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
@@ -1504,7 +1504,7 @@ msgstr "HINDI, THANKS"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "YES, ADD IT NOW!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
