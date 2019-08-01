@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-26 14:09+0000\n"
+"PO-Revision-Date: 2019-08-01 03:29+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
@@ -102,7 +102,7 @@ msgstr "পূর্ববর্তী ফলাফল খুঁজুন"
 #. button in the "find in page" UI.
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "পাতায় অনুসন্ধান বাদ দিন"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -140,7 +140,7 @@ msgstr "গোপনীয়তা সংক্রান্ত নীতি"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "লাইফ ফিড"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
@@ -149,7 +149,7 @@ msgstr ""
 #, c-format
 msgctxt "about_link_life_feed"
 msgid "Learn more about %1$s"
-msgstr ""
+msgstr "%1$s সম্পর্কে আরও জানুন"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -174,7 +174,7 @@ msgstr "ডিফল্ট সার্চ ইঞ্জিন"
 #. This is the title of the dialog for choosing news source
 msgctxt "preference_dialog_title_news_source"
 msgid "News source"
-msgstr ""
+msgstr "সংবাদ উৎস"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -239,7 +239,7 @@ msgstr "নাইট মোড উজ্জ্বলতা"
 #. show a widget for brightness adjustments.
 msgctxt "night_mode_on_boarding_message"
 msgid "Long press to adjust brightness"
-msgstr ""
+msgstr "উজ্জ্বলতা সমন্বয় করতে দীর্ঘক্ষণ চাপুন"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -417,20 +417,17 @@ msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ডেটা সংরক্ষণ = অর্থ সংরক্ষণ"
 
-#, fuzzy
 msgctxt "first_run_page3_text"
 msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "ব্লক করা ট্র্যাকিং বিজ্ঞাপনগুলি শুধুমাত্র ব্রাউজিং-র গতি বৃদ্ধি করে না সাথে, এটি ডেটা সংরক্ষণ করে। যদি আপনি ছবি ব্লক করেন তাহলে আরও সংরক্ষণ করতে পারেন।"
+msgstr "ট্র্যাকিং বিজ্ঞাপন ব্লক করে ডাটা সাশ্রয় করুন। ছবি ব্লক সক্রিয় করে আরও বেশি সাশ্রয় করুন।"
 
-#, fuzzy
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
-msgstr "সবকিছুর স্ক্রিনশট নিন"
+msgstr "পুরো পাতার স্ক্রিনশট"
 
-#, fuzzy
 msgctxt "first_run_page4_text"
 msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "পুরো ওয়েব পেজগুলির স্ক্রিনশটগুলি নিন। একটি স্ক্রিনশটকে অফলাইনে দেখুন (ডেটা ব্যবহার না করে) অথবা ওয়েবপেজটির পুনরারম্ভ করতে ট্যাপ করুন।"
+msgstr "পুরো পাতার স্ক্রোলের স্ক্রিনশট নিন। ডাটা ব্যবহার না করে এটি অফলাইনে পড়ুন অথবা ওয়েব পেজ পুনরায় দেখতে ট্যাপ করুন।"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
@@ -594,7 +591,7 @@ msgstr ""
 
 msgctxt "permission_handler_permission_dialog_setting"
 msgid "settings"
-msgstr ""
+msgstr "সেটিং"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
@@ -990,7 +987,7 @@ msgstr "অপসারণ"
 #. Pin Top site item
 msgctxt "pin_site"
 msgid "Pin site"
-msgstr ""
+msgstr "সাইট পিন করুন"
 
 #. In-app message to update to latest build.
 #. Show a toast message when start downloading the new apk from google play.
@@ -1011,17 +1008,16 @@ msgstr ""
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "হালনাগাদ করুন"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
 msgid "Product Update Notice"
 msgstr "প্রোডাক্ট আপডেটের বিজ্ঞপ্তি"
 
-#, fuzzy
 msgctxt "privacy_policy_update_notification_action"
 msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "আপনার এবং প্রত্যেকের জন্য Firefox Rocketকে আরও ভাল করার জন্য, আমরা আমাদের গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানতে ট্যাপ করুন।"
+msgstr "আপনার এবং সবার জন্য Firefox Lite আরও উন্নত করতে আমরা আমাদের গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানার জন্য ট্যাপ করুন।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1035,20 +1031,17 @@ msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
 msgstr "আমাদের প্রোডাক্ট নির্বাচন করার জন্য আপনাকে ধন্যবাদ। আপনার মতামত আমাদের কাছে গুরুত্বপূর্ণ।"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
-msgstr "হ্যাঁ, 5 তারকার রেট দিন!"
+msgstr "আমাদের ব্যাপারে আপনার মতামত দিন"
 
-#, fuzzy
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "5 তারকার রেট দিন"
+msgstr "আমাদের ব্যাপারে আপনার মতামত দিন"
 
-#, fuzzy
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "না, প্রতিক্রিয়া পাঠান।"
+msgstr "প্রতিক্রিয়া জানান"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -1265,164 +1258,164 @@ msgstr ""
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
-msgstr ""
+msgstr "ইংরেজি"
 
 msgctxt "news_language_dialog_option_hindi"
 msgid "Hindi"
-msgstr ""
+msgstr "হিন্দি"
 
 msgctxt "news_language_dialog_option_marathi"
 msgid "Marathi"
-msgstr ""
+msgstr "মারাঠি"
 
 msgctxt "news_language_dialog_option_kannada"
 msgid "Kannada"
-msgstr ""
+msgstr "কান্নাড়া"
 
 msgctxt "news_language_dialog_option_gujarati"
 msgid "Gujarati"
-msgstr ""
+msgstr "গুজরাতি"
 
 msgctxt "news_language_dialog_option_malayalam"
 msgid "Malayalam"
-msgstr ""
+msgstr "মালায়ালম"
 
 msgctxt "news_language_dialog_option_tamil"
 msgid "Tamil"
-msgstr ""
+msgstr "তামিল"
 
 msgctxt "news_language_dialog_option_telugu"
 msgid "Telugu"
-msgstr ""
+msgstr "তেলেগু"
 
 msgctxt "news_language_dialog_option_urdu"
 msgid "Urdu"
-msgstr ""
+msgstr "উর্দু"
 
 msgctxt "news_language_dialog_option_nepali"
 msgid "Nepali"
-msgstr ""
+msgstr "নেপালি"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "অসমীয়"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "পাঞ্জাবি"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "বাংলা"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
 msgid "Interests"
-msgstr ""
+msgstr "আগ্রহের বিষয়"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
-msgstr ""
+msgstr "শীর্ষ-সংবাদ"
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "ভারত"
 
 msgctxt "news_category_option_world"
 msgid "World"
-msgstr ""
+msgstr "বিশ্ব"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
-msgstr ""
+msgstr "প্রযুক্তি"
 
 msgctxt "news_category_option_education"
 msgid "Education"
-msgstr ""
+msgstr "শিক্ষা"
 
 msgctxt "news_category_option_politics"
 msgid "Politics"
-msgstr ""
+msgstr "রাজনীতি"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "কর্মসংস্থান"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "ক্রিকেট"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
-msgstr ""
+msgstr "খেলাধুলা"
 
 msgctxt "news_category_option_entertainment"
 msgid "Entertainment"
-msgstr ""
+msgstr "বিনোদন"
 
 msgctxt "news_category_option_business"
 msgid "Business"
-msgstr ""
+msgstr "ব্যবসা-বাণিজ্য"
 
 msgctxt "news_category_option_health"
 msgid "Health"
-msgstr ""
+msgstr "স্বাস্থ্য"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
-msgstr ""
+msgstr "সিনেমা-পর্যালোচনা"
 
 msgctxt "news_category_option_automobile"
 msgid "Automobile"
-msgstr ""
+msgstr "অটোমোবাইল"
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "আঞ্চলিক"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
-msgstr ""
+msgstr "ভ্রমণ"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "লাইফস্টাইল"
 
 msgctxt "news_category_option_food"
 msgid "Food"
-msgstr ""
+msgstr "খাদ্য"
 
 msgctxt "news_category_option_video"
 msgid "Video"
-msgstr ""
+msgstr "ভিডিও"
 
 msgctxt "news_category_option_city"
 msgid "City"
-msgstr ""
+msgstr "শহর"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "ইভেন্ট"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "ধর্ম"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
-msgstr ""
+msgstr "অপরাধ"
 
 msgctxt "news_category_option_astrology"
 msgid "Astrology"
-msgstr ""
+msgstr "জ্যোতিষ"
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "বিজ্ঞান"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "কৌতুক"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1487,11 +1480,11 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr ""
+msgstr "প্রয়োজন নেই"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr ""
+msgstr "হ্যাঁ"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
@@ -1503,11 +1496,11 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "প্রয়োজন নেই"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "হ্যাঁ, এখনই যোগ করুন!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
@@ -1590,22 +1583,22 @@ msgstr "না"
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "অনুমোদন প্রয়োজন"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
 msgctxt "http_auth_dialog_user_name"
 msgid "Username"
-msgstr ""
+msgstr "ব্যবহারকারীর নাম"
 
 #. Text on an input password field in web auth dialog. This hint user to input
 #. password here.
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "পাসওয়ার্ড"
 
 #. Name of low priority notification channel, this will be shown on the app
 #. info page in the system setting
 msgctxt "low_priority_notification_channel"
 msgid "Hidden notifications"
-msgstr ""
+msgstr "লুকানো নোটিফিকেশন"
