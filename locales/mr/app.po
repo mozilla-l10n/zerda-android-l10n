@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-08 10:10+0000\n"
+"PO-Revision-Date: 2019-08-08 10:27+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1478,7 +1478,7 @@ msgstr "अतिरिक्त संरक्षणासह ब्राउ�
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr ""
+msgstr "एका क्लिकमध्ये खासगी मोडमध्ये प्रवेश करा! मुख्यपृष्ठावरून खाजगी मोड शॉर्टकट जोडायचा?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1494,7 +1494,7 @@ msgstr "खाजगी मोड शॉर्टकट जोडा"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
-msgstr ""
+msgstr "आपल्या मुख्यपृष्ठावरून खासगी मोडमध्ये त्वरीत प्रवेश करा."
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
@@ -1514,7 +1514,7 @@ msgstr "आपण नंतर सेटिंग्जमध्ये खाज
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - खाजगी ब्राउझिंग"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
