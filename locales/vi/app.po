@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-15 02:49+0000\n"
+"PO-Revision-Date: 2019-08-17 15:40+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -84,7 +84,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr "%1$d trong %2$d"
+msgstr "%1$d trong số %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button.
