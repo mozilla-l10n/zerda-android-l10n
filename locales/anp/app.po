@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-22 08:31+0000\n"
+"PO-Revision-Date: 2019-08-22 08:39+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -188,7 +188,7 @@ msgstr "ब्राउज़िंग इतिहास मेटाबोॅ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
-msgstr "में डाउनलोड सहेजियै"
+msgstr "डाउनलोड मेॅ सहेजोॅ"
 
 #. This preference does not set Rocket as the default browser but instead
 #. links to Android's      "default apps" screen, on older Android versions, we
@@ -196,7 +196,7 @@ msgstr "में डाउनलोड सहेजियै"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "डिफ़ॉल्ट ब्राउज़र बनैइयै"
+msgstr "डिफ़ॉल्ट ब्राउज़र बनाबोॅ"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -204,7 +204,7 @@ msgstr "डिफ़ॉल्ट ब्राउज़र बनैइयै"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "सेटिंग्स बदलि रहलो छै..."
+msgstr "सेटिंग्स बदलि रहलोॅ छै..."
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -212,7 +212,7 @@ msgstr "टर्बो मोड"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send usage data"
-msgstr "उपयोग डेटा भेजियै"
+msgstr "उपयोग डेटा भेजोॅ"
 
 #. Item in Preferences that shows the app name wants to send telemetry.
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
@@ -228,7 +228,7 @@ msgstr "बेसी जानकारी"
 #. Item in Preferences that shows the about page.
 msgctxt "preference_about"
 msgid "About"
-msgstr "के संबंध में"
+msgstr "के बारो मेॅ"
 
 #. Item in Preferences that shows the night mode adjust brightness widget.
 msgctxt "preference_night_mode_brightness"
@@ -277,7 +277,7 @@ msgstr "वेबसाईट लोड भेलै"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr "अधिको विकल्प"
+msgstr "अधिकोॅ विकल्प"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
