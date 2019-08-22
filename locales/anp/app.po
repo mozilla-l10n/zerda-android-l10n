@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-07-10 13:06+0000\n"
+"PO-Revision-Date: 2019-08-22 06:10+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "CANCEL"
-msgstr "रद्द करियै"
+msgstr "रद्द करोॅ"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -54,17 +54,17 @@ msgstr "अपने के अधिकार"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
-msgstr "प्रतिक्रिया दियै"
+msgstr "प्रतिक्रिया दियोॅ"
 
 msgctxt "menu_share_with_friends"
 msgid "Share with friends"
-msgstr "संगी सँ शेयर करियै"
+msgstr "संगी सँ शेयर करोॅ"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "एकरा द्वारा शेयर करियै"
+msgstr "एकरा द्वारा शेयर करोॅ"
 
 #. Watermark/Hint for the find in page input field.
 msgctxt "find_in_page_input"
@@ -246,14 +246,14 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "इनपुट मेटैइयै"
+msgstr "इनपुट मेटाबोॅ"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
 #. browser. This text will be read when the      overlay if it gain focus.
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr "रद्द करियै"
+msgstr "रद्द करोॅ"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -315,7 +315,7 @@ msgstr "पिछला ऐप पर वापस घुरियै"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ट्रेकर्स ब्लॉक करियै"
+msgstr "ट्रेकर्स ब्लॉक करोॅ"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -343,11 +343,11 @@ msgstr "सुनिश्चित करअ कि आपने के इं�
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "एड्रेस जांच करियै"
+msgstr "एड्रेस जांच करोॅ"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
-msgstr "फेनु प्रयास करियै"
+msgstr "फेनु प्रयास करोॅ"
 
 msgctxt "error_page_title_unsupported_scheme"
 msgid "The address wasn’t understood"
@@ -360,22 +360,22 @@ msgstr "इ पता कअ खोलै ल अहा के दोसरो �
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr "लिंक शेयर करियै"
+msgstr "लिंक शेयर करोॅ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr "लिंक एड्रेस कॉपी करियै"
+msgstr "लिंक एड्रेस कॉपी करोॅ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "चित्र शेयर करियै"
+msgstr "चित्र शेयर करोॅ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "इमेज एड्रेस कॉपी करियै"
+msgstr "इमेज एड्रेस कॉपी करोॅ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -408,7 +408,7 @@ msgstr "%1$s द्वारा एगो ब्राउज़र बनाल�
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
-msgstr "पहनो स तेज ब्राउज़ करियै"
+msgstr "पहनो स तेज ब्राउज़ करोॅ"
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
@@ -637,11 +637,11 @@ msgstr "ब्लोक"
 #. Setting Clear browsing data dialog
 msgctxt "setting_dialog_clear_data"
 msgid "Clear Data"
-msgstr "डाटा मेटैइयै"
+msgstr "डाटा मेटाबोॅ"
 
 msgctxt "setting_dialog_cancel"
 msgid "Cancel"
-msgstr "रद्द करियै"
+msgstr "रद्द करोॅ"
 
 msgctxt "setting_dialog_browsing_history"
 msgid "Browsing history"
@@ -827,7 +827,7 @@ msgstr "संपादित करियै"
 #. of a successful screenshot capture.
 msgctxt "screenshot_delete"
 msgid "DELETE"
-msgstr "हटाबियै"
+msgstr "हटाबोॅ"
 
 #. The label of an action that gives users an option to share the captured
 #. screenshot. This is shown alongside the temporary message which notify users
@@ -979,7 +979,7 @@ msgstr "ई स्क्रीनशॉट नै दिखायै सकै �
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr "हटैइयै"
+msgstr "हटाबोॅ"
 
 #. Pin Top site item
 msgctxt "pin_site"
@@ -1038,7 +1038,7 @@ msgstr "रेट करियै"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "प्रतिक्रिया भेजिइयै"
+msgstr "प्रतिक्रिया भेजोॅ"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
