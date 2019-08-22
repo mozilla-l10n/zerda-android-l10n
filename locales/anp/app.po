@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-22 08:11+0000\n"
+"PO-Revision-Date: 2019-08-22 08:31+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -50,7 +50,7 @@ msgstr "मदत"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr "अपने के अधिकार"
+msgstr "आपनोॅ रो अधिकार"
 
 msgctxt "menu_give_feedback"
 msgid "Give feedback"
@@ -69,7 +69,7 @@ msgstr "एकरा द्वारा शेयर करोॅ"
 #. Watermark/Hint for the find in page input field.
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr "पेज मs खोजिइयै"
+msgstr "पेज मेॅ खोलहोॅ"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -85,13 +85,13 @@ msgstr "%1$d / %2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr "%2$d सs %1$d"
+msgstr "%2$d सेॅ %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button.
 msgctxt "accessibility_find_next_result"
 msgid "Find next result"
-msgstr "अगलो परिणाम जानिइयै"
+msgstr "अगलो परिणाम जानोॅ"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button.
@@ -111,7 +111,7 @@ msgstr "पेज में रद्द करोॅ"
 #. "Firefox Rocket" part and don't localize the product name.
 msgctxt "text_selection_search_action"
 msgid "Search in Firefox Lite"
-msgstr "Firefox Lite में खोजियै"
+msgstr "Firefox Lite में खोजोॅ"
 
 #. Content of about Rocket.     %1$s is the app name of the content. i.e.x.
 #. Firefox Rocket     %2$s is "Mozilla"
@@ -130,7 +130,7 @@ msgstr "समर्थन"
 
 msgctxt "about_link_your_rights"
 msgid "Your Rights / Licenses"
-msgstr "अपने के अधिकार / लाइसेंस"
+msgstr "आपनोॅ रो अधिकार / लाइसेंस"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
@@ -150,7 +150,7 @@ msgstr ""
 #, c-format
 msgctxt "about_link_life_feed"
 msgid "Learn more about %1$s"
-msgstr "%1$s के बारो में अधिक जानियै"
+msgstr "%1$s के बारो मेॅ अधिक जानोॅ"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -533,7 +533,7 @@ msgstr "डाउनलोडस"
 #. Menu text for find in page.
 msgctxt "label_menu_find_in_page"
 msgid "Find in page"
-msgstr "पेज मs खोजिइयै"
+msgstr "पेज मेॅ खोलहोॅ"
 
 msgctxt "label_menu_clear_cache"
 msgid "Clear cache"
