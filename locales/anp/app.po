@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-22 06:10+0000\n"
+"PO-Revision-Date: 2019-08-22 08:11+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -34,7 +34,7 @@ msgstr "ठीक"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "खोजियै अथ्वा पता भरियै"
+msgstr "खोजोॅ या पता भरोॅ"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -42,7 +42,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "के संबंध में"
+msgstr "के बारो मेॅ"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -179,12 +179,12 @@ msgstr ""
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
-msgstr "चित्र ब्लौक करियै"
+msgstr "चित्र ब्लौक करोॅ"
 
 #. Settings Privacy and storage
 msgctxt "preference_privacy_storage_clear_browsing_data"
 msgid "Clear browsing data"
-msgstr "ब्राउज़िंग इतिहास मेटैइयै"
+msgstr "ब्राउज़िंग इतिहास मेटाबोॅ"
 
 msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
