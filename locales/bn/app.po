@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-01 03:29+0000\n"
-"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
+"PO-Revision-Date: 2019-09-04 15:37+0000\n"
+"Last-Translator: sadi06888 <sadi06888@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
-msgstr ""
+msgstr "নতুন জিনিস আবিষ্কার করুন"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -455,7 +455,7 @@ msgstr ""
 #. websites from tracking you.
 msgctxt "first_run_page7_title"
 msgid "Prevent from being tracked"
-msgstr ""
+msgstr "ট্র্যাক হওয়া থেকে রোধ করুন"
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
@@ -500,11 +500,11 @@ msgstr "হোম স্ক্রিনে তাদের যোগ করু�
 #. Update tour for pin sites to home page
 msgctxt "second_run_upgrade_page_title"
 msgid "Pin your favorite sites"
-msgstr ""
+msgstr "আপনার পছন্দসই সাইটগুলো পিন করুন"
 
 msgctxt "second_run_upgrade_page_text"
 msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr ""
+msgstr "আপনি এখন যে কোনও শীর্ষ সাইট পিন করতে পারেন যাতে এটি সরানো না হয়। শুরুতে, আপনাকে চেষ্টা করার জন্য আমরা কয়েকটি শীর্ষ সাইট পিন করেছি।"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -993,17 +993,17 @@ msgstr "সাইট পিন করুন"
 #. Show a toast message when start downloading the new apk from google play.
 msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
-msgstr ""
+msgstr "সর্বশেষ বিল্ড ডাউনলোড করা হচ্ছে…"
 
 #. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
 msgid "Latest build has been downloaded. Tap to update."
-msgstr ""
+msgstr "সর্বশেষ বিল্ড ডাউনলোড করা হয়েছে। আপডেট করতে স্পর্শ করুন।"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
 msgid "Latest build downloaded"
-msgstr ""
+msgstr "সর্বশেষ বিল্ড ডাউনলোড হয়েছে"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
@@ -1238,7 +1238,7 @@ msgstr "সংবাদ"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "সর্বশেষ ও শীর্ষ ট্রেন্ডিং নিউজ"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
@@ -1254,7 +1254,7 @@ msgstr ""
 #. This is the dialog for choosing news language
 msgctxt "news_language_dialog_title"
 msgid "News language"
-msgstr ""
+msgstr "সংবাদ ভাষা"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1422,7 +1422,7 @@ msgstr "কৌতুক"
 #. partner.
 msgctxt "logo_text"
 msgid "Service provided by"
-msgstr ""
+msgstr "পরিষেবা সরবরাহ করেছেন"
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1464,13 +1464,13 @@ msgstr ""
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ট্র্যাকারগুলো ব্লক করা হয়েছে"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "অতিরিক্ত সুরক্ষা সহ ব্রাউজিং উপভোগ করুন।"
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
@@ -1488,7 +1488,7 @@ msgstr "হ্যাঁ"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
-msgstr ""
+msgstr "ব্যক্তিগত মোড শর্টকাট যুক্ত করুন"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
@@ -1512,7 +1512,7 @@ msgstr ""
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - ব্যক্তিগত ব্রাউজিং"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
