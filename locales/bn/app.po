@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-09-04 15:37+0000\n"
-"Last-Translator: sadi06888 <sadi06888@gmail.com>\n"
+"PO-Revision-Date: 2019-09-08 17:27+0000\n"
+"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -582,12 +582,12 @@ msgstr "প্রস্থান"
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
-msgstr ""
+msgstr "অবস্থান অনুমতি দেয়া হয়নি।"
 
 #. Message shown after user denied storage permission prompt.
 msgctxt "permission_toast_storage_deny"
 msgid "Storage permission is denied."
-msgstr ""
+msgstr "স্টোরেজ অনুমতি দেয়া হয়নি।"
 
 msgctxt "permission_handler_permission_dialog_setting"
 msgid "settings"
@@ -625,7 +625,7 @@ msgstr ""
 #, c-format
 msgctxt "geolocation_dialog_message_cache_it"
 msgid "Don’t ask again for this site until %1$s restarts"
-msgstr ""
+msgstr "%1$s রিস্টার্ট না হওয়া পর্যন্ত পুনরায় জিজ্ঞেস করবেন না"
 
 msgctxt "geolocation_dialog_allow"
 msgid "ALLOW"
@@ -711,7 +711,7 @@ msgstr "খুলুন"
 #. download status in the panel.
 msgctxt "menu_longpress_downloads"
 msgid "Long press to open Downloads"
-msgstr ""
+msgstr "ডাউনলোড খুলতে দীর্ঘক্ষণ চেপে ধরুন"
 
 #. Download status
 #. File download status is paused
@@ -1476,7 +1476,7 @@ msgstr "অতিরিক্ত সুরক্ষা সহ ব্রাউজ
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr ""
+msgstr "এক ক্লিকে ব্যক্তিগত মোড ব্যবহার করুন! নীড়ে ব্যক্তিগত মোড শর্টকাট যুক্ত করতে চান?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1492,7 +1492,7 @@ msgstr "ব্যক্তিগত মোড শর্টকাট যুক্
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
-msgstr ""
+msgstr "আপনার নীড় থেকে দ্রুত ব্যক্তিগত মোড ব্যবহার করুন।"
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
@@ -1505,7 +1505,7 @@ msgstr "হ্যাঁ, এখনই যোগ করুন!"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
+msgstr "আপনি পরবর্তিতে সেটিংসে ব্যক্তিগত মোড শর্টকাট যুক্ত করতে পারেন।"
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1518,7 +1518,7 @@ msgstr "%1$s - ব্যক্তিগত ব্রাউজিং"
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "নীড়ে ব্যক্তিগত মোড শর্টকাট যুক্ত করুন"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
@@ -1528,17 +1528,16 @@ msgstr "আপনার স্ক্রিনশটটি দেখুন!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
-#, fuzzy
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr ""
+msgstr "পণ্য ব্যবহারের অভিজ্ঞতা উন্নত করতে, আমরা আপনার স্ক্রিনশটগুলির বিষয়শ্রেণি সম্পর্কিত তথ্য সংগ্রহ করি।"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. Press "Yes, please" then direct users to download
 #. vpn app; Press "Nope" then hide the icon in home screen.
 msgctxt "btn_vpn"
 msgid "The 7-day free VPN service is ready for you. Install now to browse more privately and securely."
-msgstr ""
+msgstr "ফ্রি 7-দিনের VPN পরিষেবা আপনার জন্য প্রস্তুত। আরও ব্যক্তিগত এবং সুরক্ষিতভাবে ব্রাউজ করতে এখনই ইনস্টল করুন।"
 
 #. Message shown in Home Screen with an icon. Users can choose either they
 #. want this feature or not. We'll evaluate if we want to implement this
