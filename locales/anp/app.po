@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-09-07 06:43+0000\n"
+"PO-Revision-Date: 2019-09-09 08:27+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1277,35 +1277,35 @@ msgstr "गुजराती"
 
 msgctxt "news_language_dialog_option_malayalam"
 msgid "Malayalam"
-msgstr ""
+msgstr "मलयालम"
 
 msgctxt "news_language_dialog_option_tamil"
 msgid "Tamil"
-msgstr ""
+msgstr "तमिल"
 
 msgctxt "news_language_dialog_option_telugu"
 msgid "Telugu"
-msgstr ""
+msgstr "तेलुगू"
 
 msgctxt "news_language_dialog_option_urdu"
 msgid "Urdu"
-msgstr ""
+msgstr "उर्दू"
 
 msgctxt "news_language_dialog_option_nepali"
 msgid "Nepali"
-msgstr ""
+msgstr "नेपाली"
 
 msgctxt "news_language_dialog_option_asamiya"
 msgid "Asamiya"
-msgstr ""
+msgstr "असमिया"
 
 msgctxt "news_language_dialog_option_punjabi"
 msgid "Punjabi"
-msgstr ""
+msgstr "पंजाबी"
 
 msgctxt "news_language_dialog_option_bengali"
 msgid "Bengali"
-msgstr ""
+msgstr "बंगाली"
 
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
@@ -1342,19 +1342,19 @@ msgstr ""
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
-msgstr ""
+msgstr "क्रिकेट"
 
 msgctxt "news_category_option_sports"
 msgid "Sports"
-msgstr ""
+msgstr "खेलकूद"
 
 msgctxt "news_category_option_entertainment"
 msgid "Entertainment"
-msgstr ""
+msgstr "मनोरंजन"
 
 msgctxt "news_category_option_business"
 msgid "Business"
-msgstr ""
+msgstr "व्यापार"
 
 msgctxt "news_category_option_health"
 msgid "Health"
