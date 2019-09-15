@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-09-08 17:27+0000\n"
+"PO-Revision-Date: 2019-09-15 17:58+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
@@ -435,7 +435,7 @@ msgstr "পরবর্তী স্তরের গোপনীয়তা"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr ""
+msgstr "কোনও ট্রেস ছাড়াই ব্রাউজ করুন এবং ডিফল্টরূপে বিস্তৃত সাধারণ ওয়েব ট্র্যাকারকে ব্লক করুন। আপনার গোপনীয় তথ্য সুরক্ষা নিশ্চিত করুন।"
 
 msgctxt "first_run_page6_title"
 msgid "Discover new things"
@@ -449,7 +449,7 @@ msgstr "নতুন জিনিস আবিষ্কার করুন"
 #, c-format
 msgctxt "first_run_page6_text"
 msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
+msgstr "একটি মাত্র ফ্লিপ করুন, নিজেকে “%1$s” দিয়ে আপডেট রাখুন - সর্বাধিক জনপ্রিয় বিষয় থেকে হটেস্ট ডিলগুলিতে বিভিন্ন সামগ্রী। %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
