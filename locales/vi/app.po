@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-07-04 16:02+0800\n"
-"PO-Revision-Date: 2019-08-17 15:40+0000\n"
+"PO-Revision-Date: 2019-09-26 02:10+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -102,7 +102,7 @@ msgstr "Tìm kiếm kết quả trước đó"
 #. button in the "find in page" UI.
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr "Loại bỏ tìm kiếm trong trang"
+msgstr "Bỏ qua tìm kiếm trong trang"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Rocket and
@@ -133,7 +133,7 @@ msgstr "Quyền lợi của bạn / Giấy phép"
 
 msgctxt "about_link_privacy"
 msgid "Privacy Notice"
-msgstr "Chính sách riêng tư"
+msgstr "Thông báo bảo mật"
 
 #. Life Feed is an information panel covering content that might help our
 #. customers' life. It covers from the most popular topics to the hottest
