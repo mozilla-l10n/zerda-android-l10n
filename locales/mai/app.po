@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-04 16:02+0800\n"
+"POT-Creation-Date: 2019-10-09 22:20+0700\n"
 "PO-Revision-Date: 2018-08-08 01:02+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language: mai\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -467,10 +467,6 @@ msgctxt "first_run_page5_text"
 msgid ""
 "Browse without a trace, and block a wide range of common web trackers by "
 "default. Ensure the security of your confidential data."
-msgstr ""
-
-msgctxt "first_run_page6_title"
-msgid "Discover new things"
 msgstr ""
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
@@ -1317,13 +1313,15 @@ msgid "New update"
 msgstr ""
 
 #. Title of news preferences
+#, fuzzy
 msgctxt "title_news_preferences"
-msgid "News preferences"
+msgid "News Settings"
 msgstr ""
 
 #. This is the dialog for choosing news language
+#, fuzzy
 msgctxt "news_language_dialog_title"
-msgid "News language"
+msgid "Language"
 msgstr ""
 
 msgctxt "news_language_dialog_option_english"
@@ -1487,6 +1485,12 @@ msgctxt "news_category_option_jokes"
 msgid "Jokes"
 msgstr ""
 
+#. "Nation" is one of the news category meaning local news. Its position is
+#. same as Top-News/Technology/Education...
+msgctxt "news_category_option_nation"
+msgid "Nation"
+msgstr ""
+
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
 #. partner.
@@ -1605,56 +1609,6 @@ msgid ""
 "screenshots’ categories."
 msgstr ""
 
-#. Message shown in Home Screen with an icon. Users can choose either they
-#. want this feature or not. Press "Yes, please" then direct users to download
-#. vpn app; Press "Nope" then hide the icon in home screen.
-msgctxt "btn_vpn"
-msgid ""
-"The 7-day free VPN service is ready for you. Install now to browse more "
-"privately and securely."
-msgstr ""
-
-#. Message shown in Home Screen with an icon. Users can choose either they
-#. want this feature or not. We'll evaluate if we want to implement this
-#. feature base on the users' feedback.
-msgctxt "exp_survey_wifi"
-msgid ""
-"We plan to integrate “Free Wifi-Finder” to help you find quality free "
-"internet connection nearby.\n"
-"\n"
-" Interested?"
-msgstr ""
-
-#. Message shown in Home Screen with an icon. Users can choose either they
-#. want this feature or not. We'll evaluate if we want to implement this
-#. feature base on the users' feedback.
-msgctxt "exp_survey_vpn"
-msgid ""
-"We plan to integrate “VPN service” to get you more freedom and more "
-"privacy when browsing.\n"
-"\n"
-" Interested?"
-msgstr ""
-
-#. Message shown after the user chooses "YES, PLEASE" or "NOPE" on the survey.
-#. %1$s will be replaced with a smiling face with smiling eyes Emoji (U+1F60A)
-#, c-format
-msgctxt "exp_survey_thanks"
-msgid "Thank you for giving us feedback %1$s"
-msgstr ""
-
-#. Text on survey feedback button. This means the user want to have this
-#. feature.
-msgctxt "exp_survey_yes"
-msgid "YES, PLEASE"
-msgstr ""
-
-#. Text on survey feedback button. This means the user don't want this
-#. feature. "Nope" is an informal way to express "No".
-msgctxt "exp_survey_no"
-msgid "NOPE"
-msgstr ""
-
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
@@ -1677,5 +1631,608 @@ msgstr ""
 #. info page in the system setting
 msgctxt "low_priority_notification_channel"
 msgid "Hidden notifications"
+msgstr ""
+
+msgctxt "about_link_terms_of_service"
+msgid "Terms of Service"
+msgstr ""
+
+#. Shopping Vertical
+#. Artboard Name: 1.1 Shopping Search Overview
+#. Shopping Search Onboarding
+msgctxt "shopping_search_onboarding_title"
+msgid "Find great prices"
+msgstr ""
+
+#. Shopping Search Onboarding Message, and would need to localize "Smart
+#. Shopping Search"
+msgctxt "shopping_search_onboarding_body"
+msgid "Compare prices across many online stores with Smart Shopping Search."
+msgstr ""
+
+#. Shopping Search Input Placeholder
+msgctxt "shopping_search_placeholder"
+msgid "Type the product you want to search"
+msgstr ""
+
+#. Shopping Search Prompt Message, and would need to localize "Smart Shopping
+#. Search"
+msgctxt "shopping_search_prompt_message_body"
+msgid "Compare prices across many online stores with Smart Shopping Search."
+msgstr ""
+
+msgctxt "shopping_search_prompt_message_button"
+msgid "Search"
+msgstr ""
+
+#. Switch UI Onboarding
+msgctxt "shopping_switch_ui_onboarding_body"
+msgid ""
+"Tap the shopping sites below to browse more results, or tap this button "
+"to edit."
+msgstr ""
+
+msgctxt "shopping_switch_ui_onboarding_button"
+msgid "OK"
+msgstr ""
+
+#. Artboard Name: 2.2 Switch UI Preference Behaviors
+#. Switch UI Preferences
+msgctxt "shopping_switch_ui_preferences_title"
+msgid "Shopping Search Settings"
+msgstr ""
+
+msgctxt "shopping_switch_ui_preferences_subtitle"
+msgid "Sites to compare"
+msgstr ""
+
+#. Artboard Name: 3.1 Switch UI Navigation - Activity Switch
+#. Switch UI Tab Tray. %1$s is the keyword user input
+#, c-format
+msgctxt "shopping_switch_ui_tabtray_title"
+msgid "Shopping Search: “%1$s”"
+msgstr ""
+
+msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
+msgid "Shopping Search"
+msgstr ""
+
+#. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
+#. Closing dialog content.
+msgctxt "shopping_closing_dialog_close"
+msgid "Close All"
+msgstr ""
+
+msgctxt "shopping_closing_dialog_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "shopping_closing_dialog_body"
+msgid "Close all shopping search results?"
+msgstr ""
+
+#. Artboard Name: 4.1 Shopping Deals Overview
+#. Shopping Home
+msgctxt "shopping_vertical_title"
+msgid "Shopping"
+msgstr ""
+
+msgctxt "shopping_vertical_category_1"
+msgid "Deals"
+msgstr ""
+
+msgctxt "shopping_vertical_category_2"
+msgid "Coupons"
+msgstr ""
+
+msgctxt "shopping_vertical_category_3"
+msgid "Vouchers"
+msgstr ""
+
+#. Shopping Deals
+msgctxt "shopping_deal_subcategory_1"
+msgid "Top Rated"
+msgstr ""
+
+msgctxt "shopping_deal_subcategory_2"
+msgid "Best Sellers"
+msgstr ""
+
+#. Artboard Name: 5.2 Shopping Coupons Update
+#. Shopping Coupons
+msgctxt "shopping_coupon_expire_zero"
+msgid "Expired"
+msgstr ""
+
+msgctxt "shopping_coupon_expire_one"
+msgid "1 day left"
+msgstr ""
+
+#. %1$d is the decimal for how many days left till the shopping coupon expired.
+#, c-format
+msgctxt "shopping_coupon_expire_other"
+msgid "%1$d days left"
+msgstr ""
+
+#. Gaming Vertical
+#. Gaming Home
+msgctxt "gaming_vertical_title"
+msgid "Game"
+msgstr ""
+
+msgctxt "gaming_vertical_category_1"
+msgid "Instant play"
+msgstr ""
+
+msgctxt "gaming_vertical_category_2"
+msgid "Download to play"
+msgstr ""
+
+#. "New" is a small tag to let users know that it is a new game.
+msgctxt "gaming_vertical_new"
+msgid "New"
+msgstr ""
+
+#. Gaming Contextual Hint
+msgctxt "gaming_vertical_hint_title"
+msgid "Fast access to your favourite games"
+msgstr ""
+
+msgctxt "gaming_vertical_hint_body"
+msgid "Press to create a shortcut to your home screen."
+msgstr ""
+
+msgctxt "gaming_vertical_hint_button"
+msgid "OK"
+msgstr ""
+
+#. Gaming Longpress Menu
+msgctxt "gaming_vertical_menu_option_1"
+msgid "Share game"
+msgstr ""
+
+msgctxt "gaming_vertical_menu_option_2"
+msgid "Create shortcut on home screen"
+msgstr ""
+
+msgctxt "gaming_vertical_menu_option_3"
+msgid "Remove from list"
+msgstr ""
+
+#. Gaming Share Message. %1$s is the url of the game
+#, c-format
+msgctxt "gaming_vertical_share_message"
+msgid ""
+"I’m playing a really cool game. Check it out!\n"
+"%1$s"
+msgstr ""
+
+#. Gaming Genres
+msgctxt "gaming_vertical_genre_1"
+msgid "Recently played"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_2"
+msgid "Game of the week"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_3"
+msgid "My game"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_4"
+msgid "Most played"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_5"
+msgid "Offline games"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_6"
+msgid "Strategy"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_7"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_8"
+msgid "Action"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_9"
+msgid "Arcade"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_10"
+msgid "Puzzle & Logic"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_11"
+msgid "Sports & Racing"
+msgstr ""
+
+msgctxt "gaming_vertical_genre_12"
+msgid "Girls"
+msgstr ""
+
+#. Home 2.0
+#. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
+#. replaced with the name of the app (e.g. Firefox Lite)
+#, c-format
+msgctxt "onboarding_2_introduction_title"
+msgid "Brand-new %1$s"
+msgstr ""
+
+msgctxt "onboarding_2_introduction_description"
+msgid ""
+"Remain Fast and Lightweight. We added smart shopping search and content "
+"to make internet browsing more fun and enjoyable!"
+msgstr ""
+
+#. Onboarding for new users to introduce Firefox Lite 2.0
+#. Introduce Content & Services
+msgctxt "onboarding_2_content_services_news_shopping_games"
+msgid ""
+"Tap to read the trendy news, find good deals or play the hottest free "
+"games to have fun!"
+msgstr ""
+
+msgctxt "onboarding_2_content_services_news_games"
+msgid "Tap to read the trendy news or play the hottest free games to have fun!"
+msgstr ""
+
+msgctxt "onboarding_2_content_services_games"
+msgid "Tap to play the hottest free games to have fun!"
+msgstr ""
+
+#. Introduce Smart Shopping Search
+msgctxt "onboarding_2_smart_shopping_search_title"
+msgid "Smart Shopping Search"
+msgstr ""
+
+msgctxt "onboarding_2_smart_shopping_search_description"
+msgid "Comparing prices across different online stores is super easy, try it now!"
+msgstr ""
+
+msgctxt "home_search_bar_text"
+msgid "Search…"
+msgstr ""
+
+#. Content & Services
+#. Title of Content & Services
+msgctxt "home_content_services"
+msgid "Content & Services"
+msgstr ""
+
+msgctxt "home_discovery"
+msgid "Discovery"
+msgstr ""
+
+#. Actions in context menu. Users can long press an item then show the context
+#. menu to select an action
+msgctxt "content_home_context_menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
+msgctxt "content_home_context_menu_share_link"
+msgid "Share link"
+msgstr ""
+
+#. Error message. E.g. when open a service and server is not working then show
+#. error message to users
+msgctxt "content_home_error_message"
+msgid ""
+"Oops!\n"
+"Something went wrong"
+msgstr ""
+
+#. Private mode home 2.0
+#. Title of Private mode
+msgctxt "private_home_title"
+msgid "Advanced Private Browsing"
+msgstr ""
+
+#. Description of Private mode
+msgctxt "private_home_description"
+msgid ""
+"Now you can browse privately, no history, no passwords recorded and other"
+" people who use this device won’t see your activity.\n"
+"\n"
+"Our Advanced Private Browsing can even <font color=\"white\">prevent you "
+"from being tracked</font> by advertisers and websites, which most private"
+" modes cannot."
+msgstr ""
+
+#. MSRP Vertical
+#. Logoman
+#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
+#. placeholder for "shopping site"
+#, c-format
+msgctxt "msrp_logoman_message"
+msgid "Win %1$s %2$s voucher"
+msgstr ""
+
+#. Contextual hint
+#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
+#. placeholder for "shopping site"
+#, c-format
+msgctxt "msrp_home_hint"
+msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
+msgstr ""
+
+#. Reward
+msgctxt "msrp_reward_title"
+msgid "Reward"
+msgstr ""
+
+msgctxt "msrp_reward_category_1"
+msgid "Mission"
+msgstr ""
+
+msgctxt "msrp_reward_category_2"
+msgid "Gift"
+msgstr ""
+
+msgctxt "msrp_reward_challenge_title"
+msgid "Try Shopping, News, Game for 7 days in a row!"
+msgstr ""
+
+#. The %1$s here is a placeholder for "date"
+#, c-format
+msgctxt "msrp_reward_challenge_expire"
+msgid "Expires %1$s"
+msgstr ""
+
+#. Challenge
+#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
+#. placeholder for "shopping site"
+#, c-format
+msgctxt "msrp_challenge_title"
+msgid "7-day challenge for %1$s %2$s voucher"
+msgstr ""
+
+msgctxt "msrp_challenge_details_title_1"
+msgid "1. Join the 7-Day challenge"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Firefox Lite"
+#, c-format
+msgctxt "msrp_challenge_details_body_1"
+msgid ""
+"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
+"seven days in a row."
+msgstr ""
+
+msgctxt "msrp_challenge_details_title_2"
+msgid "2. Use your Firefox account to redeem your reward"
+msgstr ""
+
+msgctxt "msrp_challenge_details_body_2"
+msgid ""
+"Enter your email address to get started. Make sure you sign in to the "
+"account you want to use before you complete your redemption."
+msgstr ""
+
+#. "I'm In!" is a button where users can press to join the reward program
+msgctxt "msrp_challenge_button_1"
+msgid "I’m In!"
+msgstr ""
+
+msgctxt "msrp_challenge_tou"
+msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
+msgstr ""
+
+#. "Leave mission" is a button for users to exit the reward program
+msgctxt "msrp_challenge_button_2"
+msgid "Leave mission"
+msgstr ""
+
+#. "How to redeem" is the title for a section to let users know how to redeem
+#. the voucher
+msgctxt "msrp_challenge_separator"
+msgid "How to redeem"
+msgstr ""
+
+msgctxt "msrp_challenge_button_4"
+msgid "Use Firefox account to redeem"
+msgstr ""
+
+#. Challenge (Leaving confirmation)
+msgctxt "msrp_challenge_leaving_body"
+msgid "All your progress will be deleted. Are you sure?"
+msgstr ""
+
+msgctxt "msrp_challenge_leaving_button_1"
+msgid "CANCEL"
+msgstr ""
+
+msgctxt "msrp_challenge_leaving_button_2"
+msgid "LEAVE"
+msgstr ""
+
+#. Challenge  completed (popup)
+msgctxt "msrp_completed_popup_title"
+msgid "Congtratulations!"
+msgstr ""
+
+msgctxt "msrp_completed_popup_body"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+
+msgctxt "msrp_completed_popup_button1"
+msgid "Use Firefox account to redeem"
+msgstr ""
+
+msgctxt "msrp_completed_popup_button2"
+msgid "Later"
+msgstr ""
+
+#. Challenge completed (full screen)
+msgctxt "msrp_challenge_completed_title"
+msgid "Congtratulations!"
+msgstr ""
+
+msgctxt "msrp_challenge_completed_body"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+
+msgctxt "msrp_challenge_button_5"
+msgid "Redeem later"
+msgstr ""
+
+#. Voucher
+#. The %1$s here is a placeholder for "shopping site"
+#, c-format
+msgctxt "msrp_voucher_title"
+msgid "Your %1$s voucher is ready!"
+msgstr ""
+
+msgctxt "msrp_voucher_body_1"
+msgid ""
+"Voucher is valid for a limited time only. We reserve the right to modify "
+"or cancel voucher at any time."
+msgstr ""
+
+msgctxt "msrp_voucher_body_2"
+msgid ""
+"We reserve the right, at its sole discretion, to change, modify, add or "
+"remove portions of these Terms of Use, at any time."
+msgstr ""
+
+#. The %1$s here is a placeholder for "date"
+#, c-format
+msgctxt "msrp_voucher_expire"
+msgid "Expires %1$s"
+msgstr ""
+
+msgctxt "msrp_voucher_button_2"
+msgid "Voucher can only be applied through this URL below:"
+msgstr ""
+
+msgctxt "msrp_voucher_button_1"
+msgid "Copy"
+msgstr ""
+
+msgctxt "msrp_voucher_toast"
+msgid "Voucher code copied"
+msgstr ""
+
+#. Redeem
+msgctxt "msrp_reward_redeem_redeem"
+msgid "Redeem"
+msgstr ""
+
+msgctxt "msrp_reward_redeem_voucher"
+msgid "Voucher"
+msgstr ""
+
+#. Suspicious account activity
+msgctxt "msrp_disqualification_title_1"
+msgid "Warning: multiple Firefox accounts detected"
+msgstr ""
+
+msgctxt "msrp_disqualification_body_1"
+msgid ""
+"Only one Firefox account may be used to participate in the 7-Day "
+"challenge. If you switch and use another account, you will be "
+"disqualified from this challenge."
+msgstr ""
+
+msgctxt "msrp_disqualification_button_1"
+msgid "I understand"
+msgstr ""
+
+msgctxt "msrp_disqualification_title_2"
+msgid "Final warning: multiple Firefox accounts detected"
+msgstr ""
+
+msgctxt "msrp_disqualification_title_3"
+msgid "Account disabled"
+msgstr ""
+
+msgctxt "msrp_disqualification_body_3"
+msgid "You can no longer participate in the 7-Day challenge."
+msgstr ""
+
+msgctxt "msrp_disqualification_button_3"
+msgid "Close"
+msgstr ""
+
+#. Check-in toasts for each day
+msgctxt "msrp_completed_toast_day1"
+msgid "Great! You have successfully completed your first daily challenge!"
+msgstr ""
+
+msgctxt "msrp_completed_toast_day2"
+msgid "Cool! You have completed the second daily challenge!"
+msgstr ""
+
+msgctxt "msrp_completed_toast_day3"
+msgid "Awesome! You have completed the third daily challenge, keep it up!"
+msgstr ""
+
+msgctxt "msrp_completed_toast_day4"
+msgid "Congrats! You have completed the fourth daily challenge!"
+msgstr ""
+
+msgctxt "msrp_completed_toast_day5"
+msgid "Terrific! You have completed the fifth daily challenge!"
+msgstr ""
+
+msgctxt "msrp_completed_toast_day6"
+msgid "Wow! You are just one day away from getting the voucher!"
+msgstr ""
+
+#. The %1$s here is a placeholder for "Firefox Lite"
+#, c-format
+msgctxt "msrp_completed_toast_day7"
+msgid ""
+"You’ve completed the challenge! Please go back to %1$s Home to redeem "
+"your voucher!"
+msgstr ""
+
+#. Notifications for last 3 days
+#. The %1$s here is a placeholder for "shopping site"
+#, c-format
+msgctxt "msrp_notification_reminder"
+msgid ""
+"Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game "
+"today!"
+msgstr ""
+
+#. No data
+msgctxt "msrp_reward_challenge_nodata"
+msgid "All challenges completed"
+msgstr ""
+
+msgctxt "msrp_reward_redeem_nodata"
+msgid "All rewards collected"
+msgstr ""
+
+#. Error messages
+msgctxt "msrp_reward_challenge_nointernet"
+msgid "Make sure you are connected to the internet"
+msgstr ""
+
+msgctxt "msrp_reward_challenge_error_button"
+msgid "TRY AGAIN"
+msgstr ""
+
+msgctxt "msrp_reward_challenge_error"
+msgid "Oops! Something went wrong"
+msgstr ""
+
+#. Activity killed
+msgctxt "msrp_activitykilled_snackbar_button"
+msgid "REDEEM"
+msgstr ""
+
+msgctxt "msrp_activitykilled_snackbar_body"
+msgid "You’ve won a shopping voucher!"
 msgstr ""
 
