@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-04 21:55+0800\n"
+"POT-Creation-Date: 2019-10-09 22:20+0700\n"
 "PO-Revision-Date: 2019-07-06 11:55+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_Hant_TW\n"
@@ -1446,6 +1446,8 @@ msgctxt "news_category_option_jokes"
 msgid "Jokes"
 msgstr "笑話"
 
+#. "Nation" is one of the news category meaning local news. Its position is
+#. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
 msgstr ""
@@ -1602,6 +1604,8 @@ msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
 msgstr ""
 
+#. Shopping Search Onboarding Message, and would need to localize "Smart
+#. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
 msgstr ""
@@ -1611,7 +1615,8 @@ msgctxt "shopping_search_placeholder"
 msgid "Type the product you want to search"
 msgstr ""
 
-#. Shopping Search Prompt Message
+#. Shopping Search Prompt Message, and would need to localize "Smart Shopping
+#. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
 msgstr ""
@@ -1703,6 +1708,7 @@ msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
 msgstr ""
 
+#. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
@@ -1722,6 +1728,7 @@ msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
 msgstr ""
 
+#. "New" is a small tag to let users know that it is a new game.
 msgctxt "gaming_vertical_new"
 msgid "New"
 msgstr ""
@@ -1849,7 +1856,7 @@ msgid "Comparing prices across different online stores is super easy, try it now
 msgstr ""
 
 msgctxt "home_search_bar_text"
-msgid "Search..."
+msgid "Search…"
 msgstr ""
 
 #. Content & Services
@@ -1967,6 +1974,7 @@ msgid ""
 "account you want to use before you complete your redemption."
 msgstr ""
 
+#. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
 msgstr ""
@@ -1975,10 +1983,13 @@ msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
 msgstr ""
 
+#. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
 msgstr ""
 
+#. "How to redeem" is the title for a section to let users know how to redeem
+#. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
 msgstr ""
@@ -2065,6 +2076,10 @@ msgstr ""
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
+msgstr ""
+
+msgctxt "msrp_voucher_toast"
+msgid "Voucher code copied"
 msgstr ""
 
 #. Redeem
