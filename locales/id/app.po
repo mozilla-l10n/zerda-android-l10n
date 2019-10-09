@@ -1851,6 +1851,8 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"Ups!\n"
+"Terjadi kesalahan"
 
 #. Private mode home 2.0
 #. Title of Private mode
