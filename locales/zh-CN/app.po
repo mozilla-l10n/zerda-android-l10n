@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 15:36+0000\n"
+"PO-Revision-Date: 2019-10-10 15:40+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1906,7 +1906,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for %1$s %2$s voucher"
-msgstr ""
+msgstr "连续使用七日，赢取%1$s %2$s 代金券"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "1. Join the 7-Day challenge"
@@ -1929,16 +1929,16 @@ msgstr ""
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "我要參加！"
 
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
-msgstr ""
+msgstr "点击“我要参加！”即代表您同意我们的使用条款"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "离开任务"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
@@ -1948,7 +1948,7 @@ msgstr "如何兑换"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "使用 Firefox 账户兑换"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
