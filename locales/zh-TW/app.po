@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 14:29+0000\n"
+"PO-Revision-Date: 2019-10-10 14:49+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1488,7 +1488,7 @@ msgstr "新增隱私瀏覽模式捷徑"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
-msgstr "從裝置只畫面快速開啟隱私瀏覽模式。"
+msgstr "從裝置主畫面快速開啟隱私瀏覽模式。"
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
@@ -1578,7 +1578,7 @@ msgstr "輸入您想要搜尋的產品"
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "使用智慧購物搜尋功能來在不同購物網站之間比價。"
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1587,7 +1587,7 @@ msgstr "搜尋"
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "點擊下面的購物網站來瀏覽更多結果，或點擊此按鈕進行編輯。"
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1636,7 +1636,7 @@ msgstr "購物"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
-msgstr ""
+msgstr "促銷優惠"
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
@@ -1783,21 +1783,21 @@ msgstr "全新 %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "一如往常的快速而輕量。我們加入了智慧購物搜尋功能與內容，讓上網變得更好玩有趣！"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "點擊即可閱讀熱門新聞、尋找優惠折扣，或者玩最熱門的免費遊戲！"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr ""
+msgstr "點擊即可閱讀熱門新聞，或玩最熱門的免費遊戲！"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "點擊此處即可玩最熱門的免費遊戲！"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1853,6 +1853,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"現在起，您上網可以保持私密，不會留下上網紀錄、登入密碼，其他使用這台裝置的人也不會知道您曾經開過哪些網站。\n"
+"\n"
+"我們的進階隱私瀏覽功能，甚至可以<font color=\"white\">保護您不被廣告商或網站追蹤</font>，這是其他大部分隱私模式做不到的。"
 
 #. MSRP Vertical
 #. Logoman
@@ -1996,11 +1999,11 @@ msgstr "您的 %1$s 兌換券準備好了！"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr ""
+msgstr "兌換券有使用效期，我們保留隨時修改或取消兌換券的權利。"
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "我們保留隨時自行修改、調整、新增或刪除使用條款任一部分的權力。"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2010,7 +2013,7 @@ msgstr "過期於 %1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
-msgstr ""
+msgstr "兌換券需透過下列網址兌換方可生效:"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2036,7 +2039,7 @@ msgstr "警告: 偵測到多個 Firefox 帳號"
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "僅能使用一組 Firefox 帳號參與七天挑戰賽。若切換使用其他帳號，將失去參加挑戰的資格。"
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2061,40 +2064,40 @@ msgstr "關閉"
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "讚！您完成了第一天的挑戰！"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "酷！您完成了第二天的挑戰！"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "優秀！您已完成第三天的挑戰，繼續加油！"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "恭喜！您已完成第四天的挑戰！"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "超棒！您已完成第五天的挑戰！"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "哇！只差一天就能獲得兌換券了！"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
 msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr ""
+msgstr "您已完成挑戰！回到 %1$s 首頁即可使用兌換券！"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "shopping site"
 #, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
+msgstr "想要贏得 %1$s 兌換券嗎？別忘記來試用購物、新聞、遊戲功能！"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
