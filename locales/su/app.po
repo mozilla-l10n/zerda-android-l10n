@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 06:29+0000\n"
+"PO-Revision-Date: 2019-10-10 07:30+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1595,12 +1595,12 @@ msgstr "Bandingkeun harga di toko-toko onlén maké Smart Search Search."
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "Paluruh"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "Toél loka balanja di handap pikeun maluruh hasil leuwih loba, atawa toél ieu tombol pikeun ngédit."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
