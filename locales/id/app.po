@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 11:51+0000\n"
+"PO-Revision-Date: 2019-10-10 12:05+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -2070,7 +2070,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
