@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 07:30+0000\n"
+"PO-Revision-Date: 2019-10-10 07:51+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1604,113 +1604,113 @@ msgstr "Toél loka balanja di handap pikeun maluruh hasil leuwih loba, atawa to�
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "Heug"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "Setélan Maluruh Balanja"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
-msgstr ""
+msgstr "Loka pikeun babandingan"
 
 #. Artboard Name: 3.1 Switch UI Navigation - Activity Switch
 #. Switch UI Tab Tray. %1$s is the keyword user input
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "Maluruh Balanja: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "Maluruh Balanja"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
 msgctxt "shopping_closing_dialog_close"
 msgid "Close All"
-msgstr ""
+msgstr "Tutup kabéh"
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Bolay"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
-msgstr ""
+msgstr "Tutup sakabéh hasil maluruh balanja?"
 
 #. Artboard Name: 4.1 Shopping Deals Overview
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr ""
+msgstr "Balanja"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
-msgstr ""
+msgstr "Tawaran"
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
-msgstr ""
+msgstr "Kupon"
 
 msgctxt "shopping_vertical_category_3"
 msgid "Vouchers"
-msgstr ""
+msgstr "Pocer"
 
 #. Shopping Deals
 msgctxt "shopping_deal_subcategory_1"
 msgid "Top Rated"
-msgstr ""
+msgstr "Barang Alus"
 
 msgctxt "shopping_deal_subcategory_2"
 msgid "Best Sellers"
-msgstr ""
+msgstr "Pangpayuna"
 
 #. Artboard Name: 5.2 Shopping Coupons Update
 #. Shopping Coupons
 msgctxt "shopping_coupon_expire_zero"
 msgid "Expired"
-msgstr ""
+msgstr "Kadaluwarsa"
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "1 poé deui"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "%1$d poé deui"
 
 #. Gaming Vertical
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr ""
+msgstr "Kaulinan"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
-msgstr ""
+msgstr "Maén saharita"
 
 msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
-msgstr ""
+msgstr "Unduh pikeun maén"
 
 #. "New" is a small tag to let users know that it is a new game.
 msgctxt "gaming_vertical_new"
 msgid "New"
-msgstr ""
+msgstr "Anyar"
 
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr ""
+msgstr "Aksés gancang ka kaulinan karesep"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
-msgstr ""
+msgstr "Pencét pikeun nyieun tarabas ka layar tepas."
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
