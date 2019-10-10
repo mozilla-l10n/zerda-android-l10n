@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 11:03+0000\n"
+"PO-Revision-Date: 2019-10-10 11:26+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1558,7 +1558,7 @@ msgstr "隐藏通知"
 
 msgctxt "about_link_terms_of_service"
 msgid "Terms of Service"
-msgstr ""
+msgstr "服务条款"
 
 #. Shopping Vertical
 #. Artboard Name: 1.1 Shopping Search Overview
@@ -1586,7 +1586,7 @@ msgstr ""
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
@@ -1595,13 +1595,13 @@ msgstr ""
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "好"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "购物搜索设置"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
@@ -1622,11 +1622,11 @@ msgstr ""
 #. Closing dialog content.
 msgctxt "shopping_closing_dialog_close"
 msgid "Close All"
-msgstr ""
+msgstr "关闭全部"
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
@@ -1636,7 +1636,7 @@ msgstr ""
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr ""
+msgstr "购物"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
@@ -1644,42 +1644,42 @@ msgstr ""
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
-msgstr ""
+msgstr "优惠券"
 
 msgctxt "shopping_vertical_category_3"
 msgid "Vouchers"
-msgstr ""
+msgstr "代金券"
 
 #. Shopping Deals
 msgctxt "shopping_deal_subcategory_1"
 msgid "Top Rated"
-msgstr ""
+msgstr "评分最高"
 
 msgctxt "shopping_deal_subcategory_2"
 msgid "Best Sellers"
-msgstr ""
+msgstr "最畅销"
 
 #. Artboard Name: 5.2 Shopping Coupons Update
 #. Shopping Coupons
 msgctxt "shopping_coupon_expire_zero"
 msgid "Expired"
-msgstr ""
+msgstr "已过期"
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "仅剩 1 天"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "还剩 %1$d 天"
 
 #. Gaming Vertical
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
@@ -1697,7 +1697,7 @@ msgstr ""
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr ""
+msgstr "快速访问您喜欢的游戏"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
@@ -1705,20 +1705,20 @@ msgstr ""
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "好"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr ""
+msgstr "分享游戏"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
-msgstr ""
+msgstr "在主屏幕创建快捷方式"
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr ""
+msgstr "从列表中移除"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1731,51 +1731,51 @@ msgstr ""
 #. Gaming Genres
 msgctxt "gaming_vertical_genre_1"
 msgid "Recently played"
-msgstr ""
+msgstr "最近玩过"
 
 msgctxt "gaming_vertical_genre_2"
 msgid "Game of the week"
-msgstr ""
+msgstr "本周游戏"
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
-msgstr ""
+msgstr "我的游戏"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
-msgstr ""
+msgstr "玩得最多"
 
 msgctxt "gaming_vertical_genre_5"
 msgid "Offline games"
-msgstr ""
+msgstr "离线游戏"
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
-msgstr ""
+msgstr "策略"
 
 msgctxt "gaming_vertical_genre_7"
 msgid "Adventure"
-msgstr ""
+msgstr "冒险"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr ""
+msgstr "动作"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr ""
+msgstr "街机"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
-msgstr ""
+msgstr "拼图﹠逻辑"
 
 msgctxt "gaming_vertical_genre_11"
 msgid "Sports & Racing"
-msgstr ""
+msgstr "体育﹠赛车"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
+msgstr "女孩"
 
 #. Home 2.0
 #. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
@@ -1783,7 +1783,7 @@ msgstr ""
 #, c-format
 msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
-msgstr ""
+msgstr "全新 %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
@@ -1814,27 +1814,27 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "搜索…"
 
 #. Content & Services
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr ""
+msgstr "内容﹠服务"
 
 msgctxt "home_discovery"
 msgid "Discovery"
-msgstr ""
+msgstr "发现"
 
 #. Actions in context menu. Users can long press an item then show the context
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "添加到主屏幕"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
-msgstr ""
+msgstr "分享链接"
 
 #. Error message. E.g. when open a service and server is not working then show
 #. error message to users
@@ -1843,12 +1843,14 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"哎呀！\n"
+"某处出错了"
 
 #. Private mode home 2.0
 #. Title of Private mode
 msgctxt "private_home_title"
 msgid "Advanced Private Browsing"
-msgstr ""
+msgstr "高级隐私浏览"
 
 #. Description of Private mode
 msgctxt "private_home_description"
@@ -1878,15 +1880,15 @@ msgstr ""
 #. Reward
 msgctxt "msrp_reward_title"
 msgid "Reward"
-msgstr ""
+msgstr "奖励"
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "任务"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "礼品"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
@@ -1942,7 +1944,7 @@ msgstr ""
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr ""
+msgstr "如何兑换"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
@@ -1955,16 +1957,16 @@ msgstr ""
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
-msgstr ""
+msgstr "取消"
 
 msgctxt "msrp_challenge_leaving_button_2"
 msgid "LEAVE"
-msgstr ""
+msgstr "离开"
 
 #. Challenge  completed (popup)
 msgctxt "msrp_completed_popup_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "恭喜您！"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
@@ -1976,12 +1978,12 @@ msgstr ""
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
-msgstr ""
+msgstr "稍后"
 
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "恭喜您！"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
@@ -1989,7 +1991,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "稍后兑换"
 
 #. Voucher
 #. The %1$s here is a placeholder for "shopping site"
@@ -2010,41 +2012,41 @@ msgstr ""
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "过期时间：%1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
-msgstr ""
+msgstr "代金券只能用于以下网址："
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 msgctxt "msrp_voucher_toast"
 msgid "Voucher code copied"
-msgstr ""
+msgstr "已复制代金券码"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "兑换"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
-msgstr ""
+msgstr "代金券"
 
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
 msgid "Warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "警告：检测到多个 Firefox 账户"
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "只可使用 1 个 Firefox 账户参加“七日挑战赛”。若切换使用其他账户，您将失去参加此次挑战赛的资格。"
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
-msgstr ""
+msgstr "我知道了"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
@@ -2060,7 +2062,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
@@ -2116,17 +2118,17 @@ msgstr ""
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "再试一次"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
-msgstr ""
+msgstr "啊呀！出错了"
 
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr ""
+msgstr "兑换"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
-msgstr ""
+msgstr "您赢得了一张代金券！"
