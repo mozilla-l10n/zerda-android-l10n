@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-10 15:40+0000\n"
+"PO-Revision-Date: 2019-10-11 00:36+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1787,21 +1787,21 @@ msgstr "全新 %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "一如既往的轻快。我们增加了智能购物搜索与内容，让网络浏览更愉快有趣！"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "点击即可阅读热门新闻、寻找优惠折扣，或者玩最火的免费游戏！"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr ""
+msgstr "点击即可阅读热门新闻，或玩最火的免费游戏！"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "点击此处即可玩最火的免费游戏！"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1810,7 +1810,7 @@ msgstr "智能购物搜索"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr ""
+msgstr "在不同电商间比价相当简单，现在就试试看！"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1875,7 +1875,7 @@ msgstr "赢取 %1$s %2$s 代金券"
 #, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
-msgstr ""
+msgstr "每天使用购物、新闻、游戏功能，即可赢取 %1$s %2$s 代金券"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1892,13 +1892,13 @@ msgstr "礼品"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "连续七天使用购物、新闻、游戏功能！"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "过期时间：%1$s"
 
 #. Challenge
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
@@ -1916,7 +1916,7 @@ msgstr "1. 加入七日挑战赛"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "连续七天点击 %1$s 主页中的购物、新闻、游戏功能。"
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "2. Use your Firefox account to redeem your reward"
