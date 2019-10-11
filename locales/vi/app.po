@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-11 02:31+0000\n"
+"PO-Revision-Date: 2019-10-11 04:26+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -1245,16 +1245,14 @@ msgid "New update"
 msgstr "Cập nhật mới"
 
 #. Title of news preferences
-#, fuzzy
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr "Tùy chỉnh tin tức"
+msgstr "Cài đặt tin tức"
 
 #. This is the dialog for choosing news language
-#, fuzzy
 msgctxt "news_language_dialog_title"
 msgid "Language"
-msgstr "Ngôn ngữ tin tức"
+msgstr "Ngôn ngữ"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1875,7 +1873,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win %1$s %2$s voucher"
-msgstr ""
+msgstr "Giành phiếu mua hàng %1$s %2$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
@@ -1883,7 +1881,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
-msgstr ""
+msgstr "Hãy thử mua sắm, tin tức, trò chơi hàng ngày để giành được phiếu giảm giá %1$s %2$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1900,13 +1898,13 @@ msgstr "Quà tặng"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "Hãy thử mua sắm, tin tức, trò chơi trong 7 ngày liên tiếp!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Hết hạn vào %1$s"
 
 #. Challenge
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
@@ -1914,54 +1912,54 @@ msgstr ""
 #, c-format
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for %1$s %2$s voucher"
-msgstr ""
+msgstr "Thử thách 7 ngày đối với phiếu mua hàng %1$s %2$s"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "1. Join the 7-Day challenge"
-msgstr ""
+msgstr "1. Tham gia thử thách 7 ngày"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "Hãy thử mua sắm, tin tức, trò chơi trên trang chủ %1$s bằng cách nhấp vào các nút trong bảy ngày liên tiếp."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "2. Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "2. Sử dụng tài khoản Firefox của bạn để đổi phần thưởng của bạn"
 
 msgctxt "msrp_challenge_details_body_2"
 msgid "Enter your email address to get started. Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "Nhập địa chỉ email của bạn để bắt đầu. Đảm bảo bạn đăng nhập vào tài khoản bạn muốn sử dụng trước khi hoàn tất việc đổi quà."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "Tôi đã sẵn sàng!"
 
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
-msgstr ""
+msgstr "Bằng cách nhấp vào “Tôi đã sẵn sàng” bạn đã đồng ý với điều khoản sử dụng của chúng tôi"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "Rời nhiệm vụ"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr ""
+msgstr "Làm thế nào để đổi quà"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "Sử dụng tài khoản Firefox để đổi quà"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
 msgid "All your progress will be deleted. Are you sure?"
-msgstr ""
+msgstr "Tất cả tiến độ của bạn sẽ bị xóa. Bạn có chắc không?"
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
@@ -1974,155 +1972,155 @@ msgstr "RỜI KHỎI"
 #. Challenge  completed (popup)
 msgctxt "msrp_completed_popup_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "Chúc mừng!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Cảm ơn bạn đã thử một số tính năng mới của chúng tôi. Chúng tôi hy vọng bạn thích sử dụng chúng!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "Sử dụng tài khoản Firefox để đổi quà"
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
-msgstr ""
+msgstr "Để sau"
 
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "Chúc mừng!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Cảm ơn bạn đã thử một số tính năng mới của chúng tôi. Chúng tôi hy vọng bạn thích sử dụng chúng!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "Đổi quà sau"
 
 #. Voucher
 #. The %1$s here is a placeholder for "shopping site"
 #, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s voucher is ready!"
-msgstr ""
+msgstr "Phiếu giảm giá %1$s của bạn đã sẵn sàng!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr ""
+msgstr "Phiếu mua hàng chỉ có giá trị trong một thời gian giới hạn. Chúng tôi có quyền sửa đổi hoặc hủy bỏ phiếu bất cứ lúc nào."
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "Chúng tôi bảo lưu quyền, theo quyết định riêng của mình, để thay đổi, sửa đổi, thêm hoặc xóa các phần của điều khoản sử dụng này bất cứ lúc nào."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Hết hạn vào %1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
-msgstr ""
+msgstr "Phiếu mua hàng chỉ có thể được áp dụng thông qua URL này dưới đây:"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 msgctxt "msrp_voucher_toast"
 msgid "Voucher code copied"
-msgstr ""
+msgstr "Đã sao chép mã phiếu mua hàng"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "Đổi quà"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
-msgstr ""
+msgstr "Phiếu mua hàng"
 
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
 msgid "Warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "Cảnh báo: đã phát hiện nhiều tài khoản Firefox"
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "Chỉ một tài khoản Firefox có thể được sử dụng để tham gia thử thách 7 ngày. Nếu bạn chuyển đổi và sử dụng tài khoản khác, bạn sẽ bị loại khỏi thử thách này."
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
-msgstr ""
+msgstr "Tôi hiểu"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "Cảnh báo cuối cùng: đã phát hiện nhiều tài khoản Firefox"
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
-msgstr ""
+msgstr "Tài khoản đã bị vô hiệu hóa"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
-msgstr ""
+msgstr "Bạn không còn có thể tham gia vào thử thách 7 ngày."
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "Tuyệt quá! Bạn đã hoàn thành thành công thử thách hàng ngày đầu tiên của bạn!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "Tuyệt! Bạn đã hoàn thành thử thách hàng ngày thứ hai!"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "Tuyệt vời! Bạn đã hoàn thành thử thách hàng ngày thứ ba, hãy tiếp tục!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "Chúc mừng! Bạn đã hoàn thành thử thách hàng ngày thứ tư!"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "Quá khủng khiếp! Bạn đã hoàn thành thử thách hàng ngày thứ năm!"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "Wow! Bạn chỉ còn một ngày nữa là nhận được phiếu mua hàng!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
 msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr ""
+msgstr "Bạn đã hoàn thành thử thách! Vui lòng quay lại trang chủ %1$s để đổi phiếu mua hàng của bạn!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "shopping site"
 #, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
+msgstr "Bạn muốn giành phiếu giảm giá %1$s? Đừng quên thử mua sắm, tin tức, trò chơi ngay hôm nay!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr ""
+msgstr "Đã hoàn thành tất cả các thử thách"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
-msgstr ""
+msgstr "Đã thu thập tất cả các phần thưởng"
 
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "Hãy chắc chắn rằng bạn đã kết nối với internet"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
