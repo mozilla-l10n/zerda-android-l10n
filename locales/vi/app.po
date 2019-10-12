@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-11 04:26+0000\n"
+"PO-Revision-Date: 2019-10-12 04:00+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -1569,13 +1569,13 @@ msgstr "Điều khoản dịch vụ"
 #. Shopping Search Onboarding
 msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
-msgstr ""
+msgstr "Tìm giá tốt"
 
 #. Shopping Search Onboarding Message, and would need to localize "Smart
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "So sánh giá trên nhiều cửa hàng trực tuyến với Tìm kiếm mua sắm thông minh."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -1586,7 +1586,7 @@ msgstr "Nhập sản phẩm bạn muốn tìm kiếm"
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "So sánh giá trên nhiều cửa hàng trực tuyến với Tìm kiếm mua sắm thông minh."
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1789,11 +1789,11 @@ msgstr ""
 #, c-format
 msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
-msgstr ""
+msgstr "%1$s hoàn toàn mới"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "Vẫn nhanh và nhẹ. Chúng tôi đã thêm tìm kiếm và nội dung mua sắm thông minh để làm cho trình duyệt internet trở nên thú vị hơn!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
@@ -1807,16 +1807,16 @@ msgstr "Chạm để đọc tin tức thời thượng hoặc chơi các trò ch
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "Chạm để chơi các trò chơi miễn hot nhất và vui vẻ!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "Tìm kiếm mua sắm thông minh"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr ""
+msgstr "So sánh giá giữa các cửa hàng trực tuyến khác nhau là siêu dễ dàng, hãy thử ngay bây giờ!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1865,6 +1865,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"Bây giờ bạn có thể duyệt riêng tư, không có lịch sử, không có mật khẩu được ghi lại và những người khác sử dụng thiết bị này sẽ không thấy hoạt động của bạn.\n"
+"\n"
+"Duyệt web riêng tư nâng cao của chúng tôi thậm chí có thể <font color=\"white\">ngăn bạn khỏi bị theo dõi</font> bởi các nhà quảng cáo và trang web, điều mà hầu hết các chế độ riêng tư không thể."
 
 #. MSRP Vertical
 #. Logoman
