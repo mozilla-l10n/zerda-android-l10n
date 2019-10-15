@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-09 22:20+0700\n"
+"POT-Creation-Date: 2019-10-15 10:41+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1856,6 +1856,10 @@ msgstr ""
 
 msgctxt "home_discovery"
 msgid "Discovery"
+msgstr ""
+
+msgctxt "home_tap_to_explore"
+msgid "Tap to Explore"
 msgstr ""
 
 #. Actions in context menu. Users can long press an item then show the context
