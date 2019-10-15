@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-15 13:52+0000\n"
+"PO-Revision-Date: 2019-10-15 14:06+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1932,12 +1932,12 @@ msgstr "2. Gunakan akun Firefox untuk menukarkan hadiah Anda"
 
 msgctxt "msrp_challenge_details_body_2"
 msgid "Enter your email address to get started. Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "Masukkan alamat surel Anda untuk memulai. Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum meneyelesaikan penukaran kupon Anda."
+msgstr "Masukkan alamat surel Anda untuk memulai. Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum menukarkan hadiah Anda."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr "Saya ikut!"
+msgstr "Ikuti tantangan!"
 
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
@@ -1956,7 +1956,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "Gunakan akun Firefox untuk menukar kupon"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
@@ -1995,7 +1995,7 @@ msgstr "Selamat!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Terima kasih sudah mencoba fitur terbaru kami. Kami harap Anda senang menggunakannya!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2006,11 +2006,11 @@ msgstr "Tukarkan nanti"
 #, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s voucher is ready!"
-msgstr ""
+msgstr "Kupon %1$s Anda siap digunakan!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr ""
+msgstr "Kupon berlaku dalam waktu terbatas. Kami berhak mengubah atau membatalkan kupon kapan saja."
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
