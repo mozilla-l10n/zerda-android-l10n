@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-15 14:06+0000\n"
+"PO-Revision-Date: 2019-10-15 14:29+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1906,7 +1906,7 @@ msgstr "Coba fitur Belanja, Berita dan Game dalam 7 hari berturut-turut!"
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Berlaku hingga %1$s"
 
 #. Challenge
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
@@ -1914,7 +1914,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for %1$s %2$s voucher"
-msgstr ""
+msgstr "Tantangan 7 hari untuk kupon %2$s senilai %1$s"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "1. Join the 7-Day challenge"
@@ -2014,13 +2014,13 @@ msgstr "Kupon berlaku dalam waktu terbatas. Kami berhak mengubah atau membatalka
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "Kami berhak untuk mengubah, memodifikasi, menambah atau menghapus bagian dari syarat penggunaan kapan pun tanpa pemberitahuan terlebih dahulu."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Berlaku hingga %1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
@@ -2122,7 +2122,7 @@ msgstr ""
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "Pastikan Anda tersambung ke internet"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
