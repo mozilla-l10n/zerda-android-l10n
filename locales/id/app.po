@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-15 13:31+0000\n"
+"PO-Revision-Date: 2019-10-15 13:52+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1924,15 +1924,15 @@ msgstr "1. Ikuti tantangan dalam 7 hari"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "Coba fitur Belanja, Berita dan Game di beranda %1$s dengan mengklik menu tersebut selama tujuh hari berturut-turut."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "2. Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "2. Gunakan akun Firefox untuk menukarkan hadiah Anda"
 
 msgctxt "msrp_challenge_details_body_2"
 msgid "Enter your email address to get started. Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "Masukkan alamat surel Anda untuk memulai. Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum meneyelesaikan penukaran kupon Anda."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
