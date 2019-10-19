@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-19 12:10+0000\n"
+"PO-Revision-Date: 2019-10-19 12:28+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -1644,7 +1644,7 @@ msgstr "Закрыть все результаты поиска покупок?"
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr "Покупки"
+msgstr "Шоппинг"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
@@ -1803,24 +1803,24 @@ msgstr "Остаётся быстрым и лёгким. Мы добавили �
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "Одно нажатие до чтения последних новостей, нахождения выгодных предложений или игры в самые горячие бесплатные игры для развлечения!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr ""
+msgstr "Одно нажатие до чтения последних новостей или игры в самые горячие бесплатные игры для развлечения!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "Одно нажатие до игры в самые горячие бесплатные игры для развлечения!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "Умный поиск покупок"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr ""
+msgstr "Сравнивать цены во множестве интернет-магазинов — легко, попробуйте сейчас!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1869,6 +1869,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"Теперь вы можете сёрфить приватно, без сохранения истории и паролей, а другие люди, которые будут использовать это устройство, не увидят вашу активность.\n"
+"\n"
+"Наш расширенный приватный просмотр может даже <font color=\"white\">защитить вас от отслеживания</font> рекламодателями и веб-сайтами, что невозможно в большинстве других браузеров."
 
 #. MSRP Vertical
 #. Logoman
@@ -1885,7 +1888,7 @@ msgstr "Выиграйте ваучер %2$s на %1$s"
 #, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
-msgstr ""
+msgstr "Используйте Шоппинг, Новости, Игры каждый день, чтобы выиграть ваучер %2$s на %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1902,7 +1905,7 @@ msgstr "Подарок"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "Используйте Шоппинг, Новости, Игры 7 дней подряд!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -1916,25 +1919,25 @@ msgstr "Истекает %1$s"
 #, c-format
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for %1$s %2$s voucher"
-msgstr ""
+msgstr "7-дневное испытание на ваучер %2$s на %1$s"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "1. Join the 7-Day challenge"
-msgstr ""
+msgstr "1. Присоединитесь к 7-дневному испытанию"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "Используйте Шоппинг, Новости, Игры на домашнем экране %1$s, просто нажимая на кнопки 7 дней подряд."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "2. Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "2. Используйте Аккаунт Firefox для получения своей награды"
 
 msgctxt "msrp_challenge_details_body_2"
 msgid "Enter your email address to get started. Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "Чтобы начать введите свой адрес электронной почты. Убедитесь, что вы вошли в аккаунт, который хотите использовать, до получения вознаграждения."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -1958,12 +1961,12 @@ msgstr "Как выкупить"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "Использовать Аккаунт Firefox для выкупа"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
 msgid "All your progress will be deleted. Are you sure?"
-msgstr ""
+msgstr "Все ваши достижения будут утеряны. Вы уверены?"
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
@@ -1971,7 +1974,7 @@ msgstr "ОТМЕНА"
 
 msgctxt "msrp_challenge_leaving_button_2"
 msgid "LEAVE"
-msgstr ""
+msgstr "ВЫЙТИ"
 
 #. Challenge  completed (popup)
 msgctxt "msrp_completed_popup_title"
@@ -1980,11 +1983,11 @@ msgstr "Поздравляем!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "Использовать Аккаунт Firefox для выкупа"
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
@@ -1997,11 +2000,11 @@ msgstr "Поздравляем!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "Выкупить позже"
 
 #. Voucher
 #. The %1$s here is a placeholder for "shopping site"
@@ -2012,21 +2015,21 @@ msgstr "Ваш ваучер %1$s готов!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr ""
+msgstr "Ваучер действителен только в течение ограниченного времени. Мы оставляем за собой право изменить или отменить ваучер в любое время."
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "Мы оставляем за собой право по собственному усмотрению изменять, модифицировать, добавлять или удалять пункты Условий использования в любое время."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Истекает %1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
-msgstr ""
+msgstr "Ваучер может быть применён только через этот URL ниже:"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2039,7 +2042,7 @@ msgstr "Код ваучера скопирован"
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "Выкупить"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
@@ -2052,7 +2055,7 @@ msgstr "Предупреждение: обнаружено несколько А
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "Для участия в 7-дневном испытании можно использовать только один Аккаунт Firefox. Если вы переключитесь и будете использовать другой аккаунт, вы будете дисквалифицированы."
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2068,7 +2071,7 @@ msgstr "Аккаунт отключен"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
-msgstr ""
+msgstr "Вы больше не можете участвовать в 7-дневном испытании."
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
@@ -2077,45 +2080,45 @@ msgstr "Закрыть"
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "Отлично! Вы успешно выполнили своё задание на первый день!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "Круто! Вы успешно выполнили своё задание на второй день!"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "Потрясающие! Вы успешно выполнили своё задание на третий день, так держать!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "Поздравляем! Вы успешно выполнили своё задание на четвёртый день!"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "Фантастично! Вы успешно выполнили своё задание на пятый день!"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "Вау! Остался всего один день до получения ваучера!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
 msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr ""
+msgstr "Вы прошли испытание! Пожалуйста, вернитесь на домашний экран %1$s, чтобы получить свой ваучер!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "shopping site"
 #, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
+msgstr "Хотите выиграть ваучер %1$s? Не забудьте воспользоваться Шоппингом, Новостями, Играми сегодня!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr ""
+msgstr "Все испытания выполнены"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
@@ -2137,7 +2140,7 @@ msgstr "Ой! Что-то пошло не так"
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr ""
+msgstr "ВЫКУПИТЬ"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
