@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-12 10:25+0000\n"
-"Last-Translator: Chengings <chengings@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 03:52+0000\n"
+"Last-Translator: Can <udomc.can@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -1665,7 +1665,7 @@ msgstr "หมดอายุแล้ว"
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "เหลืออีก 1 วัน"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
@@ -1884,7 +1884,7 @@ msgstr ""
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "ของขวัญ"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
@@ -1979,7 +1979,7 @@ msgstr ""
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "ยินดีด้วย!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
