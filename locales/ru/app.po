@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-12 14:56+0000\n"
+"PO-Revision-Date: 2019-10-19 12:10+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -1599,7 +1599,7 @@ msgstr "Поиск"
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "Нажмите на Интернет-магазины ниже, чтобы просмотреть дополнительные результаты, или нажмите на эту кнопку для редактирования."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1620,11 +1620,11 @@ msgstr "Сайты для сравнения"
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "Поиск покупок: «%1$s»"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "Поиск покупок"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
@@ -1638,13 +1638,13 @@ msgstr "Отмена"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
-msgstr ""
+msgstr "Закрыть все результаты поиска покупок?"
 
 #. Artboard Name: 4.1 Shopping Deals Overview
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr "Шоппинг"
+msgstr "Покупки"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
@@ -1691,7 +1691,7 @@ msgstr "Игра"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
-msgstr ""
+msgstr "Мгновенная игра"
 
 msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
@@ -1797,7 +1797,7 @@ msgstr "Совершенно новый %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "Остаётся быстрым и лёгким. Мы добавили умный поиск покупок и контент, чтобы сделать Интернет-сёрфинг более увлекательным и приятным!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
