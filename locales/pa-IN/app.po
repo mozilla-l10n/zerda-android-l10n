@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-19 04:19+0000\n"
+"PO-Revision-Date: 2019-10-19 04:47+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -1621,17 +1621,17 @@ msgstr ""
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "ਖ਼ਰੀਦਦਾਰੀ ਖੋਜ"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
 msgctxt "shopping_closing_dialog_close"
 msgid "Close All"
-msgstr ""
+msgstr "ਸਾਰੇ ਬੰਦ ਕਰੋ"
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
@@ -1645,59 +1645,59 @@ msgstr ""
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
-msgstr ""
+msgstr "ਡੀਲ"
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
-msgstr ""
+msgstr "ਕੂਪਨ"
 
 msgctxt "shopping_vertical_category_3"
 msgid "Vouchers"
-msgstr ""
+msgstr "ਵਾਊਚਰ"
 
 #. Shopping Deals
 msgctxt "shopping_deal_subcategory_1"
 msgid "Top Rated"
-msgstr ""
+msgstr "ਚੋਟੀ ਦੇ ਦਰਜੇ ਵਾਲੇ"
 
 msgctxt "shopping_deal_subcategory_2"
 msgid "Best Sellers"
-msgstr ""
+msgstr "ਸਭ ਤੋਂ ਵਿਕਣ ਵਾਲੇ"
 
 #. Artboard Name: 5.2 Shopping Coupons Update
 #. Shopping Coupons
 msgctxt "shopping_coupon_expire_zero"
 msgid "Expired"
-msgstr ""
+msgstr "ਮਿਆਦ ਪੁੱਗੀ"
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "1 ਦਿਨ ਬਾਕੀ"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "%1$d ਦਿਨ ਬਾਕੀ"
 
 #. Gaming Vertical
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr ""
+msgstr "ਖੇਡ"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
-msgstr ""
+msgstr "ਤੁਰੰਤ ਖੇਡੋ"
 
 msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
-msgstr ""
+msgstr "ਖੇਡਣ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 #. "New" is a small tag to let users know that it is a new game.
 msgctxt "gaming_vertical_new"
 msgid "New"
-msgstr ""
+msgstr "ਨਵਾਂ"
 
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
@@ -1710,7 +1710,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "ਠੀਕ ਹੈ"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -1986,7 +1986,7 @@ msgstr ""
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
 msgid "Congtratulations!"
-msgstr ""
+msgstr "ਵਧਾਈਆਂ!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
