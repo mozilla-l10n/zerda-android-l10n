@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-21 17:12+0000\n"
+"PO-Revision-Date: 2019-10-21 17:30+0000\n"
 "Last-Translator: Dhiraj Kumar Singh <Singhdhiraj255@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1767,19 +1767,19 @@ msgstr "उत्साह"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr ""
+msgstr "संग्राम"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr ""
+msgstr "वृक्षों से भरा मार्ग"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
-msgstr ""
+msgstr "पहेली और तर्क"
 
 msgctxt "gaming_vertical_genre_11"
 msgid "Sports & Racing"
-msgstr ""
+msgstr "खेल और रेसिंग"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
@@ -1791,7 +1791,7 @@ msgstr "लड़कियाँ"
 #, c-format
 msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
-msgstr ""
+msgstr "एकदम नया %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
@@ -1828,7 +1828,7 @@ msgstr "खोज…"
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr ""
+msgstr "सामग्री और सेवाएँ"
 
 msgctxt "home_discovery"
 msgid "Discovery"
@@ -1851,12 +1851,14 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"ओह!\n"
+"कुछ गलत हो गया"
 
 #. Private mode home 2.0
 #. Title of Private mode
 msgctxt "private_home_title"
 msgid "Advanced Private Browsing"
-msgstr ""
+msgstr "उन्नत निजी ब्राउज़िंग"
 
 #. Description of Private mode
 msgctxt "private_home_description"
@@ -1904,7 +1906,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "%1$s को समाप्त"
 
 #. Challenge
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
@@ -1916,7 +1918,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "1. Join the 7-Day challenge"
-msgstr ""
+msgstr "1. 7-दिवसीय चुनौती में शामिल हों"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1935,7 +1937,7 @@ msgstr ""
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "मैं भी शामिल!"
 
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
@@ -1944,13 +1946,13 @@ msgstr ""
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "उपक्रम छोड़ें"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr ""
+msgstr "कैसे भुनाएँ"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
@@ -1997,7 +1999,7 @@ msgstr "हमारी कुछ नई विशेषताओं को आ�
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "बाद में भुनाएँ"
 
 #. Voucher
 #. The %1$s here is a placeholder for "shopping site"
@@ -2018,7 +2020,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "%1$s को समाप्त"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Voucher can only be applied through this URL below:"
@@ -2035,7 +2037,7 @@ msgstr "वाउचर कोड कॉपी किया गया"
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "भुनाएँ"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
@@ -2060,7 +2062,7 @@ msgstr "अंतिम चेतावनी: कई Firefox खातों �
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
-msgstr ""
+msgstr "खाता निष्क्रिय"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
@@ -2128,12 +2130,12 @@ msgstr "पुनः प्रयास करें"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
-msgstr ""
+msgstr "ओह! कुछ गलत हो गया"
 
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr ""
+msgstr "भुनाएँ"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
