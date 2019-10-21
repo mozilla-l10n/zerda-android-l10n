@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-17 15:28+0000\n"
-"Last-Translator: ravi <ravi.103151@gmail.com>\n"
+"PO-Revision-Date: 2019-10-21 17:12+0000\n"
+"Last-Translator: Dhiraj Kumar Singh <Singhdhiraj255@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -1659,7 +1659,7 @@ msgstr "वाउचर"
 #. Shopping Deals
 msgctxt "shopping_deal_subcategory_1"
 msgid "Top Rated"
-msgstr ""
+msgstr "सर्वोत्तम मूल्यांकित"
 
 msgctxt "shopping_deal_subcategory_2"
 msgid "Best Sellers"
@@ -1689,7 +1689,7 @@ msgstr "गेम"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
-msgstr ""
+msgstr "तुरंत चलाएँ"
 
 msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
@@ -1707,7 +1707,7 @@ msgstr "अपने पसंदीदा खेलों के लिए त�
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
-msgstr ""
+msgstr "अपने मुख्य पटल पर शॉर्टकट बनाने के लिए दबाएँ।"
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -1743,7 +1743,7 @@ msgstr "हाल ही में चलाये गए"
 
 msgctxt "gaming_vertical_genre_2"
 msgid "Game of the week"
-msgstr ""
+msgstr "सप्ताह का खेल"
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
@@ -1759,11 +1759,11 @@ msgstr "ऑफ़लाइन गेम"
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
-msgstr ""
+msgstr "योजना"
 
 msgctxt "gaming_vertical_genre_7"
 msgid "Adventure"
-msgstr ""
+msgstr "उत्साह"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
