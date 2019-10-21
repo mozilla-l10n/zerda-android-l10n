@@ -2,23 +2,27 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-09 22:20+0700\n"
+"POT-Creation-Date: 2019-10-21 17:48+0800\n"
 "PO-Revision-Date: 2019-10-19 12:28+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
-"Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 10) >= 2 && (n %"
+" 10) <= 4))) && (!(((n % 100) >= 12 && (n % 100) <= 14)))) ? 1 : (((((0 "
+"== 0)) && (((n % 10) == 0))) || (((0 == 0)) && (((n % 10) >= 5 && (n % "
+"10) <= 9)))) || (((0 == 0)) && (((n % 100) >= 11 && (n % 100) <= 14)))) ?"
+" 2 : ((((0 == 0)) && (((n % 10) == 1))) && (!(((n % 100) == 11)))) ? 0 : "
+"3)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -116,8 +120,12 @@ msgstr "Искать в Firefox Lite"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s — быстрый и легкий браузер, созданный %2$s. Нашей миссией является обеспечение здоровья и открытости Интернета."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%1$s — быстрый и легкий браузер, созданный %2$s. Нашей миссией является "
+"обеспечение здоровья и открытости Интернета."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -217,8 +225,12 @@ msgstr "Отправлять данные об использовании"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s стремится собирать только ту информацию, которая необходима для работы %1$s и его улучшения в будущем."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%2$s стремится собирать только ту информацию, которая необходима для "
+"работы %1$s и его улучшения в будущем."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -328,8 +340,12 @@ msgstr "Найдите приложение, которое может откр�
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы можете выйти из %1$s для поиска подходящего приложения в %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы"
+" можете выйти из %1$s для поиска подходящего приложения в %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -354,7 +370,9 @@ msgstr "Неизвестный тип адреса"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "Для открытия этого адреса вам может понадобиться установить другое программное обеспечение."
+msgstr ""
+"Для открытия этого адреса вам может понадобиться установить другое "
+"программное обеспечение."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -403,41 +421,58 @@ msgstr "Спасибо, что выбрали %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "Браузер, созданный %1$s, некоммерческой организацией, преданной свободному и открытому Интернету."
+msgstr ""
+"Браузер, созданный %1$s, некоммерческой организацией, преданной "
+"свободному и открытому Интернету."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Сёрфите быстрее, чем когда-либо"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr ""
-"Используйте режим Турбо, чтобы блокировать трекеры рекламы, так вы сможете просматривать сайты на молниеносной скорости. Если сайты кажутся сломанными, просто нажмите переключатель режима Турбо в "
-"меню."
+"Используйте режим Турбо, чтобы блокировать трекеры рекламы, так вы "
+"сможете просматривать сайты на молниеносной скорости. Если сайты кажутся "
+"сломанными, просто нажмите переключатель режима Турбо в меню."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Экономия трафика = Экономия денег"
 
 msgctxt "first_run_page3_text"
-msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "Экономьте на расходах на Интернет, блокируя трекеры рекламы. Сэкономьте ещё больше, включив блокировку изображений."
+msgid ""
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
+msgstr ""
+"Экономьте на расходах на Интернет, блокируя трекеры рекламы. Сэкономьте "
+"ещё больше, включив блокировку изображений."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "Скриншот всей страницы"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "Сделайте скриншот всей страницы. Читайте её оффлайн без использования Интернета или нажмите на него, чтобы вернуться на веб-страницу."
+msgid ""
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
+msgstr ""
+"Сделайте скриншот всей страницы. Читайте её оффлайн без использования "
+"Интернета или нажмите на него, чтобы вернуться на веб-страницу."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "Следующий уровень приватности"
 
 msgctxt "first_run_page5_text"
-msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "Просмотр страниц без слежки и блокировка распространенных веб-трекеров по умолчанию. Обеспечьте безопасность ваших конфиденциальных данных."
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+"Просмотр страниц без слежки и блокировка распространенных веб-трекеров по"
+" умолчанию. Обеспечьте безопасность ваших конфиденциальных данных."
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -446,8 +481,13 @@ msgstr "Просмотр страниц без слежки и блокиров�
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr "Всего лишь одно нажатие, и вы сможете быть в курсе последних событий с помощью «%1$s» — с самым разнообразным содержимым от наиболее популярных тем до самых горячих предложений. %2$s"
+msgid ""
+"Just one flip, keep yourself updated with the “%1$s” - a variety of "
+"contents from the most popular topics to the hottest deals. %2$s"
+msgstr ""
+"Всего лишь одно нажатие, и вы сможете быть в курсе последних событий с "
+"помощью «%1$s» — с самым разнообразным содержимым от наиболее популярных "
+"тем до самых горячих предложений. %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -457,7 +497,9 @@ msgstr "Защищает вас от отслеживания"
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
-msgstr "Теперь вы можете посмотреть, сколько трекеров было заблокировано в приватном режиме."
+msgstr ""
+"Теперь вы можете посмотреть, сколько трекеров было заблокировано в "
+"приватном режиме."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -470,8 +512,12 @@ msgstr "У нас новый вид!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr "Благодаря развитию продукта, мы предлагаем вам обновленный %1$s с новым именем и логотипом."
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
+"Благодаря развитию продукта, мы предлагаем вам обновленный %1$s с новым "
+"именем и логотипом."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -501,8 +547,12 @@ msgid "Pin your favorite sites"
 msgstr "Закрепите свои любимые сайты"
 
 msgctxt "second_run_upgrade_page_text"
-msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr "Теперь вы можете закрепить любой хороший сайт и он не будет перемещаться. Для начала, мы закрепили несколько популярных сайтов за вас."
+msgid ""
+"You can now pin any top site so it does not get moved. To get you "
+"started, we have pinned some top sites for you to try."
+msgstr ""
+"Теперь вы можете закрепить любой хороший сайт и он не будет перемещаться."
+" Для начала, мы закрепили несколько популярных сайтов за вас."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -597,11 +647,17 @@ msgstr "не сейчас"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "Местоположение недоступно. Дайте разрешение на доступ к вашему местоположению."
+msgstr ""
+"Местоположение недоступно. Дайте разрешение на доступ к вашему "
+"местоположению."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "Хранилище недоступно. Дайте разрешение на хранение фотографий и файлов на вашем устройстве."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"Хранилище недоступно. Дайте разрешение на хранение фотографий и файлов на"
+" вашем устройстве."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -1014,8 +1070,13 @@ msgid "Product Update Notice"
 msgstr "Уведомление об обновлении продукта"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Чтобы сделать Firefox Lite лучше для вас и для всех, мы внесли некоторые изменения в нашу политику конфиденциальности. Нажмите, чтобы узнать больше."
+msgid ""
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
+msgstr ""
+"Чтобы сделать Firefox Lite лучше для вас и для всех, мы внесли некоторые "
+"изменения в нашу политику конфиденциальности. Нажмите, чтобы узнать "
+"больше."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1078,15 +1139,21 @@ msgstr "Привет, попробуй этот быстрый и лёгкий �
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s является бесплатной программой с открытым исходным кодом, созданной %2$s и другими участниками."
+msgstr ""
+"%1$s является бесплатной программой с открытым исходным кодом, созданной "
+"%2$s и другими участниками."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s предоставляется вам на условиях <a href=\"%2$s\">%3$s</a> и других лицензий для открытого исходного кода."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s предоставляется вам на условиях <a href=\"%2$s\">%3$s</a> и других "
+"лицензий для открытого исходного кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1095,18 +1162,25 @@ msgstr "%1$s предоставляется вам на условиях <a href
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
-"Вы не получаете никаких прав или лицензий на товарные знаки Mozilla Foundation или любой другой стороны, включая имена или логотипы %3$s, %4$s или %1$s. Дополнительную информацию можно найти <a "
+"Вы не получаете никаких прав или лицензий на товарные знаки Mozilla "
+"Foundation или любой другой стороны, включая имена или логотипы %3$s, "
+"%4$s или %1$s. Дополнительную информацию можно найти <a "
 "href=\"%2$s\">здесь</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Дополнительный исходный код для %1$s доступен под различными другими свободными и открытыми <a href=\"%2$s\">лицензиями</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Дополнительный исходный код для %1$s доступен под различными другими "
+"свободными и открытыми <a href=\"%2$s\">лицензиями</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1114,10 +1188,14 @@ msgstr "Дополнительный исходный код для %1$s дос�
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s также использует списки блокировки от Disconnect, Inc. как отдельные и независимые работы на условиях <a href=\"%2$s\">Генеральной публичной лицензии GNU версии 3</a>, доступные <a "
-"href=\"%3$s\">здесь</a>."
+"%1$s также использует списки блокировки от Disconnect, Inc. как отдельные"
+" и независимые работы на условиях <a href=\"%2$s\">Генеральной публичной "
+"лицензии GNU версии 3</a>, доступные <a href=\"%3$s\">здесь</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1483,8 +1561,12 @@ msgstr "Наслаждайтесь веб-сёрфингом с дополнит
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr "Попадайте в приватный просмотр одним касанием! Вы хотите добавить ярлык приватного просмотра на домашний экран?"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
+msgstr ""
+"Попадайте в приватный просмотр одним касанием! Вы хотите добавить ярлык "
+"приватного просмотра на домашний экран?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1537,8 +1619,12 @@ msgstr "Ваши скриншоты здесь!"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "Чтобы улучшить качество работы, мы собираем информацию о категориях ваших скриншотов."
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots’ categories."
+msgstr ""
+"Чтобы улучшить качество работы, мы собираем информацию о категориях ваших"
+" скриншотов."
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1579,7 +1665,9 @@ msgstr "Находите хорошие цены"
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr "Сравнивайте цены во множестве интернет-магазинов с помощью умного поиска для шоппинга."
+msgstr ""
+"Сравнивайте цены во множестве интернет-магазинов с помощью умного поиска "
+"для шоппинга."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -1590,7 +1678,9 @@ msgstr "Введите название продукта, который вы х
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr "Сравнивайте цены во множестве интернет-магазинов с помощью умного поиска для шоппинга."
+msgstr ""
+"Сравнивайте цены во множестве интернет-магазинов с помощью умного поиска "
+"для шоппинга."
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1598,8 +1688,12 @@ msgstr "Поиск"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr "Нажмите на Интернет-магазины ниже, чтобы просмотреть дополнительные результаты, или нажмите на эту кнопку для редактирования."
+msgid ""
+"Tap the shopping sites below to browse more results, or tap this button "
+"to edit."
+msgstr ""
+"Нажмите на Интернет-магазины ниже, чтобы просмотреть дополнительные "
+"результаты, или нажмите на эту кнопку для редактирования."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1796,18 +1890,28 @@ msgid "Brand-new %1$s"
 msgstr "Совершенно новый %1$s"
 
 msgctxt "onboarding_2_introduction_description"
-msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr "Остаётся быстрым и лёгким. Мы добавили умный поиск покупок и контент, чтобы сделать Интернет-сёрфинг более увлекательным и приятным!"
+msgid ""
+"Remain Fast and Lightweight. We added smart shopping search and content "
+"to make internet browsing more fun and enjoyable!"
+msgstr ""
+"Остаётся быстрым и лёгким. Мы добавили умный поиск покупок и контент, "
+"чтобы сделать Интернет-сёрфинг более увлекательным и приятным!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr "Одно нажатие до чтения последних новостей, нахождения выгодных предложений или игры в самые горячие бесплатные игры для развлечения!"
+msgid ""
+"Tap to read the trendy news, find good deals or play the hottest free "
+"games to have fun!"
+msgstr ""
+"Одно нажатие до чтения последних новостей, нахождения выгодных "
+"предложений или игры в самые горячие бесплатные игры для развлечения!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr "Одно нажатие до чтения последних новостей или игры в самые горячие бесплатные игры для развлечения!"
+msgstr ""
+"Одно нажатие до чтения последних новостей или игры в самые горячие "
+"бесплатные игры для развлечения!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1820,7 +1924,9 @@ msgstr "Умный поиск покупок"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr "Сравнивать цены во множестве интернет-магазинов — легко, попробуйте сейчас!"
+msgstr ""
+"Сравнивать цены во множестве интернет-магазинов — легко, попробуйте "
+"сейчас!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1865,30 +1971,37 @@ msgstr "Продвинутый приватный просмотр"
 #. Description of Private mode
 msgctxt "private_home_description"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other"
+" people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
+"Our Advanced Private Browsing can even <font color=\"white\">prevent you "
+"from being tracked</font> by advertisers and websites, which most private"
+" modes cannot."
 msgstr ""
-"Теперь вы можете сёрфить приватно, без сохранения истории и паролей, а другие люди, которые будут использовать это устройство, не увидят вашу активность.\n"
+"Теперь вы можете сёрфить приватно, без сохранения истории и паролей, а "
+"другие люди, которые будут использовать это устройство, не увидят вашу "
+"активность.\n"
 "\n"
-"Наш расширенный приватный просмотр может даже <font color=\"white\">защитить вас от отслеживания</font> рекламодателями и веб-сайтами, что невозможно в большинстве других браузеров."
+"Наш расширенный приватный просмотр может даже <font "
+"color=\"white\">защитить вас от отслеживания</font> рекламодателями и "
+"веб-сайтами, что невозможно в большинстве других браузеров."
 
 #. MSRP Vertical
 #. Logoman
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
-#, c-format
+#. The %1$s here is a placeholder for the prize, ex: shopping voucher
+#, c-format, fuzzy
 msgctxt "msrp_logoman_message"
-msgid "Win %1$s %2$s voucher"
+msgid "Win a %1$s"
 msgstr "Выиграйте ваучер %2$s на %1$s"
 
 #. Contextual hint
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
-#, c-format
+#. The %1$s here is a placeholder for the prize, ex: shopping voucher
+#, c-format, fuzzy
 msgctxt "msrp_home_hint"
-msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
-msgstr "Используйте Шоппинг, Новости, Игры каждый день, чтобы выиграть ваучер %2$s на %1$s"
+msgid "Try Shopping, News, Game everyday to win %1$s"
+msgstr ""
+"Используйте Шоппинг, Новости, Игры каждый день, чтобы выиграть ваучер "
+"%2$s на %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1914,38 +2027,53 @@ msgid "Expires %1$s"
 msgstr "Истекает %1$s"
 
 #. Challenge
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
-#, c-format
+#, fuzzy
 msgctxt "msrp_challenge_title"
-msgid "7-day challenge for %1$s %2$s voucher"
+msgid "7-day challenge for Rp 15,000 Shopee voucher"
 msgstr "7-дневное испытание на ваучер %2$s на %1$s"
 
+msgctxt "msrp_challenge_description"
+msgid "Rp 15,000 Shopee voucher"
+msgstr ""
+
+#, fuzzy
 msgctxt "msrp_challenge_details_title_1"
-msgid "1. Join the 7-Day challenge"
+msgid "Join the 7-Day challenge"
 msgstr "1. Присоединитесь к 7-дневному испытанию"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr "Используйте Шоппинг, Новости, Игры на домашнем экране %1$s, просто нажимая на кнопки 7 дней подряд."
+msgid ""
+"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
+"seven days in a row."
+msgstr ""
+"Используйте Шоппинг, Новости, Игры на домашнем экране %1$s, просто "
+"нажимая на кнопки 7 дней подряд."
 
+#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
-msgid "2. Use your Firefox account to redeem your reward"
+msgid "Use your Firefox account to redeem your reward"
 msgstr "2. Используйте Аккаунт Firefox для получения своей награды"
 
 msgctxt "msrp_challenge_details_body_2"
-msgid "Enter your email address to get started. Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "Чтобы начать введите свой адрес электронной почты. Убедитесь, что вы вошли в аккаунт, который хотите использовать, до получения вознаграждения."
+msgid ""
+"Enter your email address to get started. Make sure you sign in to the "
+"account you want to use before you complete your redemption."
+msgstr ""
+"Чтобы начать введите свой адрес электронной почты. Убедитесь, что вы "
+"вошли в аккаунт, который хотите использовать, до получения "
+"вознаграждения."
 
 #. "I'm In!" is a button where users can press to join the reward program
+#, fuzzy
 msgctxt "msrp_challenge_button_1"
-msgid "I’m In!"
+msgid "I'm In!"
 msgstr "Я участвую!"
 
+#, fuzzy
 msgctxt "msrp_challenge_tou"
-msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
+msgid "By clicking “Im In!” you are agreeing to our Terms of Use"
 msgstr "Нажимая «Я участвую», вы соглашаетесь с нашими Условиями использования."
 
 #. "Leave mission" is a button for users to exit the reward program
@@ -1977,13 +2105,18 @@ msgid "LEAVE"
 msgstr "ВЫЙТИ"
 
 #. Challenge  completed (popup)
+#, fuzzy
 msgctxt "msrp_completed_popup_title"
-msgid "Congtratulations!"
+msgid "Congratulations!"
 msgstr "Поздравляем!"
 
 msgctxt "msrp_completed_popup_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, "
+"что вам понравилось их использовать!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -1994,32 +2127,46 @@ msgid "Later"
 msgstr "Позже"
 
 #. Challenge completed (full screen)
+#, fuzzy
 msgctxt "msrp_challenge_completed_title"
-msgid "Congtratulations!"
+msgid "Congratulations!"
 msgstr "Поздравляем!"
 
 msgctxt "msrp_challenge_completed_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, "
+"что вам понравилось их использовать!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
 msgstr "Выкупить позже"
 
 #. Voucher
-#. The %1$s here is a placeholder for "shopping site"
-#, c-format
+#. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
+#, c-format, fuzzy
 msgctxt "msrp_voucher_title"
-msgid "Your %1$s voucher is ready!"
+msgid "Your %1$s is ready!"
 msgstr "Ваш ваучер %1$s готов!"
 
 msgctxt "msrp_voucher_body_1"
-msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr "Ваучер действителен только в течение ограниченного времени. Мы оставляем за собой право изменить или отменить ваучер в любое время."
+msgid ""
+"Voucher is valid for a limited time only. We reserve the right to modify "
+"or cancel voucher at any time."
+msgstr ""
+"Ваучер действителен только в течение ограниченного времени. Мы оставляем "
+"за собой право изменить или отменить ваучер в любое время."
 
 msgctxt "msrp_voucher_body_2"
-msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr "Мы оставляем за собой право по собственному усмотрению изменять, модифицировать, добавлять или удалять пункты Условий использования в любое время."
+msgid ""
+"We reserve the right, at its sole discretion, to change, modify, add or "
+"remove portions of these Terms of Use, at any time."
+msgstr ""
+"Мы оставляем за собой право по собственному усмотрению изменять, "
+"модифицировать, добавлять или удалять пункты Условий использования в "
+"любое время."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2027,8 +2174,9 @@ msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
 msgstr "Истекает %1$s"
 
+#, fuzzy
 msgctxt "msrp_voucher_button_2"
-msgid "Voucher can only be applied through this URL below:"
+msgid "Copy voucher and go shopping"
 msgstr "Ваучер может быть применён только через этот URL ниже:"
 
 msgctxt "msrp_voucher_button_1"
@@ -2038,6 +2186,10 @@ msgstr "Копировать"
 msgctxt "msrp_voucher_toast"
 msgid "Voucher code copied"
 msgstr "Код ваучера скопирован"
+
+msgctxt "msrp_voucher_nostock"
+msgid "The voucher is out of stock"
+msgstr ""
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
@@ -2054,8 +2206,14 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "Предупреждение: обнаружено несколько Аккаунтов Firefox"
 
 msgctxt "msrp_disqualification_body_1"
-msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr "Для участия в 7-дневном испытании можно использовать только один Аккаунт Firefox. Если вы переключитесь и будете использовать другой аккаунт, вы будете дисквалифицированы."
+msgid ""
+"Only one Firefox account may be used to participate in the 7-Day "
+"challenge. If you switch and use another account, you will be "
+"disqualified from this challenge."
+msgstr ""
+"Для участия в 7-дневном испытании можно использовать только один Аккаунт "
+"Firefox. Если вы переключитесь и будете использовать другой аккаунт, вы "
+"будете дисквалифицированы."
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2088,7 +2246,9 @@ msgstr "Круто! Вы успешно выполнили своё задани
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr "Потрясающие! Вы успешно выполнили своё задание на третий день, так держать!"
+msgstr ""
+"Потрясающие! Вы успешно выполнили своё задание на третий день, так "
+"держать!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
@@ -2105,15 +2265,21 @@ msgstr "Вау! Остался всего один день до получен�
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr "Вы прошли испытание! Пожалуйста, вернитесь на домашний экран %1$s, чтобы получить свой ваучер!"
+msgid ""
+"You’ve completed the challenge! Please go back to %1$s Home to redeem "
+"your voucher!"
+msgstr ""
+"Вы прошли испытание! Пожалуйста, вернитесь на домашний экран %1$s, чтобы "
+"получить свой ваучер!"
 
 #. Notifications for last 3 days
-#. The %1$s here is a placeholder for "shopping site"
-#, c-format
+#. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
+#, c-format, fuzzy
 msgctxt "msrp_notification_reminder"
-msgid "Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game today!"
-msgstr "Хотите выиграть ваучер %1$s? Не забудьте воспользоваться Шоппингом, Новостями, Играми сегодня!"
+msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
+msgstr ""
+"Хотите выиграть ваучер %1$s? Не забудьте воспользоваться Шоппингом, "
+"Новостями, Играми сегодня!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
@@ -2145,3 +2311,4 @@ msgstr "ВЫКУПИТЬ"
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
 msgstr "Вы выиграли ваучер для покупок!"
+
