@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-09 22:20+0700\n"
+"POT-Creation-Date: 2019-10-21 17:48+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1895,19 +1895,17 @@ msgstr ""
 
 #. MSRP Vertical
 #. Logoman
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
+#. The %1$s here is a placeholder for the prize, ex: shopping voucher
 #, c-format
 msgctxt "msrp_logoman_message"
-msgid "Win %1$s %2$s voucher"
+msgid "Win a %1$s"
 msgstr ""
 
 #. Contextual hint
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
+#. The %1$s here is a placeholder for the prize, ex: shopping voucher
 #, c-format
 msgctxt "msrp_home_hint"
-msgid "Try Shopping, News, Game everyday to win %1$s %2$s voucher"
+msgid "Try Shopping, News, Game everyday to win %1$s"
 msgstr ""
 
 #. Reward
@@ -1934,15 +1932,16 @@ msgid "Expires %1$s"
 msgstr ""
 
 #. Challenge
-#. The %1$s here is a placeholder for "dollar amount", %2$s here is a
-#. placeholder for "shopping site"
-#, c-format
 msgctxt "msrp_challenge_title"
-msgid "7-day challenge for %1$s %2$s voucher"
+msgid "7-day challenge for Rp 15,000 Shopee voucher"
+msgstr ""
+
+msgctxt "msrp_challenge_description"
+msgid "Rp 15,000 Shopee voucher"
 msgstr ""
 
 msgctxt "msrp_challenge_details_title_1"
-msgid "1. Join the 7-Day challenge"
+msgid "Join the 7-Day challenge"
 msgstr ""
 
 #. The %1$s here is a placeholder for "Firefox Lite"
@@ -1954,7 +1953,7 @@ msgid ""
 msgstr ""
 
 msgctxt "msrp_challenge_details_title_2"
-msgid "2. Use your Firefox account to redeem your reward"
+msgid "Use your Firefox account to redeem your reward"
 msgstr ""
 
 msgctxt "msrp_challenge_details_body_2"
@@ -1965,11 +1964,11 @@ msgstr ""
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
-msgid "I’m In!"
+msgid "I'm In!"
 msgstr ""
 
 msgctxt "msrp_challenge_tou"
-msgid "By clicking “I’m in” you are agreeing to our Terms of Use"
+msgid "By clicking “Im In!” you are agreeing to our Terms of Use"
 msgstr ""
 
 #. "Leave mission" is a button for users to exit the reward program
@@ -2002,7 +2001,7 @@ msgstr ""
 
 #. Challenge  completed (popup)
 msgctxt "msrp_completed_popup_title"
-msgid "Congtratulations!"
+msgid "Congratulations!"
 msgstr ""
 
 msgctxt "msrp_completed_popup_body"
@@ -2021,7 +2020,7 @@ msgstr ""
 
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
-msgid "Congtratulations!"
+msgid "Congratulations!"
 msgstr ""
 
 msgctxt "msrp_challenge_completed_body"
@@ -2035,10 +2034,10 @@ msgid "Redeem later"
 msgstr ""
 
 #. Voucher
-#. The %1$s here is a placeholder for "shopping site"
+#. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
 #, c-format
 msgctxt "msrp_voucher_title"
-msgid "Your %1$s voucher is ready!"
+msgid "Your %1$s is ready!"
 msgstr ""
 
 msgctxt "msrp_voucher_body_1"
@@ -2060,7 +2059,7 @@ msgid "Expires %1$s"
 msgstr ""
 
 msgctxt "msrp_voucher_button_2"
-msgid "Voucher can only be applied through this URL below:"
+msgid "Copy voucher and go shopping"
 msgstr ""
 
 msgctxt "msrp_voucher_button_1"
@@ -2069,6 +2068,10 @@ msgstr ""
 
 msgctxt "msrp_voucher_toast"
 msgid "Voucher code copied"
+msgstr ""
+
+msgctxt "msrp_voucher_nostock"
+msgid "The voucher is out of stock"
 msgstr ""
 
 #. Redeem
@@ -2146,12 +2149,10 @@ msgid ""
 msgstr ""
 
 #. Notifications for last 3 days
-#. The %1$s here is a placeholder for "shopping site"
+#. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
 #, c-format
 msgctxt "msrp_notification_reminder"
-msgid ""
-"Want to win a %1$s voucher? Don’t forget to try Shopping, News, Game "
-"today!"
+msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
 msgstr ""
 
 #. No data
