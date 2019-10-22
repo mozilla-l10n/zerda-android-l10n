@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-20 18:22+0000\n"
+"PO-Revision-Date: 2019-10-22 17:25+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
@@ -455,7 +455,7 @@ msgstr "ট্র্যাক হওয়া থেকে রোধ করু�
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
+msgstr "আপনি কতগুলি ট্র্যাকার ব্যক্তিগত মোডে ব্লক করেছেন এখন তা যাচাই করতে পারেন।"
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -469,7 +469,7 @@ msgstr "আমরা এখন নতুন ভাবে!"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
 msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr ""
+msgstr "বিবর্তিত পণ্যের সাথে, আমরা আপনার জন্য নতুন নাম এবং নতুন লোগো সহ একেবারে নতুন একটি %1$s এনেছি।"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -1574,18 +1574,18 @@ msgstr "চমৎকার দামের খোঁজ করুন"
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "স্মার্ট শপিং অনুসন্ধানের সাথে একাধিক অনলাইন স্টোরের সাথে দামের তুলনা করুন।"
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
 msgid "Type the product you want to search"
-msgstr ""
+msgstr "অনুসন্ধান করতে পণ্যের নাম লিখুন"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "স্মার্ট শপিং অনুসন্ধানের সাথে একাধিক অনলাইন স্টোরের সাথে দামের তুলনা করুন।"
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1809,7 +1809,7 @@ msgstr ""
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "স্মার্ট শপিং অনুসন্ধান"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
@@ -1823,7 +1823,7 @@ msgstr "অনুসন্ধান…"
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr ""
+msgstr "কন্টেন্ট ও সার্ভিস"
 
 msgctxt "home_discovery"
 msgid "Discovery"
@@ -1833,7 +1833,7 @@ msgstr "আবিষ্কার"
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "নীড় স্ক্রিনে যুক্ত করুন"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
@@ -1846,12 +1846,14 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"ওহ!\n"
+"কোন একটা সমস্যা হয়েছে"
 
 #. Private mode home 2.0
 #. Title of Private mode
 msgctxt "private_home_title"
 msgid "Advanced Private Browsing"
-msgstr ""
+msgstr "উন্নত ব্যক্তিগত ব্রাউজিং"
 
 #. Description of Private mode
 msgctxt "private_home_description"
