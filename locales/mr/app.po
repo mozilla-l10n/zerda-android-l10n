@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-21 17:48+0800\n"
+"POT-Creation-Date: 2019-10-22 17:59+0800\n"
 "PO-Revision-Date: 2019-10-17 07:09+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language: mr\n"
@@ -2033,14 +2033,13 @@ msgid ""
 msgstr ""
 
 #. "I'm In!" is a button where users can press to join the reward program
-#, fuzzy
 msgctxt "msrp_challenge_button_1"
-msgid "I'm In!"
+msgid "I’m In!"
 msgstr ""
 
 #, fuzzy
 msgctxt "msrp_challenge_tou"
-msgid "By clicking “Im In!” you are agreeing to our Terms of Use"
+msgid "By clicking “I’m In!” you are agreeing to our Terms of Use"
 msgstr ""
 
 #. "Leave mission" is a button for users to exit the reward program
@@ -2147,6 +2146,10 @@ msgstr ""
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
+msgstr ""
+
+msgctxt "msrp_faq"
+msgid "Any questions? Contact us."
 msgstr ""
 
 #. Redeem

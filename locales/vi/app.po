@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-21 17:48+0800\n"
+"POT-Creation-Date: 2019-10-22 17:59+0800\n"
 "PO-Revision-Date: 2019-10-12 04:00+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language: vi\n"
@@ -2056,14 +2056,13 @@ msgstr ""
 "khoản bạn muốn sử dụng trước khi hoàn tất việc đổi quà."
 
 #. "I'm In!" is a button where users can press to join the reward program
-#, fuzzy
 msgctxt "msrp_challenge_button_1"
-msgid "I'm In!"
+msgid "I’m In!"
 msgstr "Tôi đã sẵn sàng!"
 
 #, fuzzy
 msgctxt "msrp_challenge_tou"
-msgid "By clicking “Im In!” you are agreeing to our Terms of Use"
+msgid "By clicking “I’m In!” you are agreeing to our Terms of Use"
 msgstr ""
 "Bằng cách nhấp vào “Tôi đã sẵn sàng” bạn đã đồng ý với điều khoản sử dụng"
 " của chúng tôi"
@@ -2180,6 +2179,10 @@ msgstr "Đã sao chép mã phiếu mua hàng"
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
+msgstr ""
+
+msgctxt "msrp_faq"
+msgid "Any questions? Contact us."
 msgstr ""
 
 #. Redeem

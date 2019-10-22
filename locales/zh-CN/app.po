@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-21 17:48+0800\n"
+"POT-Creation-Date: 2019-10-22 17:59+0800\n"
 "PO-Revision-Date: 2019-10-11 11:08+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language: zh_Hans_CN\n"
@@ -1985,14 +1985,13 @@ msgid ""
 msgstr "输入您的电子邮件地址即可开始挑战。完成兑换之前，请务必保持登录到要使用的账户。"
 
 #. "I'm In!" is a button where users can press to join the reward program
-#, fuzzy
 msgctxt "msrp_challenge_button_1"
-msgid "I'm In!"
+msgid "I’m In!"
 msgstr "我要參加！"
 
 #, fuzzy
 msgctxt "msrp_challenge_tou"
-msgid "By clicking “Im In!” you are agreeing to our Terms of Use"
+msgid "By clicking “I’m In!” you are agreeing to our Terms of Use"
 msgstr "点击“我要参加！”即代表您同意我们的使用条款"
 
 #. "Leave mission" is a button for users to exit the reward program
@@ -2099,6 +2098,10 @@ msgstr "已复制代金券码"
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
+msgstr ""
+
+msgctxt "msrp_faq"
+msgid "Any questions? Contact us."
 msgstr ""
 
 #. Redeem
