@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-22 07:56+0000\n"
+"PO-Revision-Date: 2019-10-23 01:11+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1422,7 +1422,7 @@ msgstr "Bodor"
 #. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
-msgstr ""
+msgstr "Bangsa"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1565,14 +1565,14 @@ msgstr "Iber nyumput"
 
 msgctxt "about_link_terms_of_service"
 msgid "Terms of Service"
-msgstr ""
+msgstr "Katangtuan Layanan"
 
 #. Shopping Vertical
 #. Artboard Name: 1.1 Shopping Search Overview
 #. Shopping Search Onboarding
 msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
-msgstr ""
+msgstr "Téangan anu murah"
 
 #. Shopping Search Onboarding Message, and would need to localize "Smart
 #. Shopping Search"
@@ -1583,7 +1583,7 @@ msgstr "Bandingkeun harga di toko-toko onlén maké Smart Search Search."
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
 msgid "Type the product you want to search"
-msgstr ""
+msgstr "Ketik barang anu rék dipilari"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
@@ -1712,20 +1712,20 @@ msgstr "Pencét pikeun nyieun tarabas ka layar tepas."
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "Heug"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr ""
+msgstr "Bagikeun kaulinan"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
-msgstr ""
+msgstr "Jieun tarabas dina layar tepas"
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr ""
+msgstr "Piceun tina daptar"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1734,55 +1734,57 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
+"Kami maén kaulinan nu ajib. Cobaan geura!\n"
+"%1$s"
 
 #. Gaming Genres
 msgctxt "gaming_vertical_genre_1"
 msgid "Recently played"
-msgstr ""
+msgstr "Anyar dimaénkeun"
 
 msgctxt "gaming_vertical_genre_2"
 msgid "Game of the week"
-msgstr ""
+msgstr "Kaulinan minggu ieu"
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
-msgstr ""
+msgstr "Kaulinan kami"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
-msgstr ""
+msgstr "Pangmindengna dico'o"
 
 msgctxt "gaming_vertical_genre_5"
 msgid "Offline games"
-msgstr ""
+msgstr "Kaulinan luring"
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
-msgstr ""
+msgstr "Strategi"
 
 msgctxt "gaming_vertical_genre_7"
 msgid "Adventure"
-msgstr ""
+msgstr "Petualangan"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr ""
+msgstr "Laga"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr ""
+msgstr "Arkade"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
-msgstr ""
+msgstr "Teka-teki & Logika"
 
 msgctxt "gaming_vertical_genre_11"
 msgid "Sports & Racing"
-msgstr ""
+msgstr "Olahraga & Balap"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
+msgstr "Awéwé"
 
 #. Home 2.0
 #. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
@@ -1790,7 +1792,7 @@ msgstr ""
 #, c-format
 msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
-msgstr ""
+msgstr "Anyar pisan %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
