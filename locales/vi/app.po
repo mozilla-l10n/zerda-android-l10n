@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-12 04:00+0000\n"
-"Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
+"PO-Revision-Date: 2019-10-22 17:14+0000\n"
+"Last-Translator: phjtieudoc <DamageSProVN@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -1781,7 +1781,7 @@ msgstr "Thể thao & đua xe"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
+msgstr "Gái"
 
 #. Home 2.0
 #. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
