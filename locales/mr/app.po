@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-09 22:20+0700\n"
-"PO-Revision-Date: 2019-10-17 07:09+0000\n"
+"PO-Revision-Date: 2019-10-23 12:59+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1822,27 +1822,27 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "शोधा…"
 
 #. Content & Services
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr ""
+msgstr "सामग्री आणि सेवा"
 
 msgctxt "home_discovery"
 msgid "Discovery"
-msgstr ""
+msgstr "शोध"
 
 #. Actions in context menu. Users can long press an item then show the context
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "मुख्य पटलावर जोडा"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
-msgstr ""
+msgstr "दुवा शेअर करा"
 
 #. Error message. E.g. when open a service and server is not working then show
 #. error message to users
@@ -1851,12 +1851,14 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"अरेरे!\n"
+"काहीतरी चूक झाली"
 
 #. Private mode home 2.0
 #. Title of Private mode
 msgctxt "private_home_title"
 msgid "Advanced Private Browsing"
-msgstr ""
+msgstr "प्रगत खाजगी ब्राउझिंग"
 
 #. Description of Private mode
 msgctxt "private_home_description"
@@ -1890,21 +1892,21 @@ msgstr ""
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "उद्देश्य"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "भेट"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "सलग 7 दिवस शॉपिंग, न्यूज, गेम वापरुन पहा!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "काल्बाह्यता %1$s"
 
 #. Challenge
 #. The %1$s here is a placeholder for "dollar amount", %2$s here is a
