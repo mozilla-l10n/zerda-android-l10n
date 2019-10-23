@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-23 23:10+0000\n"
+"PO-Revision-Date: 2019-10-23 23:31+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1904,11 +1904,11 @@ msgstr "过期时间：%1$s"
 #. Challenge
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "连续使用七日，赢取价值 15,000 印尼卢比（Rp） Shopee 代金券"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "价值 15,000 印尼卢比（Rp）Shopee 代金券"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
@@ -1929,11 +1929,11 @@ msgstr "使用 Firefox 账户兑换奖励"
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "%1$s。完成兑换之前，请务必保持登录到要使用的账户。"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "请在此输入您的电子邮箱地址，即可开始挑战。"
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -1948,7 +1948,7 @@ msgstr "点击“我要参加！”即代表您同意我们的%1$s"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
-msgstr ""
+msgstr "使用条款"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
@@ -2031,7 +2031,7 @@ msgstr "过期时间：%1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr ""
+msgstr "领取代金券，去购物"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2043,17 +2043,17 @@ msgstr "已复制代金券码"
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
-msgstr ""
+msgstr "代金券已抢完"
 
 #. The %1$s here is a placeholder for "Contact us"
 #, c-format
 msgctxt "msrp_faq"
 msgid "Any questions? %1$s."
-msgstr ""
+msgstr "有任何疑问？ 请%1$s"
 
 msgctxt "msrp_contact_us"
 msgid "Contact us"
-msgstr ""
+msgstr "联系我们"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
