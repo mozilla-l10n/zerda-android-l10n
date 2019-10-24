@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-24 07:31+0000\n"
+"PO-Revision-Date: 2019-10-24 07:45+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1977,7 +1977,7 @@ msgstr "इनाम पाने के लिए Firefox खाते का �
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
 msgid "All your progress will be deleted. Are you sure?"
-msgstr ""
+msgstr "आपकी सभी प्रगति मिटा दी जाएगी। आप सुनिश्चित हैं?"
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
@@ -1999,7 +1999,7 @@ msgstr "हमारी कुछ नई विशेषताओं को आ�
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "इनाम पाने के लिए Firefox खाते का उपयोग करें"
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
@@ -2040,10 +2040,9 @@ msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
 msgstr "%1$s को समाप्त"
 
-#, fuzzy
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr ""
+msgstr "वॉऊचर कॉपी करें और शॉपिंग पर जाएं"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2055,17 +2054,17 @@ msgstr "वाउचर कोड कॉपी किया गया"
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
-msgstr ""
+msgstr "वॉऊचर स्टॉक में नहीं है"
 
 #. The %1$s here is a placeholder for "Contact us"
 #, c-format
 msgctxt "msrp_faq"
 msgid "Any questions? %1$s."
-msgstr ""
+msgstr "कोई समस्या? %1$s।"
 
 msgctxt "msrp_contact_us"
 msgid "Contact us"
-msgstr ""
+msgstr "हमसे संपर्क करें"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
