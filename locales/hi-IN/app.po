@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-24 06:53+0000\n"
+"PO-Revision-Date: 2019-10-24 07:17+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1818,7 +1818,7 @@ msgstr "स्मार्ट शॉपिंग सर्च"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr ""
+msgstr "अलग-अलग ऑनलाइन स्टोरों की कीमतों का तुलना करना बहुत ही आसान है, अभी आज़माएं!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1867,21 +1867,24 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"अब आप निजी तौर पर ब्राउज़ कर सकते हैं, कोई इतिहास, कोई पासवर्ड सहेजा नहीं जाएगा और उपकरण का उपयोग करनेवाले अन्य लोग आपकी गतिविधि नहीं देख पाएंगे।\n"
+"\n"
+"हमारी उन्नत निजी ब्राउज़िंग आपको विज्ञापनकारियों और वेबसाइटों द्वारा <font color=\"white\">ट्रैक होने से भी बचा </font> सकता है, जो कि अधिकांश निजी मोड नहीं कर सकते हैं।"
 
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr ""
+msgstr "एक %1$s जीतें"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr ""
+msgstr "%1$s जीतने के लिए रोज़ाना शॉपिंग, समाचार, गेम्स को आज़माएं"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1898,7 +1901,7 @@ msgstr "उपहार"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "लगातार 7 दिन शॉपिंग, समाचार, गेम्स को आज़माएं!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
