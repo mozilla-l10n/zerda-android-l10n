@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-24 07:17+0000\n"
+"PO-Revision-Date: 2019-10-24 07:31+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1910,14 +1910,13 @@ msgid "Expires %1$s"
 msgstr "%1$s को समाप्त"
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "₹ 15,000 की खरीदारी वॉऊचर जीतने के लिए 7-दिनों का चैलेंज"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "₹ 15,000 की शॉपिंग वॉऊचर"
 
 #, fuzzy
 msgctxt "msrp_challenge_details_title_1"
@@ -1928,12 +1927,11 @@ msgstr "1. 7-दिवसीय चुनौती में शामिल ह
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "%1$s के मुख्य पृष्ठ पर बस लगातार सात दिनों तक बटन दबाकर शॉपिंग, न्यूज़, गेम को आज़माएं।"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "अपने इनाम को पाने के लिए अपने Firefox खाते का प्रयोग करें"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
@@ -1944,7 +1942,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "शुरू करने के लिए अपना ईमेल पता दर्ज करें।"
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -1952,14 +1950,14 @@ msgid "I’m In!"
 msgstr "मैं भी शामिल!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m In!” you are agreeing to our %1$s"
-msgstr ""
+msgstr "“मैं शामिल हूं” पर क्लिक करने से आप हमारे %1$s पर सहमत हो रहे हैं"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
-msgstr ""
+msgstr "उपयोग की शर्तें"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
@@ -1974,7 +1972,7 @@ msgstr "कैसे भुनाएँ"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "इनाम पाने के लिए Firefox खाते का उपयोग करें"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
