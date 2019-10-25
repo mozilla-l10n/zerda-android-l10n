@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 08:32+0000\n"
+"PO-Revision-Date: 2019-10-25 08:48+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1961,7 +1961,7 @@ msgstr "Ketentuan Penggunaan"
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "Tinggalkan misi"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
@@ -2111,23 +2111,23 @@ msgstr "Bagus! Anda telah berhasil menyelesaikan tantangan harian pertama Anda!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "Bagus! Anda telah menyelesaikan tantangan harian kelima!"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "Luar biasa! Anda telah menyelesaikan tantangan harian ketiga, teruskan!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "Selamat! Anda telah menyelesaikan tantangan harian keempat!"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "Hebat! Anda telah menyelesaikan tantangan harian kelima!"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "Wow! Tinggal satu hari lagi untuk mendapatkan voucher Anda!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
