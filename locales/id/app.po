@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 08:48+0000\n"
+"PO-Revision-Date: 2019-10-25 09:25+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -2133,7 +2133,7 @@ msgstr "Wow! Tinggal satu hari lagi untuk mendapatkan voucher Anda!"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
 msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr ""
+msgstr "Anda telah menyelesaikan tantangan! Silakan kembali ke Beranda %1$s untuk menukar kupon Anda!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
@@ -2145,11 +2145,11 @@ msgstr ""
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr ""
+msgstr "Semua tantangan telah diselesaikan"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
-msgstr ""
+msgstr "Semua hadiah sudah ditukarkan"
 
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
@@ -2162,7 +2162,7 @@ msgstr "COBA LAGI"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
-msgstr ""
+msgstr "Ups! Terjadi kesalahan"
 
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
