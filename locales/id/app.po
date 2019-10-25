@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 10:10+0000\n"
+"PO-Revision-Date: 2019-10-25 12:21+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1867,21 +1867,24 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"Sekarang Anda dapat menjelajah secara privat, tidak ada riwayat, tidak ada kata sandi yang direkam dan orang lain yang menggunakan perangkat ini tidak akan melihat aktivitas Anda.\n"
+"\n"
+"Penjelajahan Privat Lanjutan kami bahkan dapat <font color=\"white\">mencegah Anda dilacak</font> oleh pengiklan dan situs web, di mana kebanyakan mode privat tidak dapat melakukannya."
 
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr "Menangkan voucher %2$s sebesar %1$s"
+msgstr "Menangkan %1$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr "Coba Belanja, Berita, Gim setiap hari untuk memenangkan voucher %2$s sebesar %1$s"
+msgstr "Coba fitur Belanja, Berita, Game setiap hari untuk memenangkan %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1907,19 +1910,17 @@ msgid "Expires %1$s"
 msgstr "Berlaku hingga %1$s"
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr "Tantangan 7 hari untuk kupon %2$s senilai %1$s"
+msgstr "Tantangan 7 hari untuk kupon Shopee senilai Rp15.000"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
 msgstr "Kupon Shopee Rp15.000,-"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
-msgstr "1. Ikuti tantangan dalam 7 hari"
+msgstr "Ikuti Tantangan 7 hari"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1927,10 +1928,9 @@ msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
 msgstr "Coba fitur Belanja, Berita dan Game di beranda %1$s dengan mengklik menu tersebut selama tujuh hari berturut-turut."
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr "2. Gunakan akun Firefox untuk menukarkan hadiah Anda"
+msgstr "Gunakan akun Firefox untuk menukarkan kupon Anda"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
@@ -2149,7 +2149,7 @@ msgstr "Semua tantangan telah diselesaikan"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
-msgstr "Semua hadiah sudah ditukarkan"
+msgstr "Semua kupon sudah ditukarkan"
 
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
