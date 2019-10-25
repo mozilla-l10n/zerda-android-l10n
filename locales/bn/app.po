@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 06:11+0000\n"
+"PO-Revision-Date: 2019-10-25 06:30+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
@@ -1593,7 +1593,7 @@ msgstr "অনুসন্ধান"
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "আরও ফলাফল ব্রাউজ করতে নিচের শপিং সাইটগুলো ট্যাপ করুন অথবা সম্পদনা করতে এই বাটন ট্যাপ করুন।"
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1699,11 +1699,11 @@ msgstr "নতুন"
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr ""
+msgstr "আপনার প্রিয় গেমগুলো দ্রুত খেলুন"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
-msgstr ""
+msgstr "আপনার হোম স্ক্রিনে শর্টকাট তৈরি করতে ট্যাপ করুন।"
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -1791,7 +1791,7 @@ msgstr "একেবারে-নতুন %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "গতিশীল এবং হালকা রয়েছে। ইন্টারনেট ব্রাউজিং আরও মজাদার এবং উপভোগ্য করতে আমরা স্মার্ট শপিং অনুসন্ধান এবং কন্টেন্ট যুক্ত করেছি!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
@@ -1805,7 +1805,7 @@ msgstr ""
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "আকর্ষণীয় ফ্রি গেমগুলো উপভোগ করতে ট্যাপ করুন!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1814,7 +1814,7 @@ msgstr "স্মার্ট শপিং অনুসন্ধান"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr ""
+msgstr "বিভিন্ন অনলাইন স্টোরের দামের তুলনা করা এখন খুবই সহজ, এখনই পরখ করুন!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1903,19 +1903,17 @@ msgid "Expires %1$s"
 msgstr "%1$s এ মেয়াদোত্তীর্ণ হবে"
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "15,000 রুপি শপিং ভাউচারের জন্য 7 দিনের চ্যালেঞ্জ"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
 msgstr "15,000 রুপি শপিং ভাউচার"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
-msgstr ""
+msgstr "7 দিনের চ্যালেঞ্জে যোগ দিন"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1937,7 +1935,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "শুরু করাতে আপনার ইমেইল দিন।"
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -2035,10 +2033,9 @@ msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
 msgstr "%1$s এ মেয়াদোত্তীর্ণ হবে"
 
-#, fuzzy
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr ""
+msgstr "ভাউচার অনুলিপি করুন এবং শপিং করুন"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2050,7 +2047,7 @@ msgstr "ভাউচার কোড অনুলিপি করা হয়�
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
-msgstr ""
+msgstr "ভাউচারের স্টক শেষ"
 
 #. The %1$s here is a placeholder for "Contact us"
 #, c-format
@@ -2150,7 +2147,7 @@ msgstr "সমস্ত পুরস্কার সংগ্রহ করা �
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "নিশ্চিত করুন আপনি ইন্টারনেটে সংযুক্ত আছেন"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
