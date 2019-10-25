@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 13:21+0000\n"
+"PO-Revision-Date: 2019-10-25 13:49+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1934,10 +1934,10 @@ msgstr "Gunakan akun Firefox untuk menukarkan kupon Anda"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "Masukkan alamat surel Anda untuk memulai. Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum menukarkan hadiah Anda."
+msgstr "%1$s Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum menyelesaikan penukaran."
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
