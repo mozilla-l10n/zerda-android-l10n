@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 12:59+0000\n"
+"PO-Revision-Date: 2019-10-25 13:21+0000\n"
 "Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1949,10 +1949,10 @@ msgid "I’m In!"
 msgstr "Ikuti tantangan!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m In!” you are agreeing to our %1$s"
-msgstr "Dengan mengklik “Saya ikut” berarti Anda menyetujui Ketentuan Penggunaan kami"
+msgstr "Dengan mengklik “Saya ikut” berarti Anda menyetujui %1$s kami"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
@@ -2037,10 +2037,9 @@ msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
 msgstr "Berlaku hingga %1$s"
 
-#, fuzzy
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr "Kupon hanya berlaku melalui tautan URL di bawah ini:"
+msgstr "Salin kupon dan gunakan berbelanja"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
