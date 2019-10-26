@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-26 04:06+0000\n"
+"PO-Revision-Date: 2019-10-26 04:48+0000\n"
 "Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -2098,7 +2098,7 @@ msgstr "खाता निष्क्रिय"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
-msgstr ""
+msgstr "अब आप 7-दिन की चुनौती में भाग नहीं ले सकते।"
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
@@ -2107,27 +2107,27 @@ msgstr "बंद करें"
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "बढिया! आपने अपनी पहली दैनिक चुनौती सफलतापूर्वक पूरी कर ली है!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "अच्छा! आपने दूसरी दैनिक चुनौती पूरी कर ली है!"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "बहुत बढ़िया! आपने तीसरी दैनिक चुनौती पूरी कर ली है, इसे जारी रखें!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "बधाई! आपने चौथी दैनिक चुनौती पूरी कर ली है!"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "शानदार! आपने पांचवीं दैनिक चुनौती पूरी कर ली है!"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "वाह! आप वाउचर प्राप्त करने से सिर्फ एक दिन दूर हैं!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -2137,10 +2137,10 @@ msgstr ""
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
+msgstr "एक %1$s जीतना चाहते हैं? आज खरीदारी, समाचार, खेल की कोशिश करना मत भूलिए!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
