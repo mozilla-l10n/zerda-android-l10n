@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-23 17:11+0000\n"
-"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
+"PO-Revision-Date: 2019-10-27 17:07+0000\n"
+"Last-Translator: Ahsun Mahmud Riad <ahsunriad@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -1874,10 +1874,10 @@ msgstr "একটি %1$s জিতুন"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr ""
+msgstr "প্রতিদিন %1$s জিততে শপিং, নিউজ গেম চেষ্টা করুন"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1894,7 +1894,7 @@ msgstr "উপহার"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "টানা 7 দিন শপিং, নিউজ গেম চেষ্টা করে দেখুন!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -1943,10 +1943,10 @@ msgid "I’m In!"
 msgstr "আমি আছি!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m In!” you are agreeing to our %1$s"
-msgstr ""
+msgstr "আপনি “I’m In!” ক্লিক করার মাধ্যমে আমাদের %1$s এর সাথে সম্মত হচ্ছেন"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
@@ -2019,7 +2019,7 @@ msgstr "আপনার %1$s প্রস্তুত!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr ""
+msgstr "ভাউচার কেবল সীমিত সময়ের জন্য বৈধ। আমরা যে কোন সময় ভাউচারকে সংশোধন বা বাতিল করার অধিকার সংরক্ষণ করি।"
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
@@ -2069,7 +2069,7 @@ msgstr "ভাউচার"
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
 msgid "Warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "সতর্কতা: একাধিক Firefox অ্যাকাউন্ট সনাক্ত করা হয়েছে"
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
@@ -2081,7 +2081,7 @@ msgstr "আমি বুঝেছি"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "চূড়ান্ত সতর্কতা: একাধিক Firefox অ্যাকাউন্ট সনাক্ত করা হয়েছে"
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
@@ -2089,7 +2089,7 @@ msgstr "অ্যাকাউন্ট নিষ্ক্রিয় করা 
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
-msgstr ""
+msgstr "আপনি আর 7-দিনের চ্যালেঞ্জে অংশ নিতে পারবেন না।"
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
