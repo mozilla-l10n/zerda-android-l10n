@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-28 02:51+0000\n"
+"PO-Revision-Date: 2019-10-28 02:53+0000\n"
 "Last-Translator: Drashti Pandya <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -1409,13 +1409,13 @@ msgstr "વિજ્ઞાન"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "જોક્સ"
 
 #. "Nation" is one of the news category meaning local news. Its position is
 #. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
-msgstr ""
+msgstr "રાષ્ટ્ર"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1462,13 +1462,13 @@ msgstr "તમારા ખાનગી બ્રાઉઝિંગ ઈતિહ
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ટ્રેકર્સ અવરોધિત"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "વધારાની સુરક્ષા સાથે બ્રાઉઝિંગનો આનંદ માણો."
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
@@ -1478,11 +1478,11 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr ""
+msgstr "ના, આભાર"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr ""
+msgstr "હા"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
@@ -1498,25 +1498,25 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "હા, હવે તે ઉમેરો!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
+msgstr "તમે સેટિંગ્સમાં પછીથી ખાનગી મોડ શોર્ટકટ ઉમેરી શકો છો."
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - ખાનગી બ્રાઉઝિંગ"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "હોમ સ્ક્રીન પર ખાનગી મોડ શોર્ટકટ ઉમેરો"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
@@ -1556,7 +1556,7 @@ msgstr ""
 
 msgctxt "about_link_terms_of_service"
 msgid "Terms of Service"
-msgstr ""
+msgstr "સેવાની શરતો"
 
 #. Shopping Vertical
 #. Artboard Name: 1.1 Shopping Search Overview
