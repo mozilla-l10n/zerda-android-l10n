@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-29 10:21+0000\n"
+"PO-Revision-Date: 2019-10-29 10:49+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1335,7 +1335,7 @@ msgstr "राजनीति"
 
 msgctxt "news_category_option_career"
 msgid "Career"
-msgstr ""
+msgstr "व्यवसाय"
 
 msgctxt "news_category_option_cricket"
 msgid "Cricket"
@@ -1367,7 +1367,7 @@ msgstr ""
 
 msgctxt "news_category_option_regional"
 msgid "Regional"
-msgstr ""
+msgstr "क्षेत्रीय"
 
 msgctxt "news_category_option_travel"
 msgid "Travel"
@@ -1375,7 +1375,7 @@ msgstr "यात्रा"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr ""
+msgstr "जीवनशैली"
 
 msgctxt "news_category_option_food"
 msgid "Food"
@@ -1391,15 +1391,15 @@ msgstr "शहर"
 
 msgctxt "news_category_option_events"
 msgid "Events"
-msgstr ""
+msgstr "कार्यक्रम"
 
 msgctxt "news_category_option_religion"
 msgid "Religion"
-msgstr ""
+msgstr "धर्म"
 
 msgctxt "news_category_option_crime"
 msgid "Crime"
-msgstr ""
+msgstr "अपराध"
 
 msgctxt "news_category_option_astrology"
 msgid "Astrology"
@@ -1407,17 +1407,17 @@ msgstr ""
 
 msgctxt "news_category_option_science"
 msgid "Science"
-msgstr ""
+msgstr "विज्ञान"
 
 msgctxt "news_category_option_jokes"
 msgid "Jokes"
-msgstr ""
+msgstr "चुटकुले"
 
 #. "Nation" is one of the news category meaning local news. Its position is
 #. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
-msgstr ""
+msgstr "राष्ट्र"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1464,7 +1464,7 @@ msgstr "अपने के ब्रॉउजिंग इतिहास म�
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ट्रेकर्स ब्लॉक भेलै"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
