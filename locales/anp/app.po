@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-29 11:11+0000\n"
+"PO-Revision-Date: 2019-10-29 11:24+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1640,15 +1640,15 @@ msgstr "खरीदारी"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
-msgstr ""
+msgstr "सौदा"
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
-msgstr ""
+msgstr "कूपन"
 
 msgctxt "shopping_vertical_category_3"
 msgid "Vouchers"
-msgstr ""
+msgstr "वाउचर"
 
 #. Shopping Deals
 msgctxt "shopping_deal_subcategory_1"
@@ -1663,17 +1663,17 @@ msgstr ""
 #. Shopping Coupons
 msgctxt "shopping_coupon_expire_zero"
 msgid "Expired"
-msgstr ""
+msgstr "समय सीमा खत्म"
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "1 दिन बाकि"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "%1$d दिन बाकि"
 
 #. Gaming Vertical
 #. Gaming Home
@@ -1718,7 +1718,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr ""
+msgstr "लिस्ट से हटाबोॅ"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1739,7 +1739,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
-msgstr ""
+msgstr "मेरा खेल"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
