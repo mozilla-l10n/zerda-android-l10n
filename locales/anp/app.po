@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-29 08:31+0000\n"
+"PO-Revision-Date: 2019-10-29 08:35+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1248,10 +1248,9 @@ msgid "News Settings"
 msgstr ""
 
 #. This is the dialog for choosing news language
-#, fuzzy
 msgctxt "news_language_dialog_title"
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1316,7 +1315,7 @@ msgstr ""
 
 msgctxt "news_category_option_india"
 msgid "India"
-msgstr ""
+msgstr "भारत"
 
 msgctxt "news_category_option_world"
 msgid "World"
@@ -1485,7 +1484,7 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr ""
+msgstr "हौं"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
@@ -1543,13 +1542,13 @@ msgstr ""
 #. username here.
 msgctxt "http_auth_dialog_user_name"
 msgid "Username"
-msgstr ""
+msgstr "यूजरनाम"
 
 #. Text on an input password field in web auth dialog. This hint user to input
 #. password here.
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "पासवर्ड"
 
 #. Name of low priority notification channel, this will be shown on the app
 #. info page in the system setting
@@ -1596,7 +1595,7 @@ msgstr ""
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "ठीक छै"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
@@ -1627,7 +1626,7 @@ msgstr ""
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करोॅ"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
@@ -1693,7 +1692,7 @@ msgstr ""
 #. "New" is a small tag to let users know that it is a new game.
 msgctxt "gaming_vertical_new"
 msgid "New"
-msgstr ""
+msgstr "नया"
 
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
@@ -1706,7 +1705,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "ठीक छै"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -1815,7 +1814,7 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "खोजोॅ..."
 
 #. Content & Services
 #. Title of Content & Services
@@ -1835,7 +1834,7 @@ msgstr ""
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
-msgstr ""
+msgstr "लिंक शेयर करोॅ"
 
 #. Error message. E.g. when open a service and server is not working then show
 #. error message to users
