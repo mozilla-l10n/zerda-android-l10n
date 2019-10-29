@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-29 08:35+0000\n"
+"PO-Revision-Date: 2019-10-29 09:51+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -141,7 +141,7 @@ msgstr "गोपनीयता सूचना"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr ""
+msgstr "प्रमुख जानकारी"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
@@ -1001,7 +1001,7 @@ msgstr ""
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "अपडेट"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1239,7 +1239,7 @@ msgstr ""
 #. it, the page will refresh and show the latest list.
 msgctxt "news_update_btn"
 msgid "New update"
-msgstr ""
+msgstr "नया अपडेट"
 
 #. Title of news preferences
 #, fuzzy
@@ -1319,7 +1319,7 @@ msgstr "भारत"
 
 msgctxt "news_category_option_world"
 msgid "World"
-msgstr ""
+msgstr "विश्व"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
@@ -1355,7 +1355,7 @@ msgstr "व्यापार"
 
 msgctxt "news_category_option_health"
 msgid "Health"
-msgstr ""
+msgstr "स्वास्थ्य"
 
 msgctxt "news_category_option_movie_reviews"
 msgid "Movie-reviews"
@@ -1586,7 +1586,7 @@ msgstr ""
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "खोजोॅ"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
@@ -1679,7 +1679,7 @@ msgstr ""
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr ""
+msgstr "खेल"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
@@ -1710,7 +1710,7 @@ msgstr "ठीक छै"
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr ""
+msgstr "खेल शेयर करोॅ"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
