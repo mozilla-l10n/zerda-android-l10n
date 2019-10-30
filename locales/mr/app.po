@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-30 06:32+0000\n"
+"PO-Revision-Date: 2019-10-30 06:40+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1865,6 +1865,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"आता आपण खाजगीरित्या ब्राउझ करू शकता, कोणताही इतिहास नाही, पासवर्ड रेकॉर्ड केलेले नाहीत आणि हे उपकरण वापरणारे अन्य लोक आपली गतिविधी पाहणार नाहीत.\n"
+"\n"
+"आमचे प्रगत खाजगी ब्राउझिंग जाहिरातदार आणि वेबसाइट्सद्वारे <font color=\"white\">आपला मागोवा घेण्यास प्रतिबंध करतात</font> जे बहुतेक खाजगी मोड करू शकत नाही."
 
 #. MSRP Vertical
 #. Logoman
@@ -1929,25 +1932,25 @@ msgstr "आपला बक्षीस घेण्यासाठी आपल
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "%1$s विमोचन पूर्ण करण्या आधी आपण जे खाते वापरणार आहेत त्यात साइन इन केले आहे याची खात्री करा."
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "प्रारंभ करण्यासाठी आपला ईमेल पत्ता प्रविष्ट करा."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "मी तयार आहे!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m In!” you are agreeing to our %1$s"
-msgstr ""
+msgstr "“मी तयार आहे!” क्लिक करून आपण आमच्या %1$s ला सहमती देत आहात"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
@@ -1988,7 +1991,7 @@ msgstr "अभिनंदन!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "आमच्या काही नवीन वैशिष्ट्यांचा वापर केल्याबद्दल धन्यवाद. आम्हाला आशा आहे की आपण त्यांचा आनंद घेतला असेल!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2005,7 +2008,7 @@ msgstr "अभिनंदन!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "आमच्या काही नवीन वैशिष्ट्यांचा वापर केल्याबद्दल धन्यवाद. आम्हाला आशा आहे की आपण त्यांचा आनंद घेतला असेल!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2146,21 +2149,21 @@ msgstr "सर्व बक्षिसे संकलित केली"
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "आपण इंटरनेटशी कनेक्ट असल्याचे खात्री करा"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "पुन्हा प्रयत्न करा"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
-msgstr ""
+msgstr "अरेरे! काहीतरी चूक झाली"
 
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr ""
+msgstr "विमोचन करा"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
-msgstr ""
+msgstr "आपण खरेदी व्हाउचर जिंकला!"
