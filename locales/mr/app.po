@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-09 16:52+0000\n"
+"PO-Revision-Date: 2019-10-30 06:12+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1793,13 +1793,13 @@ msgstr "अगदी नवीन %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "हलके आणि चपळ राहा. इंटरनेट ब्राऊझिंग मजेदार बनवण्यासाठी आम्ही स्मार्ट शॉपिंग शोध आणि मजकूर जोडला आहे!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "नवप्रवाहातील बातम्या वाचण्यास, उत्तम सौदा शोधण्यास किंवा कडक गेम खेळून मज्जा करण्यास टॅप करा!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
