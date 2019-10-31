@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 16:41+0000\n"
+"PO-Revision-Date: 2019-10-31 17:04+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1535,7 +1535,7 @@ msgstr "अपनो उत्पाद अनुभव क बेहतर ब�
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "प्रमाणीकरण रो जरुरी छै"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
@@ -1600,7 +1600,7 @@ msgstr "ठीक छै"
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "खरीदारी खोज सेटिंग्स"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
@@ -1611,11 +1611,11 @@ msgstr ""
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "खरीदारी खोज: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "खरीदारी खोज"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
@@ -1805,7 +1805,7 @@ msgstr ""
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "स्मार्ट खरीदारी खोज"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
