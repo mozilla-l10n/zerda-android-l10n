@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 16:26+0000\n"
+"PO-Revision-Date: 2019-10-31 16:41+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1564,7 +1564,7 @@ msgstr "सेवा केरो शर्तें"
 #. Shopping Search Onboarding
 msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
-msgstr ""
+msgstr "बड़ा कीमत वाला खोजोॅ "
 
 #. Shopping Search Onboarding Message, and would need to localize "Smart
 #. Shopping Search"
