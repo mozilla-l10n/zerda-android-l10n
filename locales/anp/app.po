@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 15:31+0000\n"
+"PO-Revision-Date: 2019-10-31 15:42+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1990,7 +1990,7 @@ msgstr ""
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
-msgstr ""
+msgstr "बाद मेॅ"
 
 #. Challenge completed (full screen)
 msgctxt "msrp_challenge_completed_title"
