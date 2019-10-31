@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-29 11:24+0000\n"
+"PO-Revision-Date: 2019-10-31 15:31+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -175,7 +175,7 @@ msgstr "डिफॉल्ट सर्च इंजन"
 #. This is the title of the dialog for choosing news source
 msgctxt "preference_dialog_title_news_source"
 msgid "News source"
-msgstr ""
+msgstr "खबर रो साधन"
 
 msgctxt "preference_data_saving_block_images"
 msgid "Block images"
@@ -980,7 +980,7 @@ msgstr "हटाबोॅ"
 #. Pin Top site item
 msgctxt "pin_site"
 msgid "Pin site"
-msgstr ""
+msgstr "साइट पिन करोॅ"
 
 #. In-app message to update to latest build.
 #. Show a toast message when start downloading the new apk from google play.
@@ -1242,10 +1242,9 @@ msgid "New update"
 msgstr "नया अपडेट"
 
 #. Title of news preferences
-#, fuzzy
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr ""
+msgstr "समाचार सेटिंग्स"
 
 #. This is the dialog for choosing news language
 msgctxt "news_language_dialog_title"
@@ -1323,7 +1322,7 @@ msgstr "विश्व"
 
 msgctxt "news_category_option_technology"
 msgid "Technology"
-msgstr ""
+msgstr "तकनीक"
 
 msgctxt "news_category_option_education"
 msgid "Education"
@@ -1480,7 +1479,7 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
-msgstr ""
+msgstr "नै, धन्यवाद"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
@@ -1496,7 +1495,7 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "नै, धन्यवाद"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
@@ -1876,15 +1875,15 @@ msgstr ""
 #. Reward
 msgctxt "msrp_reward_title"
 msgid "Reward"
-msgstr ""
+msgstr "पुरस्कार"
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "लक्ष्य"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "उपहार"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
@@ -1894,7 +1893,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "%1$s को समाप्त"
 
 #. Challenge
 #, fuzzy
@@ -1946,12 +1945,12 @@ msgstr ""
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
-msgstr ""
+msgstr "प्रयोग केरो शर्तें"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "लक्ष्य छोरोॅ"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
@@ -2025,7 +2024,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "%1$s को समाप्त"
 
 #, fuzzy
 msgctxt "msrp_voucher_button_2"
