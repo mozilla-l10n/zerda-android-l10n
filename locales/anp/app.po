@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 15:42+0000\n"
+"PO-Revision-Date: 2019-10-31 16:09+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -2007,10 +2007,10 @@ msgstr ""
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s is ready!"
-msgstr ""
+msgstr "आपनोॅ %1$s वाउचर तैयार छै!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
