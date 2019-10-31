@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-25 13:49+0000\n"
-"Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
+"PO-Revision-Date: 2019-10-31 12:54+0000\n"
+"Last-Translator: Fauzan Alfi <fauzanalfi@mozilla.web.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -1685,7 +1685,7 @@ msgstr "%1$d hari tersisa"
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr "Gim"
+msgstr "Permainan"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
@@ -1703,7 +1703,7 @@ msgstr "Baru"
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr "Akses cepat ke gim favorit Anda"
+msgstr "Akses cepat ke permainan favorit Anda"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
@@ -1716,7 +1716,7 @@ msgstr "OK"
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr "Bagikan gim"
+msgstr "Bagikan permainan"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
@@ -1733,7 +1733,7 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
-"Saya sedang bermain gim yang sangat keren. Coba cek!\n"
+"Saya sedang bermain permainan yang sangat keren. Coba cek!\n"
 "%1$s"
 
 #. Gaming Genres
@@ -1743,11 +1743,11 @@ msgstr "Baru dimainkan"
 
 msgctxt "gaming_vertical_genre_2"
 msgid "Game of the week"
-msgstr "Gim pekan ini"
+msgstr "Permainan pekan ini"
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
-msgstr "Gim saya"
+msgstr "Permainan saya"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
@@ -1755,7 +1755,7 @@ msgstr "Paling banyak dimainkan"
 
 msgctxt "gaming_vertical_genre_5"
 msgid "Offline games"
-msgstr "Gim luring"
+msgstr "Permainan luring"
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
@@ -1801,15 +1801,15 @@ msgstr "Tetap Cepat dan Ringan. Kami menambahkan pencarian dan konten belanja pi
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr "Ketuk untuk membaca berita trendi, temukan tawaran bagus atau mainkan gim gratis terkini untuk bersenang-senang!"
+msgstr "Ketuk untuk membaca berita trendi, temukan tawaran bagus atau mainkan permainan gratis terkini untuk bersenang-senang!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr "Ketuk untuk membaca berita trendi atau mainkan gim gratis terkini untuk bersenang-senang!"
+msgstr "Ketuk untuk membaca berita trendi atau mainkan permainan gratis terkini untuk bersenang-senang!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr "Ketuk untuk memainkan gim gratis terkini untuk bersenang-senang!"
+msgstr "Ketuk untuk memainkan permainan gratis terkini untuk bersenang-senang!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1884,7 +1884,7 @@ msgstr "Menangkan %1$s"
 #, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr "Coba fitur Belanja, Berita, Game setiap hari untuk memenangkan %1$s"
+msgstr "Coba fitur Belanja, Berita, Pemainan setiap hari untuk memenangkan %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1901,7 +1901,7 @@ msgstr "Hadiah"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr "Coba fitur Belanja, Berita dan Game dalam 7 hari berturut-turut!"
+msgstr "Coba fitur Belanja, Berita dan Pemainan dalam 7 hari berturut-turut!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -1926,7 +1926,7 @@ msgstr "Ikuti Tantangan 7 hari"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr "Coba fitur Belanja, Berita dan Game di beranda %1$s dengan mengklik menu tersebut selama tujuh hari berturut-turut."
+msgstr "Coba fitur Belanja, Berita dan Permainan di beranda %1$s dengan mengklik menu tersebut selama tujuh hari berturut-turut."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
@@ -2137,7 +2137,7 @@ msgstr "Anda telah menyelesaikan tantangan! Silakan kembali ke Beranda %1$s untu
 #, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
-msgstr "Ingin memenangkan %1$s? Jangan lupa untuk mencoba fitur Belanja, Berita, Game hari ini!"
+msgstr "Ingin memenangkan %1$s? Jangan lupa untuk mencoba fitur Belanja, Berita, Permainan hari ini!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
