@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 09:28+0000\n"
+"PO-Revision-Date: 2019-11-01 14:59+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
@@ -1921,10 +1921,9 @@ msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
 msgstr ""
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "আপনার পুরষ্কারটি পেতে Firefox অ্যাকাউন্ট ব্যবহার করুন"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
