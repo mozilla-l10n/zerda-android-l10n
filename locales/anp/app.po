@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-31 17:04+0000\n"
+"PO-Revision-Date: 2019-11-02 14:46+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1955,11 +1955,11 @@ msgstr "लक्ष्य छोरोॅ"
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr ""
+msgstr "केना भंजैयै"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "भंजाबे ले Firefox रो खाता के उपयोग करोॅ"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
@@ -1985,7 +1985,7 @@ msgstr ""
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "भंजाबे ले Firefox रो खाता के उपयोग करोॅ"
 
 msgctxt "msrp_completed_popup_button2"
 msgid "Later"
@@ -2002,7 +2002,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "बाद मेॅ भंजाबोॅ"
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
@@ -2055,7 +2055,7 @@ msgstr ""
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "भंजाबोॅ"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
@@ -2153,7 +2153,7 @@ msgstr ""
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr ""
+msgstr "भंजाबोॅ"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
