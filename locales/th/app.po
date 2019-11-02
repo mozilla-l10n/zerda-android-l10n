@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-10-26 09:59+0000\n"
+"PO-Revision-Date: 2019-11-02 11:43+0000\n"
 "Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1415,7 +1415,7 @@ msgstr "เรื่องตลก"
 #. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
-msgstr ""
+msgstr "ข่าวท้องถิ่น"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1563,18 +1563,18 @@ msgstr "เงื่อนไขการให้บริการ"
 #. Shopping Search Onboarding
 msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
-msgstr ""
+msgstr "ค้นหาของราคาดี"
 
 #. Shopping Search Onboarding Message, and would need to localize "Smart
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "เปรียบเทียบราคากับร้านค้าออนไลน์ต่างๆ ด้วยการค้นหาแบบสมาร์ตช็อปปิ้ง"
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
 msgid "Type the product you want to search"
-msgstr ""
+msgstr "พิมพ์สินค้าที่ต้องหาค้นหา"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
@@ -1603,7 +1603,7 @@ msgstr ""
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
-msgstr ""
+msgstr "เว็บที่ใช้เปรียบเทียบราคา"
 
 #. Artboard Name: 3.1 Switch UI Navigation - Activity Switch
 #. Switch UI Tab Tray. %1$s is the keyword user input
@@ -1671,7 +1671,7 @@ msgstr "เหลืออีก 1 วัน"
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "เหลืออีก %1$d วัน"
 
 #. Gaming Vertical
 #. Gaming Home
@@ -1695,11 +1695,11 @@ msgstr "ใหม่"
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr ""
+msgstr "เข้าถึงเกมโปรดของคุณอย่างรวดเร็ว"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
-msgstr ""
+msgstr "กดเพื่อสร้างทางลัดไปที่หน้าจอหลัก"
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -1708,11 +1708,11 @@ msgstr "ตกลง"
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr ""
+msgstr "แบ่งปันเกม"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
-msgstr ""
+msgstr "กดเพื่อสร้างทางลัดบนหน้าจอหลัก"
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
@@ -1773,7 +1773,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
+msgstr "สำหรับผู้หญิง"
 
 #. Home 2.0
 #. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
@@ -1822,7 +1822,7 @@ msgstr "เนื้อหาและบริการ"
 
 msgctxt "home_discovery"
 msgid "Discovery"
-msgstr ""
+msgstr "ค้นพบ"
 
 #. Actions in context menu. Users can long press an item then show the context
 #. menu to select an action
