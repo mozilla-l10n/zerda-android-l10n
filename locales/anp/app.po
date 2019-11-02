@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-02 14:46+0000\n"
+"PO-Revision-Date: 2019-11-02 15:07+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1713,7 +1713,7 @@ msgstr "खेल शेयर करोॅ"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
-msgstr ""
+msgstr "होम स्क्रीन पर शॉर्टकट बनाबोॅ"
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
@@ -1829,7 +1829,7 @@ msgstr ""
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "होम स्क्रीन में जोड़ोॅ"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
@@ -1972,7 +1972,7 @@ msgstr "रद्द करोॅ"
 
 msgctxt "msrp_challenge_leaving_button_2"
 msgid "LEAVE"
-msgstr ""
+msgstr "छोड़ दहो"
 
 #. Challenge  completed (popup)
 msgctxt "msrp_completed_popup_title"
@@ -2059,7 +2059,7 @@ msgstr "भंजाबोॅ"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
-msgstr ""
+msgstr "वाउचर"
 
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
@@ -2080,7 +2080,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
-msgstr ""
+msgstr "खाता निष्क्रिय भेल"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
