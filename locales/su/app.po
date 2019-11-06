@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-06 08:45+0000\n"
+"PO-Revision-Date: 2019-11-06 08:47+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1905,17 +1905,16 @@ msgstr "Cobaan Balanja, Warta, Kaulinan salila 7 poé noron!"
 #, c-format
 msgctxt "msrp_reward_challenge_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Kadaluwarsa %1$s"
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "Tantangan 7 poé pikeun pocer Shopee Rp15.000"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "Pocer Shopee Rp15.000"
 
 #, fuzzy
 msgctxt "msrp_challenge_details_title_1"
