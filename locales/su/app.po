@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-06 07:48+0000\n"
+"PO-Revision-Date: 2019-11-06 08:25+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1872,30 +1872,30 @@ msgstr ""
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr ""
+msgstr "Meunangkeun %1$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr ""
+msgstr "Cobaan Balanja, Warta, Kaulinan unggal poé pikeun meunang %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
 msgid "Reward"
-msgstr ""
+msgstr "Hadiah"
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "Udagan"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "Kado"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
