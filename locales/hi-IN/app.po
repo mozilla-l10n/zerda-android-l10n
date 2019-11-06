@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-06 11:54+0000\n"
+"PO-Revision-Date: 2019-11-06 12:11+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -2027,7 +2027,7 @@ msgstr "वाउचर सीमित समय के लिए ही मा
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "हम किसी भी समय, इन उपयोग की शर्तों के कुछ हिस्सों को बदलने, संशोधित करने, जोड़ने या हटाने का अधिकार, अपने विवेक पर सुरक्षित रखते हैं।"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
