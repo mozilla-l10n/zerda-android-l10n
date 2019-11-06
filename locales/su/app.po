@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-06 04:52+0000\n"
+"PO-Revision-Date: 2019-11-06 07:48+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1802,15 +1802,15 @@ msgstr "Angger Gancang jeung Énténg. Kami nambahan paluruh balanja pinter jeun
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "Toél pikeun maca warta anu keur sabiwir hiji, nyiar harga kortingan atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr ""
+msgstr "Toél pikeun maca warta anu keur sabiwir hiji atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr ""
+msgstr "Toél pikeun maén kaulinan gratis panghadéna pikeun kalangenan!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
