@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-05 10:21+0000\n"
+"PO-Revision-Date: 2019-11-06 04:51+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1578,7 +1578,7 @@ msgstr "Téangan anu murah"
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr "Bandingkeun harga di toko-toko onlén maké Smart Search Search."
+msgstr "Bandingkeun harga di toko-toko onlén maké Paluruh Balanja Pinter."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -1589,7 +1589,7 @@ msgstr "Ketik barang anu rék dipilari"
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr "Bandingkeun harga di toko-toko onlén maké Smart Search Search."
+msgstr "Bandingkeun harga di toko-toko onlén maké Paluruh Balanja Pinter."
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1796,7 +1796,7 @@ msgstr "Anyar pisan %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr ""
+msgstr "Angger Gancang jeung Énténg. Kami nambahan paluruh balanja pinter jeung kontén pikeun ngajadikeun langlangan internét leuwih pikaresepeun jeung ngeunaheun!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
@@ -1815,7 +1815,7 @@ msgstr ""
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "Paluruh Balanja Pinter"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
