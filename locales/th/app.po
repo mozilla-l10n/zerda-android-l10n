@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-09 12:11+0000\n"
+"PO-Revision-Date: 2019-11-09 12:13+0000\n"
 "Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1806,7 +1806,7 @@ msgstr ""
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr ""
+msgstr "ค้นหาแบบสมาร์ตชอปปิ้ง"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
@@ -1843,12 +1843,14 @@ msgid ""
 "Oops!\n"
 "Something went wrong"
 msgstr ""
+"อุ๊ย!\n"
+"มีบางอย่างไม่ถูกต้อง"
 
 #. Private mode home 2.0
 #. Title of Private mode
 msgctxt "private_home_title"
 msgid "Advanced Private Browsing"
-msgstr ""
+msgstr "การท่องเว็บส่วนตัวขั้นสูง"
 
 #. Description of Private mode
 msgctxt "private_home_description"
