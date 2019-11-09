@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-09 06:32+0000\n"
+"PO-Revision-Date: 2019-11-09 06:44+0000\n"
 "Last-Translator: Frederick Villaluna <fv_comscie@yahoo.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -457,7 +457,7 @@ msgstr "Iwasan ang pagiging sinusubaybayan"
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
+msgstr "Ngayon ay maaari mong suriin kung gaano karaming mga tracker ang naharang sa pribadong mode."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -502,7 +502,7 @@ msgstr "I-pin ang iyong mga paboritong sites"
 
 msgctxt "second_run_upgrade_page_text"
 msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr ""
+msgstr "Maaari mo na ngayong i-pin ang anumang tuktok na site upang hindi ito mailipat. Upang makapagsimula ka, nai-pin namin ang ilang mga nangungunang site upang subukan mo."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -991,17 +991,17 @@ msgstr "I-pin ang site"
 #. Show a toast message when start downloading the new apk from google play.
 msgctxt "update_to_latest_app_toast"
 msgid "Downloading latest build…"
-msgstr ""
+msgstr "Pag-download ng pinakabagong build…"
 
 #. Show notification so users can tap to update the apk
 msgctxt "update_to_latest_app_notification"
 msgid "Latest build has been downloaded. Tap to update."
-msgstr ""
+msgstr "Ang pinakabagong build ay na-download. Tapikin upang i-update."
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_message"
 msgid "Latest build downloaded"
-msgstr ""
+msgstr "Pinakabagong nai-download na build"
 
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
@@ -1238,7 +1238,7 @@ msgstr "Balita"
 
 msgctxt "label_menu_latest_top_trending_news"
 msgid "Latest & Top Trending News"
-msgstr ""
+msgstr "Pinakabago at mga Nangungunang Balita"
 
 #. Button on the news portal page when a newer list is found. When a user tap
 #. it, the page will refresh and show the latest list.
@@ -1478,13 +1478,13 @@ msgstr "Trackers blocked"
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr ""
+msgstr "Tangkilikin ang pag-browse na may labis na proteksyon."
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr ""
+msgstr "I-access ang pribadong mode sa isang pag-click! Nais mo bang magdagdag ng shortcut mode ng pribado sa homecreen?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1496,11 +1496,11 @@ msgstr "Oo"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
-msgstr ""
+msgstr "Magdagdag ng shortcut sa pribadong mode"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
-msgstr ""
+msgstr "I-access nang mabilis ang pribadong mode mula sa iyong homecreen."
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
@@ -1513,7 +1513,7 @@ msgstr "YES, ADD IT NOW!"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr ""
+msgstr "Maaari kang magdagdag ng shortcut sa pribadong mode sa paglaon sa mga setting."
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1526,7 +1526,7 @@ msgstr "%1$s - Private browsing"
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr ""
+msgstr "Magdagdag ng shortcut sa pribadong mode sa Home screen"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
@@ -1544,7 +1544,7 @@ msgstr "Para mapabuti ang produktong ito, kami ay maaaring mangolekta ng imporma
 #. to proceed to the website.
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Kinakailangan ang pagpapatunay"
 
 #. Text on an input username field in web auth dialog. This hint user to input
 #. username here.
@@ -1566,65 +1566,65 @@ msgstr "Nakatagong notipikasyon"
 
 msgctxt "about_link_terms_of_service"
 msgid "Terms of Service"
-msgstr ""
+msgstr "Panuntunan ng serbisyo"
 
 #. Shopping Vertical
 #. Artboard Name: 1.1 Shopping Search Overview
 #. Shopping Search Onboarding
 msgctxt "shopping_search_onboarding_title"
 msgid "Find great prices"
-msgstr ""
+msgstr "Maghanap ng magagandang presyo"
 
 #. Shopping Search Onboarding Message, and would need to localize "Smart
 #. Shopping Search"
 msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "Paghambingin ang mga presyo sa maraming online na tindahan sa Smart Shopping Search."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
 msgid "Type the product you want to search"
-msgstr ""
+msgstr "I-type ang produktong nais mong makita"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr ""
+msgstr "Paghambingin ang mga presyo sa maraming online na tindahan na may Smart Shopping Search."
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "Hanapin"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "Tapikin ang mga site ng pamimili sa ibaba upang mag-browse ng higit pang mga resulta, o i-tap ang pindutan na ito upang i-edit."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "Mga Setting sa Paghahanap sa Pamimili"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
-msgstr ""
+msgstr "Mga site upang ihambing"
 
 #. Artboard Name: 3.1 Switch UI Navigation - Activity Switch
 #. Switch UI Tab Tray. %1$s is the keyword user input
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "Pamimili ng Paghahanap: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "Pamimili ng Paghahanap"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
@@ -1638,13 +1638,13 @@ msgstr "Kanselahin"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
-msgstr ""
+msgstr "Isara ang lahat ng mga resulta sa paghahanap sa pamimili?"
 
 #. Artboard Name: 4.1 Shopping Deals Overview
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr ""
+msgstr "Pamimili"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
@@ -1705,28 +1705,28 @@ msgstr "Bago"
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
-msgstr ""
+msgstr "Mabilis na pag-access sa iyong mga paboritong laro"
 
 msgctxt "gaming_vertical_hint_body"
 msgid "Press to create a shortcut to your home screen."
-msgstr ""
+msgstr "Pindutin ang upang lumikha ng isang shortcut sa iyong home screen."
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
-msgstr ""
+msgstr "Ibahagi ang laro"
 
 msgctxt "gaming_vertical_menu_option_2"
 msgid "Create shortcut on home screen"
-msgstr ""
+msgstr "Lumikha ng shortcut sa home screen"
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr ""
+msgstr "Alisin sa listahan"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1735,6 +1735,8 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
+"Naglalaro talaga ako. Tingnan ito!¶\n"
+"%1$s"
 
 #. Gaming Genres
 msgctxt "gaming_vertical_genre_1"
