@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-07 17:01+0000\n"
-"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
+"PO-Revision-Date: 2019-11-09 12:11+0000\n"
+"Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -1628,7 +1628,7 @@ msgstr "ยกเลิก"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
-msgstr ""
+msgstr "ปิดผลลัพธ์การค้นหาชอปปิ้งทั้งหมด?"
 
 #. Artboard Name: 4.1 Shopping Deals Overview
 #. Shopping Home
@@ -1725,6 +1725,8 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
+"ฉันกำลังเล่นเกมสนุกสุดยอด ลองดูสิ\n"
+"%1$s"
 
 #. Gaming Genres
 msgctxt "gaming_vertical_genre_1"
@@ -1757,19 +1759,19 @@ msgstr "ผจญภัย"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr ""
+msgstr "แอคชัน"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr ""
+msgstr "เกมตู้"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
-msgstr ""
+msgstr "ปริศนาและตรรกะ"
 
 msgctxt "gaming_vertical_genre_11"
 msgid "Sports & Racing"
-msgstr ""
+msgstr "กีฬาและความเร็ว"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
@@ -1781,7 +1783,7 @@ msgstr "สำหรับผู้หญิง"
 #, c-format
 msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
-msgstr ""
+msgstr "แกะกล่อง %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
