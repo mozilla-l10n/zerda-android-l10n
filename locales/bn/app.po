@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-03 09:46+0000\n"
-"Last-Translator: Salman Rahman Desh <salmanrahmandesh@gmail.com>\n"
+"PO-Revision-Date: 2019-11-10 03:30+0000\n"
+"Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -1797,11 +1797,11 @@ msgstr "গতিশীল এবং হালকা রয়েছে। ইন�
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr ""
+msgstr "ট্রেন্ডি সংবাদ পড়তে, ভাল লেনদেন সন্ধান করুন বা মজা পাওয়ার জন্য জনপ্রিয় ফ্রি গেম খেলতে ট্যাপ করুন!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr ""
+msgstr "ট্রেন্ডি সংবাদ পড়তে বা মজা পাওয়ার জন্য জনপ্রিয় ফ্রি গেমস খেলতে ট্যাপ করুন!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1863,6 +1863,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"এখন আপনি ব্যক্তিগতভাবে ব্রাউজ করতে পারবেন, কোন ইতিহাস, কোন পাসওয়ার্ড সংরক্ষণ করা হয় না এবং এই ডিভাইসটি ব্যাবহার করে এমন অন্য ব্যক্তি আপনার কার্যকলাপ দেখতে পারবেনা।\n"
+"\n"
+"আমাদের উন্নত ব্যক্তিগত ব্রাউজিং<font color=\"white\">বিজ্ঞাপনদাতা এবং ওয়েবসাইট এর</font>ট্র্যাক করা থেকে আপনাকে রক্ষা করতে পারে, যা বেশিরভাগ ব্যক্তিগত মোড পারে না।"
 
 #. MSRP Vertical
 #. Logoman
@@ -1919,7 +1922,7 @@ msgstr "7 দিনের চ্যালেঞ্জে যোগ দিন"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "একটানা সাতদিন ধরে বাটনগুলোয় ক্লিক করে %1$s হোম এ শপিং, নিউজ, গেম চেষ্টা করুন।"
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
