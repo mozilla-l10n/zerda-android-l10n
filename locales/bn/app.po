@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-10 03:30+0000\n"
-"Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
+"PO-Revision-Date: 2019-11-11 05:05+0000\n"
+"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -1930,10 +1930,10 @@ msgstr "আপনার পুরষ্কারটি পেতে Firefox অ�
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "%1$s ছাড় পাবার প্রক্রিয়া সম্পন্ন করার আগে নিশ্চিত হোন যে আপনার কাঙ্খিত অ্যাকাউন্টে সাইন ইন করেছেন।"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
@@ -2025,7 +2025,7 @@ msgstr "ভাউচার কেবল সীমিত সময়ের জ�
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "আমরা যে কোনও সময় সম্পূর্ণ বিচক্ষণতার ভিত্তিতে এই শর্তাবলীর পরিবর্তন, সংশোধন, সংযোজন বা অপসারণের অধিকার সংরক্ষণ করি।"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2075,7 +2075,7 @@ msgstr "সতর্কতা: একাধিক Firefox অ্যাকাউ�
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "কেবল একটি Firefox অ্যাকাউন্ট থেকে 7-দিনের চ্যালেঞ্জে অংশগ্রহণ করা যেতে পারে। যদি আপনি অন্য অ্যাকাউন্টে বদল করেন, এই চ্যালেঞ্জ এর জন্য আপনাকে অযোগ্য ঘোষণা করা হবে।"
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
