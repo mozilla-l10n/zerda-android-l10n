@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-07 02:11+0000\n"
+"PO-Revision-Date: 2019-11-07 02:13+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1916,10 +1916,9 @@ msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
 msgstr "Pocer Shopee Rp15.000"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
-msgstr ""
+msgstr "Miluan tantangan 7-Poé"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1927,10 +1926,9 @@ msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
 msgstr "Cobaan Balanja, Warta, Kaulinan di Tepas %1$s ku ukur noél tombolna noron tujuh poé."
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "Paké akun Firefox anjeun pikeun nebus ganjaran anjeun"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
