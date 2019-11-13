@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-13 13:54+0000\n"
-"Last-Translator: Lidya Christina <id.lidya@gmail.com>\n"
+"PO-Revision-Date: 2019-11-13 14:27+0000\n"
+"Last-Translator: Romi Hardiyanto <romihardiyanto@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -1482,7 +1482,7 @@ msgstr "Nikmati penjelajahan dengan perlindungan ekstra."
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr "Akses mode private dengan satu klik! Ingin tambahkan pintasan mode privat di beranda?"
+msgstr "Akses mode pribadi dengan sekali klik! Ingin tambahkan pintasan mode pribadi di beranda?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1511,7 +1511,7 @@ msgstr "YA, TAMBAHKAN SEKARANG!"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr "Anda dapat menambahkan pintasan mode private di pengaturan."
+msgstr "Anda dapat menambahkan pintasan mode pribadi di pengaturan."
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1867,9 +1867,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
-"Sekarang Anda dapat menjelajah secara privat, tidak ada riwayat, tidak ada kata sandi yang direkam dan orang lain yang menggunakan perangkat ini tidak akan melihat aktivitas Anda.\n"
+"Sekarang Anda dapat menjelajah secara pribadi, tidak ada riwayat, tidak ada kata sandi yang direkam, dan orang lain yang menggunakan perangkat ini tidak akan melihat aktivitas Anda.\n"
 "\n"
-"Penjelajahan Privat Lanjutan kami bahkan dapat <font color=\"white\">mencegah Anda dilacak</font> oleh pengiklan dan situs web, di mana kebanyakan mode privat tidak dapat melakukannya."
+"Penjelajahan Pribadi Tingkat Lanjut kami bahkan dapat <font color=\"white\">mencegah Anda dilacak</font> oleh pengiklan dan situs web, di mana kebanyakan mode pribadi tidak dapat melakukannya."
 
 #. MSRP Vertical
 #. Logoman
@@ -2039,7 +2039,7 @@ msgstr "Berlaku hingga %1$s"
 
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr "Salin kupon dan gunakan berbelanja"
+msgstr "Salin voucer dan gunakan untuk belanja"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
