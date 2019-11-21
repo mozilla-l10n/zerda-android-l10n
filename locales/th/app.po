@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-09 12:13+0000\n"
-"Last-Translator: Chengings <chengings@gmail.com>\n"
+"PO-Revision-Date: 2019-11-21 17:29+0000\n"
+"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -1239,16 +1239,14 @@ msgid "New update"
 msgstr "การอัปเดตใหม่"
 
 #. Title of news preferences
-#, fuzzy
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr "ค่ากำหนดข่าว"
+msgstr "การตั้งค่าข่าว"
 
 #. This is the dialog for choosing news language
-#, fuzzy
 msgctxt "news_language_dialog_title"
 msgid "Language"
-msgstr "ภาษาข่าว"
+msgstr "ภาษา"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1599,7 +1597,7 @@ msgstr "ตกลง"
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "การตั้งค่าการค้นหาการซื้อของ"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
@@ -1610,11 +1608,11 @@ msgstr "เว็บที่ใช้เปรียบเทียบราค
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "การค้นหาการซื้อของ: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr ""
+msgstr "การค้นหาการซื้อของ"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
@@ -1878,11 +1876,11 @@ msgstr ""
 #. Reward
 msgctxt "msrp_reward_title"
 msgid "Reward"
-msgstr ""
+msgstr "รางวัล"
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "ภารกิจ"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
@@ -1933,7 +1931,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "ป้อนที่อยู่อีเมลของคุณเพื่อเริ่มต้นใช้งาน"
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -1953,17 +1951,17 @@ msgstr "เงื่อนไขการใช้งาน"
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "ออกจากภารกิจ"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr ""
+msgstr "วิธีการแลกใช้"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
-msgstr ""
+msgstr "ใช้บัญชี Firefox เพื่อแลกใช้"
 
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
@@ -1979,7 +1977,6 @@ msgid "LEAVE"
 msgstr "ออก"
 
 #. Challenge  completed (popup)
-#, fuzzy
 msgctxt "msrp_completed_popup_title"
 msgid "Congratulations!"
 msgstr "ขอแสดงความยินดี!"
@@ -1997,10 +1994,9 @@ msgid "Later"
 msgstr "ภายหลัง"
 
 #. Challenge completed (full screen)
-#, fuzzy
 msgctxt "msrp_challenge_completed_title"
 msgid "Congratulations!"
-msgstr "ยินดีด้วย!"
+msgstr "ขอแสดงความยินดี!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
@@ -2008,14 +2004,14 @@ msgstr ""
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr ""
+msgstr "แลกใช้ในภายหลัง"
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s is ready!"
-msgstr ""
+msgstr "%1$s ของคุณพร้อมแล้ว!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
@@ -2052,16 +2048,16 @@ msgstr ""
 #, c-format
 msgctxt "msrp_faq"
 msgid "Any questions? %1$s."
-msgstr ""
+msgstr "มีคำถาม? %1$s"
 
 msgctxt "msrp_contact_us"
 msgid "Contact us"
-msgstr ""
+msgstr "ติดต่อเรา"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr ""
+msgstr "แลกใช้"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
@@ -2146,7 +2142,7 @@ msgstr ""
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "ตรวจสอบให้แน่ใจว่าคุณได้เชื่อมต่อกับอินเทอร์เน็ต"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
