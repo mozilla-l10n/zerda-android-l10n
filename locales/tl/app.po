@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-09 07:03+0000\n"
-"Last-Translator: Frederick Villaluna <fv_comscie@yahoo.com>\n"
+"PO-Revision-Date: 2019-11-26 05:54+0000\n"
+"Last-Translator: Kim Domanog <kjdomanog@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -1824,7 +1824,7 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "Hanapin..."
 
 #. Content & Services
 #. Title of Content & Services
@@ -1840,7 +1840,7 @@ msgstr ""
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Idagdag sa Home screen"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
