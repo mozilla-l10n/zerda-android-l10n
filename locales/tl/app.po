@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-26 11:16+0800\n"
-"PO-Revision-Date: 2019-11-09 07:03+0000\n"
-"Last-Translator: Frederick Villaluna <fv_comscie@yahoo.com>\n"
+"POT-Creation-Date: 2019-11-28 14:27+0800\n"
+"PO-Revision-Date: 2019-11-26 08:50+0000\n"
+"Last-Translator: Kim Domanog <kjdomanog@gmail.com>\n"
 "Language: fil_PH\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=((((((0 == 0)) && ((n == 1) || (n == 2) "
@@ -1925,7 +1925,7 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "Hanapin..."
 
 #. Content & Services
 #. Title of Content & Services
@@ -1941,7 +1941,7 @@ msgstr ""
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Idagdag sa Home screen"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
@@ -2059,7 +2059,7 @@ msgstr ""
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "Sali ako!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
 #, c-format, fuzzy
@@ -2135,10 +2135,10 @@ msgstr "Pagtubos mamaya"
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s is ready!"
-msgstr ""
+msgstr "Handa na ang iyong %1$s!"
 
 msgctxt "msrp_voucher_body_1"
 msgid ""
@@ -2156,7 +2156,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
-msgstr ""
+msgstr "Mag-eexpire sa %1$s"
 
 #, fuzzy
 msgctxt "msrp_voucher_button_2"
@@ -2208,7 +2208,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
-msgstr ""
+msgstr "Naiintindihan ko"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
@@ -2278,11 +2278,11 @@ msgstr ""
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
 msgid "Make sure you are connected to the internet"
-msgstr ""
+msgstr "Siguraduhing ikaw ay naka-connect sa Internet"
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "SUBUKAN MULI"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
@@ -2364,6 +2364,7 @@ msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
 msgstr ""
 
+#. Youtube content. the %1$s here is single time of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "%1$s view"
@@ -2439,14 +2440,12 @@ msgstr ""
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
-msgid "Search with %1$s"
+msgid "See results in %1$s"
 msgstr ""
 
 #. this is a title indicates that users will see search results summerized by
-#. firefox lite travel after tapping on the following options. the %1$s here is
-#. firefox lite.
-#, c-format
+#. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
-msgid "Search with %1$s Travel"
+msgid "See results in smart travel search"
 msgstr ""
 

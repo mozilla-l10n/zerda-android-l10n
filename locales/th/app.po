@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-26 11:16+0800\n"
-"PO-Revision-Date: 2019-11-21 17:29+0000\n"
+"POT-Creation-Date: 2019-11-28 14:27+0800\n"
+"PO-Revision-Date: 2019-11-26 16:52+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language: th\n"
 "Language-Team: th <LL@li.org>\n"
@@ -2128,10 +2128,9 @@ msgctxt "msrp_voucher_expire"
 msgid "Expires %1$s"
 msgstr "หมดอายุเมื่อ %1$s"
 
-#, fuzzy
 msgctxt "msrp_voucher_button_2"
 msgid "Copy voucher and go shopping"
-msgstr ""
+msgstr "คัดลอกบัตรกำนัลและไปซื้อของ"
 
 msgctxt "msrp_voucher_button_1"
 msgid "Copy"
@@ -2139,11 +2138,11 @@ msgstr "คัดลอก"
 
 msgctxt "msrp_voucher_toast"
 msgid "Voucher code copied"
-msgstr ""
+msgstr "คัดลอกรหัสบัตรกำนัลแล้ว"
 
 msgctxt "msrp_voucher_nostock"
 msgid "The voucher is out of stock"
-msgstr ""
+msgstr "บัตรกำนัลหมด"
 
 #. The %1$s here is a placeholder for "Contact us"
 #, c-format
@@ -2162,7 +2161,7 @@ msgstr "แลกใช้"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
-msgstr ""
+msgstr "บัตรกำนัล"
 
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
@@ -2334,6 +2333,7 @@ msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
 msgstr ""
 
+#. Youtube content. the %1$s here is single time of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "%1$s view"
@@ -2409,14 +2409,12 @@ msgstr ""
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
-msgid "Search with %1$s"
+msgid "See results in %1$s"
 msgstr ""
 
 #. this is a title indicates that users will see search results summerized by
-#. firefox lite travel after tapping on the following options. the %1$s here is
-#. firefox lite.
-#, c-format
+#. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
-msgid "Search with %1$s Travel"
+msgid "See results in smart travel search"
 msgstr ""
 

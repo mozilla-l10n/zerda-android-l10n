@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-26 11:16+0800\n"
+"POT-Creation-Date: 2019-11-28 14:27+0800\n"
 "PO-Revision-Date: 2019-08-16 18:05+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language: te\n"
@@ -2330,6 +2330,7 @@ msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
 msgstr ""
 
+#. Youtube content. the %1$s here is single time of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "%1$s view"
@@ -2405,14 +2406,12 @@ msgstr ""
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
-msgid "Search with %1$s"
+msgid "See results in %1$s"
 msgstr ""
 
 #. this is a title indicates that users will see search results summerized by
-#. firefox lite travel after tapping on the following options. the %1$s here is
-#. firefox lite.
-#, c-format
+#. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
-msgid "Search with %1$s Travel"
+msgid "See results in smart travel search"
 msgstr ""
 
