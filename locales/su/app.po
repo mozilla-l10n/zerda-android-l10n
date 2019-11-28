@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-23 23:25+0800\n"
-"PO-Revision-Date: 2019-11-27 10:57+0000\n"
+"PO-Revision-Date: 2019-11-28 02:12+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1868,6 +1868,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
 msgstr ""
+"Kiwari anjeun bisa ngalanglang bari nyamuni, tan laratan, tan rekaman kecap sandi, sarta moal bisa kapapay ku nu séjén anu maké ieu paranti.\n"
+"\n"
+"Langlangan Pribadi Tingkat Lanjut samalah bisa <font color=\"white\">nyegah anjeun dilacak</font> ku pangiklan jeung raramatloka, anu ku kalolobaan mode pribadi nu séjén mah teu bisa."
 
 #. MSRP Vertical
 #. Logoman
