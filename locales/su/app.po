@@ -2,24 +2,23 @@
 # Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 23:25+0800\n"
+"POT-Creation-Date: 2019-11-28 14:27+0800\n"
 "PO-Revision-Date: 2019-11-28 02:12+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
+"Language: su\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
-"Language: su\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.6.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -117,8 +116,12 @@ msgstr "Paluruh di Firefox Lite"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s téh panyungsi anu gancang tur hampang karya %2$s. Ari udaganana nya éta pikeun ngarojong internét nembrak anu séhat."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%1$s téh panyungsi anu gancang tur hampang karya %2$s. Ari udaganana nya "
+"éta pikeun ngarojong internét nembrak anu séhat."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -218,8 +221,12 @@ msgstr "Kirim data pamakéan"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s bakal kukumpul data nu diperlukeun hungkul jang nyadiakeun jeung ngoméan %1$s pikeun anjeun."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%2$s bakal kukumpul data nu diperlukeun hungkul jang nyadiakeun jeung "
+"ngoméan %1$s pikeun anjeun."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -329,8 +336,12 @@ msgstr "Téangan aplikasi nu bisa muka tutumbu"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Euweuh aplikasi nu bisa muka ieu tutumbu. Anjeun bisa ninggalkeun %1$s pikeun maluruh aplikasi nu bisa di %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Euweuh aplikasi nu bisa muka ieu tutumbu. Anjeun bisa ninggalkeun %1$s "
+"pikeun maluruh aplikasi nu bisa di %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -404,39 +415,58 @@ msgstr "Nuhun geus milih %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "Panyungsi nu dijieun ku %1$s, organisasi tanpabati anu tuhu kana wéb bébas tur nembrak."
+msgstr ""
+"Panyungsi nu dijieun ku %1$s, organisasi tanpabati anu tuhu kana wéb "
+"bébas tur nembrak."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Ngalanglang sakedét nétra"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "Paké modeu turbo pikeun meungpeuk iklan palacak sangkan anjeun bisa ngalanglang kalawan gancang pisan. Mun situs aya masalah, pareuman baé modeu turbona liwat menu."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr ""
+"Paké modeu turbo pikeun meungpeuk iklan palacak sangkan anjeun bisa "
+"ngalanglang kalawan gancang pisan. Mun situs aya masalah, pareuman baé "
+"modeu turbona liwat menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Rikrik data = Rikrik duit"
 
 msgctxt "first_run_page3_text"
-msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
-msgstr "Rikrik ongkos data ku cara meungpeuk iklan palacak. Leuwih irit deui lamun ngahirupkeun peungpeuk gambar."
+msgid ""
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
+msgstr ""
+"Rikrik ongkos data ku cara meungpeuk iklan palacak. Leuwih irit deui "
+"lamun ngahirupkeun peungpeuk gambar."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "Téwak layar sakabéhna"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "Téwak layar saeusi kaca. Baca eusina sacara oflén tanpa maké data atawa toél pikeun nyorang deui kaca raramatna."
+msgid ""
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
+msgstr ""
+"Téwak layar saeusi kaca. Baca eusina sacara oflén tanpa maké data atawa "
+"toél pikeun nyorang deui kaca raramatna."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "Privasi tingkat lanjut"
 
 msgctxt "first_run_page5_text"
-msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "Nyungsi tanpa tapak, sarta meungpeuk sarupaning palacak raramat sacara baku. Ngajamin amanna data penting anjeun."
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+"Nyungsi tanpa tapak, sarta meungpeuk sarupaning palacak raramat sacara "
+"baku. Ngajamin amanna data penting anjeun."
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -445,8 +475,12 @@ msgstr "Nyungsi tanpa tapak, sarta meungpeuk sarupaning palacak raramat sacara b
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr "Ku sakali flip, ulah nepi ka tinggaleun di “%1$s” - rupa-rupa kontén ti jejer anu keur sabiwir hiji. %2$s"
+msgid ""
+"Just one flip, keep yourself updated with the “%1$s” - a variety of "
+"contents from the most popular topics to the hottest deals. %2$s"
+msgstr ""
+"Ku sakali flip, ulah nepi ka tinggaleun di “%1$s” - rupa-rupa kontén ti "
+"jejer anu keur sabiwir hiji. %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -456,7 +490,9 @@ msgstr "Cegah tina dilacak"
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
-msgstr "Ayeuna anjeun bisa mariksa sabaraha palacak anu dipeungpeuk dina mode nyamuni."
+msgstr ""
+"Ayeuna anjeun bisa mariksa sabaraha palacak anu dipeungpeuk dina mode "
+"nyamuni."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -469,8 +505,12 @@ msgstr "Midang dina wanda anyar!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr "Luyu jeung kamekaran produkna, kasanggakeun pidangan %1$s anu anyar, kalawan ngaran jeung logo anyar."
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
+"Luyu jeung kamekaran produkna, kasanggakeun pidangan %1$s anu anyar, "
+"kalawan ngaran jeung logo anyar."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -493,15 +533,6 @@ msgstr "2. Sorang loka karesep anjeun kalayan gancang ku %s"
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
 msgstr "nambahkeun kabéh kana tepas!"
-
-#. Update tour for pin sites to home page
-msgctxt "second_run_upgrade_page_title"
-msgid "Pin your favorite sites"
-msgstr "Pin loka kameumeut anjeun"
-
-msgctxt "second_run_upgrade_page_text"
-msgid "You can now pin any top site so it does not get moved. To get you started, we have pinned some top sites for you to try."
-msgstr "Anjeun bisa ngapin loka mana waé sangkan teu obah. Pikeun mitembeyan, kami geus ngapin sababaraha loka petingan pikeun dicobaan."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -599,8 +630,12 @@ msgid "Location not available. Give permission to access your location."
 msgstr "Lokasi teu sayaga. Idinan pikeun ngaksés lokasi anjeun."
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "Paneundeunan teu sayaga. Idinan pikeun nyimpen sarupaning foto jeung koropak na parangkat anjeun."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"Paneundeunan teu sayaga. Idinan pikeun nyimpen sarupaning foto jeung "
+"koropak na parangkat anjeun."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -837,7 +872,9 @@ msgstr "BAGIKEUN"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "Teu aya kartu mémori kadéték. Koropak geus diteundeun kana paneundeunan internal."
+msgstr ""
+"Teu aya kartu mémori kadéték. Koropak geus diteundeun kana paneundeunan "
+"internal."
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -1013,8 +1050,13 @@ msgid "Product Update Notice"
 msgstr "Wawar Apdétan Prodak"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
-msgstr "Ngarah Firefox Lite leuwih hadé pikeun anjeun jeung balaréa, kami nyieun sawatara parobahan kana kawijakan salindungan kami. Toél baé pikeun leuwih teleb."
+msgid ""
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
+msgstr ""
+"Ngarah Firefox Lite leuwih hadé pikeun anjeun jeung balaréa, kami nyieun "
+"sawatara parobahan kana kawijakan salindungan kami. Toél baé pikeun "
+"leuwih teleb."
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1026,7 +1068,9 @@ msgstr "Bogoh %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "Hatur nuhun geus milih prodak kami. Pangdeudeul anjeun kacida utama pikeun kami."
+msgstr ""
+"Hatur nuhun geus milih prodak kami. Pangdeudeul anjeun kacida utama "
+"pikeun kami."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -1052,11 +1096,12 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "Bagikeun %1$s ka babaturan!"
 
+#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
-"- Data saving\n"
-"- Powerful screenshots"
+"- Smart Shopping Search\n"
+"- Free Games, trending news"
 msgstr ""
 "- Gancang tur hampang\n"
 "- Rikrik data\n"
@@ -1077,15 +1122,21 @@ msgstr "Euy, cobaan panyungsi gancang tur hampang ti %3$s. %1$s %2$s"
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku %2$s jeung kontributor séjénna."
+msgstr ""
+"%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku %2$s jeung "
+"kontributor séjénna."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a href=\"%2$s\">%3$s</a> jeung lisénsi sumber nembrak nu séjén."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a "
+"href=\"%2$s\">%3$s</a> jeung lisénsi sumber nembrak nu séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1094,18 +1145,25 @@ msgstr "%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a href=\"%2$s\">%3$
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
-"Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla Foundation atawa pihak mana ogé, kaasup ngaran atawa logo %3$s, %4$s, atawa %1$s. Émbaran leuwih jero bisa dipanggihan <a "
-"href=\"%2$s\">di dieu</a>."
+"Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla "
+"Foundation atawa pihak mana ogé, kaasup ngaran atawa logo %3$s, %4$s, "
+"atawa %1$s. Émbaran leuwih jero bisa dipanggihan <a href=\"%2$s\">di "
+"dieu</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a href=\"%2$s\">lisénsi</a> bébas jeung sumber nembrak nu séjén."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a "
+"href=\"%2$s\">lisénsi</a> bébas jeung sumber nembrak nu séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1113,10 +1171,15 @@ msgstr "Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a href=\"%2
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, Inc. minangka hasil karya nu misah jeung indepénden di handapeun <a href=\"%2$s\">GNU General Public License v3</a>, sarta "
-"sayaga <a href=\"%3$s\">di dieu</a>."
+"%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, "
+"Inc. minangka hasil karya nu misah jeung indepénden di handapeun <a "
+"href=\"%2$s\">GNU General Public License v3</a>, sarta sayaga <a "
+"href=\"%3$s\">di dieu</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1482,8 +1545,12 @@ msgstr "Wilujeng ngalanglang kalawan paminingan leuwih."
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr "Aksés modeu pribadi kur sakali ngaklik! Rék nambahkeun takulan modeu pribadi kana layar tepas?"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
+msgstr ""
+"Aksés modeu pribadi kur sakali ngaklik! Rék nambahkeun takulan modeu "
+"pribadi kana layar tepas?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1536,8 +1603,12 @@ msgstr "Ilikan téwakan layar anjeun di dieu!"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "Pikeun ngaronjatkeun pangalaman produk anjeun, kami kukumpul émbaran ngeunaan kategori téwakan layar anjeun."
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots’ categories."
+msgstr ""
+"Pikeun ngaronjatkeun pangalaman produk anjeun, kami kukumpul émbaran "
+"ngeunaan kategori téwakan layar anjeun."
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1597,8 +1668,12 @@ msgstr "Paluruh"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr "Toél loka balanja di handap pikeun maluruh hasil leuwih loba, atawa toél ieu tombol pikeun ngédit."
+msgid ""
+"Tap the shopping sites below to browse more results, or tap this button "
+"to edit."
+msgstr ""
+"Toél loka balanja di handap pikeun maluruh hasil leuwih loba, atawa toél "
+"ieu tombol pikeun ngédit."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1714,6 +1789,10 @@ msgctxt "gaming_vertical_hint_button"
 msgid "OK"
 msgstr "Heug"
 
+msgctxt "gaming_vertical_shortcut_message"
+msgid "shortcut created."
+msgstr ""
+
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
@@ -1794,19 +1873,33 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "Anyar pisan %1$s"
 
+#, fuzzy
 msgctxt "onboarding_2_introduction_description"
-msgid "Remain Fast and Lightweight. We added smart shopping search and content to make internet browsing more fun and enjoyable!"
-msgstr "Angger Gancang jeung Énténg. Kami nambahan paluruh balanja pinter jeung kontén pikeun ngajadikeun langlangan internét leuwih pikaresepeun jeung ngeunaheun!"
+msgid ""
+"A fast and lightweight browser, now with cool features! We have added "
+"smart shopping search and content to make browsing more fun!"
+msgstr ""
+"Angger Gancang jeung Énténg. Kami nambahan paluruh balanja pinter jeung "
+"kontén pikeun ngajadikeun langlangan internét leuwih pikaresepeun jeung "
+"ngeunaheun!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
+#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid "Tap to read the trendy news, find good deals or play the hottest free games to have fun!"
-msgstr "Toél pikeun maca warta anu keur sabiwir hiji, nyiar harga kortingan atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
+msgid ""
+"Tap to read trending news, find good deals, or have fun playing the "
+"hottest free games!"
+msgstr ""
+"Toél pikeun maca warta anu keur sabiwir hiji, nyiar harga kortingan atawa"
+" maén kaulinan gratis panghadéna pikeun kalangenan!"
 
+#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
-msgid "Tap to read the trendy news or play the hottest free games to have fun!"
-msgstr "Toél pikeun maca warta anu keur sabiwir hiji atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
+msgid "Tap to read trending news or have fun playing the hottest free games!"
+msgstr ""
+"Toél pikeun maca warta anu keur sabiwir hiji atawa maén kaulinan gratis "
+"panghadéna pikeun kalangenan!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1819,7 +1912,9 @@ msgstr "Paluruh Balanja Pinter"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr "Ngabandingkeun harga di unggal toko onlén jadi gampang pisan, cobaan ayeuna!"
+msgstr ""
+"Ngabandingkeun harga di unggal toko onlén jadi gampang pisan, cobaan "
+"ayeuna!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1862,11 +1957,19 @@ msgid "Advanced Private Browsing"
 msgstr "Langlangan Nyamuni salengkepna"
 
 #. Description of Private mode
-msgctxt "private_home_description"
+#. The %1$s here is a placeholder for "prevent you from being tracked"
+#, c-format
+msgctxt "private_home_description_1"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other"
+" people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even <font color=\"white\">prevent you from being tracked</font> by advertisers and websites, which most private modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
+"which most private modes cannot."
+msgstr ""
+
+msgctxt "private_home_description_2"
+msgid "prevent you from being tracked"
 msgstr ""
 "Kiwari anjeun bisa ngalanglang bari nyamuni, tan laratan, tan rekaman kecap sandi, sarta moal bisa kapapay ku nu séjén anu maké ieu paranti.\n"
 "\n"
@@ -1926,8 +2029,12 @@ msgstr "Miluan tantangan 7-Poé"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr "Cobaan Balanja, Warta, Kaulinan di Tepas %1$s ku ukur noél tombolna noron tujuh poé."
+msgid ""
+"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
+"seven days in a row."
+msgstr ""
+"Cobaan Balanja, Warta, Kaulinan di Tepas %1$s ku ukur noél tombolna noron"
+" tujuh poé."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
@@ -2170,3 +2277,155 @@ msgstr "TEBUS"
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
 msgstr "Anjeun meunang pocer balanja!"
+
+#. Travel Vertical
+#. travel home
+msgctxt "travel_vertical_title"
+msgid "Travel"
+msgstr ""
+
+#. explore is a verb which means the action for finding new destinations
+msgctxt "travel_vertical_category_1"
+msgid "Explore"
+msgstr ""
+
+#. bucket list is a noun which means the place for collecting all favorite
+#. items like destinations
+msgctxt "travel_vertical_category_2"
+msgid "Bucket List"
+msgstr ""
+
+#. featured destinations
+msgctxt "travel_destination_subcategory_1"
+msgid "Travel on a budget"
+msgstr ""
+
+msgctxt "travel_destination_subcategory_2"
+msgid "Best cities for winter holiday"
+msgstr ""
+
+#. this is a title of the search bar for finding destinations
+msgctxt "travel_find_destination_title"
+msgid "Where do you want to go?"
+msgstr ""
+
+#. this is a placeholder in the search bar which contains a destination as an
+#. example
+msgctxt "travel_find_destination_placeholder_1"
+msgid "Try “Bali”…"
+msgstr ""
+
+#. detail page
+#. this is a subcategory title. The %1$s here is a placeholder for destination
+#. name like Bali
+#, c-format
+msgctxt "travel_detail_page_subcategory_content"
+msgid "Explore %1$s"
+msgstr ""
+
+#. this is a subcategory title
+msgctxt "travel_detail_page_subcategory_hotel"
+msgid "Popular hotels"
+msgstr ""
+
+#. this is the button for seeing more deals on the booking website
+msgctxt "travel_more"
+msgid "More"
+msgstr ""
+
+#. Instagram content. the %1$s here is the destination name
+#, c-format
+msgctxt "travel_content_ig_link"
+msgid "#%1$s on IG"
+msgstr ""
+
+#. Youtube content. the %1$s here is how many times of video viewing
+#, c-format
+msgctxt "travel_content_yt_view_count"
+msgid "%1$s views"
+msgstr ""
+
+#. Youtube content. the %1$s here is single time of video viewing
+#, c-format
+msgctxt "travel_content_yt_view_count_single_view"
+msgid "%1$s view"
+msgstr ""
+
+#. Wiki content
+msgctxt "travel_content_wiki_source_name"
+msgid "Wikipedia"
+msgstr ""
+
+#. detail information for the hotel room
+msgctxt "travel_hotel_detail_1"
+msgid "Free Wi-Fi"
+msgstr ""
+
+msgctxt "travel_hotel_detail_2"
+msgid "Free cancellation"
+msgstr ""
+
+msgctxt "travel_hotel_detail_3"
+msgid "Pay upon check in"
+msgstr ""
+
+#. bucket list
+#. text in the empty state
+msgctxt "travel_empty_state_text"
+msgid "“I haven’t been everywhere, but it’s on my list.”"
+msgstr ""
+
+#. button for entering the search page
+msgctxt "travel_empty_state_button"
+msgid "Explore a city"
+msgstr ""
+
+#. snackbar message after saving a destination
+msgctxt "travel_snack_bar_saved_message"
+msgid "Saved in your bucket list."
+msgstr ""
+
+#. view is a verb. and this is a button which will lead users to see the bucket
+#. list page
+msgctxt "travel_snack_bar_button"
+msgid "VIEW"
+msgstr ""
+
+#. onboarding message for the save function. the %1$s here is the destination
+#. name
+#, c-format
+msgctxt "travel_onboarding_save_title"
+msgid "Love %1$s?"
+msgstr ""
+
+#. the %1$s here is the destination name
+#, c-format
+msgctxt "travel_onboarding_save_description"
+msgid ""
+"Save %1$s in your Bucket List to get quick access to travel guides and "
+"the best prices."
+msgstr ""
+
+#. onboarding button
+msgctxt "travel_onboarding_save_button"
+msgid "OK"
+msgstr ""
+
+#. search page
+#. introduce what can be type in the field
+msgctxt "travel_find_destination_placeholder_2"
+msgid "Enter a destination"
+msgstr ""
+
+#. this is a title indicates that users will see search results from google
+#. after tapping on the following option. the %1$s here is google.
+#, c-format
+msgctxt "travel_search_engine_1"
+msgid "See results in %1$s"
+msgstr ""
+
+#. this is a title indicates that users will see search results summerized by
+#. smart travel search after tapping on the following options.
+msgctxt "travel_search_engine_2"
+msgid "See results in smart travel search"
+msgstr ""

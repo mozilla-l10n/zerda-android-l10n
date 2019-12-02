@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 23:25+0800\n"
+"POT-Creation-Date: 2019-11-28 14:27+0800\n"
 "PO-Revision-Date: 2019-06-04 03:43+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language: ml\n"
@@ -534,20 +534,6 @@ msgstr "2. താങ്കളുടെ പ്രിയപ്പെട്ട സ�
 msgctxt "first_run_upgrade_page_text2_highlight"
 msgid "adding them to the home screen!"
 msgstr "പൂമുഖത്തിലേക്ക് ചേർക്കുന്നതിലൂടെ"
-
-#. Update tour for pin sites to home page
-msgctxt "second_run_upgrade_page_title"
-msgid "Pin your favorite sites"
-msgstr "നിങ്ങളുടെ ഇഷ്ടപ്പെട്ട സൈറ്റുകള്‍ പിൻ ചെയ്ത് വെക്കൂ"
-
-msgctxt "second_run_upgrade_page_text"
-msgid ""
-"You can now pin any top site so it does not get moved. To get you "
-"started, we have pinned some top sites for you to try."
-msgstr ""
-"ഇപ്പോൾ നിങ്ങൾക്ക് ഏതെങ്കിലും മികച്ച സൈറ്റിനെ പിൻ ചെയ്യാൻ കഴിയും, അതിനാൽ "
-"അത് നീക്കം ചെയ്യില്ല. തുടക്കത്തില്‍, നിങ്ങൾക്കായി ചില മികച്ച സൈറ്റുകൾ "
-"ഞങ്ങൾ പിൻ ചെയ്തിരിക്കുന്നു."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1109,11 +1095,12 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "%1$s കൂട്ടുകാരുമായി പങ്കുവെക്കുക!"
 
+#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
-"- Data saving\n"
-"- Powerful screenshots"
+"- Smart Shopping Search\n"
+"- Free Games, trending news"
 msgstr ""
 "- വേഗമേറിയതും ലഘുവും\n"
 "- ഡാറ്റാ ലാഭിക്കുന്നത്\n"
@@ -1803,6 +1790,10 @@ msgctxt "gaming_vertical_hint_button"
 msgid "OK"
 msgstr ""
 
+msgctxt "gaming_vertical_shortcut_message"
+msgid "shortcut created."
+msgstr ""
+
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
 msgid "Share game"
@@ -1881,22 +1872,25 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr ""
 
+#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid ""
-"Remain Fast and Lightweight. We added smart shopping search and content "
-"to make internet browsing more fun and enjoyable!"
+"A fast and lightweight browser, now with cool features! We have added "
+"smart shopping search and content to make browsing more fun!"
 msgstr ""
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
+#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid ""
-"Tap to read the trendy news, find good deals or play the hottest free "
-"games to have fun!"
+"Tap to read trending news, find good deals, or have fun playing the "
+"hottest free games!"
 msgstr ""
 
+#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
-msgid "Tap to read the trendy news or play the hottest free games to have fun!"
+msgid "Tap to read trending news or have fun playing the hottest free games!"
 msgstr ""
 
 msgctxt "onboarding_2_content_services_games"
@@ -1951,14 +1945,19 @@ msgid "Advanced Private Browsing"
 msgstr ""
 
 #. Description of Private mode
-msgctxt "private_home_description"
+#. The %1$s here is a placeholder for "prevent you from being tracked"
+#, c-format
+msgctxt "private_home_description_1"
 msgid ""
 "Now you can browse privately, no history, no passwords recorded and other"
 " people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even <font color=\"white\">prevent you "
-"from being tracked</font> by advertisers and websites, which most private"
-" modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
+"which most private modes cannot."
+msgstr ""
+
+msgctxt "private_home_description_2"
+msgid "prevent you from being tracked"
 msgstr ""
 
 #. MSRP Vertical
@@ -2281,5 +2280,157 @@ msgstr ""
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
+msgstr ""
+
+#. Travel Vertical
+#. travel home
+msgctxt "travel_vertical_title"
+msgid "Travel"
+msgstr ""
+
+#. explore is a verb which means the action for finding new destinations
+msgctxt "travel_vertical_category_1"
+msgid "Explore"
+msgstr ""
+
+#. bucket list is a noun which means the place for collecting all favorite
+#. items like destinations
+msgctxt "travel_vertical_category_2"
+msgid "Bucket List"
+msgstr ""
+
+#. featured destinations
+msgctxt "travel_destination_subcategory_1"
+msgid "Travel on a budget"
+msgstr ""
+
+msgctxt "travel_destination_subcategory_2"
+msgid "Best cities for winter holiday"
+msgstr ""
+
+#. this is a title of the search bar for finding destinations
+msgctxt "travel_find_destination_title"
+msgid "Where do you want to go?"
+msgstr ""
+
+#. this is a placeholder in the search bar which contains a destination as an
+#. example
+msgctxt "travel_find_destination_placeholder_1"
+msgid "Try “Bali”…"
+msgstr ""
+
+#. detail page
+#. this is a subcategory title. The %1$s here is a placeholder for destination
+#. name like Bali
+#, c-format
+msgctxt "travel_detail_page_subcategory_content"
+msgid "Explore %1$s"
+msgstr ""
+
+#. this is a subcategory title
+msgctxt "travel_detail_page_subcategory_hotel"
+msgid "Popular hotels"
+msgstr ""
+
+#. this is the button for seeing more deals on the booking website
+msgctxt "travel_more"
+msgid "More"
+msgstr ""
+
+#. Instagram content. the %1$s here is the destination name
+#, c-format
+msgctxt "travel_content_ig_link"
+msgid "#%1$s on IG"
+msgstr ""
+
+#. Youtube content. the %1$s here is how many times of video viewing
+#, c-format
+msgctxt "travel_content_yt_view_count"
+msgid "%1$s views"
+msgstr ""
+
+#. Youtube content. the %1$s here is single time of video viewing
+#, c-format
+msgctxt "travel_content_yt_view_count_single_view"
+msgid "%1$s view"
+msgstr ""
+
+#. Wiki content
+msgctxt "travel_content_wiki_source_name"
+msgid "Wikipedia"
+msgstr ""
+
+#. detail information for the hotel room
+msgctxt "travel_hotel_detail_1"
+msgid "Free Wi-Fi"
+msgstr ""
+
+msgctxt "travel_hotel_detail_2"
+msgid "Free cancellation"
+msgstr ""
+
+msgctxt "travel_hotel_detail_3"
+msgid "Pay upon check in"
+msgstr ""
+
+#. bucket list
+#. text in the empty state
+msgctxt "travel_empty_state_text"
+msgid "“I haven’t been everywhere, but it’s on my list.”"
+msgstr ""
+
+#. button for entering the search page
+msgctxt "travel_empty_state_button"
+msgid "Explore a city"
+msgstr ""
+
+#. snackbar message after saving a destination
+msgctxt "travel_snack_bar_saved_message"
+msgid "Saved in your bucket list."
+msgstr ""
+
+#. view is a verb. and this is a button which will lead users to see the bucket
+#. list page
+msgctxt "travel_snack_bar_button"
+msgid "VIEW"
+msgstr ""
+
+#. onboarding message for the save function. the %1$s here is the destination
+#. name
+#, c-format
+msgctxt "travel_onboarding_save_title"
+msgid "Love %1$s?"
+msgstr ""
+
+#. the %1$s here is the destination name
+#, c-format
+msgctxt "travel_onboarding_save_description"
+msgid ""
+"Save %1$s in your Bucket List to get quick access to travel guides and "
+"the best prices."
+msgstr ""
+
+#. onboarding button
+msgctxt "travel_onboarding_save_button"
+msgid "OK"
+msgstr ""
+
+#. search page
+#. introduce what can be type in the field
+msgctxt "travel_find_destination_placeholder_2"
+msgid "Enter a destination"
+msgstr ""
+
+#. this is a title indicates that users will see search results from google
+#. after tapping on the following option. the %1$s here is google.
+#, c-format
+msgctxt "travel_search_engine_1"
+msgid "See results in %1$s"
+msgstr ""
+
+#. this is a title indicates that users will see search results summerized by
+#. smart travel search after tapping on the following options.
+msgctxt "travel_search_engine_2"
+msgid "See results in smart travel search"
 msgstr ""
 
