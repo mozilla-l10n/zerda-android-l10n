@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-03 11:59+0000\n"
+"PO-Revision-Date: 2019-12-03 14:23+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1700,7 +1700,7 @@ msgstr "好"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
-msgstr ""
+msgstr "快捷方式已创建。"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -1856,10 +1856,13 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
+"现在起，您可以私密地浏览，不会留下历史记录、登录密码，其他使用这台设备的人也不会知道您曾打开过哪些网站。\n"
+"\n"
+"我们的高级隐私浏览功能，甚至可以%1$s，这是其他大部分隐私模式做不到的。"
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
-msgstr ""
+msgstr "杜绝跟踪"
 
 #. MSRP Vertical
 #. Logoman
@@ -2164,38 +2167,38 @@ msgstr "您赢得了一张代金券！"
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "旅行"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
 msgid "Explore"
-msgstr ""
+msgstr "探索"
 
 #. bucket list is a noun which means the place for collecting all favorite
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "目的地清单"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "“穷游”"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
-msgstr ""
+msgstr "寒假游最佳城市"
 
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "您想去哪里？"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
 msgctxt "travel_find_destination_placeholder_1"
 msgid "Try “Bali”…"
-msgstr ""
+msgstr "试试“巴厘岛”…"
 
 #. detail page
 #. this is a subcategory title. The %1$s here is a placeholder for destination
@@ -2203,109 +2206,109 @@ msgstr ""
 #, c-format
 msgctxt "travel_detail_page_subcategory_content"
 msgid "Explore %1$s"
-msgstr ""
+msgstr "探索 %1$s"
 
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "热门酒店"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on IG"
-msgstr ""
+msgstr "IG 上的 #%1$s"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s 次观看"
 
 #. Youtube content. the %1$s here is single time of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "%1$s view"
-msgstr ""
+msgstr "%1$s 次观看"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "维基百科"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "免费 Wi-Fi"
 
 msgctxt "travel_hotel_detail_2"
 msgid "Free cancellation"
-msgstr ""
+msgstr "免费取消"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "入住时付款"
 
 #. bucket list
 #. text in the empty state
 msgctxt "travel_empty_state_text"
 msgid "“I haven’t been everywhere, but it’s on my list.”"
-msgstr ""
+msgstr "“我没去过这些地方，但是在我的清单上。”"
 
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "探索城市"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "已保存到您的目的地清单。"
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "查看"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "喜欢 %1$s 吗？"
 
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "将 %1$s 保存到您的目的地清单，以便快速获得旅行指南和最佳价格。"
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #. search page
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "输入目的地"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "用 %1$s 查看结果"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
-msgstr ""
+msgstr "在智能旅行搜索中查看结果"
