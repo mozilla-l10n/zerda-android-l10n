@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-03 11:51+0000\n"
+"PO-Revision-Date: 2019-12-03 11:59+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1040,16 +1040,15 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "与朋友分享 %1$s！"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
 "- Smart Shopping Search\n"
 "- Free Games, trending news"
 msgstr ""
-"- 快速且轻量级\n"
-"- 节约流量\n"
-"- 强大的截图功能"
+"- 一如既往的轻快\n"
+"- 智能购物搜索\n"
+"- 免费游戏、热门新闻"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -1781,10 +1780,9 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "全新 %1$s"
 
-#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "一如既往的轻快。我们增加了智能购物搜索与内容，让网络浏览更愉快有趣！"
+msgstr "一如既往的轻快。我们增加了超酷的智能购物搜索与内容，让网络浏览更愉快有趣！"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
