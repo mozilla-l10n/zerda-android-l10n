@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-05 01:50+0000\n"
+"PO-Revision-Date: 2019-12-05 02:04+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1788,22 +1788,19 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "%1$s terbaru"
 
-#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "Tetap Cepat dan Ringan. Kami menambahkan pencarian dan konten belanja pintar untuk menjadikan penelusuran internet lebih nyaman dan menyenangkan!"
+msgstr "Peramban yang cepat dan ringan, kini dengan fitur menawan! Kami menambahkan pencarian dan konten belanja pintar agar meramban lebih menyenangkan!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr "Ketuk untuk membaca berita trendi, temukan tawaran bagus atau mainkan permainan gratis terkini untuk bersenang-senang!"
+msgstr "Ketuk untuk membaca berita terkini, temukan tawaran bagus, atau bersenang-senang dengan permainan gratis terbaru!"
 
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr "Ketuk untuk membaca berita trendi atau mainkan permainan gratis terkini untuk bersenang-senang!"
+msgstr "Ketuk untuk membaca berita terkini atau bersenang-senang dengan permainan gratis terbaru!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
