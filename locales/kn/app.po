@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 14:27+0800\n"
+"POT-Creation-Date: 2019-12-05 11:18+0800\n"
 "PO-Revision-Date: 2019-07-08 18:33+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language: kn\n"
@@ -1116,6 +1116,15 @@ msgstr "ಹಂಚು"
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
 msgstr "ಹೇ, %3$s ದ ವೇಗದ ಮತ್ತು ಹಗುರವಾದ ಬ್ರೌಸರ್ ಅನ್ನು ಒಮ್ಮೆ ನೋಡಿ. %1$s %2$s"
+
+#. In-app message to update Firefox Lite
+msgctxt "update_app_dialog_btn_update_now"
+msgid "UPDATE NOW!"
+msgstr ""
+
+msgctxt "update_app_dialog_btn_later"
+msgid "LATER"
+msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -2345,10 +2354,10 @@ msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
 msgstr ""
 
-#. Youtube content. the %1$s here is single time of video viewing
-#, c-format
+#. Youtube content. this is single time of video viewing
+#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
-msgid "%1$s view"
+msgid "1 view"
 msgstr ""
 
 #. Wiki content
@@ -2361,12 +2370,18 @@ msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
 msgstr ""
 
+#, fuzzy
 msgctxt "travel_hotel_detail_2"
-msgid "Free cancellation"
+msgid "No credit cards required"
 msgstr ""
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
+msgstr ""
+
+#. the "from" here is indicating that the price is the minimal price
+msgctxt "travel_hotel_price_from"
+msgid "From"
 msgstr ""
 
 #. bucket list
