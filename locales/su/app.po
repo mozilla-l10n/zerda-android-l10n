@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-28 14:27+0800\n"
+"POT-Creation-Date: 2019-12-05 11:18+0800\n"
 "PO-Revision-Date: 2019-11-28 02:12+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language: su\n"
@@ -1118,6 +1118,15 @@ msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
 msgstr "Euy, cobaan panyungsi gancang tur hampang ti %3$s. %1$s %2$s"
 
+#. In-app message to update Firefox Lite
+msgctxt "update_app_dialog_btn_update_now"
+msgid "UPDATE NOW!"
+msgstr ""
+
+msgctxt "update_app_dialog_btn_later"
+msgid "LATER"
+msgstr ""
+
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
@@ -1971,9 +1980,12 @@ msgstr ""
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
 msgstr ""
-"Kiwari anjeun bisa ngalanglang bari nyamuni, tan laratan, tan rekaman kecap sandi, sarta moal bisa kapapay ku nu séjén anu maké ieu paranti.\n"
+"Kiwari anjeun bisa ngalanglang bari nyamuni, tan laratan, tan rekaman "
+"kecap sandi, sarta moal bisa kapapay ku nu séjén anu maké ieu paranti.\n"
 "\n"
-"Langlangan Pribadi Tingkat Lanjut samalah bisa <font color=\"white\">nyegah anjeun dilacak</font> ku pangiklan jeung raramatloka, anu ku kalolobaan mode pribadi nu séjén mah teu bisa."
+"Langlangan Pribadi Tingkat Lanjut samalah bisa <font "
+"color=\"white\">nyegah anjeun dilacak</font> ku pangiklan jeung "
+"raramatloka, anu ku kalolobaan mode pribadi nu séjén mah teu bisa."
 
 #. MSRP Vertical
 #. Logoman
@@ -2044,8 +2056,12 @@ msgstr "Paké akun Firefox anjeun pikeun nebus ganjaran anjeun"
 #. started."
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
-msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "%1$s Mastikeun anjeun asup ka akun anu dipiharep saméméh nganggeuskeun tebusan."
+msgid ""
+"%1$s Make sure you sign in to the account you want to use before you "
+"complete your redemption."
+msgstr ""
+"%1$s Mastikeun anjeun asup ka akun anu dipiharep saméméh nganggeuskeun "
+"tebusan."
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
@@ -2100,8 +2116,12 @@ msgid "Congratulations!"
 msgstr "Wilujeng!"
 
 msgctxt "msrp_completed_popup_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga anjeun resep!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga "
+"anjeun resep!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2117,8 +2137,12 @@ msgid "Congratulations!"
 msgstr "Wilujeng!"
 
 msgctxt "msrp_challenge_completed_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga anjeun resep!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga "
+"anjeun resep!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2132,12 +2156,20 @@ msgid "Your %1$s is ready!"
 msgstr "$1$s Anjeun geus siap!"
 
 msgctxt "msrp_voucher_body_1"
-msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr "Pocer sah pikeun waktu kawates. Kami boga hak pikeun ngarobah atawa ngabolaykeun pocerna iraha waé."
+msgid ""
+"Voucher is valid for a limited time only. We reserve the right to modify "
+"or cancel voucher at any time."
+msgstr ""
+"Pocer sah pikeun waktu kawates. Kami boga hak pikeun ngarobah atawa "
+"ngabolaykeun pocerna iraha waé."
 
 msgctxt "msrp_voucher_body_2"
-msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr "Kami boga hak, luyu jeung kawijakan, pikeun ngarobah, ngaropéa, nambahan, atawa mupus bagian Katangtuan Pamakéan, iraha baé."
+msgid ""
+"We reserve the right, at its sole discretion, to change, modify, add or "
+"remove portions of these Terms of Use, at any time."
+msgstr ""
+"Kami boga hak, luyu jeung kawijakan, pikeun ngarobah, ngaropéa, nambahan,"
+" atawa mupus bagian Katangtuan Pamakéan, iraha baé."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2186,8 +2218,14 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "Awas: aya sababaraha akun Firefox anu kalacak"
 
 msgctxt "msrp_disqualification_body_1"
-msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr "Ngan hiji akun Firefox anu bisa dipaké pikeun miluan tangtangan 7-Poé. Lamun anjeun ganti sarta maké séjén akun, anjeun bakal dikaluarkeun tina tantangan ieu."
+msgid ""
+"Only one Firefox account may be used to participate in the 7-Day "
+"challenge. If you switch and use another account, you will be "
+"disqualified from this challenge."
+msgstr ""
+"Ngan hiji akun Firefox anu bisa dipaké pikeun miluan tangtangan 7-Poé. "
+"Lamun anjeun ganti sarta maké séjén akun, anjeun bakal dikaluarkeun tina "
+"tantangan ieu."
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2237,8 +2275,12 @@ msgstr "Wah! Kari sapoé deui, anjeun bisa meunang pocer!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr "Anjeun geus ngaréngsékeun tangtanganana! Balik deui ka Tepas %1$s pikeun nebus pocer anjeun!"
+msgid ""
+"You’ve completed the challenge! Please go back to %1$s Home to redeem "
+"your voucher!"
+msgstr ""
+"Anjeun geus ngaréngsékeun tangtanganana! Balik deui ka Tepas %1$s pikeun "
+"nebus pocer anjeun!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
@@ -2345,10 +2387,10 @@ msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
 msgstr ""
 
-#. Youtube content. the %1$s here is single time of video viewing
-#, c-format
+#. Youtube content. this is single time of video viewing
+#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
-msgid "%1$s view"
+msgid "1 view"
 msgstr ""
 
 #. Wiki content
@@ -2361,12 +2403,18 @@ msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
 msgstr ""
 
+#, fuzzy
 msgctxt "travel_hotel_detail_2"
-msgid "Free cancellation"
+msgid "No credit cards required"
 msgstr ""
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
+msgstr ""
+
+#. the "from" here is indicating that the price is the minimal price
+msgctxt "travel_hotel_price_from"
+msgid "From"
 msgstr ""
 
 #. bucket list
@@ -2429,3 +2477,4 @@ msgstr ""
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
 msgstr ""
+
