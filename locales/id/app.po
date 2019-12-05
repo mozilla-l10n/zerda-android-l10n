@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-05 01:32+0000\n"
+"PO-Revision-Date: 2019-12-05 01:50+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1042,7 +1042,6 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "Bagikan %1$s dengan teman!"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
@@ -1050,8 +1049,8 @@ msgid ""
 "- Free Games, trending news"
 msgstr ""
 "- Cepat dan ringan\n"
-"- Hemat data\n"
-"- Pencuplik layar yang canggih"
+"- Pencarian Belanja Pintar\n"
+"- Permainan Gratis, berita terkini"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -2179,7 +2178,7 @@ msgstr "Anda telah memenangkan voucher belanja!"
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "Wisata"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
@@ -2204,7 +2203,7 @@ msgstr "Kota terbaik untuk liburan musim dingin"
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "Ingin pergi ke mana?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
@@ -2223,7 +2222,7 @@ msgstr "Jelajahi %1$s"
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "Hotel populer"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
@@ -2234,93 +2233,93 @@ msgstr "Lebih banyak"
 #, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on IG"
-msgstr ""
+msgstr "#%1$s di IG"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s tayangan"
 
 #. Youtube content. the %1$s here is single time of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "%1$s view"
-msgstr ""
+msgstr "%1$s tayangan"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "Wikipedia"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi gratis"
 
 msgctxt "travel_hotel_detail_2"
 msgid "Free cancellation"
-msgstr ""
+msgstr "Pembatalan gratis"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "Bayar saat lapor masuk"
 
 #. bucket list
 #. text in the empty state
 msgctxt "travel_empty_state_text"
 msgid "“I haven’t been everywhere, but it’s on my list.”"
-msgstr ""
+msgstr "“Saya belum pernah ke mana-mana, tetapi itu ada dalam daftar saya.”"
 
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "Jelajahi kota"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "Disimpan dalam daftar keinginan Anda."
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "LIHAT"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Suka %1$s?"
 
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "Simpan %1$s dalam Daftar Keinginan Anda untuk mendapatkan akses cepat ke panduan wisata dan harga terbaik."
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "Oke"
 
 #. search page
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "Masukkan tujuan"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "Lihat hasilnya di %1$s"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
-msgstr ""
+msgstr "Lihat hasilnya dalam pencarian wisata pintar"
