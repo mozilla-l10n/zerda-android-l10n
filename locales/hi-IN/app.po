@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-05 11:18+0800\n"
-"PO-Revision-Date: 2019-11-06 12:12+0000\n"
-"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
+"POT-Creation-Date: 2019-12-06 10:03+0800\n"
+"PO-Revision-Date: 2019-12-05 16:46+0000\n"
+"Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language: hi_IN\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
@@ -1973,7 +1973,7 @@ msgstr ""
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
-msgstr ""
+msgstr "अपने आप को ट्रैक होने से रोकें"
 
 #. MSRP Vertical
 #. Logoman
@@ -2312,7 +2312,7 @@ msgstr "आपने एक खरीदारी वाउचर जीता �
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "यात्रा"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
@@ -2361,7 +2361,7 @@ msgstr ""
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "अधिक"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format
@@ -2384,12 +2384,12 @@ msgstr ""
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "Wikipedia"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "मुक्त वाईफाई"
 
 #, fuzzy
 msgctxt "travel_hotel_detail_2"
@@ -2425,7 +2425,7 @@ msgstr ""
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "देखें"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
@@ -2445,7 +2445,7 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "ठीक"
 
 #. search page
 #. introduce what can be type in the field
