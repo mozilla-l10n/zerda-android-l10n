@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-06 10:28+0000\n"
+"PO-Revision-Date: 2019-12-06 11:09+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -2191,33 +2191,33 @@ msgstr "यात्रा"
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
 msgid "Explore"
-msgstr ""
+msgstr "खोजें"
 
 #. bucket list is a noun which means the place for collecting all favorite
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "गंतव्य सूची"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "किफायती दाम पर घूमें"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
-msgstr ""
+msgstr "सर्दियों की छुट्टी के लिए बेहतरीन शहर"
 
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "आप कहां जाना चाहते हैं?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
 msgctxt "travel_find_destination_placeholder_1"
 msgid "Try “Bali”…"
-msgstr ""
+msgstr "“बाली”… देखें"
 
 #. detail page
 #. this is a subcategory title. The %1$s here is a placeholder for destination
@@ -2225,7 +2225,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_detail_page_subcategory_content"
 msgid "Explore %1$s"
-msgstr ""
+msgstr "%1$s देखें"
 
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
