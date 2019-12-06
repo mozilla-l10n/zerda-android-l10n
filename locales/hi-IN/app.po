@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-06 11:09+0000\n"
+"PO-Revision-Date: 2019-12-06 11:27+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -2230,7 +2230,7 @@ msgstr "%1$s देखें"
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "प्रसिद्ध होटलें"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
@@ -2241,19 +2241,18 @@ msgstr "अधिक"
 #, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on IG"
-msgstr ""
+msgstr "IG पर #%1$s"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s बार देखा गया"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1 बार देखा गया"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
@@ -2265,35 +2264,34 @@ msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
 msgstr "मुक्त वाईफाई"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "किसी भी प्रकार के क्रेडिट कार्ड की आवश्यकता नहीं है"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "चेक इन करते समय भुगतान करें"
 
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
 msgid "From"
-msgstr ""
+msgstr "शुरूआती दाम"
 
 #. bucket list
 #. text in the empty state
 msgctxt "travel_empty_state_text"
 msgid "“I haven’t been everywhere, but it’s on my list.”"
-msgstr ""
+msgstr "“मैं सभी जगह तो नहीं गया, पर यह मेरी सूची में शामिल है।”"
 
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "किसी शहर के बारे में जानें"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "अपना गंतव्य सूची सहेजें।"
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
@@ -2306,7 +2304,7 @@ msgstr "देखें"
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "%1$s पसंद आया?"
 
 #. the %1$s here is the destination name
 #, c-format
