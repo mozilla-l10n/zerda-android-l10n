@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-06 11:27+0000\n"
+"PO-Revision-Date: 2019-12-06 11:50+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1040,7 +1040,6 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "दोस्तों के साथ %1$s साझा करें!"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
@@ -1048,8 +1047,8 @@ msgid ""
 "- Free Games, trending news"
 msgstr ""
 "- तीव्र एवं हल्का\n"
-"- डेटा बचानेवाला\n"
-"- शक्तिशाली स्क्रीनशॉट"
+"- स्मार्ट शॉपिंग सर्च\n"
+"- मुफ्त गेम्स, चर्चित समाचार"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -1796,22 +1795,19 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "एकदम नया %1$s"
 
-#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "तेज़ और हल्का बने रहें। हमने इंटरनेट ब्राउज़िंग को और भी मज़ेदार और मनोरंजक बनाने के लिए स्मार्ट शॉपिंग सर्च तथा सामग्री जोड़ा है!"
+msgstr "एक तेज़ एवं हल्का ब्राउज़र, अब मज़ेदार सुविधाओं के साथ! हमने ब्राउज़िंग को और भी मनोरंजक बनाने के लिए स्मार्ट शॉपिंग सर्च तथा अन्य सामग्री जोड़े हैं!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr "आधुनिक समाचार पढ़ने, अच्छी डील्स खोजने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए दबाएं!"
+msgstr "चर्चित समाचार पढ़ने, अच्छी डील्स खोजने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए टैप करें!"
 
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr "आधुनिक समाचार पढ़ने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए दबाएं!"
+msgstr "चर्चित समाचार पढ़ने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए टैप करें!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1958,7 +1954,7 @@ msgstr "शुरू करने के लिए अपना ईमेल प
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr "मैं भी शामिल!"
+msgstr "मैं शामिल हूं!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
 #, c-format
@@ -2310,7 +2306,7 @@ msgstr "%1$s पसंद आया?"
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "यात्रा निर्देश एवं सर्वोत्तम मूल्यों की जानकारी तक शीघ्र पहुंच के लिए %1$s को अपने गंतव्य सूची में सहेजें।"
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
@@ -2321,17 +2317,17 @@ msgstr "ठीक"
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "कोई गंतव्य स्थान दर्ज करें"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "%1$s में खोज परिणाम देखें"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
-msgstr ""
+msgstr "स्मार्ट यात्रा खोज में परिणामों को देखें"
