@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-05 16:46+0000\n"
-"Last-Translator: ravi <ravi.103151@gmail.com>\n"
+"PO-Revision-Date: 2019-12-06 10:28+0000\n"
+"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -1065,11 +1065,11 @@ msgstr "सुनो, %3$s द्वारा निर्मित तीव्
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
 msgid "UPDATE NOW!"
-msgstr ""
+msgstr "अभी अपडेट करें!"
 
 msgctxt "update_app_dialog_btn_later"
 msgid "LATER"
-msgstr ""
+msgstr "बाद में"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1714,7 +1714,7 @@ msgstr "ठीक"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
-msgstr ""
+msgstr "शॉर्टकट बना दिया गया।"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -1875,6 +1875,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
+"अब आप निजी रूप से ब्राउज़ कर सकते हैं, कोई इतिहास, कोई पासवर्ड का रिकॉर्ड नहीं रखा जाएगा और इस उपकरण का उपयोग करने वाले अन्य लोग आपकी गतिविधि नहीं देख पाएंगे।\n"
+"\n"
+"हमारा उन्नत निजी ब्राउज़िंग आपको विज्ञापनकर्ताओं और वेबसाइटों द्वारा %1$s से भी बचा सकता है, जो कि कोई अन्य निजी मोड नहीं कर सकता।"
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
