@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-28 14:27+0800\n"
-"PO-Revision-Date: 2019-12-06 11:50+0000\n"
+"PO-Revision-Date: 2019-12-06 12:02+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1830,7 +1830,7 @@ msgstr "खोज…"
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr "सामग्री और सेवाएँ"
+msgstr "सामग्री एवं सेवाएं"
 
 msgctxt "home_discovery"
 msgid "Discovery"
@@ -1945,7 +1945,7 @@ msgstr "अपने इनाम को पाने के लिए अपन
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "अपने इनाम पाने की प्रक्रिया को पूरा करने से पहले अपने %1$s द्वारा खाते में साइन इन करना ना भूलें।"
+msgstr "अपने इनाम पाने की प्रक्रिया को पूरा करने से पहले जिस खाते का आप उपयोग करना चाहते हैं उसमें साइन इन करना ना भूलें। %1$s"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
