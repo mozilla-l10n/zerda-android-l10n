@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-06 10:03+0800\n"
-"PO-Revision-Date: 2019-12-07 21:31+0000\n"
+"PO-Revision-Date: 2019-12-07 21:41+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -1806,19 +1806,17 @@ msgstr "Быстрый и лёгкий браузер, теперь с клас�
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr "Одно нажатие до чтения последних новостей, нахождения выгодных предложений или игры в самые горячие бесплатные игры для развлечения!"
+msgstr "Нажмите, чтобы читать последние новости, найти выгодные предложения или играть в самые горячие бесплатные игры!"
 
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr "Одно нажатие до чтения последних новостей или игры в самые горячие бесплатные игры для развлечения!"
+msgstr "Нажмите, чтобы читать последние новости или играть в самые горячие бесплатные игры!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
-msgstr "Одно нажатие до игры в самые горячие бесплатные игры для развлечения!"
+msgstr "Нажмите, чтобы играть в самые горячие бесплатные игры!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1878,10 +1876,13 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
+"Теперь вы можете сёрфить приватно, без сохранения истории и паролей, а другие люди, которые будут использовать это устройство, не увидят вашу активность.\n"
+"\n"
+"Наш расширенный приватный просмотр может даже %1$s рекламодателями и веб-сайтами, что невозможно в большинстве других браузеров."
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
-msgstr ""
+msgstr "защитить вас от отслеживания"
 
 #. MSRP Vertical
 #. Logoman
@@ -2186,38 +2187,38 @@ msgstr "Вы выиграли ваучер для покупок!"
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "Путешествия"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
 msgid "Explore"
-msgstr ""
+msgstr "Обзор"
 
 #. bucket list is a noun which means the place for collecting all favorite
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "Список желаний"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "Бюджетные путешествия"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
-msgstr ""
+msgstr "Лучшие города для зимнего отдыха"
 
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "Куда вы хотите отправиться?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
 msgctxt "travel_find_destination_placeholder_1"
 msgid "Try “Bali”…"
-msgstr ""
+msgstr "Попробуйте «Бали»..."
 
 #. detail page
 #. this is a subcategory title. The %1$s here is a placeholder for destination
@@ -2230,54 +2231,52 @@ msgstr ""
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "Популярные отели"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "Ещё"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on IG"
-msgstr ""
+msgstr "#%1$s на IG"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s просмотров"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1 просмотр"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "Википедия"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "Бесплатный Wi-Fi"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "Кредитные карты не требуются"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "Оплата при регистрации"
 
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
 msgid "From"
-msgstr ""
+msgstr "От"
 
 #. bucket list
 #. text in the empty state
@@ -2293,20 +2292,20 @@ msgstr ""
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "Сохранено в вашем списке желаний."
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "ПРОСМОТРЕТЬ"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Нравится %1$s?"
 
 #. the %1$s here is the destination name
 #, c-format
@@ -2317,20 +2316,20 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. search page
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "Введите пункт назначения"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "Посмотреть результаты в %1$s"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
