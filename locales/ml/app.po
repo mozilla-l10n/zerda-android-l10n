@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-06 10:03+0800\n"
+"POT-Creation-Date: 2019-12-12 10:38+0800\n"
 "PO-Revision-Date: 2019-06-04 03:43+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language: ml\n"
@@ -1906,6 +1906,10 @@ msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
 msgstr ""
 
+msgctxt "onboarding_2_content_services_news_travel"
+msgid "Tap to read trending news, plan your next trip and more!"
+msgstr ""
+
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
@@ -2347,9 +2351,9 @@ msgid "More"
 msgstr ""
 
 #. Instagram content. the %1$s here is the destination name
-#, c-format
+#, c-format, fuzzy
 msgctxt "travel_content_ig_link"
-msgid "#%1$s on IG"
+msgid "#%1$s on Instagram"
 msgstr ""
 
 #. Youtube content. the %1$s here is how many times of video viewing
@@ -2447,5 +2451,13 @@ msgstr ""
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
+msgstr ""
+
+#. this is a title indicates that users will see search results summerized by
+#. Travel Discovery after tapping on the following options. the %1$s here is
+#. Firefox Lite.
+#, c-format
+msgctxt "travel_search_engine_fxlite"
+msgid "See results in %1$s Travel Discovery"
 msgstr ""
 
