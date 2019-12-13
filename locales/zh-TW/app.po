@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-12 10:38+0800\n"
-"PO-Revision-Date: 2019-12-13 05:09+0000\n"
+"PO-Revision-Date: 2019-12-13 05:15+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1805,7 +1805,7 @@ msgstr "點擊此處即可玩最熱門的免費遊戲！"
 
 msgctxt "onboarding_2_content_services_news_travel"
 msgid "Tap to read trending news, plan your next trip and more!"
-msgstr ""
+msgstr "點擊此處即可閱讀熱門新聞、規劃下趟旅遊，或更多功能！"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -2330,4 +2330,4 @@ msgstr "在智慧旅遊搜尋功能中檢視搜尋結果"
 #, c-format
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
-msgstr ""
+msgstr "檢視 %1$s Travel Discovery 的搜尋結果"
