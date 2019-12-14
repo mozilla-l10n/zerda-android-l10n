@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-12 10:38+0800\n"
-"PO-Revision-Date: 2019-12-14 07:58+0000\n"
+"PO-Revision-Date: 2019-12-14 10:16+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -37,7 +37,7 @@ msgstr "खोजें या पता दर्ज करें"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "सेटिंग्स"
+msgstr "सेटिंग"
 
 msgctxt "menu_about"
 msgid "About"
@@ -140,7 +140,7 @@ msgstr "गोपनीयता सूचना"
 #. deals, including news, games, coupon...etc.
 msgctxt "life_feed"
 msgid "Life Feed"
-msgstr "प्रमुख जानकारियां"
+msgstr "प्रमुख सूचनाएं"
 
 #. The %1$s here is a placeholder for "Life Feed". Life Feed is an information
 #. panel covering content that might help our customers' life. It covers from
@@ -203,7 +203,7 @@ msgstr "तयशुदा ब्राउज़र बनायें"
 #. description.
 msgctxt "preference_default_browser_is_setting"
 msgid "Changing settings…"
-msgstr "सेटिंग्स बदले जा रहे हैं…"
+msgstr "सेटिंग बदले जा रहे हैं…"
 
 msgctxt "preference_turbo_mode"
 msgid "Turbo mode"
@@ -314,7 +314,7 @@ msgstr "पिछले ऐप पर वापस जाएँ"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ट्रैकर्स को ब्लॉक करें"
+msgstr "ट्रैकर ब्लॉक करें"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -435,7 +435,7 @@ msgstr "अगले-दर्जे की गोपनीयता"
 
 msgctxt "first_run_page5_text"
 msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "बिना ट्रेस हुए ब्राउज़ करें, और डिफ़ॉल्ट रूप से आम वेब ट्रैकर्स की एक विस्तृत श्रृंखला को ब्लॉक करें। अपने गोपनीय डेटा की सुरक्षा सुनिश्चित करें।"
+msgstr "बिना ट्रेस हुए ब्राउज़ करें, और डिफ़ॉल्ट रूप से आम वेब ट्रैकर की एक विस्तृत श्रृंखला को ब्लॉक करें। अपने गोपनीय डेटा की सुरक्षा सुनिश्चित करें।"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -510,7 +510,7 @@ msgstr "अगला"
 #. Menu text for bookmark
 msgctxt "label_menu_bookmark"
 msgid "Bookmarks"
-msgstr "बुक्मार्क"
+msgstr "बुकमार्क"
 
 msgctxt "label_menu_download"
 msgid "Downloads"
@@ -578,7 +578,7 @@ msgstr "स्टोरेज की अनुमति ख़ारिज कर �
 
 msgctxt "permission_handler_permission_dialog_setting"
 msgid "settings"
-msgstr "सेटिंग्स"
+msgstr "सेटिंग"
 
 msgctxt "permission_dialog_not_now"
 msgid "not now"
@@ -654,7 +654,7 @@ msgstr "कैशे"
 #. Download list
 msgctxt "no_downloads"
 msgid "No downloads"
-msgstr "कोई डाउनलोड नहीं "
+msgstr "कोई डाउनलोड नहीं है "
 
 msgctxt "download_started"
 msgid "Downloading…"
@@ -738,7 +738,7 @@ msgstr "एसडी कार्ड"
 
 msgctxt "setting_dialog_internal_storage"
 msgid "Internal storage"
-msgstr "इंटरनल संग्रहण"
+msgstr "आंतरिक संग्रहण"
 
 #. BrowsingHistoryActivity
 msgctxt "browsing_history_clear_btn"
@@ -747,7 +747,7 @@ msgstr "ब्राउज़िंग इतिहास मिटाएं"
 
 msgctxt "browsing_history_empty_view_msg"
 msgid "No browsing history"
-msgstr "कोई ब्राउज़िंग इतिहास नहीं "
+msgstr "कोई ब्राउज़िंग इतिहास नहीं है "
 
 msgctxt "browsing_history_date_today"
 msgid "Today"
@@ -827,7 +827,7 @@ msgstr "साझा करें"
 #. Snack bar message
 msgctxt "message_fallback_save_to_primary_external"
 msgid "No SD card detected. File was saved to internal storage."
-msgstr "कोई एसडी कार्ड नहीं पाया गया। फाइल को इंटरनल संग्रहण में सहेज दिया गया।"
+msgstr "कोई एसडी कार्ड नहीं पाया गया। फाइल को आंतरिक संग्रहण में सहेज दिया गया।"
 
 msgctxt "message_start_to_save_to_removable_storage"
 msgid "File saved to SD card"
@@ -835,19 +835,19 @@ msgstr "फ़ाइल एसडी कार्ड में सहेजा �
 
 msgctxt "message_removable_storage_space_not_enough"
 msgid "SD card is almost full. File was saved to internal storage."
-msgstr "एसडी कार्ड लगभग भर चूका है। फाइल को इंटरनल संग्रहण में सहेज दिया गया।"
+msgstr "एसडी कार्ड लगभग भर चूका है। फाइल को आंतरिक संग्रहण में सहेज दिया गया।"
 
 #. ScreenshotGridFragment
 msgctxt "screenshot_grid_empty_text_title"
 msgid "No screenshots"
-msgstr "कोई स्क्रीनशॉट नहीं "
+msgstr "कोई स्क्रीनशॉट नहीं है "
 
 #. This string is followed by the image of the button, keep the trailing
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "दबाएँ  "
+msgstr "दबाएँ "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -1022,11 +1022,11 @@ msgstr "हमें रेट करें"
 
 msgctxt "rate_app_notification_action_rate"
 msgid "RATE US"
-msgstr "हमें RATE करें"
+msgstr "हमें रेट करें"
 
 msgctxt "rate_app_dialog_btn_feedback"
 msgid "Leave Feedback"
-msgstr "प्रतिक्रिया दें।"
+msgstr "प्रतिक्रिया दें"
 
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
@@ -1145,7 +1145,7 @@ msgstr "स्विच"
 #. default browser
 msgctxt "setting_default_browser_notification_title"
 msgid "Changing settings…"
-msgstr "सेटिंग्स बदले जा रहे हैं…"
+msgstr "सेटिंग बदले जा रहे हैं…"
 
 msgctxt "setting_default_browser_notification_text"
 msgid "It may take a while"
@@ -1221,7 +1221,7 @@ msgstr "बुकमार्क अद्यतित"
 #. Message shown in Bookmarks panel when the bookmark list is empty.
 msgctxt "bookmarks_empty_view_msg"
 msgid "No bookmarks"
-msgstr "कोई बुकमार्क नहीं "
+msgstr "कोई बुकमार्क नहीं है "
 
 #. Label for editing a bookmark which is available next to the bookmark item.
 msgctxt "edit_bookmark"
@@ -1247,7 +1247,7 @@ msgstr "नई अपडेट"
 #. Title of news preferences
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr "समाचार सेटिंग्स"
+msgstr "समाचार सेटिंग"
 
 #. This is the dialog for choosing news language
 msgctxt "news_language_dialog_title"
@@ -1377,7 +1377,7 @@ msgstr "यात्रा"
 
 msgctxt "news_category_option_lifestyle"
 msgid "Lifestyle"
-msgstr "लाइफस्टाइल"
+msgstr "जीवनशैली"
 
 msgctxt "news_category_option_food"
 msgid "Food"
@@ -1468,19 +1468,19 @@ msgstr ""
 #. "Trackers blocked", show the number of blocking trackers.
 msgctxt "private_browsing_tracker_blocked"
 msgid "Trackers blocked"
-msgstr "ट्रैकर्स अवरुद्ध"
+msgstr "ब्लॉक हुए ट्रैकर"
 
 #. A description is shown below the switch of block trackers when opening
 #. tracker blocked panel
 msgctxt "private_browsing_tracker_blocked_description"
 msgid "Enjoy browsing with extra protection."
-msgstr "अतरिक्त सुरक्षा के साथ ब्राउज़िंग का आनंद लें।"
+msgstr "अतिरिक्त सुरक्षा के साथ ब्राउज़िंग का आनंद लें।"
 
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
 msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr "एक ही क्लिक द्वारा निजी मोड चलाएं! निजी मोड के शॉर्टकट को होमस्क्रीन पर जोड़ना चाहेंगे?"
+msgstr "एक ही क्लिक द्वारा निजी मोड चलाएं! निजी मोड के शॉर्टकट को होम स्क्रीन पर जोड़ना चाहेंगे?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1496,7 +1496,7 @@ msgstr "निजी मोड शॉर्टकट जोड़ें"
 
 msgctxt "private_browsing_dialog_add_shortcut_content_v2"
 msgid "Access private mode quickly from your homescreen."
-msgstr "अपने होमस्क्रीन से तुरंत ही निजी मोड चलाएं।"
+msgstr "अपने होम स्क्रीन से तुरंत ही निजी मोड चलाएं।"
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
@@ -1509,7 +1509,7 @@ msgstr "YES, इसे NOW ADD!"
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
 msgid "You can add private mode shortcut later in settings."
-msgstr "आप बाद में भी निजी मोड को सेटिंग्स में जाकर जोड़ सकते हैं।"
+msgstr "आप बाद में भी निजी मोड को सेटिंग में जाकर जोड़ सकते हैं।"
 
 #. Name of Private mode shortcut. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Lite)
@@ -1534,7 +1534,7 @@ msgstr "अपने स्क्रीनशॉटों को यहाँ �
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
 msgid "To improve your product experience, we collect information about your screenshots’ categories."
-msgstr "आपके प्रोडक्ट अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे में जानकारियाँ जमा करते हैं।"
+msgstr "आपके उतपाद अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे में जानकारियाँ जमा करते हैं।"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1753,7 +1753,7 @@ msgstr "मेरा गेम"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
-msgstr "सबसे ज्यादा खेला हुआ"
+msgstr "सबसे ज्यादा खेले हुए"
 
 msgctxt "gaming_vertical_genre_5"
 msgid "Offline games"
@@ -1761,19 +1761,19 @@ msgstr "ऑफ़लाइन गेम"
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
-msgstr "योजना"
+msgstr "रणनीति"
 
 msgctxt "gaming_vertical_genre_7"
 msgid "Adventure"
-msgstr "उत्साह"
+msgstr "एडवेंचर"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr "संग्राम"
+msgstr "एक्शन"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr "वृक्षों से भरा मार्ग"
+msgstr "आर्केड"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
@@ -1844,7 +1844,7 @@ msgstr "खोज"
 #. menu to select an action
 msgctxt "content_home_context_menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "मुख्य स्क्रीन में जोड़ें"
+msgstr "होम स्क्रीन में जोड़ें"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
@@ -2158,7 +2158,7 @@ msgstr "सभी चुनौतियाँ पूर्ण"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
-msgstr "सभी पुरस्कार एकत्रित किए गए"
+msgstr "सभी पुरस्कार एकत्रित"
 
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
