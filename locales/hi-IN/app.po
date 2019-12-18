@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-12 10:38+0800\n"
-"PO-Revision-Date: 2019-12-18 11:45+0000\n"
+"PO-Revision-Date: 2019-12-18 13:06+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1973,7 +1973,7 @@ msgstr "उपयोग की शर्तें"
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr "उपक्रम छोड़ें"
+msgstr "प्रतियोगिता छोड़ें"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
