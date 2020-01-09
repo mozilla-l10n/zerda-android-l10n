@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-12 10:38+0800\n"
+"POT-Creation-Date: 2020-01-09 14:40+0800\n"
 "PO-Revision-Date: 2019-12-04 02:32+0000\n"
 "Last-Translator: Kim Domanog <kjdomanog@gmail.com>\n"
 "Language: fil_PH\n"
@@ -1513,6 +1513,45 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "Serbisyo ng"
 
+#. Recommended news onboarding title and content.
+msgctxt "recommended_news_title"
+msgid "Recommended News For You"
+msgstr ""
+
+#, c-format
+msgctxt "recommended_news_content"
+msgid ""
+"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
+" You can turn off recommendations and control your settings anytime in "
+"News-&gt;Settings. %1$s"
+msgstr ""
+
+#. Recommended news choose language
+msgctxt "recommended_news_preference_language"
+msgid ""
+"Choose Your Prefered\n"
+"News Language"
+msgstr ""
+
+#. Recommended news toggle title
+msgctxt "recommended_news_preference_toggle"
+msgid "Personalized news experience"
+msgstr ""
+
+#. Disable personalized experience for news.
+msgctxt "recommended_news_preference_disable_dialog"
+msgid ""
+"Do you want to disable the recommended news? Tap “YES” to just display "
+"the latest news articles."
+msgstr ""
+
+#. Enable personalized experience for news.
+msgctxt "recommended_news_preference_enable_dialog"
+msgid ""
+"Do you want to enable the recommended news feature? Tap “YES” to start "
+"seeing a recommended selection of news articles."
+msgstr ""
+
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
 #. tab.
@@ -1806,8 +1845,9 @@ msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
 msgstr "Mabilis na pag-access sa iyong mga paboritong laro"
 
+#, fuzzy
 msgctxt "gaming_vertical_hint_body"
-msgid "Press to create a shortcut to your home screen."
+msgid "Long press to create a shortcut to your home screen."
 msgstr "Pindutin ang upang lumikha ng isang shortcut sa iyong home screen."
 
 msgctxt "gaming_vertical_hint_button"
@@ -2474,5 +2514,50 @@ msgstr ""
 #, c-format
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
+msgstr ""
+
+#. Dialog
+#. dialog title for introducing Firefox Lite Travel Discovery
+msgctxt "travel_dialog_1_title"
+msgid "Discover More!"
+msgstr ""
+
+#. dialog description for introducing the feature. The %1$s here is Firefox
+#. Lite.
+#, c-format
+msgctxt "travel_dialog_1_description"
+msgid "Explore things to do, accomodations, and more in %1$s Travel Discovery."
+msgstr ""
+
+#. Action button for seeing the search result in Firefox Lite Travel Discovery
+msgctxt "travel_dialog_1_action_1"
+msgid "TRY TRAVEL DISCOVERY"
+msgstr ""
+
+#. Action button for dismissing this prompt
+msgctxt "travel_dialog_1_action_2"
+msgid "NO, THANKS"
+msgstr ""
+
+#. dialog title for asking if users want to change default search engine
+msgctxt "travel_dialog_2_title"
+msgid "Enjoy Using Travel Discovery?"
+msgstr ""
+
+#. dialog description for introducing how it works. The %1$s here is Firefox
+#. Lite.
+#, c-format
+msgctxt "travel_dialog_2_description"
+msgid "You can set %1$s Travel Disovery as your default search engine for travel."
+msgstr ""
+
+#. checkbox for not showing this dialog again
+msgctxt "travel_dialog_2_checkbox"
+msgid "Do not ask me again"
+msgstr ""
+
+#. Action button for setting Travel Discovery as default search engine
+msgctxt "travel_dialog_2_action"
+msgid "SET AS DEFAULT"
 msgstr ""
 
