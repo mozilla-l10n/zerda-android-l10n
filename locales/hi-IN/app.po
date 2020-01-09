@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-12 10:38+0800\n"
-"PO-Revision-Date: 2020-01-09 13:11+0000\n"
+"PO-Revision-Date: 2020-01-09 13:13+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -2154,7 +2154,7 @@ msgstr "एक %1$s जीतना चाहते हैं? आज खरी�
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr "सभी चुनौतियाँ पूर्ण"
+msgstr "सभी चुनौतियां संपन्न"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
@@ -2176,7 +2176,7 @@ msgstr "ओह! कुछ गलत हो गया"
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr "भुनाएँ"
+msgstr "इनाम प्राप्त करें"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
