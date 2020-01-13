@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-09 14:40+0800\n"
-"PO-Revision-Date: 2019-12-21 02:44+0000\n"
-"Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
+"POT-Creation-Date: 2020-01-13 13:28+0800\n"
+"PO-Revision-Date: 2020-01-09 04:16+0000\n"
+"Last-Translator: whuang <whuang@mozilla.com>\n"
 "Language: zh_Hant_TW\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=(0)\n"
@@ -1455,7 +1455,9 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "服務提供者："
 
-#. Recommended news onboarding title and content.
+#. Recommended news onboarding title and content. The %1$s here is a
+#. placeholder for "Learn more" which directs users to SUMO page with detail
+#. information about the feature.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
 msgstr ""
@@ -1468,10 +1470,10 @@ msgid ""
 "News-&gt;Settings. %1$s"
 msgstr ""
 
-#. Recommended news choose language
+#. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
 msgid ""
-"Choose Your Prefered\n"
+"Choose Your Preferred\n"
 "News Language"
 msgstr ""
 
@@ -2434,7 +2436,7 @@ msgstr "在智慧旅遊搜尋功能中檢視搜尋結果"
 #, c-format
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
-msgstr "檢視 %1$s Travel Discovery 的搜尋結果"
+msgstr "檢視 %1$s 旅遊探索的搜尋結果"
 
 #. Dialog
 #. dialog title for introducing Firefox Lite Travel Discovery
@@ -2446,10 +2448,10 @@ msgstr ""
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_1_description"
-msgid "Explore things to do, accomodations, and more in %1$s Travel Discovery."
+msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
 msgstr ""
 
-#. Action button for seeing the search result in Firefox Lite Travel Discovery
+#. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
 msgstr ""
@@ -2459,7 +2461,8 @@ msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
 msgstr ""
 
-#. dialog title for asking if users want to change default search engine
+#. dialog title for asking how users feel about "Travel Discovery". If users
+#. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
 msgstr ""

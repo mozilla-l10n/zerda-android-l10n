@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-09 14:40+0800\n"
-"PO-Revision-Date: 2019-12-18 13:06+0000\n"
+"POT-Creation-Date: 2020-01-13 13:28+0800\n"
+"PO-Revision-Date: 2020-01-09 13:13+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language: hi_IN\n"
 "Language-Team: hi_IN <LL@li.org>\n"
@@ -198,7 +198,7 @@ msgstr "डाउनलोड्स को सहेजें"
 #. if they want to always open links with Rocket.
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "तयशुदा ब्राउज़र बनायें"
+msgstr "तयशुदा ब्राउज़र बनाएं"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -289,7 +289,7 @@ msgstr "अधिक विकल्प"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "आगे जाएँ"
+msgstr "आगे जाएं"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -314,7 +314,7 @@ msgstr "वेबसाइट लोडिंग रोकें"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "पिछले ऐप पर वापस जाएँ"
+msgstr "पिछले ऐप पर वापस जाएं"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -353,7 +353,7 @@ msgstr "सुनिश्चित करें की आप इंटरन�
 
 msgctxt "error_page_recover_b"
 msgid "Check the address"
-msgstr "पता जाँचें"
+msgstr "पता जांचें"
 
 msgctxt "error_page_button"
 msgid "TRY AGAIN"
@@ -431,19 +431,19 @@ msgid ""
 msgstr ""
 "ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि"
 " आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची "
-"में टर्बो मोड बटन को दबाएँ।"
+"में टर्बो मोड बटन को दबाएं।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
-msgstr "डेटा बचाएँ = पैसे बचाएँ"
+msgstr "डेटा बचाएं = पैसे बचाएं"
 
 msgctxt "first_run_page3_text"
 msgid ""
 "Save on data costs by blocking tracking ads. Save even more when you "
 "enable image blocking."
 msgstr ""
-"ट्रैकिंग विज्ञापनों को ब्लॉक कर डेटा लागत बचाएँ। चित्र ब्लॉकिंग सक्षम कर "
-"और भी अधिक डेटा बचाएँ।"
+"ट्रैकिंग विज्ञापनों को ब्लॉक कर डेटा लागत बचाएं। चित्र ब्लॉकिंग सक्षम कर "
+"और भी अधिक डेटा बचाएं।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
@@ -627,7 +627,7 @@ msgstr "अभी नहीं"
 
 msgctxt "permission_toast_location"
 msgid "Location not available. Give permission to access your location."
-msgstr "स्थान उपलब्ध नहीं है। अपने स्थान तक पहुँचने के लिए अनुमति दें।"
+msgstr "स्थान उपलब्ध नहीं है। अपने स्थान तक पहुंचने के लिए अनुमति दें।"
 
 msgctxt "permission_toast_storage"
 msgid ""
@@ -817,7 +817,7 @@ msgstr "मिटाएं"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr "सूची से हटाएँ"
+msgstr "सूची से हटाएं"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
@@ -892,7 +892,7 @@ msgstr "कोई स्क्रीनशॉट नहीं है "
 #. entire web page'.
 msgctxt "screenshot_grid_empty_text_msg_prefix"
 msgid "Tap "
-msgstr "दबाएँ "
+msgstr "दबाएं "
 
 #. This string is preceded by the image of the button, keep the leading
 #. whitespace.         Final result: 'Tap [image] on the menu to capture an
@@ -988,7 +988,7 @@ msgstr "कैशे मिटाने में अक्षम"
 
 msgctxt "message_storage_unavailable_cancel_download"
 msgid "Storage inaccessible. Download canceled."
-msgstr "संग्रहण पहुँच से बाहर। डाउनलोड रद्द किया गया।"
+msgstr "संग्रहण पहुंच से बाहर। डाउनलोड रद्द किया गया।"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
@@ -1012,7 +1012,7 @@ msgstr "स्क्रीनशॉट प्रदर्शित नहीं 
 #. Remove Top site item
 msgctxt "remove"
 msgid "Remove"
-msgstr "हटाएँ"
+msgstr "हटाएं"
 
 #. Pin Top site item
 msgctxt "pin_site"
@@ -1051,7 +1051,7 @@ msgid ""
 " our privacy policy. Tap to learn more."
 msgstr ""
 "Firefox Lite को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी "
-"गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएँ।"
+"गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएं।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1222,7 +1222,7 @@ msgstr "इसमें कुछ समय लग सकता है"
 
 msgctxt "setting_default_browser_notification_clickable_text"
 msgid "Tap to set default browser"
-msgstr "तयशुदा ब्राउज़र सेट करने के लिए दबाएँ"
+msgstr "तयशुदा ब्राउज़र सेट करने के लिए दबाएं"
 
 #. Button on tab tray that can closes all tabs at once
 msgctxt "tab_tray_close_tabs_btn_text"
@@ -1378,7 +1378,7 @@ msgstr "बंगाली"
 #. This is the panel for editing show or hide news categories
 msgctxt "news_category_title"
 msgid "Interests"
-msgstr "रूचियाँ"
+msgstr "रूचियां"
 
 msgctxt "news_category_option_top_news"
 msgid "Top-news"
@@ -1497,7 +1497,9 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "द्वारा सेवा प्राप्त"
 
-#. Recommended news onboarding title and content.
+#. Recommended news onboarding title and content. The %1$s here is a
+#. placeholder for "Learn more" which directs users to SUMO page with detail
+#. information about the feature.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
 msgstr ""
@@ -1510,10 +1512,10 @@ msgid ""
 "News-&gt;Settings. %1$s"
 msgstr ""
 
-#. Recommended news choose language
+#. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
 msgid ""
-"Choose Your Prefered\n"
+"Choose Your Preferred\n"
 "News Language"
 msgstr ""
 
@@ -1600,7 +1602,7 @@ msgstr "नहीं, शुक्रिया"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr "हाँ"
+msgstr "हां"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
@@ -1640,7 +1642,7 @@ msgstr "निजी मोड शॉर्टकट को होम स्क�
 #. them how to go to "My shots".
 msgctxt "my_shot_on_boarding_message"
 msgid "View your screenshots here!"
-msgstr "अपने स्क्रीनशॉटों को यहाँ देखें!"
+msgstr "अपने स्क्रीनशॉटों को यहां देखें!"
 
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
@@ -1650,7 +1652,7 @@ msgid ""
 "screenshots’ categories."
 msgstr ""
 "आपके उतपाद अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे "
-"में जानकारियाँ जमा करते हैं।"
+"में जानकारियां जमा करते हैं।"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1715,7 +1717,7 @@ msgid ""
 "to edit."
 msgstr ""
 "अधिक परिणाम खोजने के लिए नीचे खरीदारी की साइटों को टैप करें, या संपादित "
-"करने के लिए इस बटन को दबाएँ।"
+"करने के लिए इस बटन को दबाएं।"
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1807,7 +1809,7 @@ msgstr "गेम"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
-msgstr "तुरंत चलाएँ"
+msgstr "तुरंत चलाएं"
 
 msgctxt "gaming_vertical_category_2"
 msgid "Download to play"
@@ -1847,7 +1849,7 @@ msgstr "होम स्क्रीन पर शॉर्टकट बना�
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr "सूची से हटाएँ"
+msgstr "सूची से हटाएं"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1856,7 +1858,7 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
-"मैं वास्तव में अच्छा गेम खेल रहा हूँ। इसकी जांच - पड़ताल करें!\n"
+"मैं वास्तव में अच्छा गेम खेल रहा हूं। इसकी जांच - पड़ताल करें!\n"
 "%1$s"
 
 #. Gaming Genres
@@ -1906,7 +1908,7 @@ msgstr "खेल और रेसिंग"
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr "लड़कियाँ"
+msgstr "लड़कियां हेतु"
 
 #. Home 2.0
 #. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
@@ -2127,7 +2129,7 @@ msgstr "प्रतियोगिता छोड़ें"
 #. the voucher
 msgctxt "msrp_challenge_separator"
 msgid "How to redeem"
-msgstr "कैसे भुनाएँ"
+msgstr "इनाम कैसे पाएं"
 
 msgctxt "msrp_challenge_button_4"
 msgid "Use Firefox account to redeem"
@@ -2182,7 +2184,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
-msgstr "बाद में भुनाएँ"
+msgstr "बाद में इनाम प्राप्त करें"
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
@@ -2242,7 +2244,7 @@ msgstr "हमसे संपर्क करें"
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
 msgid "Redeem"
-msgstr "भुनाएँ"
+msgstr "इनाम प्राप्त करें"
 
 msgctxt "msrp_reward_redeem_voucher"
 msgid "Voucher"
@@ -2265,7 +2267,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
-msgstr "मैं समझता हूँ"
+msgstr "मैं समझता हूं"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
@@ -2328,7 +2330,7 @@ msgstr "एक %1$s जीतना चाहते हैं? आज खरी�
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr "सभी चुनौतियाँ पूर्ण"
+msgstr "सभी चुनौतियां संपन्न"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
@@ -2350,7 +2352,7 @@ msgstr "ओह! कुछ गलत हो गया"
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
 msgid "REDEEM"
-msgstr "भुनाएँ"
+msgstr "इनाम प्राप्त करें"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
@@ -2532,10 +2534,10 @@ msgstr ""
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_1_description"
-msgid "Explore things to do, accomodations, and more in %1$s Travel Discovery."
+msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
 msgstr ""
 
-#. Action button for seeing the search result in Firefox Lite Travel Discovery
+#. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
 msgstr ""
@@ -2545,7 +2547,8 @@ msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
 msgstr ""
 
-#. dialog title for asking if users want to change default search engine
+#. dialog title for asking how users feel about "Travel Discovery". If users
+#. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
 msgstr ""

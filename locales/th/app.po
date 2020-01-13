@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-09 14:40+0800\n"
-"PO-Revision-Date: 2019-12-08 14:24+0000\n"
-"Last-Translator: Can <udomc.can@gmail.com>\n"
+"POT-Creation-Date: 2020-01-13 13:28+0800\n"
+"PO-Revision-Date: 2020-01-04 13:50+0000\n"
+"Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language: th\n"
 "Language-Team: th <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=(0)\n"
@@ -1491,7 +1491,9 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "ให้บริการโดย"
 
-#. Recommended news onboarding title and content.
+#. Recommended news onboarding title and content. The %1$s here is a
+#. placeholder for "Learn more" which directs users to SUMO page with detail
+#. information about the feature.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
 msgstr ""
@@ -1504,10 +1506,10 @@ msgid ""
 "News-&gt;Settings. %1$s"
 msgstr ""
 
-#. Recommended news choose language
+#. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
 msgid ""
-"Choose Your Prefered\n"
+"Choose Your Preferred\n"
 "News Language"
 msgstr ""
 
@@ -2219,7 +2221,7 @@ msgstr "บัตรกำนัล"
 #. Suspicious account activity
 msgctxt "msrp_disqualification_title_1"
 msgid "Warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "คำเตือน: ตรวจพบบัญชี Firefox หลายบัญชี"
 
 msgctxt "msrp_disqualification_body_1"
 msgid ""
@@ -2238,7 +2240,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
-msgstr ""
+msgstr "บัญชีถูกปิดใช้งาน"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
@@ -2328,7 +2330,7 @@ msgstr ""
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
 msgid "Explore"
-msgstr ""
+msgstr "สำรวจ"
 
 #. bucket list is a noun which means the place for collecting all favorite
 #. items like destinations
@@ -2372,7 +2374,7 @@ msgstr ""
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "เพิ่มเติม"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format, fuzzy
@@ -2395,17 +2397,16 @@ msgstr ""
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "วิกิพีเดีย"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
 msgstr ""
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "ไม่ต้องใช้บัตรเครดิต"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
@@ -2456,7 +2457,7 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "ตกลง"
 
 #. search page
 #. introduce what can be type in the field
@@ -2495,10 +2496,10 @@ msgstr ""
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_1_description"
-msgid "Explore things to do, accomodations, and more in %1$s Travel Discovery."
+msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
 msgstr ""
 
-#. Action button for seeing the search result in Firefox Lite Travel Discovery
+#. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
 msgstr ""
@@ -2508,7 +2509,8 @@ msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
 msgstr ""
 
-#. dialog title for asking if users want to change default search engine
+#. dialog title for asking how users feel about "Travel Discovery". If users
+#. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
 msgstr ""
