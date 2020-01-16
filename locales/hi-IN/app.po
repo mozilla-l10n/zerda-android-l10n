@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-13 13:28+0800\n"
+"POT-Creation-Date: 2020-01-16 11:41+0800\n"
 "PO-Revision-Date: 2020-01-09 13:13+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language: hi_IN\n"
@@ -1497,13 +1497,14 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "द्वारा सेवा प्राप्त"
 
-#. Recommended news onboarding title and content. The %1$s here is a
-#. placeholder for "Learn more" which directs users to SUMO page with detail
-#. information about the feature.
+#. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
 msgstr ""
 
+#. Recommended news onboarding content.    The %1$s here is a placeholder for
+#. "Learn more" which directs users to SUMO page with detail information about
+#. the feature.
 #, c-format
 msgctxt "recommended_news_content"
 msgid ""

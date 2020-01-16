@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-13 13:28+0800\n"
-"PO-Revision-Date: 2019-12-05 02:31+0000\n"
-"Last-Translator: kuang.con <kuang.con@gmail.com>\n"
+"POT-Creation-Date: 2020-01-16 11:41+0800\n"
+"PO-Revision-Date: 2020-01-14 08:30+0000\n"
+"Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language: su\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1121,11 +1121,11 @@ msgstr "Euy, cobaan panyungsi gancang tur hampang ti %3$s. %1$s %2$s"
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
 msgid "UPDATE NOW!"
-msgstr ""
+msgstr "ANYARKEUN AYEUNA!"
 
 msgctxt "update_app_dialog_btn_later"
 msgid "LATER"
-msgstr ""
+msgstr "ENGKÉ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1503,13 +1503,14 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "Layanan disadiakeun ku"
 
-#. Recommended news onboarding title and content. The %1$s here is a
-#. placeholder for "Learn more" which directs users to SUMO page with detail
-#. information about the feature.
+#. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
 msgstr ""
 
+#. Recommended news onboarding content.    The %1$s here is a placeholder for
+#. "Learn more" which directs users to SUMO page with detail information about
+#. the feature.
 #, c-format
 msgctxt "recommended_news_content"
 msgid ""
@@ -1959,6 +1960,8 @@ msgstr "Toél pikeun maén kaulinan gratis panghadéna pikeun kalangenan!"
 msgctxt "onboarding_2_content_services_news_travel"
 msgid "Tap to read trending news, plan your next trip and more!"
 msgstr ""
+"Toél pikeun maca warta anu keur sabiwir hiji, ngararancang pelesir jeung "
+"lianna!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -2022,6 +2025,11 @@ msgid ""
 "Our Advanced Private Browsing can even %1$s by advertisers and websites, "
 "which most private modes cannot."
 msgstr ""
+"Kiwari anjeun bisa ngalanglang bari nyamuni, tan laratan, tan rekaman "
+"kecap sandi, sarta moal bisa kapapay ku nu séjén anu maké ieu paranti.\n"
+"\n"
+"Langlangan Pribadi Tingkat Lanjut samalah bisa %1$s ku nu ngiklan jeung "
+"raramatloka, anu ku kalolobaan mode pribadi nu séjén mah teu bisa."
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
@@ -2370,12 +2378,12 @@ msgstr "Anjeun meunang pocer balanja!"
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "Nyaba"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
 msgid "Explore"
-msgstr ""
+msgstr "Ngalanglang"
 
 #. bucket list is a noun which means the place for collecting all favorite
 #. items like destinations
@@ -2386,7 +2394,7 @@ msgstr ""
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "Nyaba murah"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
@@ -2401,7 +2409,7 @@ msgstr ""
 #. example
 msgctxt "travel_find_destination_placeholder_1"
 msgid "Try “Bali”…"
-msgstr ""
+msgstr "Coba “Bali”…"
 
 #. detail page
 #. this is a subcategory title. The %1$s here is a placeholder for destination
@@ -2422,10 +2430,10 @@ msgid "More"
 msgstr ""
 
 #. Instagram content. the %1$s here is the destination name
-#, c-format, fuzzy
+#, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on Instagram"
-msgstr ""
+msgstr "#%1$s dina Instagram"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
@@ -2442,32 +2450,31 @@ msgstr ""
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "Wikipédia"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi Gratis"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "Henteu butuh kartu kiridit"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "Bayar pas asup"
 
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
 msgid "From"
-msgstr ""
+msgstr "Ti"
 
 #. bucket list
 #. text in the empty state
 msgctxt "travel_empty_state_text"
 msgid "“I haven’t been everywhere, but it’s on my list.”"
-msgstr ""
+msgstr "“Can kungsi kamamana, tapi aya dina daptar jugjugeun kami.”"
 
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
@@ -2483,14 +2490,14 @@ msgstr ""
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "TÉMBONGKEUN"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "Resep %1$s?"
 
 #. the %1$s here is the destination name
 #, c-format
@@ -2503,20 +2510,20 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "HEUG"
 
 #. search page
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "Asupkeun jugjugeun"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "Tingali hasil dina %1$s"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
