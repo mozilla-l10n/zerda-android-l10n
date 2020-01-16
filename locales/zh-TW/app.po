@@ -2484,4 +2484,3 @@ msgstr ""
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
 msgstr ""
-

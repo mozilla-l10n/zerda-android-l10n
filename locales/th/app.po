@@ -2,7 +2,7 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -13,11 +13,13 @@ msgstr ""
 "Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language: th\n"
 "Language-Team: th <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -115,12 +117,8 @@ msgstr "ค้นหาใน Firefox Lite"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
-"to foster a healthy, open internet."
-msgstr ""
-"%1$s เป็นเบราว์เซอร์ที่เร็วและเบาที่สร้างขึ้นโดย %2$s "
-"ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง"
+msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgstr "%1$s เป็นเบราว์เซอร์ที่เร็วและเบาที่สร้างขึ้นโดย %2$s ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -220,12 +218,8 @@ msgstr "ส่งข้อมูลการใช้งาน"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"%2$s strives to collect only what we need to provide and improve %1$s for"
-" everyone."
-msgstr ""
-"%2$s มุ่งมั่นที่จะเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง"
-" %1$s สำหรับทุกคน"
+msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "%2$s มุ่งมั่นที่จะเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง %1$s สำหรับทุกคน"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -335,12 +329,8 @@ msgstr "ค้นหาแอปที่สามารถเปิดลิง
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ไม่มีแอปในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s "
-"เพื่อค้นหา %2$s สำหรับแอปที่สามารถทำได้"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ไม่มีแอปในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s เพื่อค้นหา %2$s สำหรับแอปที่สามารถทำได้"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -414,59 +404,39 @@ msgstr "ขอบคุณที่เลือก %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"เบราว์เซอร์ที่สร้างขึ้นโดย %1$s "
-"องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง"
+msgstr "เบราว์เซอร์ที่สร้างขึ้นโดย %1$s องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "เรียกดูได้เร็วขึ้นกว่าที่เคย"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"ใช้โหมดเทอร์โบเพื่อปิดกั้นโฆษณาที่ติดตามข้อมูลของคุณ "
-"ทำให้เปิดเว็บได้อย่างรวดเร็ว; ถ้าเว็บไซต์ทำงานผิดปกติ "
-"ก็สามารถแตะปิดโหมดเทอร์โบในเมนูได้"
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "ใช้โหมดเทอร์โบเพื่อปิดกั้นโฆษณาที่ติดตามข้อมูลของคุณ ทำให้เปิดเว็บได้อย่างรวดเร็ว; ถ้าเว็บไซต์ทำงานผิดปกติ ก็สามารถแตะปิดโหมดเทอร์โบในเมนูได้"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "ประหยัดข้อมูล = ประหยัดเงิน"
 
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"ประหยัดค่าใช้จ่ายข้อมูลโดยปิดกั้นโฆษณาที่ติดตาม "
-"ประหยัดมากยิ่งขึ้นเมื่อคุณเปิดใช้งานการปิดกั้นภาพ"
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "ประหยัดค่าใช้จ่ายข้อมูลโดยปิดกั้นโฆษณาที่ติดตาม ประหยัดมากยิ่งขึ้นเมื่อคุณเปิดใช้งานการปิดกั้นภาพ"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "จับภาพหน้าจอทั้งหน้า"
 
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"จับภาพหน้าจอส่วนที่เลื่อนทั้งหน้า "
-"อ่านภาพหน้าจอออฟไลน์โดยไม่ต้องใช้ข้อมูลหรือแตะภาพหน้าจอเพื่อเยี่ยมชมหน้าเว็บใหม่"
+msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgstr "จับภาพหน้าจอส่วนที่เลื่อนทั้งหน้า อ่านภาพหน้าจอออฟไลน์โดยไม่ต้องใช้ข้อมูลหรือแตะภาพหน้าจอเพื่อเยี่ยมชมหน้าเว็บใหม่"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "ความเป็นส่วนตัวระดับถัดไป"
 
 msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"เรียกดูโดยไม่มีร่องรอย "
-"และปิดกั้นตัวติดตามเว็บทั่วไปจำนวนมากโดยค่าเริ่มต้น "
-"ทำให้มั่นใจในความปลอดภัยของข้อมูลที่เป็นความลับของคุณ"
+msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
+msgstr "เรียกดูโดยไม่มีร่องรอย และปิดกั้นตัวติดตามเว็บทั่วไปจำนวนมากโดยค่าเริ่มต้น ทำให้มั่นใจในความปลอดภัยของข้อมูลที่เป็นความลับของคุณ"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -475,12 +445,8 @@ msgstr ""
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"ไม่พลาดทุกข่าวสารด้วย “%1$s” เพียงพลิกครั้งเดียว "
-"คุณก็จะพบเนื้อหาตั้งแต่หัวข้อที่ยอดนิยมที่สุดจนถึงดีลสุดฮอต %2$s"
+msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
+msgstr "ไม่พลาดทุกข่าวสารด้วย “%1$s” เพียงพลิกครั้งเดียว คุณก็จะพบเนื้อหาตั้งแต่หัวข้อที่ยอดนิยมที่สุดจนถึงดีลสุดฮอต %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -503,12 +469,8 @@ msgstr "เรามีหน้าตาใหม่!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid ""
-"With the evolved product, we bring you a newly refreshed %1$s, with new "
-"name and new logo."
-msgstr ""
-"ด้วยผลิตภัณฑ์ที่ได้รับการพัฒนา เรานำ %1$s "
-"แบบใหม่พร้อมชื่อใหม่และโลโก้ใหม่มาให้คุณ"
+msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
+msgstr "ด้วยผลิตภัณฑ์ที่ได้รับการพัฒนา เรานำ %1$s แบบใหม่พร้อมชื่อใหม่และโลโก้ใหม่มาให้คุณ"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -628,12 +590,8 @@ msgid "Location not available. Give permission to access your location."
 msgstr "ตำแหน่งที่ตั้งไม่พร้อมใช้งาน ให้สิทธิอนุญาตเข้าถึงตำแหน่งที่ตั้งของคุณ"
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
-msgstr ""
-"ที่เก็บข้อมูลไม่พร้อมใช้งาน "
-"ให้สิทธิอนุญาตเก็บรูปถ่ายและไฟล์ในอุปกรณ์ของคุณ"
+msgid "Storage not available. Give permission to store photos and files on your device."
+msgstr "ที่เก็บข้อมูลไม่พร้อมใช้งาน ให้สิทธิอนุญาตเก็บรูปถ่ายและไฟล์ในอุปกรณ์ของคุณ"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -1042,13 +1000,8 @@ msgid "Product Update Notice"
 msgstr "ประกาศการอัปเดตผลิตภัณฑ์"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Lite better for you and everyone, we made some changes to"
-" our privacy policy. Tap to learn more."
-msgstr ""
-"เพื่อทำให้ Firefox Lite ดีขึ้นสำหรับคุณและทุกคน "
-"เราได้ทำการเปลี่ยนแปลงบางอย่างกับนโยบายความเป็นส่วนตัวของเรา "
-"แตะเพื่อเรียนรู้เพิ่มเติม"
+msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "เพื่อทำให้ Firefox Lite ดีขึ้นสำหรับคุณและทุกคน เราได้ทำการเปลี่ยนแปลงบางอย่างกับนโยบายความเป็นส่วนตัวของเรา แตะเพื่อเรียนรู้เพิ่มเติม"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1121,21 +1074,15 @@ msgstr ""
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
-"%1$s เป็นซอฟต์แวร์เสรีและเปิดต้นฉบับที่สร้างขึ้นโดย %2$s "
-"และผู้มีส่วนร่วมอื่น ๆ"
+msgstr "%1$s เป็นซอฟต์แวร์เสรีและเปิดต้นฉบับที่สร้างขึ้นโดย %2$s และผู้มีส่วนร่วมอื่น ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
-"%1$s ให้คุณใช้ภายใต้เงื่อนไขของ <a href=\"%2$s\">%3$s</a> "
-"และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr "%1$s ให้คุณใช้ภายใต้เงื่อนไขของ <a href=\"%2$s\">%3$s</a> และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1144,24 +1091,16 @@ msgstr ""
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
-msgstr ""
-"คุณไม่ได้รับสิทธิหรือสัญญาอนุญาตใด ๆ ในเครื่องหมายการค้าของมูลนิธิ "
-"Mozilla หรือบุคคลใด ๆ รวมทั้งชื่อหรือโลโก้ %3$s, %4$s หรือ %1$s "
-"ข้อมูลเพิ่มเติมอาจพบได้ <a href=\"%2$s\">ที่นี่</a>"
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr "คุณไม่ได้รับสิทธิหรือสัญญาอนุญาตใด ๆ ในเครื่องหมายการค้าของมูลนิธิ Mozilla หรือบุคคลใด ๆ รวมทั้งชื่อหรือโลโก้ %3$s, %4$s หรือ %1$s ข้อมูลเพิ่มเติมอาจพบได้ <a href=\"%2$s\">ที่นี่</a>"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a "
-"href=\"%2$s\">สัญญาอนุญาต</a> เสรีและเปิดต้นฉบับต่าง ๆ"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a href=\"%2$s\">สัญญาอนุญาต</a> เสรีและเปิดต้นฉบับต่าง ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1169,14 +1108,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s ยังใช้รายการปิดกั้นที่ให้บริการโดย Disconnect, Inc. "
-"ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public "
-"License v3</a> และใช้ได้ <a href=\"%3$s\">ที่นี่</a>"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s ยังใช้รายการปิดกั้นที่ให้บริการโดย Disconnect, Inc. ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public License v3</a> และใช้ได้ <a href=\"%3$s\">ที่นี่</a>"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1582,12 +1515,8 @@ msgstr "เพลิดเพลินกับการเรียกดูด
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid ""
-"Access private mode in one click! Want to add private mode shortcut to "
-"homescreen?"
-msgstr ""
-"เข้าถึงโหมดส่วนตัวในคลิกเดียว! "
-"ต้องการเพิ่มทางลัดโหมดส่วนตัวไปยังหน้าจอหลัก?"
+msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
+msgstr "เข้าถึงโหมดส่วนตัวในคลิกเดียว! ต้องการเพิ่มทางลัดโหมดส่วนตัวไปยังหน้าจอหลัก?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1640,12 +1569,8 @@ msgstr "ดูภาพหน้าจอของคุณที่นี่!"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
-msgstr ""
-"เพื่อปรับปรุงประสบการณ์ผลิตภัณฑ์ของคุณ "
-"เราเก็บรวบรวมข้อมูลเกี่ยวกับหมวดหมู่ของภาพหน้าจอของคุณ"
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgstr "เพื่อปรับปรุงประสบการณ์ผลิตภัณฑ์ของคุณ เราเก็บรวบรวมข้อมูลเกี่ยวกับหมวดหมู่ของภาพหน้าจอของคุณ"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1705,9 +1630,7 @@ msgstr "ค้นหา"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid ""
-"Tap the shopping sites below to browse more results, or tap this button "
-"to edit."
+msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
 msgstr "แตะที่เว็บชอปปิงด้านล่างเพื่อดูผลลัพธ์เพิ่มเติม หรือแตะปุ่มนี้เพื่อแก้ไข"
 
 msgctxt "shopping_switch_ui_onboarding_button"
@@ -1911,18 +1834,14 @@ msgstr "แกะกล่อง %1$s"
 
 #, fuzzy
 msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
+msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
 msgstr ""
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 #, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid ""
-"Tap to read trending news, find good deals, or have fun playing the "
-"hottest free games!"
+msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
 msgstr ""
 
 #, fuzzy
@@ -1992,11 +1911,9 @@ msgstr "การท่องเว็บส่วนตัวขั้นสู
 #, c-format
 msgctxt "private_home_description_1"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other"
-" people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
-"which most private modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
 
 msgctxt "private_home_description_2"
@@ -2059,9 +1976,7 @@ msgstr ""
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid ""
-"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
-"seven days in a row."
+msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
 msgstr ""
 
 #, fuzzy
@@ -2073,9 +1988,7 @@ msgstr ""
 #. started."
 #, c-format, fuzzy
 msgctxt "msrp_challenge_details_body_2"
-msgid ""
-"%1$s Make sure you sign in to the account you want to use before you "
-"complete your redemption."
+msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
 msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
@@ -2131,9 +2044,7 @@ msgid "Congratulations!"
 msgstr "ขอแสดงความยินดี!"
 
 msgctxt "msrp_completed_popup_body"
-msgid ""
-"Thanks for trying out some of our new features. We hope you’ve enjoyed "
-"using them!"
+msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
 msgstr ""
 
 msgctxt "msrp_completed_popup_button1"
@@ -2150,9 +2061,7 @@ msgid "Congratulations!"
 msgstr "ขอแสดงความยินดี!"
 
 msgctxt "msrp_challenge_completed_body"
-msgid ""
-"Thanks for trying out some of our new features. We hope you’ve enjoyed "
-"using them!"
+msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
 msgstr ""
 
 msgctxt "msrp_challenge_button_5"
@@ -2167,15 +2076,11 @@ msgid "Your %1$s is ready!"
 msgstr "%1$s ของคุณพร้อมแล้ว!"
 
 msgctxt "msrp_voucher_body_1"
-msgid ""
-"Voucher is valid for a limited time only. We reserve the right to modify "
-"or cancel voucher at any time."
+msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
 msgstr ""
 
 msgctxt "msrp_voucher_body_2"
-msgid ""
-"We reserve the right, at its sole discretion, to change, modify, add or "
-"remove portions of these Terms of Use, at any time."
+msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
 msgstr ""
 
 #. The %1$s here is a placeholder for "date"
@@ -2225,10 +2130,7 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "คำเตือน: ตรวจพบบัญชี Firefox หลายบัญชี"
 
 msgctxt "msrp_disqualification_body_1"
-msgid ""
-"Only one Firefox account may be used to participate in the 7-Day "
-"challenge. If you switch and use another account, you will be "
-"disqualified from this challenge."
+msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
 msgstr ""
 
 msgctxt "msrp_disqualification_button_1"
@@ -2279,9 +2181,7 @@ msgstr ""
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid ""
-"You’ve completed the challenge! Please go back to %1$s Home to redeem "
-"your voucher!"
+msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
 msgstr ""
 
 #. Notifications for last 3 days
@@ -2450,9 +2350,7 @@ msgstr ""
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
-msgid ""
-"Save %1$s in your Bucket List to get quick access to travel guides and "
-"the best prices."
+msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
 msgstr ""
 
 #. onboarding button
@@ -2532,4 +2430,3 @@ msgstr ""
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
 msgstr ""
-

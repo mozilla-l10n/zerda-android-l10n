@@ -425,25 +425,16 @@ msgid "Browse faster than ever"
 msgstr "पहले से तेज ब्राउज़ करें"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि"
-" आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची "
-"में टर्बो मोड बटन को दबाएं।"
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक करने के लिए टर्बो प्रणाली का उपयोग करें ताकि आप तेज गति से ब्राउज़ कर सकें। यदि साइटें टूटी लगती हैं, तो विकल्प सूची में टर्बो मोड बटन को दबाएं।"
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "डेटा बचाएं = पैसे बचाएं"
 
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"ट्रैकिंग विज्ञापनों को ब्लॉक कर डेटा लागत बचाएं। चित्र ब्लॉकिंग सक्षम कर "
-"और भी अधिक डेटा बचाएं।"
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "ट्रैकिंग विज्ञापनों को ब्लॉक कर डेटा लागत बचाएं। चित्र ब्लॉकिंग सक्षम कर और भी अधिक डेटा बचाएं।"
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
@@ -1046,12 +1037,8 @@ msgid "Product Update Notice"
 msgstr "प्रोडक्ट अद्यतन सूचना"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Lite better for you and everyone, we made some changes to"
-" our privacy policy. Tap to learn more."
-msgstr ""
-"Firefox Lite को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी "
-"गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएं।"
+msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "Firefox Lite को आपके और हर किसी के लिए बेहतर बनाने के लिए, हमने अपनी गोपनीयता नीति में कुछ बदलाव किए हैं। अधिक जानने के लिए दबाएं।"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
@@ -1648,12 +1635,8 @@ msgstr "अपने स्क्रीनशॉटों को यहां �
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
-msgstr ""
-"आपके उतपाद अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे "
-"में जानकारियां जमा करते हैं।"
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgstr "आपके उतपाद अनुभव को सुधारने के लिए, हम आपके स्क्रीनशॉट श्रेणियों के बारे में जानकारियां जमा करते हैं।"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1713,12 +1696,8 @@ msgstr "खोजें"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid ""
-"Tap the shopping sites below to browse more results, or tap this button "
-"to edit."
-msgstr ""
-"अधिक परिणाम खोजने के लिए नीचे खरीदारी की साइटों को टैप करें, या संपादित "
-"करने के लिए इस बटन को दबाएं।"
+msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
+msgstr "अधिक परिणाम खोजने के लिए नीचे खरीदारी की साइटों को टैप करें, या संपादित करने के लिए इस बटन को दबाएं।"
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
