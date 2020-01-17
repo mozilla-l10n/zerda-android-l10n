@@ -8,10 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-04 13:50+0000\n"
-"Last-Translator: Chengings <chengings@gmail.com>\n"
-"Language: th\n"
+"POT-Creation-Date: 2019-12-12 10:38+0800\n"
+"PO-Revision-Date: 2020-01-16 17:07+0000\n"
+"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -1064,11 +1063,11 @@ msgstr "เฮ้ ลองดูเบราว์เซอร์ที่เ�
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
 msgid "UPDATE NOW!"
-msgstr ""
+msgstr "อัปเดตตอนนี้!"
 
 msgctxt "update_app_dialog_btn_later"
 msgid "LATER"
-msgstr ""
+msgstr "ภายหลัง"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1750,7 +1749,7 @@ msgstr "ตกลง"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
-msgstr ""
+msgstr "สร้างทางลัดแล้ว"
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -2226,7 +2225,7 @@ msgstr ""
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "การท่องเที่ยว"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
@@ -2251,13 +2250,13 @@ msgstr ""
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "คุณต้องการไปที่ไหน?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
 msgctxt "travel_find_destination_placeholder_1"
 msgid "Try “Bali”…"
-msgstr ""
+msgstr "ลอง “บาหลี”…"
 
 #. detail page
 #. this is a subcategory title. The %1$s here is a placeholder for destination
@@ -2265,12 +2264,12 @@ msgstr ""
 #, c-format
 msgctxt "travel_detail_page_subcategory_content"
 msgid "Explore %1$s"
-msgstr ""
+msgstr "สำรวจ %1$s"
 
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "โรงแรมยอดนิยม"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
@@ -2278,22 +2277,21 @@ msgid "More"
 msgstr "เพิ่มเติม"
 
 #. Instagram content. the %1$s here is the destination name
-#, c-format, fuzzy
+#, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on Instagram"
-msgstr ""
+msgstr "#%1$s บน Instagram"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s การดู"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1 การดู"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
@@ -2303,7 +2301,7 @@ msgstr "วิกิพีเดีย"
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi ฟรี"
 
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
@@ -2316,7 +2314,7 @@ msgstr ""
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
 msgid "From"
-msgstr ""
+msgstr "จาก"
 
 #. bucket list
 #. text in the empty state
@@ -2327,7 +2325,7 @@ msgstr ""
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "สำรวจเมือง"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
@@ -2338,14 +2336,14 @@ msgstr ""
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "ดู"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "รัก %1$s?"
 
 #. the %1$s here is the destination name
 #, c-format
@@ -2362,14 +2360,14 @@ msgstr "ตกลง"
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "ป้อนปลายทาง"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "ดูผลลัพธ์ใน %1$s"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
