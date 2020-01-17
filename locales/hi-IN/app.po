@@ -2,23 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-12 10:38+0800\n"
+"POT-Creation-Date: 2020-01-16 11:41+0800\n"
 "PO-Revision-Date: 2020-01-09 13:13+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
-"Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
+"Language-Team: hi_IN <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.6.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -116,8 +115,12 @@ msgstr "Firefox Lite में खोजें"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
-msgstr "%1$s %2$s द्वारा निर्मित तीव्र एवं हल्का ब्राउज़र है। हमारा लक्ष्य एक स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है।"
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
+msgstr ""
+"%1$s %2$s द्वारा निर्मित तीव्र एवं हल्का ब्राउज़र है। हमारा लक्ष्य एक "
+"स्वस्थ, मुक्त इंटरनेट को बढ़ावा देना है।"
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -217,8 +220,12 @@ msgstr "उपयोग डेटा भेजें"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "%2$s मात्र वही जानकारी एकत्र करने का प्रयास करता है जिससे हम %1$s को सभी के लिए उपलब्ध तथा बेहतर बना सकें।"
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
+msgstr ""
+"%2$s मात्र वही जानकारी एकत्र करने का प्रयास करता है जिससे हम %1$s को सभी "
+"के लिए उपलब्ध तथा बेहतर बना सकें।"
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -328,8 +335,12 @@ msgstr "लिंक खोलने हेतु कोई ऐप तलाश�
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "आपके उपकरण पर कोई भी ऐप इस लिंक को खोलने में सक्षम नहीं हैं।आप %2$s को खोजने हेतु एक ऐप के लिए %1$s को छोड़ सकते हैं जो कर सकता हैं।"
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"आपके उपकरण पर कोई भी ऐप इस लिंक को खोलने में सक्षम नहीं हैं।आप %2$s को "
+"खोजने हेतु एक ऐप के लिए %1$s को छोड़ सकते हैं जो कर सकता हैं।"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -354,7 +365,9 @@ msgstr "पता समझा नहीं गया था"
 
 msgctxt "error_page_content_text_unsupported_scheme"
 msgid "You might need to install other software to open this address."
-msgstr "इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है।"
+msgstr ""
+"इस पते को खोलने हेतु आपको अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो "
+"सकती है।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -403,7 +416,9 @@ msgstr "%1$s चुनने के लिए धन्यवाद"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr "गैर-लाभकारी %1$s द्वारा निर्मित एक ब्राउज़र, एक मुफ्त तथा खुले वेब के लिए समर्पित।"
+msgstr ""
+"गैर-लाभकारी %1$s द्वारा निर्मित एक ब्राउज़र, एक मुफ्त तथा खुले वेब के लिए "
+"समर्पित।"
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
@@ -426,16 +441,25 @@ msgid "Screenshot the whole page"
 msgstr "पूर्ण पृष्ठ का स्क्रीनशॉट लें"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
-msgstr "पूर्ण पृष्ठ का स्क्रीनशॉट लें। डेटा इस्तेमाल किये बिना इसे ऑफलाइन पढ़ें या वेब पृष्ठ पर दुबारा जाने के लिए इसे टैप करें।"
+msgid ""
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
+msgstr ""
+"पूर्ण पृष्ठ का स्क्रीनशॉट लें। डेटा इस्तेमाल किये बिना इसे ऑफलाइन पढ़ें या"
+" वेब पृष्ठ पर दुबारा जाने के लिए इसे टैप करें।"
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "अगले-दर्जे की गोपनीयता"
 
 msgctxt "first_run_page5_text"
-msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
-msgstr "बिना ट्रेस हुए ब्राउज़ करें, और डिफ़ॉल्ट रूप से आम वेब ट्रैकर की एक विस्तृत श्रृंखला को ब्लॉक करें। अपने गोपनीय डेटा की सुरक्षा सुनिश्चित करें।"
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
+msgstr ""
+"बिना ट्रेस हुए ब्राउज़ करें, और डिफ़ॉल्ट रूप से आम वेब ट्रैकर की एक "
+"विस्तृत श्रृंखला को ब्लॉक करें। अपने गोपनीय डेटा की सुरक्षा सुनिश्चित "
+"करें।"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -444,8 +468,12 @@ msgstr "बिना ट्रेस हुए ब्राउज़ करे�
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
-msgstr "बस एक बटन दबाना, अपने आप को “%1$s” के साथ अपडेट रखें - सबसे लोकप्रिय विषयों से लेकर सबसे ताज़ा सौदों तक विभिन्न प्रकार की सामग्री। %2$s"
+msgid ""
+"Just one flip, keep yourself updated with the “%1$s” - a variety of "
+"contents from the most popular topics to the hottest deals. %2$s"
+msgstr ""
+"बस एक बटन दबाना, अपने आप को “%1$s” के साथ अपडेट रखें - सबसे लोकप्रिय "
+"विषयों से लेकर सबसे ताज़ा सौदों तक विभिन्न प्रकार की सामग्री। %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -468,8 +496,12 @@ msgstr "हमारे पास एक नया लुक है!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
-msgstr "विकसित प्रोडक्ट के साथ, एक नए नाम और नए लोगो के साथ, हम आपके लिए बिलकुल नया %1$s लाये हैं।"
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
+msgstr ""
+"विकसित प्रोडक्ट के साथ, एक नए नाम और नए लोगो के साथ, हम आपके लिए बिलकुल "
+"नया %1$s लाये हैं।"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -589,8 +621,12 @@ msgid "Location not available. Give permission to access your location."
 msgstr "स्थान उपलब्ध नहीं है। अपने स्थान तक पहुंचने के लिए अनुमति दें।"
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
-msgstr "संग्रहण उपलब्ध नहीं है। अपने डिवाइस पर फ़ोटो और फ़ाइलें संग्रहीत करने की अनुमति दें।"
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
+msgstr ""
+"संग्रहण उपलब्ध नहीं है। अपने डिवाइस पर फ़ोटो और फ़ाइलें संग्रहीत करने की "
+"अनुमति दें।"
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -1014,7 +1050,9 @@ msgstr "%1$s पसंद आया?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr "हमारे प्रोडक्ट को चुनने के लिए धन्यवाद। आपकी प्रतिक्रिया हमारे लिए महत्वपूर्ण है।"
+msgstr ""
+"हमारे प्रोडक्ट को चुनने के लिए धन्यवाद। आपकी प्रतिक्रिया हमारे लिए "
+"महत्वपूर्ण है।"
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -1059,7 +1097,9 @@ msgstr "साझा करें"
 #, c-format
 msgctxt "share_app_promotion_text"
 msgid "Hey, check out this fast and lightweight browser from %3$s. %1$s %2$s"
-msgstr "सुनो, %3$s द्वारा निर्मित तीव्र तथा एवं हलके ब्राउज़र का जायजा लें। %1$s %2$s"
+msgstr ""
+"सुनो, %3$s द्वारा निर्मित तीव्र तथा एवं हलके ब्राउज़र का जायजा लें। %1$s "
+"%2$s"
 
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
@@ -1074,15 +1114,21 @@ msgstr "बाद में"
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr "%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपन सोर्स सॉफ्टवेयर है।"
+msgstr ""
+"%1$s %2$s तथा अन्य योगदानकर्ताओं द्वारा निर्मित मुफ्त एवं ओपन सोर्स "
+"सॉफ्टवेयर है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के तहत आपके लिए उपलब्ध कराया जाता है।"
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr ""
+"%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सोर्स लाइसेंस की शर्तों के "
+"तहत आपके लिए उपलब्ध कराया जाता है।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1091,18 +1137,24 @@ msgstr "%1$s <a href=\"%2$s\">%3$s</a> तथा अन्य ओपन सो�
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
 msgstr ""
-"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या %1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता है। अधिक जानकारी <a href=\"%2$s\">यहाँ</a> से पा सकते "
-"हैं।"
+"Mozilla फ़ाउंडेशन या किसी भी पार्टी के ट्रेडमार्क साथ ही %3$s, %4$s या "
+"%1$s के नाम अथवा लोगो, के लिए कोई अधिकार या लाइसेंस आपको नहीं दिया जाता "
+"है। अधिक जानकारी <a href=\"%2$s\">यहाँ</a> से पा सकते हैं।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s के लिए अतिरिक्त स्रोत कोड विभिन्न अन्य मुफ़्त और ओपन सोर्स <a href=\"%2$s\">लायसेंस</a> के तहत उपलब्ध है। "
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s के लिए अतिरिक्त स्रोत कोड विभिन्न अन्य मुफ़्त और ओपन सोर्स <a "
+"href=\"%2$s\">लायसेंस</a> के तहत उपलब्ध है। "
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1110,10 +1162,14 @@ msgstr "%1$s के लिए अतिरिक्त स्रोत कोड
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s Disconnect, Inc. द्वारा प्रदान की गई ब्लॉकलिस्ट का भी उपयोग करता है जो <a href=\"%2$s\">जीएनयू सामान्य लोक लायसेंस v3</a> के तहत अलग और स्वतंत्र काम करता है, और <a href=\"%3$s\">यहाँ</a> उपलब्ध"
-" है।"
+"%1$s Disconnect, Inc. द्वारा प्रदान की गई ब्लॉकलिस्ट का भी उपयोग करता है "
+"जो <a href=\"%2$s\">जीएनयू सामान्य लोक लायसेंस v3</a> के तहत अलग और "
+"स्वतंत्र काम करता है, और <a href=\"%3$s\">यहाँ</a> उपलब्ध है।"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1428,6 +1484,48 @@ msgctxt "logo_text"
 msgid "Service provided by"
 msgstr "द्वारा सेवा प्राप्त"
 
+#. Recommended news onboarding title.
+msgctxt "recommended_news_title"
+msgid "Recommended News For You"
+msgstr ""
+
+#. Recommended news onboarding content.    The %1$s here is a placeholder for
+#. "Learn more" which directs users to SUMO page with detail information about
+#. the feature.
+#, c-format
+msgctxt "recommended_news_content"
+msgid ""
+"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
+" You can turn off recommendations and control your settings anytime in "
+"News-&gt;Settings. %1$s"
+msgstr ""
+
+#. Recommended news choose your preferred language
+msgctxt "recommended_news_preference_language"
+msgid ""
+"Choose Your Preferred\n"
+"News Language"
+msgstr ""
+
+#. Recommended news toggle title
+msgctxt "recommended_news_preference_toggle"
+msgid "Personalized news experience"
+msgstr ""
+
+#. Disable personalized experience for news.
+msgctxt "recommended_news_preference_disable_dialog"
+msgid ""
+"Do you want to disable the recommended news? Tap “YES” to just display "
+"the latest news articles."
+msgstr ""
+
+#. Enable personalized experience for news.
+msgctxt "recommended_news_preference_enable_dialog"
+msgid ""
+"Do you want to enable the recommended news feature? Tap “YES” to start "
+"seeing a recommended selection of news articles."
+msgstr ""
+
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
 #. tab.
@@ -1479,8 +1577,12 @@ msgstr "अतिरिक्त सुरक्षा के साथ ब्�
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
-msgstr "एक ही क्लिक द्वारा निजी मोड चलाएं! निजी मोड के शॉर्टकट को होम स्क्रीन पर जोड़ना चाहेंगे?"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
+msgstr ""
+"एक ही क्लिक द्वारा निजी मोड चलाएं! निजी मोड के शॉर्टकट को होम स्क्रीन पर "
+"जोड़ना चाहेंगे?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1703,8 +1805,9 @@ msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
 msgstr "आपके पसंदीदा गेम तक तीव्र पहुंच"
 
+#, fuzzy
 msgctxt "gaming_vertical_hint_body"
-msgid "Press to create a shortcut to your home screen."
+msgid "Long press to create a shortcut to your home screen."
 msgstr "अपने होम स्क्रीन पर शॉर्टकट बनाने के लिए दबाएं।"
 
 msgctxt "gaming_vertical_hint_button"
@@ -1796,18 +1899,28 @@ msgid "Brand-new %1$s"
 msgstr "एकदम नया %1$s"
 
 msgctxt "onboarding_2_introduction_description"
-msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "एक तेज़ एवं हल्का ब्राउज़र, अब मज़ेदार सुविधाओं के साथ! हमने ब्राउज़िंग को और भी मनोरंजक बनाने के लिए स्मार्ट शॉपिंग सर्च तथा अन्य सामग्री जोड़े हैं!"
+msgid ""
+"A fast and lightweight browser, now with cool features! We have added "
+"smart shopping search and content to make browsing more fun!"
+msgstr ""
+"एक तेज़ एवं हल्का ब्राउज़र, अब मज़ेदार सुविधाओं के साथ! हमने ब्राउज़िंग को और"
+" भी मनोरंजक बनाने के लिए स्मार्ट शॉपिंग सर्च तथा अन्य सामग्री जोड़े हैं!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr "चर्चित समाचार पढ़ने, अच्छी डील्स खोजने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए टैप करें!"
+msgid ""
+"Tap to read trending news, find good deals, or have fun playing the "
+"hottest free games!"
+msgstr ""
+"चर्चित समाचार पढ़ने, अच्छी डील्स खोजने या मज़े करने के लिए बेहतरीन मुफ्त "
+"गेम्स खेलने के लिए टैप करें!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr "चर्चित समाचार पढ़ने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए टैप करें!"
+msgstr ""
+"चर्चित समाचार पढ़ने या मज़े करने के लिए बेहतरीन मुफ्त गेम्स खेलने के लिए "
+"टैप करें!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1815,7 +1928,9 @@ msgstr "मज़े करने के लिए बेहतरीन मुफ�
 
 msgctxt "onboarding_2_content_services_news_travel"
 msgid "Tap to read trending news, plan your next trip and more!"
-msgstr "चर्चित समाचार पढ़ने, अपनी अगली यात्रा करने तथा अन्य चीज़ें करने के लिए टैप करें!"
+msgstr ""
+"चर्चित समाचार पढ़ने, अपनी अगली यात्रा करने तथा अन्य चीज़ें करने के लिए टैप "
+"करें!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1824,7 +1939,9 @@ msgstr "स्मार्ट शॉपिंग सर्च"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
-msgstr "अलग-अलग ऑनलाइन स्टोरों की कीमतों का तुलना करना बहुत ही आसान है, अभी आज़माएं!"
+msgstr ""
+"अलग-अलग ऑनलाइन स्टोरों की कीमतों का तुलना करना बहुत ही आसान है, अभी "
+"आज़माएं!"
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
@@ -1871,13 +1988,18 @@ msgstr "उन्नत निजी ब्राउज़िंग"
 #, c-format
 msgctxt "private_home_description_1"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other"
+" people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
+"which most private modes cannot."
 msgstr ""
-"अब आप निजी रूप से ब्राउज़ कर सकते हैं, कोई इतिहास, कोई पासवर्ड का रिकॉर्ड नहीं रखा जाएगा और इस उपकरण का उपयोग करने वाले अन्य लोग आपकी गतिविधि नहीं देख पाएंगे।\n"
+"अब आप निजी रूप से ब्राउज़ कर सकते हैं, कोई इतिहास, कोई पासवर्ड का रिकॉर्ड "
+"नहीं रखा जाएगा और इस उपकरण का उपयोग करने वाले अन्य लोग आपकी गतिविधि नहीं "
+"देख पाएंगे।\n"
 "\n"
-"हमारा उन्नत निजी ब्राउज़िंग आपको विज्ञापनकर्ताओं और वेबसाइटों द्वारा %1$s से भी बचा सकता है, जो कि कोई अन्य निजी मोड नहीं कर सकता।"
+"हमारा उन्नत निजी ब्राउज़िंग आपको विज्ञापनकर्ताओं और वेबसाइटों द्वारा %1$s "
+"से भी बचा सकता है, जो कि कोई अन्य निजी मोड नहीं कर सकता।"
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
@@ -1937,8 +2059,12 @@ msgstr "7-दिवसीय चुनौती में शामिल हो
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr "%1$s के मुख्य पृष्ठ पर बस लगातार सात दिनों तक बटन दबाकर शॉपिंग, समाचार, गेम को आज़माएं।"
+msgid ""
+"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
+"seven days in a row."
+msgstr ""
+"%1$s के मुख्य पृष्ठ पर बस लगातार सात दिनों तक बटन दबाकर शॉपिंग, समाचार, "
+"गेम को आज़माएं।"
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
@@ -1948,8 +2074,12 @@ msgstr "अपने इनाम को पाने के लिए अपन
 #. started."
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
-msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr "अपने इनाम पाने की प्रक्रिया को पूरा करने से पहले जिस खाते का आप उपयोग करना चाहते हैं उसमें साइन इन करना ना भूलें। %1$s"
+msgid ""
+"%1$s Make sure you sign in to the account you want to use before you "
+"complete your redemption."
+msgstr ""
+"अपने इनाम पाने की प्रक्रिया को पूरा करने से पहले जिस खाते का आप उपयोग "
+"करना चाहते हैं उसमें साइन इन करना ना भूलें। %1$s"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
@@ -2004,8 +2134,12 @@ msgid "Congratulations!"
 msgstr "बधाई हो!"
 
 msgctxt "msrp_completed_popup_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "हमारी कुछ नई विशेषताओं को आज़माने के लिए धन्यवाद। हमें उम्मीद है कि आपने इनका उपयोग करके आनंद लिया होगा!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"हमारी कुछ नई विशेषताओं को आज़माने के लिए धन्यवाद। हमें उम्मीद है कि आपने "
+"इनका उपयोग करके आनंद लिया होगा!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2021,8 +2155,12 @@ msgid "Congratulations!"
 msgstr "बधाई हो!"
 
 msgctxt "msrp_challenge_completed_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr "हमारी कुछ नई विशेषताओं को आज़माने के लिए धन्यवाद। हमें उम्मीद है कि आपने इनका उपयोग करके आनंद लिया होगा!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
+msgstr ""
+"हमारी कुछ नई विशेषताओं को आज़माने के लिए धन्यवाद। हमें उम्मीद है कि आपने "
+"इनका उपयोग करके आनंद लिया होगा!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2036,12 +2174,20 @@ msgid "Your %1$s is ready!"
 msgstr "आपका %1$s वॉउचर तैयार है!"
 
 msgctxt "msrp_voucher_body_1"
-msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
-msgstr "वाउचर सीमित समय के लिए ही मान्य है। हम किसी भी समय वाउचर को संशोधित या रद्द करने का अधिकार सुरक्षित रखते हैं।"
+msgid ""
+"Voucher is valid for a limited time only. We reserve the right to modify "
+"or cancel voucher at any time."
+msgstr ""
+"वाउचर सीमित समय के लिए ही मान्य है। हम किसी भी समय वाउचर को संशोधित या "
+"रद्द करने का अधिकार सुरक्षित रखते हैं।"
 
 msgctxt "msrp_voucher_body_2"
-msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr "हम किसी भी समय, इन उपयोग की शर्तों के कुछ हिस्सों को बदलने, संशोधित करने, जोड़ने या हटाने का अधिकार, अपने विवेक पर सुरक्षित रखते हैं।"
+msgid ""
+"We reserve the right, at its sole discretion, to change, modify, add or "
+"remove portions of these Terms of Use, at any time."
+msgstr ""
+"हम किसी भी समय, इन उपयोग की शर्तों के कुछ हिस्सों को बदलने, संशोधित करने,"
+" जोड़ने या हटाने का अधिकार, अपने विवेक पर सुरक्षित रखते हैं।"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2090,8 +2236,14 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "चेतावनी: कई Firefox खातों का पता चला"
 
 msgctxt "msrp_disqualification_body_1"
-msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr "7-दिन की चुनौती में भाग लेने के लिए केवल एक Firefox खाते का उपयोग किया जा सकता है। यदि आप बदलते और किसी अन्य खाते का उपयोग करते हैं, तो आपको इस चुनौती से अयोग्य घोषित कर दिया जाएगा।"
+msgid ""
+"Only one Firefox account may be used to participate in the 7-Day "
+"challenge. If you switch and use another account, you will be "
+"disqualified from this challenge."
+msgstr ""
+"7-दिन की चुनौती में भाग लेने के लिए केवल एक Firefox खाते का उपयोग किया जा"
+" सकता है। यदि आप बदलते और किसी अन्य खाते का उपयोग करते हैं, तो आपको इस "
+"चुनौती से अयोग्य घोषित कर दिया जाएगा।"
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2141,8 +2293,12 @@ msgstr "वाह! आप वाउचर प्राप्त करने स
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr "आपने चुनौती पूरी कर ली है! कृपया अपने वॉउचर को पाने के लिए %1$s के मुख्य पृष्ठ पर जाएं!"
+msgid ""
+"You’ve completed the challenge! Please go back to %1$s Home to redeem "
+"your voucher!"
+msgstr ""
+"आपने चुनौती पूरी कर ली है! कृपया अपने वॉउचर को पाने के लिए %1$s के मुख्य "
+"पृष्ठ पर जाएं!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
@@ -2309,8 +2465,12 @@ msgstr "%1$s पसंद आया?"
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
-msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr "यात्रा निर्देश एवं सर्वोत्तम मूल्यों की जानकारी तक शीघ्र पहुंच के लिए %1$s को अपने गंतव्य सूची में सहेजें।"
+msgid ""
+"Save %1$s in your Bucket List to get quick access to travel guides and "
+"the best prices."
+msgstr ""
+"यात्रा निर्देश एवं सर्वोत्तम मूल्यों की जानकारी तक शीघ्र पहुंच के लिए "
+"%1$s को अपने गंतव्य सूची में सहेजें।"
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
@@ -2343,3 +2503,50 @@ msgstr "स्मार्ट यात्रा खोज में परि�
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
 msgstr "%1$s यात्रा खोज में परिणामों को देखें"
+
+#. Dialog
+#. dialog title for introducing Firefox Lite Travel Discovery
+msgctxt "travel_dialog_1_title"
+msgid "Discover More!"
+msgstr ""
+
+#. dialog description for introducing the feature. The %1$s here is Firefox
+#. Lite.
+#, c-format
+msgctxt "travel_dialog_1_description"
+msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
+msgstr ""
+
+#. Action button for trying Firefox Lite's new feature "Travel Discovery"
+msgctxt "travel_dialog_1_action_1"
+msgid "TRY TRAVEL DISCOVERY"
+msgstr ""
+
+#. Action button for dismissing this prompt
+msgctxt "travel_dialog_1_action_2"
+msgid "NO, THANKS"
+msgstr ""
+
+#. dialog title for asking how users feel about "Travel Discovery". If users
+#. enjoy it, they can change it to default search engine
+msgctxt "travel_dialog_2_title"
+msgid "Enjoy Using Travel Discovery?"
+msgstr ""
+
+#. dialog description for introducing how it works. The %1$s here is Firefox
+#. Lite.
+#, c-format
+msgctxt "travel_dialog_2_description"
+msgid "You can set %1$s Travel Disovery as your default search engine for travel."
+msgstr ""
+
+#. checkbox for not showing this dialog again
+msgctxt "travel_dialog_2_checkbox"
+msgid "Do not ask me again"
+msgstr ""
+
+#. Action button for setting Travel Discovery as default search engine
+msgctxt "travel_dialog_2_action"
+msgid "SET AS DEFAULT"
+msgstr ""
+
