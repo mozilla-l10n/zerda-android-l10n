@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-19 16:03+0000\n"
+"PO-Revision-Date: 2020-01-19 16:19+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -1431,7 +1431,7 @@ msgstr "Dịch vụ được cung cấp bởi"
 #. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
-msgstr ""
+msgstr "Đề xuất tin tức cho bạn"
 
 #. Recommended news onboarding content.    The %1$s here is a placeholder for
 #. "Learn more" which directs users to SUMO page with detail information about
@@ -1439,7 +1439,7 @@ msgstr ""
 #, c-format
 msgctxt "recommended_news_content"
 msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
-msgstr ""
+msgstr "Chạm “Có” để bắt đầu xem tin tức được đề xuất cho bạn bởi công cụ tin tức AI của chúng tôi. Bạn có thể tắt đề xuất và kiểm soát cài đặt của mình bất cứ lúc nào trong Tin tức-&gt;Cài đặt. %1$s"
 
 #. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
@@ -1447,11 +1447,13 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
+"Chọn ưu tiên của bạn\n"
+"Ngôn ngữ tin tức"
 
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
 msgid "Personalized news experience"
-msgstr ""
+msgstr "Trải nghiệm tin tức cá nhân"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
@@ -1738,10 +1740,9 @@ msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
 msgstr "Truy cập nhanh vào các trò chơi yêu thích của bạn"
 
-#, fuzzy
 msgctxt "gaming_vertical_hint_body"
 msgid "Long press to create a shortcut to your home screen."
-msgstr "Nhấn để tạo lối tắt đến màn hình chính của bạn."
+msgstr "Chạm và giữ để tạo một lối tắt đến màn hình chính của bạn."
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -2384,44 +2385,44 @@ msgstr "Xem kết quả trong Khám phá du lịch %1$s"
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
-msgstr ""
+msgstr "Khám phá nhiều hơn!"
 
 #. dialog description for introducing the feature. The %1$s here is Firefox
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_1_description"
 msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
-msgstr ""
+msgstr "Khám phá những việc cần làm, chỗ ở và nhiều hơn nữa trong Khám phá du lịch %1$s."
 
 #. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
-msgstr ""
+msgstr "KHÁM PHÁ DU LỊCH"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "KHÔNG, CÁM ƠN"
 
 #. dialog title for asking how users feel about "Travel Discovery". If users
 #. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
-msgstr ""
+msgstr "Thích sử dụng Khám phá du lịch?"
 
 #. dialog description for introducing how it works. The %1$s here is Firefox
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_2_description"
 msgid "You can set %1$s Travel Disovery as your default search engine for travel."
-msgstr ""
+msgstr "Bạn có thể đặt Khám phá du lịch %1$s làm công cụ tìm kiếm mặc định cho du lịch."
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "Đừng hỏi lại tôi nữa"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "ĐẶT LÀM MẶC ĐỊNH"
