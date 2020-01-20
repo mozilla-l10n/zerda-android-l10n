@@ -9,9 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-14 08:30+0000\n"
+"PO-Revision-Date: 2020-01-20 04:16+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
-"Language: su\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
 "Language: su\n"
@@ -1443,10 +1442,7 @@ msgstr ""
 #. the feature.
 #, c-format
 msgctxt "recommended_news_content"
-msgid ""
-"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
-" You can turn off recommendations and control your settings anytime in "
-"News-&gt;Settings. %1$s"
+msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
 msgstr ""
 
 #. Recommended news choose your preferred language
@@ -1463,16 +1459,12 @@ msgstr ""
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
-msgid ""
-"Do you want to disable the recommended news? Tap “YES” to just display "
-"the latest news articles."
+msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
 msgstr ""
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
-msgid ""
-"Do you want to enable the recommended news feature? Tap “YES” to start "
-"seeing a recommended selection of news articles."
+msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
 msgstr ""
 
 #. Private Browsing
@@ -2279,17 +2271,17 @@ msgstr "Coba “Bali”…"
 #, c-format
 msgctxt "travel_detail_page_subcategory_content"
 msgid "Explore %1$s"
-msgstr ""
+msgstr "Langlang %1$s"
 
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "Hotél kawentar"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "Euyeuban"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format
@@ -2301,13 +2293,12 @@ msgstr "#%1$s dina Instagram"
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s tempo"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1 tempo"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
@@ -2341,12 +2332,12 @@ msgstr "“Can kungsi kamamana, tapi aya dina daptar jugjugeun kami.”"
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "Ngalanglang kota"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "Disimpen dina gémbolan."
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
@@ -2365,7 +2356,7 @@ msgstr "Resep %1$s?"
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "Simpen %1$s dina Gémbolan anjeun pikeun narabas ka panduan pelesir jeung harga murah."
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
