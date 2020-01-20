@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-20 04:16+0000\n"
+"PO-Revision-Date: 2020-01-20 04:11+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1435,7 +1435,7 @@ msgstr "Layanan disadiakeun ku"
 #. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
-msgstr ""
+msgstr "Warta anu Diusulkeun Keur Anjeun"
 
 #. Recommended news onboarding content.    The %1$s here is a placeholder for
 #. "Learn more" which directs users to SUMO page with detail information about
@@ -1443,7 +1443,7 @@ msgstr ""
 #, c-format
 msgctxt "recommended_news_content"
 msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
-msgstr ""
+msgstr "Toél “Enya” pikeun mitembeyan nempo warta anu disarankeun ku mesin berita AI kami. Anjeun bisa mareuman saran sarta ngatur setélan anjeun iraha baé dina Warta-&gt;Setélan. %1$s"
 
 #. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
@@ -1451,21 +1451,23 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
+"Pilih Pilihan\n"
+"Basa Warta"
 
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
 msgid "Personalized news experience"
-msgstr ""
+msgstr "Pangalaman warta sakapalay"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
 msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
-msgstr ""
+msgstr "Badé mareuman saran warta? Toél “ENYA” pikeun némbongkeun warta panganyarna hungkul."
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
 msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
-msgstr ""
+msgstr "Badé ngaktipkeun pitur warta anu disarankeun? Toél “YES” pikeun mitembeyan ningali pilihan tulisan warta anu disarankeun."
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1753,7 +1755,7 @@ msgstr "Heug"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
-msgstr ""
+msgstr "takulan geus dijieun."
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -2243,7 +2245,7 @@ msgstr "Ngalanglang"
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "Gémbolan"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
@@ -2252,12 +2254,12 @@ msgstr "Nyaba murah"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
-msgstr ""
+msgstr "Kota panghadéna pikeun pakanci usum tiris"
 
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "Palay ka mana?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
