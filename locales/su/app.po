@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-20 04:11+0000\n"
+"PO-Revision-Date: 2020-01-21 04:46+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1043,7 +1043,6 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "Bagikeun %1$s ka babaturan!"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
@@ -1051,8 +1050,8 @@ msgid ""
 "- Free Games, trending news"
 msgstr ""
 "- Gancang tur hampang\n"
-"- Rikrik data\n"
-"- Téwakan layar bedas"
+"- Sungsi Balanja Pinter\n"
+"- Kaulinan Gratis, warta sabiwir hiji"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -1744,10 +1743,9 @@ msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
 msgstr "Aksés gancang ka kaulinan karesep"
 
-#, fuzzy
 msgctxt "gaming_vertical_hint_body"
 msgid "Long press to create a shortcut to your home screen."
-msgstr "Pencét pikeun nyieun tarabas ka layar tepas."
+msgstr "Pencét lila pikeun nyieun takulan ka layar tepas."
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -1837,22 +1835,19 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "Anyar pisan %1$s"
 
-#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "Angger Gancang jeung Énténg. Kami nambahan paluruh balanja pinter jeung kontén pikeun ngajadikeun langlangan internét leuwih pikaresepeun jeung ngeunaheun!"
+msgstr "Panyungsi gancang jeung énténg, kiwari diémbohan ku pitur hébring! Kami nambahkeun paluruh balanja pinter jeung kontén ngarah nyungsi jadi pikaresepeun!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
 msgstr "Toél pikeun maca warta anu keur sabiwir hiji, nyiar harga kortingan atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
 
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr "Toél pikeun maca warta anu keur sabiwir hiji atawa maén kaulinan gratis panghadéna pikeun kalangenan!"
+msgstr "Toél pikeun maca warta anu keur sabiwir hiji atawa maén kaulinan gratis panghadéna!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -2382,7 +2377,7 @@ msgstr "Tingali hasil dina %1$s"
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
-msgstr ""
+msgstr "Tingali hasil dina sungsian nyaba pinter"
 
 #. this is a title indicates that users will see search results summerized by
 #. Travel Discovery after tapping on the following options. the %1$s here is
@@ -2390,50 +2385,50 @@ msgstr ""
 #, c-format
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
-msgstr ""
+msgstr "Tingali hasil dina %1$s Travel Discovery"
 
 #. Dialog
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
-msgstr ""
+msgstr "Panggihan Nu Lianna!"
 
 #. dialog description for introducing the feature. The %1$s here is Firefox
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_1_description"
 msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
-msgstr ""
+msgstr "Langlang anu kudu disiapkeun, akomodasi, jeung lianna di %1$s Travel Discovery."
 
 #. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
-msgstr ""
+msgstr "COBAAN TRAVEL DISCOVERY"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "MOAL, NUHUN"
 
 #. dialog title for asking how users feel about "Travel Discovery". If users
 #. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
-msgstr ""
+msgstr "Resep Maké Travel Discovery?"
 
 #. dialog description for introducing how it works. The %1$s here is Firefox
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_2_description"
 msgid "You can set %1$s Travel Disovery as your default search engine for travel."
-msgstr ""
+msgstr "Anjeun bisa nyetél %1$s Travel Discovery salaku mesin sungsi baku anjeun pikeun nyaba."
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "Ulah nanya deui"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "SETÉL JADI BAKU"
