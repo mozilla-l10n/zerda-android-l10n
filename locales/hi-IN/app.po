@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-29 14:12+0000\n"
+"PO-Revision-Date: 2020-01-29 14:29+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1440,6 +1440,8 @@ msgstr "आपके लिए अनुशंसित समाचार"
 msgctxt "recommended_news_content"
 msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
 msgstr ""
+"हमारे AI समाचार इंजन द्वारा आपके लिए अनुशंसित समाचार देखना शुरू करने के लिए “हां” दबाएं। आप जब चाहें समाचार-&gt;सेटिंग में जाकर सिफारिशों को बंद कर सकते हैं और अपने सेटिंग्स को नियंत्रित कर सकते "
+"हैं। %1$s"
 
 #. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
@@ -1447,16 +1449,18 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
+"अपने पसंद की\n"
+"समाचार भाषा चुनें"
 
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
 msgid "Personalized news experience"
-msgstr ""
+msgstr "व्यक्तिगत समाचार अनुभव"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
 msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
-msgstr ""
+msgstr "क्या आप अनुशंसित समाचारों को अक्षम करना चाहते हैं? नवीनतम समाचार लेखों को देखने के लिए “हां” दबाएं।"
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
