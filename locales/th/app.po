@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-12-12 10:38+0800\n"
-"PO-Revision-Date: 2020-01-16 17:07+0000\n"
-"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
+"PO-Revision-Date: 2020-02-02 18:28+0000\n"
+"Last-Translator: Chengings <chengings@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -1426,17 +1426,14 @@ msgstr "ให้บริการโดย"
 #. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
-msgstr ""
+msgstr "ข่าวแนะนำสำหรับคุณ"
 
 #. Recommended news onboarding content.    The %1$s here is a placeholder for
 #. "Learn more" which directs users to SUMO page with detail information about
 #. the feature.
 #, c-format
 msgctxt "recommended_news_content"
-msgid ""
-"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
-" You can turn off recommendations and control your settings anytime in "
-"News-&gt;Settings. %1$s"
+msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
 msgstr ""
 
 #. Recommended news choose your preferred language
@@ -1449,20 +1446,16 @@ msgstr ""
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
 msgid "Personalized news experience"
-msgstr ""
+msgstr "ประสบการณ์ข่าวส่วนบุคคล"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
-msgid ""
-"Do you want to disable the recommended news? Tap “YES” to just display "
-"the latest news articles."
+msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
 msgstr ""
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
-msgid ""
-"Do you want to enable the recommended news feature? Tap “YES” to start "
-"seeing a recommended selection of news articles."
+msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
 msgstr ""
 
 #. Private Browsing
@@ -1917,7 +1910,7 @@ msgstr ""
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
-msgstr ""
+msgstr "ป้องกันตัวคุณไม่ให้ถูกติดตาม"
 
 #. MSRP Vertical
 #. Logoman
@@ -1997,7 +1990,7 @@ msgstr "ป้อนที่อยู่อีเมลของคุณเพ
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
 msgid "I’m In!"
-msgstr ""
+msgstr "เข้าร่วมด้วย!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
 #, c-format, fuzzy
@@ -2197,7 +2190,7 @@ msgstr ""
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
-msgstr ""
+msgstr "รวบรวมรางวัลทั้งหมดแล้ว"
 
 #. Error messages
 msgctxt "msrp_reward_challenge_nointernet"
@@ -2236,12 +2229,12 @@ msgstr "สำรวจ"
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "สิ่งที่อยากทำก่อนตาย"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "เดินทางด้วยงบพอเพียง"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
@@ -2330,7 +2323,7 @@ msgstr "สำรวจเมือง"
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "ถูกบันทึกไว้ในสิ่งที่อยากทำก่อนตายแล้ว"
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
