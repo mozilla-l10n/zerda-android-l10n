@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-02-02 16:54+0000\n"
+"PO-Revision-Date: 2020-02-02 17:39+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -771,12 +771,12 @@ msgstr "मेटैइयै"
 #. Remove the item from Download file panel
 msgctxt "remove_from_list"
 msgid "Remove from list"
-msgstr "लिस्ट से हटैइयै"
+msgstr "लिस्ट से हटाबोॅ"
 
 #. Remove the item from Download file panel and delete the file
 msgctxt "delete_file"
 msgid "Delete file"
-msgstr "फाइल हटैइयै"
+msgstr "फाइल हटाबोॅ"
 
 #. Long Screenshot
 #. Message that is shown for a few seconds after a successful screenshot
