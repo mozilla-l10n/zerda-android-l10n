@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-01-29 14:36+0000\n"
+"PO-Revision-Date: 2020-02-06 06:11+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1742,10 +1742,9 @@ msgctxt "gaming_vertical_hint_title"
 msgid "Fast access to your favourite games"
 msgstr "आपके पसंदीदा गेम तक तीव्र पहुंच"
 
-#, fuzzy
 msgctxt "gaming_vertical_hint_body"
 msgid "Long press to create a shortcut to your home screen."
-msgstr "अपने होम स्क्रीन पर शॉर्टकट बनाने के लिए दबाएं।"
+msgstr "अपने होम स्क्रीन पर कोई शॉर्टकट बनाने के लिए देर तक दबाएं।"
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
@@ -2395,37 +2394,37 @@ msgstr "और जानें!"
 #, c-format
 msgctxt "travel_dialog_1_description"
 msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
-msgstr ""
+msgstr "%1$s यात्रा खोज में करने के रोमांचक कार्य, आवास तथा और भी बहुत सी चीज़ें देखें।"
 
 #. Action button for trying Firefox Lite's new feature "Travel Discovery"
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
-msgstr ""
+msgstr "यात्रा खोज आज़माएं"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "नहीं, शुक्रिया"
 
 #. dialog title for asking how users feel about "Travel Discovery". If users
 #. enjoy it, they can change it to default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
-msgstr ""
+msgstr "यात्रा खोज पसंद आया?"
 
 #. dialog description for introducing how it works. The %1$s here is Firefox
 #. Lite.
 #, c-format
 msgctxt "travel_dialog_2_description"
 msgid "You can set %1$s Travel Disovery as your default search engine for travel."
-msgstr ""
+msgstr "यात्रा के लिए आप %1$s यात्रा खोज को अपने तयशुदा खोज इंजन के रूप में सेट कर सकते हैं।"
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "मुझसे दोबारा ना पूछें"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "तयशुदा बनाएं"
