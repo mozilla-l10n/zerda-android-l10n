@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-02-02 17:39+0000\n"
+"PO-Revision-Date: 2020-02-12 17:09+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -2266,7 +2266,7 @@ msgstr ""
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "अधिक"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format, fuzzy
@@ -2348,7 +2348,7 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "ठीक छै"
 
 #. search page
 #. introduce what can be type in the field
