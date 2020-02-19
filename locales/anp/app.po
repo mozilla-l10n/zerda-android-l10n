@@ -1039,16 +1039,12 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "संगी सँ %1$s शेयर करियै!"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
 "- Smart Shopping Search\n"
 "- Free Games, trending news"
 msgstr ""
-"- तेज आरु हल्का\n"
-"- डेटा क बचत\n"
-"- शक्तिशाली स्क्रीनशॉट"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
