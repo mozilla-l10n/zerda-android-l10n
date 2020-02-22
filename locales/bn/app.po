@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-02-22 03:30+0000\n"
-"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
+"PO-Revision-Date: 2020-02-17 16:41+0000\n"
+"Last-Translator: Shamim Shikder <sshikder138@gmail.com>\n"
 "Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -2265,12 +2265,12 @@ msgstr ""
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "জনপ্রিয় হোটেল সমূহ"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "আরও"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format, fuzzy
@@ -2282,28 +2282,26 @@ msgstr ""
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$sদেখুন"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1দেখুন"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "উইকিপিডিয়া"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "বিনামূল্যে Wi-Fi"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "কোনও ক্রেডিট কার্ডের প্রয়োজন নেই"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
@@ -2323,7 +2321,7 @@ msgstr ""
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
 msgid "Explore a city"
-msgstr ""
+msgstr "একটি শহর ঘুরুন"
 
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
@@ -2334,7 +2332,7 @@ msgstr ""
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "দেখুন"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
@@ -2352,26 +2350,26 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 #. search page
 #. introduce what can be type in the field
 msgctxt "travel_find_destination_placeholder_2"
 msgid "Enter a destination"
-msgstr ""
+msgstr "গন্তব্য লিখুন"
 
 #. this is a title indicates that users will see search results from google
 #. after tapping on the following option. the %1$s here is google.
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "এ ফলাফল দেখুন%1$s"
 
 #. this is a title indicates that users will see search results summerized by
 #. smart travel search after tapping on the following options.
 msgctxt "travel_search_engine_2"
 msgid "See results in smart travel search"
-msgstr ""
+msgstr "স্মার্ট ভ্রমণ অনুসন্ধানে ফলাফল দেখুন"
 
 #. this is a title indicates that users will see search results summerized by
 #. Travel Discovery after tapping on the following options. the %1$s here is
@@ -2379,13 +2377,13 @@ msgstr ""
 #, c-format
 msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
-msgstr ""
+msgstr "%1$s Travel Discovery তে ফলাফল দেখুন"
 
 #. Dialog
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
-msgstr ""
+msgstr "আরও আবিষ্কার করুন!"
 
 #. dialog description for introducing the feature. The %1$s here is Firefox
 #. Lite.
@@ -2402,7 +2400,7 @@ msgstr ""
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "না, ধন্যবাদ"
 
 #. dialog title for asking how users feel about "Travel Discovery". If users
 #. enjoy it, they can change it to default search engine
@@ -2420,9 +2418,9 @@ msgstr ""
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "পুনরায় আমাকে জিজ্ঞেস করবে না"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "ডিফল্ট হিসেবে সেট করুন"
