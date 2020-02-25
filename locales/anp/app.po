@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-01-16 11:41+0800\n"
-"PO-Revision-Date: 2020-02-12 17:09+0000\n"
+"PO-Revision-Date: 2020-02-25 18:57+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -283,7 +283,7 @@ msgstr "अधिकोॅ विकल्प"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "आगाँ मार्गनिर्देशित करियै"
+msgstr "आगाँ मार्गनिर्देशित करोॅ"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
