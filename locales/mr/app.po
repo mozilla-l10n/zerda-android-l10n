@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 11:41+0800\n"
+"POT-Creation-Date: 2020-03-02 10:11+0800\n"
 "PO-Revision-Date: 2019-12-14 10:15+0000\n"
 "Last-Translator: नरेंद्र पेटकर - narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language: mr\n"
@@ -1698,9 +1698,20 @@ msgctxt "shopping_search_onboarding_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
 msgstr "स्मार्ट शॉपिंग सर्चसह बर्‍याच ऑनलाइन स्टोअरमध्ये किंमतींची तुलना करा."
 
+#. Smart Shopping Search onboarding message
+msgctxt "shopping_search_onboarding_body_A"
+msgid "Compare prices easily on popular shopping sites."
+msgstr ""
+
+#. Smart Shopping Search onboarding message
+msgctxt "shopping_search_onboarding_body_B"
+msgid "Start saving today. Search and compare prices on popular sites."
+msgstr ""
+
 #. Shopping Search Input Placeholder
+#, fuzzy
 msgctxt "shopping_search_placeholder"
-msgid "Type the product you want to search"
+msgid "Enter a product name"
 msgstr "आपण शोधू इच्छित उत्पादन टाइप करा"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
@@ -2517,6 +2528,25 @@ msgctxt "travel_search_engine_fxlite"
 msgid "See results in %1$s Travel Discovery"
 msgstr ""
 
+#. this is a title indicates that users will see search results summerized by
+#. Travel Discovery after tapping on the following options. the first %1$s is
+#. Firefox Lite, and the %2$s is Travel Discovery.
+#, c-format
+msgctxt "travel_search_engine_fxlite_new"
+msgid "See results in %1$s %2$s"
+msgstr ""
+
+#. error message for no results state
+msgctxt "travel_no_result_state_text"
+msgid "Hmm. No results found."
+msgstr ""
+
+#. button for searching the keyword on Google. the %1$s here is GOOGLE
+#, c-format
+msgctxt "travel_google_search_button"
+msgid "SEARCH ON %1$s"
+msgstr ""
+
 #. Dialog
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
@@ -2530,9 +2560,23 @@ msgctxt "travel_dialog_1_description"
 msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
 msgstr ""
 
-#. Action button for trying Firefox Lite's new feature "Travel Discovery"
+#. dialog description for introducing the feature. the first %1$s is Firefox
+#. Lite, and the %2$s is Travel Discovery.
+#, c-format
+msgctxt "travel_dialog_1_description_new"
+msgid "Explore things to do, accommodations, and more in %1$s %2$s."
+msgstr ""
+
+#. Action button for seeing the search result in Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_action_1"
 msgid "TRY TRAVEL DISCOVERY"
+msgstr ""
+
+#. Action button for seeing the search result in Firefox Lite Travel Discovery.
+#. the %1$s is Travel Discovery.
+#, c-format
+msgctxt "travel_dialog_1_action_1_new"
+msgid "TRY %1$s"
 msgstr ""
 
 #. Action button for dismissing this prompt
@@ -2540,10 +2584,16 @@ msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
 msgstr ""
 
-#. dialog title for asking how users feel about "Travel Discovery". If users
-#. enjoy it, they can change it to default search engine
+#. dialog title for asking if users want to change default search engine
 msgctxt "travel_dialog_2_title"
 msgid "Enjoy Using Travel Discovery?"
+msgstr ""
+
+#. dialog title for asking if users want to change default search engine. the
+#. %1$s is Travel Discovery.
+#, c-format
+msgctxt "travel_dialog_2_title_new"
+msgid "Enjoy Using %1$s?"
 msgstr ""
 
 #. dialog description for introducing how it works. The %1$s here is Firefox
@@ -2551,6 +2601,13 @@ msgstr ""
 #, c-format
 msgctxt "travel_dialog_2_description"
 msgid "You can set %1$s Travel Disovery as your default search engine for travel."
+msgstr ""
+
+#. dialog description for introducing how it works. The first %1$s is Firefox
+#. Lite, and the %2$s is Travel Discovery.
+#, c-format
+msgctxt "travel_dialog_2_description_new"
+msgid "You can set %1$s %2$s as your default search engine for travel."
 msgstr ""
 
 #. checkbox for not showing this dialog again
