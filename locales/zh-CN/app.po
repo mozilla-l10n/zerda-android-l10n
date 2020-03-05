@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-05 12:18+0000\n"
+"PO-Revision-Date: 2020-03-05 12:22+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1616,7 +1616,7 @@ msgstr "在知名购物网站间轻松比价。"
 #. Smart Shopping Search onboarding message
 msgctxt "shopping_search_onboarding_body_B"
 msgid "Start saving today. Search and compare prices on popular sites."
-msgstr ""
+msgstr "立即开始省钱。在知名网站间搜索比价。"
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -2398,7 +2398,7 @@ msgstr "探索更多！"
 #, c-format
 msgctxt "travel_dialog_1_description_new"
 msgid "Explore things to do, accommodations, and more in %1$s %2$s."
-msgstr ""
+msgstr "到 %1$s %2$s 探索更多活动、住宿与更多内容。"
 
 #. Action button for seeing the search result in Firefox Lite Travel Discovery.
 #. the %1$s is Travel Discovery.
@@ -2417,7 +2417,7 @@ msgstr "不用，谢谢"
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
+msgstr "%1$s 使用体验如何？"
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
