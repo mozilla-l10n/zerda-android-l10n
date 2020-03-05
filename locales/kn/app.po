@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-02 10:11+0800\n"
+"POT-Creation-Date: 2020-03-05 10:22+0800\n"
 "PO-Revision-Date: 2019-07-08 18:33+0000\n"
 "Last-Translator: Omshivaprakash H L <omshivaprakash@gmail.com>\n"
 "Language: kn\n"
@@ -2497,23 +2497,8 @@ msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
 msgstr ""
 
-#. this is a title indicates that users will see search results summerized by
-#. smart travel search after tapping on the following options.
-msgctxt "travel_search_engine_2"
-msgid "See results in smart travel search"
-msgstr ""
-
-#. this is a title indicates that users will see search results summerized by
-#. Travel Discovery after tapping on the following options. the %1$s here is
-#. Firefox Lite.
-#, c-format
-msgctxt "travel_search_engine_fxlite"
-msgid "See results in %1$s Travel Discovery"
-msgstr ""
-
-#. this is a title indicates that users will see search results summerized by
-#. Travel Discovery after tapping on the following options. the first %1$s is
-#. Firefox Lite, and the %2$s is Travel Discovery.
+#. this is a title of search suggestions from Firefox Lite Travel Discovery.
+#. the first %1$s is Firefox Lite, and the %2$s is Travel Discovery.
 #, c-format
 msgctxt "travel_search_engine_fxlite_new"
 msgid "See results in %1$s %2$s"
@@ -2536,23 +2521,11 @@ msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
 msgstr ""
 
-#. dialog description for introducing the feature. The %1$s here is Firefox
-#. Lite.
-#, c-format
-msgctxt "travel_dialog_1_description"
-msgid "Explore things to do, accommodations, and more in %1$s Travel Discovery."
-msgstr ""
-
 #. dialog description for introducing the feature. the first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
 #, c-format
 msgctxt "travel_dialog_1_description_new"
 msgid "Explore things to do, accommodations, and more in %1$s %2$s."
-msgstr ""
-
-#. Action button for seeing the search result in Firefox Lite Travel Discovery
-msgctxt "travel_dialog_1_action_1"
-msgid "TRY TRAVEL DISCOVERY"
 msgstr ""
 
 #. Action button for seeing the search result in Firefox Lite Travel Discovery.
@@ -2567,23 +2540,11 @@ msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
 msgstr ""
 
-#. dialog title for asking if users want to change default search engine
-msgctxt "travel_dialog_2_title"
-msgid "Enjoy Using Travel Discovery?"
-msgstr ""
-
 #. dialog title for asking if users want to change default search engine. the
 #. %1$s is Travel Discovery.
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
-
-#. dialog description for introducing how it works. The %1$s here is Firefox
-#. Lite.
-#, c-format
-msgctxt "travel_dialog_2_description"
-msgid "You can set %1$s Travel Disovery as your default search engine for travel."
 msgstr ""
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
