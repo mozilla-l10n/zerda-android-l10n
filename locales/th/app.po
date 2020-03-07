@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-07 02:56+0000\n"
+"PO-Revision-Date: 2020-03-07 05:57+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -2423,7 +2423,7 @@ msgstr "ไม่ ขอบคุณ"
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
+msgstr "เพลิดเพลินกับการใช้ %1$s?"
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
