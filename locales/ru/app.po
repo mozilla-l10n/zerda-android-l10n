@@ -2417,7 +2417,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_dialog_1_action_1_new"
 msgid "TRY %1$s"
-msgstr ""
+msgstr "ПОПРОБУЙТЕ %1$s"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
@@ -2429,7 +2429,7 @@ msgstr "НЕТ, СПАСИБО"
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
+msgstr "Нравиться использовать %1$s?"
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
