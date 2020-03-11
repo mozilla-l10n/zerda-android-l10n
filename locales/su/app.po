@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-11 04:29+0000\n"
+"PO-Revision-Date: 2020-03-11 05:48+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -1620,12 +1620,12 @@ msgstr "Bandingkeun harga di toko-toko onlén maké Paluruh Balanja Pinter."
 #. Smart Shopping Search onboarding message
 msgctxt "shopping_search_onboarding_body_A"
 msgid "Compare prices easily on popular shopping sites."
-msgstr ""
+msgstr "Babari ngabandingkeun harga di situs balanja populér."
 
 #. Smart Shopping Search onboarding message
 msgctxt "shopping_search_onboarding_body_B"
 msgid "Start saving today. Search and compare prices on popular sites."
-msgstr ""
+msgstr "Mitembeyan ngirit ti poé ieu. Paluruh jeung bandingkeun harga di situs populér."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -2388,18 +2388,18 @@ msgstr "Tingali hasil dina %1$s"
 #, c-format
 msgctxt "travel_search_engine_fxlite_new"
 msgid "See results in %1$s %2$s"
-msgstr ""
+msgstr "Tingali hasil dina %1$s %2$s"
 
 #. error message for no results state
 msgctxt "travel_no_result_state_text"
 msgid "Hmm. No results found."
-msgstr ""
+msgstr "Euh. Nyamos."
 
 #. button for searching the keyword on Google. the %1$s here is GOOGLE
 #, c-format
 msgctxt "travel_google_search_button"
 msgid "SEARCH ON %1$s"
-msgstr ""
+msgstr "PALURUH DI %1$s"
 
 #. Dialog
 #. dialog title for introducing Firefox Lite Travel Discovery
@@ -2412,14 +2412,14 @@ msgstr "Panggihan Nu Lianna!"
 #, c-format
 msgctxt "travel_dialog_1_description_new"
 msgid "Explore things to do, accommodations, and more in %1$s %2$s."
-msgstr ""
+msgstr "Langlang anu kudu disiapkeun, akomodasi, jeung lianna di %1$s %2$s."
 
 #. Action button for seeing the search result in Firefox Lite Travel Discovery.
 #. the %1$s is Travel Discovery.
 #, c-format
 msgctxt "travel_dialog_1_action_1_new"
 msgid "TRY %1$s"
-msgstr ""
+msgstr "COBAAN %1$s"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
@@ -2431,14 +2431,14 @@ msgstr "MOAL, NUHUN"
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
+msgstr "Resep maké %1$s?"
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
 #, c-format
 msgctxt "travel_dialog_2_description_new"
 msgid "You can set %1$s %2$s as your default search engine for travel."
-msgstr ""
+msgstr "Anjeun bisa nyetél %1$s %2$s salaku mesin sungsi baku anjeun pikeun nyanyabaan."
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
