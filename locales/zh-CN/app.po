@@ -2,23 +2,22 @@
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-05 10:22+0800\n"
+"POT-Creation-Date: 2020-03-19 06:51+0000\n"
 "PO-Revision-Date: 2020-03-05 12:22+0000\n"
 "Last-Translator: passionforlife <eloli@foxmail.com>\n"
+"Language: zh_Hans_CN\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"Generated-By: Babel 2.6.0\n"
-"X-Generator: Pontoon\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -116,7 +115,9 @@ msgstr "在 Firefox Lite 中搜索"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgid ""
+"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
+"to foster a healthy, open internet."
 msgstr "%1$s 是由 %2$s 出品的快速而轻量的浏览器。我们以营造健康、开放的互联网为己任。"
 
 msgctxt "about_link_learn_more"
@@ -217,7 +218,9 @@ msgstr "发送统计数据"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"%2$s strives to collect only what we need to provide and improve %1$s for"
+" everyone."
 msgstr "%2$s 力争仅收集用来为大众改进 %1$s 所必需的数据。"
 
 msgctxt "preference_learn_more"
@@ -328,7 +331,9 @@ msgstr "使用其他应用打开此链接"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr "未找到可以打开此链接的应用，可以离开 %1$s 前往 %2$s 搜索其他可打开此链接的应用。"
 
 #. The page html title (i.e. the <title> tag content)
@@ -410,7 +415,9 @@ msgid "Browse faster than ever"
 msgstr "上网快上加快"
 
 msgctxt "first_run_page2_text"
-msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgid ""
+"Use turbo mode to block tracking ads so you can browse at blazing speeds."
+" If sites seem broken, just tap off the turbo mode switch in the menu."
 msgstr "加速模式将过滤广告跟踪，上网更轻快。如果网页有问题，只需在菜单中的关掉加速模式。"
 
 msgctxt "first_run_page3_title"
@@ -418,7 +425,9 @@ msgid "Save data = Save money"
 msgstr "节省流量 = 节省金钱"
 
 msgctxt "first_run_page3_text"
-msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgid ""
+"Save on data costs by blocking tracking ads. Save even more when you "
+"enable image blocking."
 msgstr "拦截广告跟踪可节省流量，不载入图像还能再省更多。"
 
 msgctxt "first_run_page4_title"
@@ -426,7 +435,9 @@ msgid "Screenshot the whole page"
 msgstr "截取整个页面"
 
 msgctxt "first_run_page4_text"
-msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgid ""
+"Take screenshot of an entire page scroll. Read it offline without using "
+"data or tap it to revisit the web page."
 msgstr "不但能滚动截取整个网页、离线查看截图（无需流量），还可点按截图重新访问原网页。"
 
 msgctxt "first_run_page5_title"
@@ -434,7 +445,9 @@ msgid "Next-level privacy"
 msgstr "新一代隐私权保护"
 
 msgctxt "first_run_page5_text"
-msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
+msgid ""
+"Browse without a trace, and block a wide range of common web trackers by "
+"default. Ensure the security of your confidential data."
 msgstr "无痕浏览。默认阻止各种常见的网络跟踪器。确保私密数据的安全性。"
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
@@ -444,7 +457,9 @@ msgstr "无痕浏览。默认阻止各种常见的网络跟踪器。确保私密
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
+msgid ""
+"Just one flip, keep yourself updated with the “%1$s” - a variety of "
+"contents from the most popular topics to the hottest deals. %2$s"
 msgstr "您只需轻轻翻转，即可在“%1$s”处获取新资讯 - 涵盖最流行的话题到最热门的促销等各种内容。%2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
@@ -468,7 +483,9 @@ msgstr "我们焕然一新！"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
+msgid ""
+"With the evolved product, we bring you a newly refreshed %1$s, with new "
+"name and new logo."
 msgstr "随着产品的演化，我们为您带来了焕然一新的 %1$s，新名称、新标志。"
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
@@ -589,7 +606,9 @@ msgid "Location not available. Give permission to access your location."
 msgstr "无法获知您的位置。请授予获取您位置的权限。"
 
 msgctxt "permission_toast_storage"
-msgid "Storage not available. Give permission to store photos and files on your device."
+msgid ""
+"Storage not available. Give permission to store photos and files on your "
+"device."
 msgstr "无法使用存储。请授予在您的设备上存储照片和文件的权限。"
 
 #. When the webpage request access to geolocation a dialog will popup.
@@ -1001,7 +1020,9 @@ msgid "Product Update Notice"
 msgstr "产品更新通知"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgid ""
+"To make Firefox Lite better for you and everyone, we made some changes to"
+" our privacy policy. Tap to learn more."
 msgstr "为了让 Firefox Lite 更适合您和每个人，我们对隐私政策进行了一些修改。点按以了解更多信息。"
 
 #. In-app Promotion, Rate the App
@@ -1081,7 +1102,9 @@ msgstr "%1$s 是由 %2$s 和其他贡献者提供的自由且开源软件。"
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">%3$s</a> and other open source licenses."
 msgstr "%1$s 根据 <a href=\"%2$s\">%3$s</a> 以及其他开源许可证向您提供。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1091,15 +1114,20 @@ msgstr "%1$s 根据 <a href=\"%2$s\">%3$s</a> 以及其他开源许可证向您�
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
-"href=\"%2$s\">here</a>."
-msgstr "您没有得到 Mozilla 基金会或任何其他方面（包括 %3$s、%4$s 或 %1$s 的名称或标志）的商标授权。更多信息参见<a href=\"%2$s\">此处</a>。"
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
+"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+msgstr ""
+"您没有得到 Mozilla 基金会或任何其他方面（包括 %3$s、%4$s 或 %1$s 的名称或标志）的商标授权。更多信息参见<a "
+"href=\"%2$s\">此处</a>。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
 msgstr "%1$s 的其他源代码可按各种自由和开源软件<a href=\"%2$s\">许可证</a>使用。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1108,8 +1136,13 @@ msgstr "%1$s 的其他源代码可按各种自由和开源软件<a href=\"%2$s\"
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s 还使用 Disconnect 公司提供的黑名单，该黑名单为该公司的独立作品，按 <a href=\"%2$s\">GNU 通用公共许可证第三版</a>提供，可在<a href=\"%3$s\">这里</a>找到。"
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s 还使用 Disconnect 公司提供的黑名单，该黑名单为该公司的独立作品，按 <a href=\"%2$s\">GNU "
+"通用公共许可证第三版</a>提供，可在<a href=\"%3$s\">这里</a>找到。"
 
 #. Title for survey notification posted after launching the app on the 3rd
 #. time     %1$s will be replaced with an emoticon
@@ -1434,7 +1467,10 @@ msgstr "为您推荐的新闻"
 #. the feature.
 #, c-format
 msgctxt "recommended_news_content"
-msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
+msgid ""
+"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
+" You can turn off recommendations and control your settings anytime in "
+"News-&gt;Settings. %1$s"
 msgstr "点按“是”即可看到由 AI 新闻引擎推荐给您的新闻。您可以随时到“新闻” ->“设置”中关闭推荐功能。%1$s"
 
 #. Recommended news choose your preferred language
@@ -1451,12 +1487,16 @@ msgstr "个性化新闻体验"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
-msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
+msgid ""
+"Do you want to disable the recommended news? Tap “YES” to just display "
+"the latest news articles."
 msgstr "您要关闭新闻推荐吗？点按“是”即可只显示最新新闻。"
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
-msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
+msgid ""
+"Do you want to enable the recommended news feature? Tap “YES” to start "
+"seeing a recommended selection of news articles."
 msgstr "您要开启新闻推荐功能吗？点按“是”即可看到推荐的新闻。"
 
 #. Private Browsing
@@ -1510,7 +1550,9 @@ msgstr "享受额外保护的浏览。"
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
+msgid ""
+"Access private mode in one click! Want to add private mode shortcut to "
+"homescreen?"
 msgstr "一键进入隐私模式！要在主屏幕加入隐私模式的快捷方式吗？"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
@@ -1564,7 +1606,9 @@ msgstr "在这里查看您的截图！"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgid ""
+"To improve your product experience, we collect information about your "
+"screenshots’ categories."
 msgstr "为了改善您的产品体验，我们会收集有关您的屏幕截图类别的信息。"
 
 #. Title on web auth dialog. This dialog hint user authentication is required
@@ -1635,7 +1679,9 @@ msgstr "搜索"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
+msgid ""
+"Tap the shopping sites below to browse more results, or tap this button "
+"to edit."
 msgstr "点按下方购物网站以浏览更多结果，或点按此按钮进行编辑。"
 
 msgctxt "shopping_switch_ui_onboarding_button"
@@ -1835,13 +1881,17 @@ msgid "Brand-new %1$s"
 msgstr "全新 %1$s"
 
 msgctxt "onboarding_2_introduction_description"
-msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
+msgid ""
+"A fast and lightweight browser, now with cool features! We have added "
+"smart shopping search and content to make browsing more fun!"
 msgstr "一如既往的轻快。我们增加了超酷的智能购物搜索与内容，让网络浏览更愉快有趣！"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
+msgid ""
+"Tap to read trending news, find good deals, or have fun playing the "
+"hottest free games!"
 msgstr "点按即可阅读热门新闻、寻找优惠折扣，或者玩最火的免费游戏！"
 
 msgctxt "onboarding_2_content_services_news_games"
@@ -1910,9 +1960,11 @@ msgstr "高级隐私浏览"
 #, c-format
 msgctxt "private_home_description_1"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other"
+" people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
+"which most private modes cannot."
 msgstr ""
 "现在起，您可以私密地浏览，不会留下历史记录、登录密码，其他使用这台设备的人也不会知道您曾打开过哪些网站。\n"
 "\n"
@@ -1976,7 +2028,9 @@ msgstr "加入七日挑战赛"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
+msgid ""
+"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
+"seven days in a row."
 msgstr "连续七天点击 %1$s 主页中的购物、新闻、游戏功能。"
 
 msgctxt "msrp_challenge_details_title_2"
@@ -1987,7 +2041,9 @@ msgstr "使用 Firefox 账户兑换奖励"
 #. started."
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
-msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
+msgid ""
+"%1$s Make sure you sign in to the account you want to use before you "
+"complete your redemption."
 msgstr "%1$s。完成兑换之前，请务必保持登录到要使用的账户。"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
@@ -2043,7 +2099,9 @@ msgid "Congratulations!"
 msgstr "恭喜您！"
 
 msgctxt "msrp_completed_popup_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
 msgstr "感谢试用我们的若干新功能，希望你会喜欢！"
 
 msgctxt "msrp_completed_popup_button1"
@@ -2060,7 +2118,9 @@ msgid "Congratulations!"
 msgstr "恭喜您！"
 
 msgctxt "msrp_challenge_completed_body"
-msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
+msgid ""
+"Thanks for trying out some of our new features. We hope you’ve enjoyed "
+"using them!"
 msgstr "感谢试用我们的若干新功能，希望你会喜欢！"
 
 msgctxt "msrp_challenge_button_5"
@@ -2075,11 +2135,15 @@ msgid "Your %1$s is ready!"
 msgstr "您的 %1$s 备好了！"
 
 msgctxt "msrp_voucher_body_1"
-msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
+msgid ""
+"Voucher is valid for a limited time only. We reserve the right to modify "
+"or cancel voucher at any time."
 msgstr "代金券有使用期限，我们保留随时修改或取消代金券的权利。"
 
 msgctxt "msrp_voucher_body_2"
-msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
+msgid ""
+"We reserve the right, at its sole discretion, to change, modify, add or "
+"remove portions of these Terms of Use, at any time."
 msgstr "我们保留随时调整、修改、添加或删除本“使用条款”部分内容的权利。"
 
 #. The %1$s here is a placeholder for "date"
@@ -2129,7 +2193,10 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "警告：检测到多个 Firefox 账户"
 
 msgctxt "msrp_disqualification_body_1"
-msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
+msgid ""
+"Only one Firefox account may be used to participate in the 7-Day "
+"challenge. If you switch and use another account, you will be "
+"disqualified from this challenge."
 msgstr "只可使用 1 个 Firefox 账户参加“七日挑战赛”。若切换使用其他账户，您将失去参加此次挑战赛的资格。"
 
 msgctxt "msrp_disqualification_button_1"
@@ -2180,7 +2247,9 @@ msgstr "哇！只差一天就能获得兑换券了！"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
+msgid ""
+"You’ve completed the challenge! Please go back to %1$s Home to redeem "
+"your voucher!"
 msgstr "您已完成挑战！回到 %1$s 首页即可使用兑换代金券！"
 
 #. Notifications for last 3 days
@@ -2348,7 +2417,9 @@ msgstr "喜欢 %1$s 吗？"
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
-msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
+msgid ""
+"Save %1$s in your Bucket List to get quick access to travel guides and "
+"the best prices."
 msgstr "将 %1$s 保存到您的目的地清单，以便快速获得旅行指南和最佳价格。"
 
 #. onboarding button
@@ -2435,3 +2506,4 @@ msgstr "不再询问我"
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
 msgstr "设为默认值"
+
