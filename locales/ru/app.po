@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-07 11:04+0000\n"
+"PO-Revision-Date: 2020-03-22 11:28+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -1444,6 +1444,8 @@ msgstr "Рекомендованные новости для вас"
 msgctxt "recommended_news_content"
 msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
 msgstr ""
+"Нажмите «Да», чтобы начать просматривать новости, рекомендуемые для вас нашим новостным ИИ. Вы сможете отключить рекомендации и контролировать свои настройки в любое время в разделе "
+"Новости-&gt;Настройки. %1$s"
 
 #. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
@@ -1451,7 +1453,7 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
-"Выберите предпочтительный¶\n"
+"Выберите предпочитаемый\n"
 "язык новостей"
 
 #. Recommended news toggle title
@@ -1462,12 +1464,12 @@ msgstr "Персонализированные новости"
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
 msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
-msgstr "Отключить рекомендации новостей? Нажмите “ДА”, чтобы просто показывать новости по порядку."
+msgstr "Отключить рекомендации новостей? Нажмите «ДА», чтобы просто показывать последние новости."
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
 msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
-msgstr "Включить рекомендации новостей? Нажмите “ДА”, чтобы смотреть избранную подборку новостей."
+msgstr "Включить рекомендации новостей? Нажмите «ДА», чтобы смотреть избранную подборку новостей."
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1621,12 +1623,12 @@ msgstr "Сравнивайте цены во множестве интернет
 #. Smart Shopping Search onboarding message
 msgctxt "shopping_search_onboarding_body_A"
 msgid "Compare prices easily on popular shopping sites."
-msgstr ""
+msgstr "Легко сравнивайте цены в популярных Интернет-магазинах."
 
 #. Smart Shopping Search onboarding message
 msgctxt "shopping_search_onboarding_body_B"
 msgid "Start saving today. Search and compare prices on popular sites."
-msgstr ""
+msgstr "Начните экономить сегодня. Находите и сравнивайте цены в популярных Интернет-магазинах."
 
 #. Shopping Search Input Placeholder
 msgctxt "shopping_search_placeholder"
@@ -2410,7 +2412,7 @@ msgstr "Откройте для себя ещё больше!"
 #, c-format
 msgctxt "travel_dialog_1_description_new"
 msgid "Explore things to do, accommodations, and more in %1$s %2$s."
-msgstr ""
+msgstr "Узнайте, чем заняться, как найти жилье и многое другое в %1$s %2$s."
 
 #. Action button for seeing the search result in Firefox Lite Travel Discovery.
 #. the %1$s is Travel Discovery.
@@ -2436,7 +2438,7 @@ msgstr "Нравиться использовать %1$s?"
 #, c-format
 msgctxt "travel_dialog_2_description_new"
 msgid "You can set %1$s %2$s as your default search engine for travel."
-msgstr ""
+msgstr "Вы можете установить %1$s %2$s вашей поисковой системой для путешествий по умолчанию."
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
