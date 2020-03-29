@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-29 15:21+0000\n"
+"PO-Revision-Date: 2020-03-29 15:32+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1045,7 +1045,7 @@ msgid ""
 "- Free Games, trending news"
 msgstr ""
 "- เร็วและเบา\n"
-"- การค้นหาช็อปปิ้งอัจฉริยะ\n"
+"- การค้นหาแบบสมาร์ตช็อปปิ้ง\n"
 "- เกมฟรีและข่าวที่กำลังมาแรง"
 
 msgctxt "share_app_dialog_btn_share"
@@ -1625,7 +1625,7 @@ msgstr "ป้อนชื่อผลิตภัณฑ์"
 #. Search"
 msgctxt "shopping_search_prompt_message_body"
 msgid "Compare prices across many online stores with Smart Shopping Search."
-msgstr "เปรียบเทียบราคากับร้านค้าออนไลน์ต่าง ๆ ด้วย Smart Shopping Search"
+msgstr "เปรียบเทียบราคากับร้านค้าออนไลน์ต่าง ๆ ด้วยการค้นหาแบบสมาร์ตช็อปปิ้ง"
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
@@ -1634,7 +1634,7 @@ msgstr "ค้นหา"
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr "แตะที่เว็บชอปปิงด้านล่างเพื่อดูผลลัพธ์เพิ่มเติม หรือแตะปุ่มนี้เพื่อแก้ไข"
+msgstr "แตะที่เว็บช็อปปิ้งด้านล่างเพื่อดูผลลัพธ์เพิ่มเติม หรือแตะปุ่มนี้เพื่อแก้ไข"
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -1644,7 +1644,7 @@ msgstr "ตกลง"
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr "การตั้งค่าการค้นหาการซื้อของ"
+msgstr "การตั้งค่าการค้นหาช็อปปิ้ง"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
@@ -1655,11 +1655,11 @@ msgstr "เว็บที่ใช้เปรียบเทียบราค
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr "การค้นหาการซื้อของ: “%1$s”"
+msgstr "การค้นหาช็อปปิ้ง: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
-msgstr "การค้นหาการซื้อของ"
+msgstr "การค้นหาช็อปปิ้ง"
 
 #. Artboard Name: 3.3 Switch UI Navigation - Tab Tray
 #. Closing dialog content.
@@ -1673,13 +1673,13 @@ msgstr "ยกเลิก"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
-msgstr "ปิดผลลัพธ์การค้นหาชอปปิ้งทั้งหมด?"
+msgstr "ปิดผลลัพธ์การค้นหาช็อปปิ้งทั้งหมด?"
 
 #. Artboard Name: 4.1 Shopping Deals Overview
 #. Shopping Home
 msgctxt "shopping_vertical_title"
 msgid "Shopping"
-msgstr "การซื้อของ"
+msgstr "ช็อปปิ้ง"
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
@@ -1836,13 +1836,13 @@ msgstr "แกะกล่อง %1$s"
 
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr "เบราว์เซอร์ที่รวดเร็วและเบา ตอนนี้มาพร้อมกับคุณลักษณะเจ๋ง ๆ! เราได้เพิ่มการค้นหาช็อปปิ้งอัจฉริยะและเนื้อหาเพื่อให้การเรียกดูสนุกยิ่งขึ้น!"
+msgstr "เบราว์เซอร์ที่รวดเร็วและเบา ตอนนี้มาพร้อมกับคุณลักษณะเจ๋ง ๆ! เราได้เพิ่มการค้นหาแบบสมาร์ตช็อปปิ้งและเนื้อหาเพื่อให้การเรียกดูสนุกยิ่งขึ้น!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr "แตะเพื่ออ่านข่าวที่กำลังมาแรง ค้นหาดีลดี ๆ หรือสนุกไปกับการเล่นเกมฟรียอดนิยม!"
+msgstr "แตะเพื่ออ่านข่าวที่กำลังมาแรง ค้นหาข้อเสนอดี ๆ หรือสนุกไปกับการเล่นเกมฟรีสุดฮอต!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
@@ -1859,7 +1859,7 @@ msgstr "แตะเพื่ออ่านข่าวที่กำลัง
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
 msgid "Smart Shopping Search"
-msgstr "ค้นหาแบบสมาร์ตชอปปิ้ง"
+msgstr "การค้นหาแบบสมาร์ตช็อปปิ้ง"
 
 msgctxt "onboarding_2_smart_shopping_search_description"
 msgid "Comparing prices across different online stores is super easy, try it now!"
@@ -1932,10 +1932,10 @@ msgstr "รับรางวัล %1$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_home_hint"
 msgid "Try Shopping, News, Game everyday to win %1$s"
-msgstr ""
+msgstr "ลองใช้ช็อปปิ้ง, ข่าว, เกมทุกวันเพื่อรับรางวัล %1$s"
 
 #. Reward
 msgctxt "msrp_reward_title"
@@ -1952,7 +1952,7 @@ msgstr "ของขวัญ"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
-msgstr ""
+msgstr "ลองใช้ใช้ช็อปปิ้ง, ข่าว, เกมเป็นเวลา 7 วันติดต่อกัน!"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -1961,30 +1961,27 @@ msgid "Expires %1$s"
 msgstr "หมดอายุเมื่อ %1$s"
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "ความท้าทาย 7 วันสำหรับบัตรกำนัล Shopee มูลค่า Rp 15,000"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "บัตรกำนัล Shopee มูลค่า Rp 15,000"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
-msgstr ""
+msgstr "เข้าร่วมความท้าทาย 7 วัน"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
-msgstr ""
+msgstr "ลองใช้ช็อปปิ้ง, ข่าว, เกมบนหน้าแรก %1$s โดยเพียงแค่คลิกปุ่มเหล่านั้นเป็นเวลาเจ็ดวันติดต่อกัน"
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "ใช้บัญชี Firefox ของคุณเพื่อแลกรางวัลของคุณ"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
