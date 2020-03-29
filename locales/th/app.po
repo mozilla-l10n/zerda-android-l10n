@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-29 14:43+0000\n"
+"PO-Revision-Date: 2020-03-29 14:45+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1834,10 +1834,9 @@ msgctxt "onboarding_2_introduction_title"
 msgid "Brand-new %1$s"
 msgstr "แกะกล่อง %1$s"
 
-#, fuzzy
 msgctxt "onboarding_2_introduction_description"
 msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
-msgstr ""
+msgstr "เบราว์เซอร์ที่รวดเร็วและเบา ตอนนี้มาพร้อมกับคุณลักษณะเจ๋ง ๆ! เราได้เพิ่มการค้นหาช็อปปิ้งอัจฉริยะและเนื้อหาเพื่อให้การเรียกดูสนุกยิ่งขึ้น!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
