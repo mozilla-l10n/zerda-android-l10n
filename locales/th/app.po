@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-29 14:45+0000\n"
+"PO-Revision-Date: 2020-03-29 15:21+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1840,15 +1840,13 @@ msgstr "เบราว์เซอร์ที่รวดเร็วและ
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_shopping_games"
 msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
-msgstr ""
+msgstr "แตะเพื่ออ่านข่าวที่กำลังมาแรง ค้นหาดีลดี ๆ หรือสนุกไปกับการเล่นเกมฟรียอดนิยม!"
 
-#, fuzzy
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr ""
+msgstr "แตะเพื่ออ่านข่าวที่กำลังมาแรงหรือสนุกไปกับการเล่นเกมฟรียอดนิยม!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -1856,7 +1854,7 @@ msgstr "แตะเพื่อเล่นเกมฟรีสุดฮอต
 
 msgctxt "onboarding_2_content_services_news_travel"
 msgid "Tap to read trending news, plan your next trip and more!"
-msgstr ""
+msgstr "แตะเพื่ออ่านข่าวที่กำลังมาแรง วางแผนการท่องเที่ยวครั้งถัดไปของคุณ และอีกมากมาย!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -1916,6 +1914,9 @@ msgid ""
 "\n"
 "Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
+"ตอนนี้คุณสามารถเรียกดูได้อย่างเป็นส่วนตัว โดยจะไม่มีการบันทึกประวัติและรหัสผ่านใด ๆ และผู้อื่นที่ใช้อุปกรณ์นี้จะไม่เห็นกิจกรรมของคุณ\n"
+"\n"
+"การเรียกดูแบบส่วนตัวขั้นสูงของเรายังสามารถ%1$sโดยผู้โฆษณาและเว็บไซต์ ซึ่งโหมดส่วนตัวส่วนใหญ่ไม่สามารถทำได้"
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
@@ -1924,10 +1925,10 @@ msgstr "ป้องกันตัวคุณไม่ให้ถูกติ
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr ""
+msgstr "รับรางวัล %1$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
