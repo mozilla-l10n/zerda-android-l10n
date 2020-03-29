@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-29 15:43+0000\n"
+"PO-Revision-Date: 2020-03-29 15:49+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -2181,19 +2181,19 @@ msgstr "ว้าว! เหลืออีกแค่วันเดียว�
 #, c-format
 msgctxt "msrp_completed_toast_day7"
 msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
-msgstr ""
+msgstr "คุณได้เข้าร่วมการท้าทายเรียบร้อยแล้ว! โปรดย้อนกลับไปที่หน้าแรก %1$s เพื่อแลกบัตรกำนัลของคุณ!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
+msgstr "อยากรับรางวัล %1$s? อย่าลืมลองใช้ช็อปปิ้ง, ข่าว, เกมวันนี้!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr ""
+msgstr "การท้าทายทั้งหมดเสร็จสมบูรณ์"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
@@ -2219,7 +2219,7 @@ msgstr "แลกใช้"
 
 msgctxt "msrp_activitykilled_snackbar_body"
 msgid "You’ve won a shopping voucher!"
-msgstr ""
+msgstr "คุณได้รับรางวัลบัตรกำนัลช็อปปิ้ง!"
 
 #. Travel Vertical
 #. travel home
@@ -2245,7 +2245,7 @@ msgstr "เดินทางด้วยงบพอเพียง"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
-msgstr ""
+msgstr "เมืองที่ดีที่สุดสำหรับวันหยุดฤดูหนาว"
 
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
@@ -2309,7 +2309,7 @@ msgstr "ไม่ต้องใช้บัตรเครดิต"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "ชำระเงินเมื่อเช็คอิน"
 
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
@@ -2320,7 +2320,7 @@ msgstr "จาก"
 #. text in the empty state
 msgctxt "travel_empty_state_text"
 msgid "“I haven’t been everywhere, but it’s on my list.”"
-msgstr ""
+msgstr "“ฉันยังไม่เคยไปที่ไหนมาก่อนเลย แต่มันอยู่ในรายการของฉันแล้ว”"
 
 #. button for entering the search page
 msgctxt "travel_empty_state_button"
@@ -2349,7 +2349,7 @@ msgstr "รัก %1$s?"
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "บันทึก %1$s ในสิ่งที่อยากทำก่อนตายของคุณเพื่อเข้าถึงคู่มือการเดินทางและราคาที่ดีที่สุดอย่างรวดเร็ว"
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
@@ -2379,7 +2379,7 @@ msgstr "ดูผลลัพธ์ใน %1$s %2$s"
 #. error message for no results state
 msgctxt "travel_no_result_state_text"
 msgid "Hmm. No results found."
-msgstr ""
+msgstr "อืม ไม่พบผลลัพธ์"
 
 #. button for searching the keyword on Google. the %1$s here is GOOGLE
 #, c-format
@@ -2391,14 +2391,14 @@ msgstr "ค้นหาใน %1$s"
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
-msgstr ""
+msgstr "ค้นพบเพิ่มเติม!"
 
 #. dialog description for introducing the feature. the first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
 #, c-format
 msgctxt "travel_dialog_1_description_new"
 msgid "Explore things to do, accommodations, and more in %1$s %2$s."
-msgstr ""
+msgstr "สำรวจสิ่งที่อยากทำ, ที่พัก, และอื่น ๆ อีกมากมายใน %1$s %2$s"
 
 #. Action button for seeing the search result in Firefox Lite Travel Discovery.
 #. the %1$s is Travel Discovery.
@@ -2424,7 +2424,7 @@ msgstr "เพลิดเพลินกับการใช้ %1$s?"
 #, c-format
 msgctxt "travel_dialog_2_description_new"
 msgid "You can set %1$s %2$s as your default search engine for travel."
-msgstr ""
+msgstr "คุณสามารถตั้งค่า %1$s %2$s เป็นเครื่องมือค้นหาสำหรับการท่องเที่ยวเริ่มต้นของคุณได้"
 
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
