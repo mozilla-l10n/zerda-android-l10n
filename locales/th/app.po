@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-29 15:32+0000\n"
+"PO-Revision-Date: 2020-03-29 15:43+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1963,7 +1963,7 @@ msgstr "หมดอายุเมื่อ %1$s"
 #. Challenge
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr "ความท้าทาย 7 วันสำหรับบัตรกำนัล Shopee มูลค่า Rp 15,000"
+msgstr "การท้าทาย 7 วันสำหรับบัตรกำนัล Shopee มูลค่า Rp 15,000"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
@@ -1971,7 +1971,7 @@ msgstr "บัตรกำนัล Shopee มูลค่า Rp 15,000"
 
 msgctxt "msrp_challenge_details_title_1"
 msgid "Join the 7-Day challenge"
-msgstr "เข้าร่วมความท้าทาย 7 วัน"
+msgstr "เข้าร่วมการท้าทาย 7 วัน"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
@@ -1985,10 +1985,10 @@ msgstr "ใช้บัญชี Firefox ของคุณเพื่อแล
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_details_body_2"
 msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
-msgstr ""
+msgstr "%1$s ตรวจสอบให้แน่ใจว่าคุณลงชื่อเข้าบัญชีที่คุณต้องการใช้ก่อนที่คุณจะทำการแลก"
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
@@ -2000,10 +2000,10 @@ msgid "I’m In!"
 msgstr "เข้าร่วมด้วย!"
 
 #. The %1$s here is a placeholder for "Terms of Use"
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_challenge_tou"
 msgid "By clicking “I’m In!” you are agreeing to our %1$s"
-msgstr ""
+msgstr "การคลิก “เข้าร่วมด้วย!” ถือว่าคุณเห็นด้วยกับ%1$sของเรา"
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
@@ -2027,7 +2027,7 @@ msgstr "ใช้บัญชี Firefox เพื่อแลกใช้"
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
 msgid "All your progress will be deleted. Are you sure?"
-msgstr ""
+msgstr "ความคืบหน้าทั้งหมดของคุณจะถูกลบ คุณแน่ใจหรือไม่?"
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
@@ -2044,7 +2044,7 @@ msgstr "ขอแสดงความยินดี!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "ขอบคุณที่ลองใช้คุณลักษณะใหม่บางส่วนของเรา เราหวังว่าคุณจะสนุกกับการใช้คุณลักษณะเหล่านั้น!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2061,7 +2061,7 @@ msgstr "ขอแสดงความยินดี!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "ขอบคุณที่ลองใช้คุณลักษณะใหม่บางส่วนของเรา เราหวังว่าคุณจะสนุกกับการใช้คุณลักษณะเหล่านั้น!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2080,7 +2080,7 @@ msgstr "คูปองสามารถใช้ได้ในเวลาจ
 
 msgctxt "msrp_voucher_body_2"
 msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
-msgstr ""
+msgstr "เราขอสงวนสิทธิ์ตามดุลยพินิจของเราในการเปลี่ยนแปลง แก้ไข เพิ่มเติม หรือเพิกถอนส่วนต่าง ๆ ของเงื่อนไขการใช้งานเหล่านี้ได้ทุกเวลา"
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2130,7 +2130,7 @@ msgstr "คำเตือน: ตรวจพบบัญชี Firefox หล�
 
 msgctxt "msrp_disqualification_body_1"
 msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
-msgstr ""
+msgstr "สามารถใช้บัญชี Firefox เพื่อเข้าร่วมในการท้าทาย 7 วันได้เพียงบัญชีเดียวเท่านั้น หากคุณเปลี่ยนไปใช้บัญชีอื่น คุณจะถูกตัดสิทธิ์จากการท้าทายนี้"
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2138,7 +2138,7 @@ msgstr "ฉันเข้าใจ"
 
 msgctxt "msrp_disqualification_title_2"
 msgid "Final warning: multiple Firefox accounts detected"
-msgstr ""
+msgstr "คำเตือนครั้งสุดท้าย: ตรวจพบบัญชี Firefox หลายบัญชี"
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
@@ -2146,7 +2146,7 @@ msgstr "บัญชีถูกปิดใช้งาน"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
-msgstr ""
+msgstr "คุณไม่สามารถเข้าร่วมการท้าทาย 7 วันได้อีกต่อไป"
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
@@ -2155,27 +2155,27 @@ msgstr "ปิด"
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "เยี่ยม! คุณได้เข้าร่วมการท้าทายประจำวันแรกของคุณเรียบร้อยแล้ว!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
-msgstr ""
+msgstr "เจ๋ง! คุณได้เข้าร่วมการท้าทายประจำวันที่สองเรียบร้อยแล้ว!"
 
 msgctxt "msrp_completed_toast_day3"
 msgid "Awesome! You have completed the third daily challenge, keep it up!"
-msgstr ""
+msgstr "เจ๋งมาก! คุณได้เข้าร่วมการท้าทายประจำวันที่สามเรียบร้อยแล้ว สู้ต่อไป!"
 
 msgctxt "msrp_completed_toast_day4"
 msgid "Congrats! You have completed the fourth daily challenge!"
-msgstr ""
+msgstr "ยินดีด้วย! คุณได้เข้าร่วมการท้าทายประจำวันที่สี่เรียบร้อยแล้ว!"
 
 msgctxt "msrp_completed_toast_day5"
 msgid "Terrific! You have completed the fifth daily challenge!"
-msgstr ""
+msgstr "เยี่ยมมาก! คุณได้เข้าร่วมการท้าทายประจำวันที่ห้าเรียบร้อยแล้ว!"
 
 msgctxt "msrp_completed_toast_day6"
 msgid "Wow! You are just one day away from getting the voucher!"
-msgstr ""
+msgstr "ว้าว! เหลืออีกแค่วันเดียวคุณก็จะได้รับบัตรกำนัลแล้ว!"
 
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
