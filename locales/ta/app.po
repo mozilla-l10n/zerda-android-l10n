@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-04-22 16:04+0000\n"
+"PO-Revision-Date: 2020-04-22 16:11+0000\n"
 "Last-Translator: அருண் குமார்|Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "\n"
@@ -1043,7 +1043,6 @@ msgctxt "share_app_dialog_text_title"
 msgid "Share %1$s with friends!"
 msgstr "%1$s நண்பர்களுடன் பகிருங்கள்!"
 
-#, fuzzy
 msgctxt "share_app_dialog_text_content"
 msgid ""
 "- Fast and lightweight\n"
@@ -1051,8 +1050,8 @@ msgid ""
 "- Free Games, trending news"
 msgstr ""
 "- வேகமானது இலகுவானது\n"
-"- தரவு சிக்கனம் உடையது\n"
-"- திறன்வாய்ந்த திரைப்பிடிப்புகள்"
+"- சிக்கனமான தேடல்\n"
+"- இலவச விளையாட்டுகள், முக்கிய செய்திகள்"
 
 msgctxt "share_app_dialog_btn_share"
 msgid "Share"
@@ -1249,16 +1248,14 @@ msgid "New update"
 msgstr "புதிய புதுப்பிப்பு"
 
 #. Title of news preferences
-#, fuzzy
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr "செய்தி விருப்பத்தேர்வுகள்"
+msgstr "செய்தி அமைவுகள்"
 
 #. This is the dialog for choosing news language
-#, fuzzy
 msgctxt "news_language_dialog_title"
 msgid "Language"
-msgstr "செய்தி மொழி"
+msgstr "மொழி"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1641,33 +1638,33 @@ msgstr ""
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "தேடுங்கள்"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
 msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
-msgstr ""
+msgstr "கூடுதல் முடிவுகளை உலவ கீழே உள்ள அங்காடித் தளங்களைத் தட்டுக அல்லது தொகுக்க இப்பொத்தானைத் தட்டவும்."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "சரி"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
 msgctxt "shopping_switch_ui_preferences_title"
 msgid "Shopping Search Settings"
-msgstr ""
+msgstr "அங்காடித் தேடல் அமைவுகள்"
 
 msgctxt "shopping_switch_ui_preferences_subtitle"
 msgid "Sites to compare"
-msgstr ""
+msgstr "ஒப்பிடவல்ல தளங்கள்"
 
 #. Artboard Name: 3.1 Switch UI Navigation - Activity Switch
 #. Switch UI Tab Tray. %1$s is the keyword user input
 #, c-format
 msgctxt "shopping_switch_ui_tabtray_title"
 msgid "Shopping Search: “%1$s”"
-msgstr ""
+msgstr "அங்காடித் தேடல்: “%1$s”"
 
 msgctxt "shopping_switch_ui_tabtray_title_no_keyword"
 msgid "Shopping Search"
