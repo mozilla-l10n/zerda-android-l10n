@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-03-05 10:48+0000\n"
+"PO-Revision-Date: 2020-04-29 05:53+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -2244,7 +2244,7 @@ msgstr "Khám phá"
 #. items like destinations
 msgctxt "travel_vertical_category_2"
 msgid "Bucket List"
-msgstr ""
+msgstr "Danh sách đích"
 
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
@@ -2338,7 +2338,7 @@ msgstr "Khám phá một thành phố"
 #. snackbar message after saving a destination
 msgctxt "travel_snack_bar_saved_message"
 msgid "Saved in your bucket list."
-msgstr ""
+msgstr "Đã lưu vào danh sách đích của bạn."
 
 #. view is a verb. and this is a button which will lead users to see the bucket
 #. list page
@@ -2357,7 +2357,7 @@ msgstr "Thích ứng dụng %1$s?"
 #, c-format
 msgctxt "travel_onboarding_save_description"
 msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
-msgstr ""
+msgstr "Lưu %1$s vào danh sách đích, để bạn có thể nhanh chóng nhận được hướng dẫn du lịch và giá tốt nhất."
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
