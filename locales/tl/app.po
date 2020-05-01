@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-02-28 14:24+0000\n"
+"PO-Revision-Date: 2020-02-28 14:33+0000\n"
 "Last-Translator: Kirk Jann Garcia <janngarcia24@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
@@ -1254,10 +1254,9 @@ msgid "News Settings"
 msgstr "Mga kagustuhan sa balita"
 
 #. This is the dialog for choosing news language
-#, fuzzy
 msgctxt "news_language_dialog_title"
 msgid "Language"
-msgstr "Wika ng balita"
+msgstr "Wika"
 
 msgctxt "news_language_dialog_option_english"
 msgid "English"
@@ -1452,6 +1451,8 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
+"Piliin ang Iyong Ginustong\n"
+"Wika ng Balita"
 
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
