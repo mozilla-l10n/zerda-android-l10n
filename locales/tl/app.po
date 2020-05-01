@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-05 10:22+0800\n"
-"PO-Revision-Date: 2020-02-28 14:33+0000\n"
-"Last-Translator: Kirk Jann Garcia <janngarcia24@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 18:02+0000\n"
+"Last-Translator: Ronx Ronquillo <christian.ronquillo@gmail.com>\n"
 "Language-Team: fil_PH <LL@li.org>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
@@ -1069,7 +1069,7 @@ msgstr "Hoy, tingnan itong mabilis at magaan na browser mula sa %3$s. %1$s %2$s"
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
 msgid "UPDATE NOW!"
-msgstr ""
+msgstr "MAG-UPDATE NA!"
 
 msgctxt "update_app_dialog_btn_later"
 msgid "LATER"
@@ -1248,10 +1248,9 @@ msgid "New update"
 msgstr "Bagong pag-update"
 
 #. Title of news preferences
-#, fuzzy
 msgctxt "title_news_preferences"
 msgid "News Settings"
-msgstr "Mga kagustuhan sa balita"
+msgstr "Mga Setting ng Balita"
 
 #. This is the dialog for choosing news language
 msgctxt "news_language_dialog_title"
@@ -1435,7 +1434,7 @@ msgstr "Serbisyo ng"
 #. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
-msgstr ""
+msgstr "Inirerekomendang mga Balita Para Sa Iyo"
 
 #. Recommended news onboarding content.    The %1$s here is a placeholder for
 #. "Learn more" which directs users to SUMO page with detail information about
@@ -1766,7 +1765,7 @@ msgstr "OK"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
-msgstr ""
+msgstr "nalikha na ang shortcut."
 
 #. Gaming Longpress Menu
 msgctxt "gaming_vertical_menu_option_1"
@@ -1890,11 +1889,11 @@ msgstr "Hanapin..."
 #. Title of Content & Services
 msgctxt "home_content_services"
 msgid "Content & Services"
-msgstr ""
+msgstr "Nilalaman at Serbisyo"
 
 msgctxt "home_discovery"
 msgid "Discovery"
-msgstr ""
+msgstr "Pagtuklas"
 
 #. Actions in context menu. Users can long press an item then show the context
 #. menu to select an action
@@ -1904,7 +1903,7 @@ msgstr "Idagdag sa Home screen"
 
 msgctxt "content_home_context_menu_share_link"
 msgid "Share link"
-msgstr ""
+msgstr "Ibahagi ang link"
 
 #. Error message. E.g. when open a service and server is not working then show
 #. error message to users
@@ -1937,10 +1936,10 @@ msgstr ""
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr ""
+msgstr "Manalo ng %1$s"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
@@ -1973,14 +1972,13 @@ msgid "Expires %1$s"
 msgstr ""
 
 #. Challenge
-#, fuzzy
 msgctxt "msrp_challenge_title"
 msgid "7-day challenge for Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "7-araw na hamon para sa Rp 15,000 Shopee voucher"
 
 msgctxt "msrp_challenge_description"
 msgid "Rp 15,000 Shopee voucher"
-msgstr ""
+msgstr "Rp 15,000 Shopee voucher"
 
 #, fuzzy
 msgctxt "msrp_challenge_details_title_1"
@@ -1993,10 +1991,9 @@ msgctxt "msrp_challenge_details_body_1"
 msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
 msgstr ""
 
-#, fuzzy
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
-msgstr ""
+msgstr "Gamitin ang Firefox account upang makuha ang gantimpala"
 
 #. The %1$s here is a placeholder for "Enter your email address to get
 #. started."
@@ -2007,7 +2004,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "Ilagay ang iyong email address upang makapagsimula."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
@@ -2022,12 +2019,12 @@ msgstr ""
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
-msgstr ""
+msgstr "Mga Tuntunin ng Paggamit"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
 msgid "Leave mission"
-msgstr ""
+msgstr "Iwanan ang misyon"
 
 #. "How to redeem" is the title for a section to let users know how to redeem
 #. the voucher
@@ -2042,7 +2039,7 @@ msgstr ""
 #. Challenge (Leaving confirmation)
 msgctxt "msrp_challenge_leaving_body"
 msgid "All your progress will be deleted. Are you sure?"
-msgstr ""
+msgstr "Lahat ng iyong progreso ay tatanggalin. Sugurado ka ba?"
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
@@ -2059,7 +2056,7 @@ msgstr "Binabati kita!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
-msgstr ""
+msgstr "Salamat sa pagsubok ng ilan sa aming mga bagong tampok. Inaasahan namin na nasiyahan ka sa paggamit ng mga ito!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2124,7 +2121,7 @@ msgstr ""
 #, c-format
 msgctxt "msrp_faq"
 msgid "Any questions? %1$s."
-msgstr ""
+msgstr "May mga tanong? %1$s."
 
 msgctxt "msrp_contact_us"
 msgid "Contact us"
@@ -2171,7 +2168,7 @@ msgstr "Isara"
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
 msgid "Great! You have successfully completed your first daily challenge!"
-msgstr ""
+msgstr "Magaling! Matagumpay mong nakumpleto ang iyong unang pang-araw-araw na hamon!"
 
 msgctxt "msrp_completed_toast_day2"
 msgid "Cool! You have completed the second daily challenge!"
@@ -2209,7 +2206,7 @@ msgstr ""
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
 msgid "All challenges completed"
-msgstr ""
+msgstr "Natapos na ang lahat ng mga hamon"
 
 msgctxt "msrp_reward_redeem_nodata"
 msgid "All rewards collected"
@@ -2226,7 +2223,7 @@ msgstr "SUBUKAN MULI"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
-msgstr ""
+msgstr "Oops! May mali"
 
 #. Activity killed
 msgctxt "msrp_activitykilled_snackbar_button"
@@ -2241,7 +2238,7 @@ msgstr ""
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "Lakbay"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
@@ -2257,7 +2254,7 @@ msgstr ""
 #. featured destinations
 msgctxt "travel_destination_subcategory_1"
 msgid "Travel on a budget"
-msgstr ""
+msgstr "Maglakbay na pasok sa badyet"
 
 msgctxt "travel_destination_subcategory_2"
 msgid "Best cities for winter holiday"
@@ -2266,7 +2263,7 @@ msgstr ""
 #. this is a title of the search bar for finding destinations
 msgctxt "travel_find_destination_title"
 msgid "Where do you want to go?"
-msgstr ""
+msgstr "Saan mo gustong pumunta?"
 
 #. this is a placeholder in the search bar which contains a destination as an
 #. example
@@ -2285,7 +2282,7 @@ msgstr ""
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "Sikat na mga hotel"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
@@ -2293,46 +2290,44 @@ msgid "More"
 msgstr ""
 
 #. Instagram content. the %1$s here is the destination name
-#, c-format, fuzzy
+#, c-format
 msgctxt "travel_content_ig_link"
 msgid "#%1$s on Instagram"
-msgstr ""
+msgstr "#%1$s sa Instagram"
 
 #. Youtube content. the %1$s here is how many times of video viewing
 #, c-format
 msgctxt "travel_content_yt_view_count"
 msgid "%1$s views"
-msgstr ""
+msgstr "%1$s view"
 
 #. Youtube content. this is single time of video viewing
-#, fuzzy
 msgctxt "travel_content_yt_view_count_single_view"
 msgid "1 view"
-msgstr ""
+msgstr "1 view"
 
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "Wikipedia"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "Libreng Wi-Fi"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "Hindi nangangailangan ng credit card"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
-msgstr ""
+msgstr "Magbayad sa pag-check in"
 
 #. the "from" here is indicating that the price is the minimal price
 msgctxt "travel_hotel_price_from"
 msgid "From"
-msgstr ""
+msgstr "Mula"
 
 #. bucket list
 #. text in the empty state
@@ -2354,7 +2349,7 @@ msgstr ""
 #. list page
 msgctxt "travel_snack_bar_button"
 msgid "VIEW"
-msgstr ""
+msgstr "TINGNAN"
 
 #. onboarding message for the save function. the %1$s here is the destination
 #. name
@@ -2372,7 +2367,7 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. search page
 #. introduce what can be type in the field
@@ -2385,7 +2380,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_search_engine_1"
 msgid "See results in %1$s"
-msgstr ""
+msgstr "Tingnan ang mga resulta sa %1$s"
 
 #. this is a title of search suggestions from Firefox Lite Travel Discovery.
 #. the first %1$s is Firefox Lite, and the %2$s is Travel Discovery.
@@ -2428,7 +2423,7 @@ msgstr ""
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "HINDI, SALAMAT"
 
 #. dialog title for asking if users want to change default search engine. the
 #. %1$s is Travel Discovery.
@@ -2447,9 +2442,9 @@ msgstr ""
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "Huwag nang tanungin uli"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "ITAKDA BILANG DEFAULT"
