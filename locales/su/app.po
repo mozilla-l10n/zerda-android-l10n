@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-19 05:43+0000\n"
+"POT-Creation-Date: 2020-05-27 02:55+0000\n"
 "PO-Revision-Date: 2020-03-11 05:48+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language: su\n"
@@ -193,12 +193,13 @@ msgctxt "preference_privacy_storage_save_downloads_to"
 msgid "Save downloads to"
 msgstr "Teundeun undeuran kana"
 
-#. This preference does not set Rocket as the default browser but instead
-#. links to Android's      "default apps" screen, on older Android versions, we
-#. try to reset user's current default      browser and let user choose again
-#. if they want to always open links with Rocket.
+#. This preference does not set Firefox Lite as the default browser but
+#. instead links to Android's      "default apps" screen, on older Android
+#. versions, we try to reset user's current default      browser and let user
+#. choose again if they want to always open links with Firefox Lite.
+#, fuzzy
 msgctxt "preference_default_browser"
-msgid "Make default browser"
+msgid "Set as default browser"
 msgstr "Jadikeun panyungsi baku"
 
 #. In the "Make default browser" preference entry, there is an optional
@@ -574,8 +575,9 @@ msgctxt "label_menu_share"
 msgid "Share"
 msgstr "Bagikeun"
 
+#, fuzzy
 msgctxt "label_menu_my_shots"
-msgid "My shots"
+msgid "Screenshots"
 msgstr "Téwakan kuring"
 
 msgctxt "label_menu_capture_page"
@@ -606,6 +608,11 @@ msgstr "Setélan"
 msgctxt "label_menu_exit"
 msgid "Exit"
 msgstr "Kaluar"
+
+#. Menu text for adding websites to users' home screen.
+msgctxt "label_menu_add_to_home_screen"
+msgid "Add to home screen"
+msgstr ""
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -1061,6 +1068,68 @@ msgstr ""
 "Ngarah Firefox Lite leuwih hadé pikeun anjeun jeung balaréa, kami nyieun "
 "sawatara parobahan kana kawijakan salindungan kami. Toél baé pikeun "
 "leuwih teleb."
+
+#. In-app Promotion, Set default browser
+#. Show a toast message when user set Firefox Lite as default browser
+#. successfully. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "message_set_default_success"
+msgid "Thanks for choosing %1$s!"
+msgstr ""
+
+#. Message shown after user tried to set Firefox Lite as default browser, and
+#. be directed to system settings then back, but we detect the default browser
+#. is still not Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "message_set_default_incomplet"
+msgid "Would you like to finish setting %1$s as your default browser?"
+msgstr ""
+
+#. Title for setting default browser dialog popped after user tap Set as
+#. default browser. The dialog is for guiding users that they be direct to
+#. system settings page to complete the settings. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "setting_default_browser_instruction_system_settings"
+msgid "Set %1$s as your default browser in 30 seconds"
+msgstr ""
+
+#. Title for setting default browser dialog popped after user tap Set as
+#. default browser. The dialog is for guiding users that they need to choose
+#. Firefox Lite and check Always. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "setting_default_browser_instruction_open_external_link"
+msgid "How to always browse with %1$s?"
+msgstr ""
+
+#. Text shown in the setting default browser instruction, the %1$s will be
+#. replace with the following strings for indentifying some text to be set as
+#. Bold, i.e. Browser app
+#, c-format
+msgctxt "instruction_select"
+msgid "Select %1$s"
+msgstr ""
+
+msgctxt "browser_app"
+msgid "Browser app"
+msgstr ""
+
+#. Text shown in the setting default browser instruction, the %1$s will be
+#. replace with the following strings for indentifying some text to be set as
+#. Bold, i.e. Always
+#, c-format
+msgctxt "instruction_tap"
+msgid "Tap %1$s"
+msgstr ""
+
+msgctxt "always"
+msgid "Always"
+msgstr ""
+
+#. Button on the dialog of setting default browser. Tap this button will go to
+#. system settings
+msgctxt "setting_default_browser_instruction_button"
+msgid "Go to settings"
+msgstr ""
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
