@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-05-28 09:51+0000\n"
-"PO-Revision-Date: 2020-05-28 10:55+0000\n"
+"PO-Revision-Date: 2020-05-28 11:50+0000\n"
 "Last-Translator: πάθοςγιατηζωή <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -570,7 +570,7 @@ msgstr "退出"
 #. Menu text for adding websites to users' home screen.
 msgctxt "label_menu_add_to_home_screen"
 msgid "Add to home screen"
-msgstr ""
+msgstr "添加到主屏幕"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -1020,7 +1020,7 @@ msgstr "为了让 Firefox Lite 更适合您和每个人，我们对隐私政策�
 #, c-format
 msgctxt "message_set_default_success"
 msgid "Thanks for choosing %1$s!"
-msgstr ""
+msgstr "感谢您选择 %1$s！"
 
 #. Message shown after user tried to set Firefox Lite as default browser, and
 #. be directed to system settings then back, but we detect the default browser
@@ -1076,7 +1076,7 @@ msgstr ""
 #. system settings
 msgctxt "setting_default_browser_instruction_button"
 msgid "Go to settings"
-msgstr ""
+msgstr "转至设置"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
