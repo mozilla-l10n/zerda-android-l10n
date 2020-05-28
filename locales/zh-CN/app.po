@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-05-28 09:51+0000\n"
-"PO-Revision-Date: 2020-05-28 11:50+0000\n"
+"PO-Revision-Date: 2020-05-28 12:18+0000\n"
 "Last-Translator: πάθοςγιατηζωή <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -533,7 +533,6 @@ msgctxt "label_menu_share"
 msgid "Share"
 msgstr "分享"
 
-#, fuzzy
 msgctxt "label_menu_my_shots"
 msgid "Screenshots"
 msgstr "我的截图"
@@ -1028,7 +1027,7 @@ msgstr "感谢您选择 %1$s！"
 #, c-format
 msgctxt "message_set_default_incomplet"
 msgid "Would you like to finish setting %1$s as your default browser?"
-msgstr ""
+msgstr "您是否想要将 %1$s 设为默认浏览器？"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
@@ -1036,7 +1035,7 @@ msgstr ""
 #, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "Set %1$s as your default browser in 30 seconds"
-msgstr ""
+msgstr "只需 30 秒，将 %1$s 设为默认浏览器"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
@@ -1044,7 +1043,7 @@ msgstr ""
 #, c-format
 msgctxt "setting_default_browser_instruction_open_external_link"
 msgid "How to always browse with %1$s?"
-msgstr ""
+msgstr "如何始终使用 %1$s 浏览？"
 
 #. Text shown in the setting default browser instruction, the complete sentence
 #. is "Select Browser app", but we separate the sentences for code implementing
@@ -1053,11 +1052,11 @@ msgstr ""
 #, c-format
 msgctxt "instruction_select"
 msgid "Select %1$s"
-msgstr ""
+msgstr "选择 %1$s"
 
 msgctxt "browser_app"
 msgid "Browser app"
-msgstr ""
+msgstr "浏览器应用"
 
 #. Text shown in the setting default browser instruction, the complete sentence
 #. is "Tap Always", but we separate the sentences for code implementing
@@ -1066,11 +1065,11 @@ msgstr ""
 #, c-format
 msgctxt "instruction_tap"
 msgid "Tap %1$s"
-msgstr ""
+msgstr "点按 %1$s"
 
 msgctxt "always"
 msgid "Always"
-msgstr ""
+msgstr "始终"
 
 #. Button on the dialog of setting default browser. Tap this button will go to
 #. system settings
