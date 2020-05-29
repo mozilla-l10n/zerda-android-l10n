@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-05-28 09:51+0000\n"
-"PO-Revision-Date: 2020-05-28 12:29+0000\n"
+"PO-Revision-Date: 2020-05-29 02:53+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1025,7 +1025,7 @@ msgstr "感謝使用 %1$s！"
 #, c-format
 msgctxt "message_set_default_incomplet"
 msgid "Would you like to finish setting %1$s as your default browser?"
-msgstr ""
+msgstr "您想要完成將 %1$s 設為預設瀏覽器的過程嗎？"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
@@ -1033,7 +1033,7 @@ msgstr ""
 #, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "Set %1$s as your default browser in 30 seconds"
-msgstr ""
+msgstr "只要 30 秒，即可將 %1$s 設為預設瀏覽器"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
@@ -1041,7 +1041,7 @@ msgstr ""
 #, c-format
 msgctxt "setting_default_browser_instruction_open_external_link"
 msgid "How to always browse with %1$s?"
-msgstr ""
+msgstr "要如何一直使用 %1$s 上網？"
 
 #. Text shown in the setting default browser instruction, the complete sentence
 #. is "Select Browser app", but we separate the sentences for code implementing
