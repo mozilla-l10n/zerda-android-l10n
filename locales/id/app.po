@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-05-28 09:51+0000\n"
-"PO-Revision-Date: 2020-05-28 21:05+0000\n"
+"PO-Revision-Date: 2020-05-30 09:04+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -193,10 +193,9 @@ msgstr "Simpan unduhan ke"
 #. instead links to Android's      "default apps" screen, on older Android
 #. versions, we try to reset user's current default      browser and let user
 #. choose again if they want to always open links with Firefox Lite.
-#, fuzzy
 msgctxt "preference_default_browser"
 msgid "Set as default browser"
-msgstr "Jadikan peramban utama"
+msgstr "Setel sebagai peramban baku"
 
 #. In the "Make default browser" preference entry, there is an optional
 #. description field     which is empty before the entry is tapped. When a user
@@ -534,10 +533,9 @@ msgctxt "label_menu_share"
 msgid "Share"
 msgstr "Bagikan"
 
-#, fuzzy
 msgctxt "label_menu_my_shots"
 msgid "Screenshots"
-msgstr "Cuplikan saya"
+msgstr "Tangkapan Layar"
 
 msgctxt "label_menu_capture_page"
 msgid "Capture page"
@@ -1702,10 +1700,9 @@ msgid "Start saving today. Search and compare prices on popular sites."
 msgstr "Mulai menghemat hari ini. Cari dan bandingkan harga di situs populer."
 
 #. Shopping Search Input Placeholder
-#, fuzzy
 msgctxt "shopping_search_placeholder"
 msgid "Enter a product name"
-msgstr "Ketikkan produk yang ingin Anda cari"
+msgstr "Masukkan nama produk"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
