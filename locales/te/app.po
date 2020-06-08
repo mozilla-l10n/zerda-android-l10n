@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-05-28 09:51+0000\n"
-"PO-Revision-Date: 2020-06-08 06:40+0000\n"
+"PO-Revision-Date: 2020-06-08 07:50+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -1022,7 +1022,7 @@ msgstr "Firefox Liteని మీకూ, ప్రతీఒక్కరికీ
 #, c-format
 msgctxt "message_set_default_success"
 msgid "Thanks for choosing %1$s!"
-msgstr ""
+msgstr "%1$s‌ను ఎంచుకున్నందుకు కృతజ్ఞతలు!"
 
 #. Message shown after user tried to set Firefox Lite as default browser, and
 #. be directed to system settings then back, but we detect the default browser
@@ -1072,7 +1072,7 @@ msgstr ""
 
 msgctxt "always"
 msgid "Always"
-msgstr ""
+msgstr "ఎల్లప్పుడూ"
 
 #. Button on the dialog of setting default browser. Tap this button will go to
 #. system settings
@@ -1598,7 +1598,7 @@ msgstr "వద్దు, ఫరవాలేదు"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes"
 msgid "Yes"
-msgstr ""
+msgstr "అవును"
 
 msgctxt "private_browsing_dialog_add_shortcut_title_v2"
 msgid "Add private mode shortcut"
@@ -1672,7 +1672,7 @@ msgstr "దాచిన గమనింపులు"
 
 msgctxt "about_link_terms_of_service"
 msgid "Terms of Service"
-msgstr ""
+msgstr "సేవా నియమాలు"
 
 #. Shopping Vertical
 #. Artboard Name: 1.1 Shopping Search Overview
@@ -1720,7 +1720,7 @@ msgstr ""
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
-msgstr ""
+msgstr "సరే"
 
 #. Artboard Name: 2.2 Switch UI Preference Behaviors
 #. Switch UI Preferences
@@ -1751,7 +1751,7 @@ msgstr ""
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దుచేయి"
 
 msgctxt "shopping_closing_dialog_body"
 msgid "Close all shopping search results?"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_hint_button"
 msgid "OK"
-msgstr ""
+msgstr "సరే"
 
 msgctxt "gaming_vertical_shortcut_message"
 msgid "shortcut created."
@@ -2023,11 +2023,11 @@ msgstr ""
 
 msgctxt "msrp_reward_category_1"
 msgid "Mission"
-msgstr ""
+msgstr "ఆశయం"
 
 msgctxt "msrp_reward_category_2"
 msgid "Gift"
-msgstr ""
+msgstr "బహుమతి"
 
 msgctxt "msrp_reward_challenge_title"
 msgid "Try Shopping, News, Game for 7 days in a row!"
@@ -2089,7 +2089,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_tou_terms_of_use"
 msgid "Terms of Use"
-msgstr ""
+msgstr "వాడుక నియమాలు"
 
 #. "Leave mission" is a button for users to exit the reward program
 msgctxt "msrp_challenge_button_2"
@@ -2113,17 +2113,16 @@ msgstr ""
 
 msgctxt "msrp_challenge_leaving_button_1"
 msgid "CANCEL"
-msgstr ""
+msgstr "రద్దుచేయి"
 
 msgctxt "msrp_challenge_leaving_button_2"
 msgid "LEAVE"
 msgstr ""
 
 #. Challenge  completed (popup)
-#, fuzzy
 msgctxt "msrp_completed_popup_title"
 msgid "Congratulations!"
-msgstr ""
+msgstr "అభినందనలు!"
 
 msgctxt "msrp_completed_popup_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
@@ -2138,10 +2137,9 @@ msgid "Later"
 msgstr ""
 
 #. Challenge completed (full screen)
-#, fuzzy
 msgctxt "msrp_challenge_completed_title"
 msgid "Congratulations!"
-msgstr ""
+msgstr "అభినందనలు!"
 
 msgctxt "msrp_challenge_completed_body"
 msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
@@ -2153,10 +2151,10 @@ msgstr ""
 
 #. Voucher
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_voucher_title"
 msgid "Your %1$s is ready!"
-msgstr ""
+msgstr "మీ %1$s సిద్ధంగా ఉంది!"
 
 msgctxt "msrp_voucher_body_1"
 msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
@@ -2193,11 +2191,11 @@ msgstr ""
 #, c-format
 msgctxt "msrp_faq"
 msgid "Any questions? %1$s."
-msgstr ""
+msgstr "ఏమైనా సందేహాలున్నాయా? %1$s."
 
 msgctxt "msrp_contact_us"
 msgid "Contact us"
-msgstr ""
+msgstr "మమ్మల్ని సంప్రదించండి"
 
 #. Redeem
 msgctxt "msrp_reward_redeem_redeem"
@@ -2235,7 +2233,7 @@ msgstr ""
 
 msgctxt "msrp_disqualification_button_3"
 msgid "Close"
-msgstr ""
+msgstr "మూసివేయి"
 
 #. Check-in toasts for each day
 msgctxt "msrp_completed_toast_day1"
@@ -2291,7 +2289,7 @@ msgstr ""
 
 msgctxt "msrp_reward_challenge_error_button"
 msgid "TRY AGAIN"
-msgstr ""
+msgstr "మళ్లీ ప్రయత్నించు"
 
 msgctxt "msrp_reward_challenge_error"
 msgid "Oops! Something went wrong"
@@ -2382,12 +2380,12 @@ msgstr ""
 #. Wiki content
 msgctxt "travel_content_wiki_source_name"
 msgid "Wikipedia"
-msgstr ""
+msgstr "వికీపీడియా"
 
 #. detail information for the hotel room
 msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
-msgstr ""
+msgstr "ఉచిత వైఫై"
 
 #, fuzzy
 msgctxt "travel_hotel_detail_2"
@@ -2441,7 +2439,7 @@ msgstr ""
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
 msgid "OK"
-msgstr ""
+msgstr "సరే"
 
 #. search page
 #. introduce what can be type in the field
@@ -2516,7 +2514,7 @@ msgstr ""
 #. checkbox for not showing this dialog again
 msgctxt "travel_dialog_2_checkbox"
 msgid "Do not ask me again"
-msgstr ""
+msgstr "నన్ను మళ్లీ అడగవద్దు"
 
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
