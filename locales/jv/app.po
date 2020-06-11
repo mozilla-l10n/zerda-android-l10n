@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 09:51+0000\n"
+"POT-Creation-Date: 2020-06-10 10:34+0000\n"
 "PO-Revision-Date: 2019-07-22 03:00+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language: jv\n"
@@ -613,6 +613,64 @@ msgctxt "label_menu_add_to_home_screen"
 msgid "Add to home screen"
 msgstr ""
 
+#. Menu text for turning content & services on/off
+msgctxt "label_menu_content_services"
+msgid "Show Content & Services"
+msgstr ""
+
+#. Menu text for adding new top sites
+msgctxt "label_menu_add_top_sites"
+msgid "Add top sites"
+msgstr ""
+
+#. Menu text for setting themes
+msgctxt "label_menu_themes"
+msgid "Themes"
+msgstr ""
+
+#. Add top sites
+#. top sites categories on the top sites list
+msgctxt "top_site_category_1"
+msgid "Popular Websites"
+msgstr ""
+
+msgctxt "top_site_category_2"
+msgid "Social Media"
+msgstr ""
+
+msgctxt "top_site_category_3"
+msgid "Entertainment"
+msgstr ""
+
+msgctxt "top_site_category_4"
+msgid "Others"
+msgstr ""
+
+#. Message shown after the user added a top site on Home successfully
+msgctxt "add_top_site_snackbar_1"
+msgid "Top site added"
+msgstr ""
+
+#. Message shown after the user added an existing top site on Home
+msgctxt "add_top_site_snackbar_2"
+msgid "The site has been added"
+msgstr ""
+
+#. Error message shown when the user has no spaces to add new top sites
+msgctxt "add_top_site_toast"
+msgid "Please remove a top site beforehand"
+msgstr ""
+
+#. a button for adding more top sites
+msgctxt "add_top_site_button"
+msgid "ADD MORE"
+msgstr ""
+
+#. a placeholder for adding more top sites
+msgctxt "add_top_site_placeholder"
+msgid "Add"
+msgstr ""
+
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
 msgid "Location permission is denied."
@@ -1086,9 +1144,9 @@ msgstr ""
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
 #. system settings page to complete the settings. The %1$s is Firefox Lite.
-#, c-format
+#, c-format, fuzzy
 msgctxt "setting_default_browser_instruction_system_settings"
-msgid "Set %1$s as your default browser in 30 seconds"
+msgid "2 steps to set %1$s as your default browser"
 msgstr ""
 
 #. Title for setting default browser dialog popped after user tap Set as
