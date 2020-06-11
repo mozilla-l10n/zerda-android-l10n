@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-10 10:34+0000\n"
-"PO-Revision-Date: 2020-06-11 12:06+0000\n"
+"PO-Revision-Date: 2020-06-11 12:09+0000\n"
 "Last-Translator: πάθοςγιατηζωή <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -1093,7 +1093,7 @@ msgstr "您是否想要将 %1$s 设为默认浏览器？"
 #, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "2 steps to set %1$s as your default browser"
-msgstr "只需两步，即可将 %1$s 设为默认浏览器"
+msgstr "只需两步，将 %1$s 设为默认浏览器"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
