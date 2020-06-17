@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-10 10:34+0000\n"
-"PO-Revision-Date: 2020-06-17 14:06+0000\n"
+"PO-Revision-Date: 2020-06-17 14:13+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -574,60 +574,60 @@ msgstr "Thêm vào màn hình chính"
 #. Menu text for turning content & services on/off
 msgctxt "label_menu_content_services"
 msgid "Show Content & Services"
-msgstr ""
+msgstr "Hiển thị nội dung & dịch vụ"
 
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
 msgid "Add top sites"
-msgstr ""
+msgstr "Thêm trang web hàng đầu"
 
 #. Menu text for setting themes
 msgctxt "label_menu_themes"
 msgid "Themes"
-msgstr ""
+msgstr "Chủ đề"
 
 #. Add top sites
 #. top sites categories on the top sites list
 msgctxt "top_site_category_1"
 msgid "Popular Websites"
-msgstr ""
+msgstr "Trang web phổ biến"
 
 msgctxt "top_site_category_2"
 msgid "Social Media"
-msgstr ""
+msgstr "Truyền thông xã hội"
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
-msgstr ""
+msgstr "Giải trí"
 
 msgctxt "top_site_category_4"
 msgid "Others"
-msgstr ""
+msgstr "Khác"
 
 #. Message shown after the user added a top site on Home successfully
 msgctxt "add_top_site_snackbar_1"
 msgid "Top site added"
-msgstr ""
+msgstr "Đã thêm trang web hàng đầu"
 
 #. Message shown after the user added an existing top site on Home
 msgctxt "add_top_site_snackbar_2"
 msgid "The site has been added"
-msgstr ""
+msgstr "Đã thêm trang web"
 
 #. Error message shown when the user has no spaces to add new top sites
 msgctxt "add_top_site_toast"
 msgid "Please remove a top site beforehand"
-msgstr ""
+msgstr "Vui lòng xóa một trang web hàng đầu trước"
 
 #. a button for adding more top sites
 msgctxt "add_top_site_button"
 msgid "ADD MORE"
-msgstr ""
+msgstr "THÊM NỮA"
 
 #. a placeholder for adding more top sites
 msgctxt "add_top_site_placeholder"
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
