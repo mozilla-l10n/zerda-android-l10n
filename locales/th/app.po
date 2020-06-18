@@ -627,7 +627,7 @@ msgstr ""
 #. a placeholder for adding more top sites
 msgctxt "add_top_site_placeholder"
 msgid "Add"
-msgstr ""
+msgstr "เพิ่ม"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
