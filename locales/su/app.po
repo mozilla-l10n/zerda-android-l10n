@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-10 10:34+0000\n"
-"PO-Revision-Date: 2020-06-18 07:24+0000\n"
+"PO-Revision-Date: 2020-06-18 07:27+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -580,7 +580,7 @@ msgstr "Témbongkeun Kontén & Layanan"
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
 msgid "Add top sites"
-msgstr ""
+msgstr "Tambahkeun loka-loka kawentar"
 
 #. Menu text for setting themes
 msgctxt "label_menu_themes"
@@ -613,22 +613,22 @@ msgstr "Loka onjoy ditambahkeun"
 #. Message shown after the user added an existing top site on Home
 msgctxt "add_top_site_snackbar_2"
 msgid "The site has been added"
-msgstr ""
+msgstr "Ieu loka geus ditambahkeun"
 
 #. Error message shown when the user has no spaces to add new top sites
 msgctxt "add_top_site_toast"
 msgid "Please remove a top site beforehand"
-msgstr ""
+msgstr "Punten piceun hiji loka nu geus aya"
 
 #. a button for adding more top sites
 msgctxt "add_top_site_button"
 msgid "ADD MORE"
-msgstr ""
+msgstr "TAMBAHAN DEUI"
 
 #. a placeholder for adding more top sites
 msgctxt "add_top_site_placeholder"
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -1093,10 +1093,10 @@ msgstr "Badé nganggeuskeun setélan %1$s salaku panyungsi baku anjeun?"
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
 #. system settings page to complete the settings. The %1$s is Firefox Lite.
-#, c-format, fuzzy
+#, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "2 steps to set %1$s as your default browser"
-msgstr "Setél %1$s salaku panyungsi baku anjeun dina 30 detik"
+msgstr "2 léngkah pikeun nyetél %1$s jadi panyungsi baku anjeun"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
