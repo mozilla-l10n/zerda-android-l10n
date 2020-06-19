@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-10 10:34+0000\n"
-"PO-Revision-Date: 2020-06-12 06:23+0000\n"
+"PO-Revision-Date: 2020-06-19 16:58+0000\n"
 "Last-Translator: Ritesh Raj <ritesh07raj@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -574,7 +574,7 @@ msgstr "मुख्य पृष्ठ में जोड़ें"
 #. Menu text for turning content & services on/off
 msgctxt "label_menu_content_services"
 msgid "Show Content & Services"
-msgstr ""
+msgstr "सामग्री और सेवाएं दिखाएं"
 
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
