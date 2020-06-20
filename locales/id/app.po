@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-10 10:34+0000\n"
-"PO-Revision-Date: 2020-06-18 02:35+0000\n"
+"PO-Revision-Date: 2020-06-20 14:34+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1092,10 +1092,10 @@ msgstr "Apakah Anda ingin tetapkan %1$s sebagai peramban baku Anda?"
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
 #. system settings page to complete the settings. The %1$s is Firefox Lite.
-#, c-format, fuzzy
+#, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "2 steps to set %1$s as your default browser"
-msgstr "Atur %1$s sebagai peramban baku Anda dalam 30 detik"
+msgstr "2 langkah untuk membuat %1$s sebagai peramban baku Anda"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
