@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-10 10:34+0000\n"
+"POT-Creation-Date: 2020-06-23 06:38+0000\n"
 "PO-Revision-Date: 2020-02-25 18:57+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language: anp\n"
@@ -539,6 +539,41 @@ msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "अगिला"
 
+#. The welcome titles in Firefox Lite 2.5
+msgctxt "firstrun_fxlite_2.5_title_1"
+msgid "Hello!"
+msgstr ""
+
+#. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
+#. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "firstrun_fxlite_2.5_title_2"
+msgid "What brings you to %1$s?"
+msgstr ""
+
+#. 4 content themes for users to select in order to get the most relevant
+#. content on Firefox Lite Home
+msgctxt "content_theme_1"
+msgid "Browse the Web"
+msgstr ""
+
+msgctxt "content_theme_2"
+msgid "Find Good Deals"
+msgstr ""
+
+msgctxt "content_theme_3"
+msgid "Play Games and Videos"
+msgstr ""
+
+msgctxt "content_theme_4"
+msgid "Read Trending News"
+msgstr ""
+
+#. Button to finish setting
+msgctxt "button_done"
+msgid "Done"
+msgstr ""
+
 #. Menu labels
 #. Zerda Need l10n
 #. Menu text for bookmark
@@ -621,14 +656,37 @@ msgctxt "label_menu_themes"
 msgid "Themes"
 msgstr ""
 
+#. Theme settings
+#. Titles in theme settings panel
+msgctxt "theme_settings_title"
+msgid "Choose your theme"
+msgstr ""
+
+msgctxt "theme_settings_subtitle"
+msgid "Save some battery by selecting a dark theme."
+msgstr ""
+
+#. The title in the dialog for congratulating users who have done a setting.
+msgctxt "set_as_default_dialog_title"
+msgid "Well done!"
+msgstr ""
+
+#. The subtitle in the dialog for asking if the user want to set Firefox Lite
+#. as default. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "set_as_default_dialog_subtitle"
+msgid "Your %1$s is looking great! Do you want to set it as your default browser?"
+msgstr ""
+
 #. Add top sites
 #. top sites categories on the top sites list
 msgctxt "top_site_category_1"
 msgid "Popular Websites"
 msgstr ""
 
+#, fuzzy
 msgctxt "top_site_category_2"
-msgid "Social Media"
+msgid "Shopping & travel"
 msgstr ""
 
 msgctxt "top_site_category_3"
@@ -637,6 +695,10 @@ msgstr ""
 
 msgctxt "top_site_category_4"
 msgid "Others"
+msgstr ""
+
+msgctxt "top_site_category_5"
+msgid "News"
 msgstr ""
 
 #. Message shown after the user added a top site on Home successfully
@@ -2666,5 +2728,11 @@ msgstr ""
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
+msgstr ""
+
+#. If the user had a url in his/her clipboard, the user  will see the URL in
+#. the first of the Awesome Bar suggestion
+msgctxt "awesomebar_open_link_clipboard"
+msgid "Open Link in your Clipboard"
 msgstr ""
 
