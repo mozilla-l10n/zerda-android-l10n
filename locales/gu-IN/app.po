@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-23 06:38+0000\n"
+"POT-Creation-Date: 2020-06-24 06:11+0000\n"
 "PO-Revision-Date: 2019-10-28 02:53+0000\n"
 "Last-Translator: Drashti Pandya <drashtipandya37@gmail.com>\n"
 "Language: gu_IN\n"
@@ -33,6 +33,17 @@ msgstr "બરાબર"
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
 msgstr "સરનામું શોધો અથવા દાખલ કરો"
+
+#. If the user has a URL copied in his/her clipboard, the search bar will
+#. offer a button for users to visit the website by a single tap.
+msgctxt "awesomebar_open_copied_link"
+msgid "Open Copied Link"
+msgstr ""
+
+#. A search suggestion for users to tap and switch to the opened tab.
+msgctxt "awesomebar_switch_to_tab"
+msgid "Switch to Tab"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
