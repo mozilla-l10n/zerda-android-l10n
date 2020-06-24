@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-23 06:38+0000\n"
+"POT-Creation-Date: 2020-06-24 03:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,6 +30,17 @@ msgstr ""
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
+msgstr ""
+
+#. If the user has a URL copied in his/her clipboard, the search bar will
+#. offer a button for users to visit the website by a single tap.
+msgctxt "awesomebar_open_copied_link"
+msgid "Open Copied Link"
+msgstr ""
+
+#. A search suggestion for users to tap and switch to the opened tab.
+msgctxt "awesomebar_switch_to_tab"
+msgid "Switch to Tab"
 msgstr ""
 
 msgctxt "menu_settings"
