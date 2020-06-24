@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-23 06:38+0000\n"
-"PO-Revision-Date: 2020-06-24 01:21+0000\n"
+"PO-Revision-Date: 2020-06-24 10:30+0000\n"
 "Last-Translator: πάθοςγιατηζωή <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -515,7 +515,7 @@ msgstr "您好！"
 #, c-format
 msgctxt "firstrun_fxlite_2.5_title_2"
 msgid "What brings you to %1$s?"
-msgstr ""
+msgstr "从哪里听说 %1$s 的？"
 
 #. 4 content themes for users to select in order to get the most relevant
 #. content on Firefox Lite Home
@@ -529,11 +529,11 @@ msgstr "寻找优惠"
 
 msgctxt "content_theme_3"
 msgid "Play Games and Videos"
-msgstr ""
+msgstr "玩游戏看视频"
 
 msgctxt "content_theme_4"
 msgid "Read Trending News"
-msgstr ""
+msgstr "阅览新闻时事"
 
 #. Button to finish setting
 msgctxt "button_done"
@@ -629,12 +629,12 @@ msgstr "选择主题"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
-msgstr ""
+msgstr "使用深色主题节省电量。"
 
 #. The title in the dialog for congratulating users who have done a setting.
 msgctxt "set_as_default_dialog_title"
 msgid "Well done!"
-msgstr ""
+msgstr "做得好！"
 
 #. The subtitle in the dialog for asking if the user want to set Firefox Lite
 #. as default. The %1$s is Firefox Lite.
