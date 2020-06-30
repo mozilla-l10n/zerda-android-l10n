@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-29 02:10+0000\n"
-"PO-Revision-Date: 2020-06-20 14:34+0000\n"
+"PO-Revision-Date: 2020-06-30 03:15+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
-"Language: id\n"
 "Language-Team: id <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -38,12 +39,12 @@ msgstr "Cari atau masukkan alamat"
 #. offer a button for users to visit the website by a single tap.
 msgctxt "awesomebar_open_copied_link"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "Buka Tautan yang Disalin"
 
 #. A search suggestion for users to tap and switch to the opened tab.
 msgctxt "awesomebar_switch_to_tab"
 msgid "Switch to Tab"
-msgstr ""
+msgstr "Pindah ke Tab"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -126,12 +127,8 @@ msgstr "Cari di Firefox Lite"
 #. Firefox Rocket     %2$s is "Mozilla"
 #, c-format
 msgctxt "about_content_body"
-msgid ""
-"%1$s is a fast and lightweight browser produced by %2$s. Our mission is "
-"to foster a healthy, open internet."
-msgstr ""
-"%1$s adalah sebuah peramban cepat dan ringan buatan %2$s. Misi kami "
-"adalah untuk mendorong internet yang sehat dan terbuka."
+msgid "%1$s is a fast and lightweight browser produced by %2$s. Our mission is to foster a healthy, open internet."
+msgstr "%1$s adalah sebuah peramban cepat dan ringan buatan %2$s. Misi kami adalah untuk mendorong internet yang sehat dan terbuka."
 
 msgctxt "about_link_learn_more"
 msgid "Learn more"
@@ -231,12 +228,8 @@ msgstr "Kirim data penggunaan"
 #. Parameter %1$s is the app name, i.e. Firefox Rocket.     %2$s is "Mozilla"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary"
-msgid ""
-"%2$s strives to collect only what we need to provide and improve %1$s for"
-" everyone."
-msgstr ""
-"%2$s hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki "
-"%1$s bagi Anda."
+msgid "%2$s strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "%2$s hanya akan mengumpulkan data yang diperlukan saja untuk memperbaiki %1$s bagi Anda."
 
 msgctxt "preference_learn_more"
 msgid "Learn more"
@@ -346,12 +339,8 @@ msgstr "Cari aplikasi yang bisa membuka tautan"
 #. that's Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. "
-"Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. Anda dapat meninggalkan %1$s untuk mencari aplikasi yang mampu di %2$s."
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "error_page_title"
@@ -425,58 +414,39 @@ msgstr "Terima kasih telah memilih %1$s"
 #, c-format
 msgctxt "first_run_page1_text"
 msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"Peramban yang dibuat oleh %1$s, organisasi nirlaba yang berkomitmen pada "
-"web bebas dan terbuka."
+msgstr "Peramban yang dibuat oleh %1$s, organisasi nirlaba yang berkomitmen pada web bebas dan terbuka."
 
 msgctxt "first_run_page2_title"
 msgid "Browse faster than ever"
 msgstr "Menjelajah secepat kilat"
 
 msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"Gunakan mode turbo untuk memblokir iklan pelacak sehingga Anda dapat "
-"menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup "
-"nonaktifkan lewat menu."
+msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
+msgstr "Gunakan mode turbo untuk memblokir iklan pelacak sehingga Anda dapat menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup nonaktifkan lewat menu."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
 msgstr "Hemat data = Hemat uang"
 
 msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"Hemat kuota data dengan memblokir iklan berpelacak. Lebih hemat lagi saat"
-" Anda aktifkan pemblokir gambar."
+msgid "Save on data costs by blocking tracking ads. Save even more when you enable image blocking."
+msgstr "Hemat kuota data dengan memblokir iklan berpelacak. Lebih hemat lagi saat Anda aktifkan pemblokir gambar."
 
 msgctxt "first_run_page4_title"
 msgid "Screenshot the whole page"
 msgstr "Cuplik keseluruhan layar"
 
 msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"Cuplik layar keseluruhan penggeseran layar. Baca secara luring tanpa "
-"kuota data atau ketuk untuk mengunjungi laman Web tersebut."
+msgid "Take screenshot of an entire page scroll. Read it offline without using data or tap it to revisit the web page."
+msgstr "Cuplik layar keseluruhan penggeseran layar. Baca secara luring tanpa kuota data atau ketuk untuk mengunjungi laman Web tersebut."
 
 msgctxt "first_run_page5_title"
 msgid "Next-level privacy"
 msgstr "Privasi tingkat lanjut"
 
 msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"Jelajahi tanpa pelacak dan blokir sebagian besar pelacak web secara baku."
-" Pastikan keamanan data rahasia Anda."
+msgid "Browse without a trace, and block a wide range of common web trackers by default. Ensure the security of your confidential data."
+msgstr "Jelajahi tanpa pelacak dan blokir sebagian besar pelacak web secara baku. Pastikan keamanan data rahasia Anda."
 
 #. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
 #. which is localized in preference_learn_more. Life Feed is an information
@@ -485,12 +455,8 @@ msgstr ""
 #. coupon...etc.
 #, c-format
 msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"Hanya sekali tampil, dapatkan informasi terkini dengan “%1$s” - kumpulan "
-"berbagai konten dari topik populer hingga penawaran menarik. %2$s"
+msgid "Just one flip, keep yourself updated with the “%1$s” - a variety of contents from the most popular topics to the hottest deals. %2$s"
+msgstr "Hanya sekali tampil, dapatkan informasi terkini dengan “%1$s” - kumpulan berbagai konten dari topik populer hingga penawaran menarik. %2$s"
 
 #. Title message shown in a privacy on-boarding page. It means to prevent
 #. websites from tracking you.
@@ -500,9 +466,7 @@ msgstr "Cegah agar tidak dilacak"
 
 msgctxt "first_run_page7_text"
 msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
-"Sekarang Anda dapat memeriksa berapa banyak pelacak yang diblokir dalam "
-"mode pribadi."
+msgstr "Sekarang Anda dapat memeriksa berapa banyak pelacak yang diblokir dalam mode pribadi."
 
 msgctxt "first_run_upgrade_page_title"
 msgid "We heard your feedback!"
@@ -515,12 +479,8 @@ msgstr "Tampilan baru!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "new_name_upgrade_page_text"
-msgid ""
-"With the evolved product, we bring you a newly refreshed %1$s, with new "
-"name and new logo."
-msgstr ""
-"Melalui evolusi produk, kami hadirkan %1$s yang segar, dengan nama dan "
-"logo baru."
+msgid "With the evolved product, we bring you a newly refreshed %1$s, with new name and new logo."
+msgstr "Melalui evolusi produk, kami hadirkan %1$s yang segar, dengan nama dan logo baru."
 
 #. The %s here is a placeholder for "multiple tabs" (paired with
 #. first_run_upgrade_page_text1_highlight)
@@ -559,37 +519,37 @@ msgstr "Lanjut"
 #. The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
 msgid "Hello!"
-msgstr ""
+msgstr "Halo!"
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
 #, c-format
 msgctxt "firstrun_fxlite_2.5_title_2"
 msgid "What brings you to %1$s?"
-msgstr ""
+msgstr "Apa yang ingin Anda lakukan di %1$s?"
 
 #. 4 content themes for users to select in order to get the most relevant
 #. content on Firefox Lite Home
 msgctxt "content_theme_1"
 msgid "Browse the Web"
-msgstr ""
+msgstr "Jelajahi Web"
 
 msgctxt "content_theme_2"
 msgid "Find Good Deals"
-msgstr ""
+msgstr "Temukan Penawaran Bagus"
 
 msgctxt "content_theme_3"
 msgid "Play Games and Videos"
-msgstr ""
+msgstr "Bermain Gim dan Video"
 
 msgctxt "content_theme_4"
 msgid "Read Trending News"
-msgstr ""
+msgstr "Baca Tren Berita"
 
 #. Button to finish setting
 msgctxt "button_done"
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 #. Menu labels
 #. Zerda Need l10n
@@ -676,7 +636,7 @@ msgstr "Tema"
 #. Titles in theme settings panel
 msgctxt "theme_settings_title"
 msgid "Choose your theme"
-msgstr ""
+msgstr "Pilih tema Anda"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
@@ -700,10 +660,9 @@ msgctxt "top_site_category_1"
 msgid "Popular Websites"
 msgstr "Situs Web Populer"
 
-#, fuzzy
 msgctxt "top_site_category_2"
 msgid "Shopping & travel"
-msgstr "Media Sosial"
+msgstr "Belanja & perjalanan"
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
@@ -765,12 +724,8 @@ msgid "Location not available. Give permission to access your location."
 msgstr "Lokasi tidak tersedia. Izinkan agar aplikasi bisa mengakses lokasi Anda."
 
 msgctxt "permission_toast_storage"
-msgid ""
-"Storage not available. Give permission to store photos and files on your "
-"device."
-msgstr ""
-"Penyimpanan tidak tersedia. Izinkan agar aplikasi bisa menyimpan foto dan"
-" berkas pada peranti Anda."
+msgid "Storage not available. Give permission to store photos and files on your device."
+msgstr "Penyimpanan tidak tersedia. Izinkan agar aplikasi bisa menyimpan foto dan berkas pada peranti Anda."
 
 #. When the webpage request access to geolocation a dialog will popup.
 #. This is the title of the permission request dialog. Argument 1 is the url of
@@ -1187,13 +1142,8 @@ msgid "Product Update Notice"
 msgstr "Pemberitahuan Pembaruan Produk"
 
 msgctxt "privacy_policy_update_notification_action"
-msgid ""
-"To make Firefox Lite better for you and everyone, we made some changes to"
-" our privacy policy. Tap to learn more."
-msgstr ""
-"Untuk membuat Firefox Lite lebih baik untuk Anda dan setiap orang, kami "
-"membuat beberapa perubahan pada kebijakan privasi kami. Ketuk untuk "
-"mempelajari lebih lanjut."
+msgid "To make Firefox Lite better for you and everyone, we made some changes to our privacy policy. Tap to learn more."
+msgstr "Untuk membuat Firefox Lite lebih baik untuk Anda dan setiap orang, kami membuat beberapa perubahan pada kebijakan privasi kami. Ketuk untuk mempelajari lebih lanjut."
 
 #. In-app Promotion, Set default browser
 #. Show a toast message when user set Firefox Lite as default browser
@@ -1269,9 +1219,7 @@ msgstr "Suka %1$s?"
 
 msgctxt "rate_app_dialog_text_content"
 msgid "Thank you for choosing our product. Your feedback is important to us."
-msgstr ""
-"Terima kasih telah memilih produk kami. Masukan Anda sangat penting bagi "
-"kami."
+msgstr "Terima kasih telah memilih produk kami. Masukan Anda sangat penting bagi kami."
 
 msgctxt "rate_app_dialog_btn_go_rate"
 msgid "Rate Us"
@@ -1331,21 +1279,15 @@ msgstr "NANTI"
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by %2$s and other contributors."
-msgstr ""
-"%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh "
-"%2$s dan kontributor lainnya."
+msgstr "%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh %2$s dan kontributor lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)     %3$s will
 #. be replaced by "Mozilla Public License"
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">%3$s</a> and other open source licenses."
-msgstr ""
-"%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">%3$s</a> "
-"dan lisensi sumber terbuka lainnya."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">%3$s</a> and other open source licenses."
+msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">%3$s</a> dan lisensi sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1354,24 +1296,18 @@ msgstr ""
 #. replaced by "Mozilla"     %4$s will be replaced by "Firefox"
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names "
-"or logos. Additional information may be found <a href=\"%2$s\">here</a>."
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the %3$s, %4$s or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 msgstr ""
-"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla "
-"Foundation atau pihak mana pun, termasuk nama atau logo %3$s, %4$s, atau "
-"%1$s. Informasi lebih lanjut bisa ditemukan <a href=\"%2$s\">di sini</a>."
+"Anda tidak diberi izin atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak mana pun, termasuk nama atau logo %3$s, %4$s, atau %1$s. Informasi lebih lanjut bisa ditemukan <a "
+"href=\"%2$s\">di sini</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Kode sumber tambahan untuk %1$s tersedia dalam berbagai <a "
-"href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Kode sumber tambahan untuk %1$s tersedia dalam berbagai <a href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced with a URL
@@ -1379,14 +1315,9 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc."
-" sebagai hasil karya terpisah dan independen di bawah <a "
-"href=\"%2$s\">GNU General Public License v3</a>, dan tersedia <a "
+"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc. sebagai hasil karya terpisah dan independen di bawah <a href=\"%2$s\">GNU General Public License v3</a>, dan tersedia <a "
 "href=\"%3$s\">di sini</a>."
 
 #. Title for survey notification posted after launching the app on the 3rd
@@ -1712,14 +1643,8 @@ msgstr "Rekomendasi Berita Untuk Anda"
 #. the feature.
 #, c-format
 msgctxt "recommended_news_content"
-msgid ""
-"Tap “Yes” to begin seeing news recommended for you by our AI news engine."
-" You can turn off recommendations and control your settings anytime in "
-"News-&gt;Settings. %1$s"
-msgstr ""
-"Ketuk “Ya” untuk mulai melihat rekomendasi berita untuk Anda dengan mesin"
-" AI berita kami. Anda dapat mematikan rekomendasi dan mengatur pengaturan"
-" Anda kapanpun di Berita-&gt;Pengaturan. %1$s"
+msgid "Tap “Yes” to begin seeing news recommended for you by our AI news engine. You can turn off recommendations and control your settings anytime in News-&gt;Settings. %1$s"
+msgstr "Ketuk “Ya” untuk mulai melihat rekomendasi berita untuk Anda dengan mesin AI berita kami. Anda dapat mematikan rekomendasi dan mengatur pengaturan Anda kapanpun di Berita-&gt;Pengaturan. %1$s"
 
 #. Recommended news choose your preferred language
 msgctxt "recommended_news_preference_language"
@@ -1737,21 +1662,13 @@ msgstr "Pengalaman berita yang dipersonalisasi"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
-msgid ""
-"Do you want to disable the recommended news? Tap “YES” to just display "
-"the latest news articles."
-msgstr ""
-"Apakah Anda ingin menonaktifkan rekomendasi berita? Ketuk “YA” untuk "
-"hanya menampilkan artikel berita terbaru."
+msgid "Do you want to disable the recommended news? Tap “YES” to just display the latest news articles."
+msgstr "Apakah Anda ingin menonaktifkan rekomendasi berita? Ketuk “YA” untuk hanya menampilkan artikel berita terbaru."
 
 #. Enable personalized experience for news.
 msgctxt "recommended_news_preference_enable_dialog"
-msgid ""
-"Do you want to enable the recommended news feature? Tap “YES” to start "
-"seeing a recommended selection of news articles."
-msgstr ""
-"Apakah Anda ingin mengaktifkan fitur rekomendasi berita? Ketuk “YA” untuk"
-" mulai melihat pilihan artikel berita yang direkomendasikan."
+msgid "Do you want to enable the recommended news feature? Tap “YES” to start seeing a recommended selection of news articles."
+msgstr "Apakah Anda ingin mengaktifkan fitur rekomendasi berita? Ketuk “YA” untuk mulai melihat pilihan artikel berita yang direkomendasikan."
 
 #. Private Browsing
 #. This is used in the menu. User can click the menu item and open a private
@@ -1804,12 +1721,8 @@ msgstr "Nikmati penjelajahan dengan perlindungan ekstra."
 #. Message to prompt users to add private mode shortcut to their device's
 #. home.
 msgctxt "private_browsing_dialog_add_shortcut_title"
-msgid ""
-"Access private mode in one click! Want to add private mode shortcut to "
-"homescreen?"
-msgstr ""
-"Akses mode pribadi dengan sekali klik! Ingin tambahkan pintasan mode "
-"pribadi di beranda?"
+msgid "Access private mode in one click! Want to add private mode shortcut to homescreen?"
+msgstr "Akses mode pribadi dengan sekali klik! Ingin tambahkan pintasan mode pribadi di beranda?"
 
 msgctxt "private_browsing_dialog_add_shortcut_no"
 msgid "No, thanks"
@@ -1862,12 +1775,8 @@ msgstr "Lihat cuplikan layar Anda di sini!"
 #. The notice shown along with the message when the user captures screenshot
 #. for the first time
 msgctxt "my_shot_on_boarding_category_message"
-msgid ""
-"To improve your product experience, we collect information about your "
-"screenshots’ categories."
-msgstr ""
-"Untuk meningkatkan pengalaman produk, kami mengumpulkan informasi tentang"
-" kategori cuplikan layar Anda."
+msgid "To improve your product experience, we collect information about your screenshots’ categories."
+msgstr "Untuk meningkatkan pengalaman produk, kami mengumpulkan informasi tentang kategori cuplikan layar Anda."
 
 #. Title on web auth dialog. This dialog hint user authentication is required
 #. to proceed to the website.
@@ -1937,12 +1846,8 @@ msgstr "Cari"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
-msgid ""
-"Tap the shopping sites below to browse more results, or tap this button "
-"to edit."
-msgstr ""
-"Ketuk situs belanja di bawah ini untuk menelusuri lebih banyak hasil, "
-"atau ketuk tombol ini untuk mengubah."
+msgid "Tap the shopping sites below to browse more results, or tap this button to edit."
+msgstr "Ketuk situs belanja di bawah ini untuk menelusuri lebih banyak hasil, atau ketuk tombol ini untuk mengubah."
 
 msgctxt "shopping_switch_ui_onboarding_button"
 msgid "OK"
@@ -2143,29 +2048,18 @@ msgid "Brand-new %1$s"
 msgstr "%1$s terbaru"
 
 msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
-msgstr ""
-"Peramban yang cepat dan ringan, kini dengan fitur menawan! Kami "
-"menambahkan pencarian dan konten belanja pintar agar meramban lebih "
-"menyenangkan!"
+msgid "A fast and lightweight browser, now with cool features! We have added smart shopping search and content to make browsing more fun!"
+msgstr "Peramban yang cepat dan ringan, kini dengan fitur menawan! Kami menambahkan pencarian dan konten belanja pintar agar meramban lebih menyenangkan!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
-msgid ""
-"Tap to read trending news, find good deals, or have fun playing the "
-"hottest free games!"
-msgstr ""
-"Ketuk untuk membaca berita terkini, temukan tawaran bagus, atau "
-"bersenang-senang dengan permainan gratis terbaru!"
+msgid "Tap to read trending news, find good deals, or have fun playing the hottest free games!"
+msgstr "Ketuk untuk membaca berita terkini, temukan tawaran bagus, atau bersenang-senang dengan permainan gratis terbaru!"
 
 msgctxt "onboarding_2_content_services_news_games"
 msgid "Tap to read trending news or have fun playing the hottest free games!"
-msgstr ""
-"Ketuk untuk membaca berita terkini atau bersenang-senang dengan permainan"
-" gratis terbaru!"
+msgstr "Ketuk untuk membaca berita terkini atau bersenang-senang dengan permainan gratis terbaru!"
 
 msgctxt "onboarding_2_content_services_games"
 msgid "Tap to play the hottest free games to have fun!"
@@ -2173,9 +2067,7 @@ msgstr "Ketuk untuk memainkan permainan gratis terkini untuk bersenang-senang!"
 
 msgctxt "onboarding_2_content_services_news_travel"
 msgid "Tap to read trending news, plan your next trip and more!"
-msgstr ""
-"Ketuk untuk membaca berita hangat, rencanakan perjalananmu selanjutnya "
-"dan masih banyak lagi!"
+msgstr "Ketuk untuk membaca berita hangat, rencanakan perjalananmu selanjutnya dan masih banyak lagi!"
 
 #. Introduce Smart Shopping Search
 msgctxt "onboarding_2_smart_shopping_search_title"
@@ -2231,18 +2123,13 @@ msgstr "Penjelajahan Pribadi Tingkat Lanjut"
 #, c-format
 msgctxt "private_home_description_1"
 msgid ""
-"Now you can browse privately, no history, no passwords recorded and other"
-" people who use this device won’t see your activity.\n"
+"Now you can browse privately, no history, no passwords recorded and other people who use this device won’t see your activity.\n"
 "\n"
-"Our Advanced Private Browsing can even %1$s by advertisers and websites, "
-"which most private modes cannot."
+"Our Advanced Private Browsing can even %1$s by advertisers and websites, which most private modes cannot."
 msgstr ""
-"Kini Anda dapat menjelajah secara pribadi, tanpa riwayat, tanpa kata "
-"sandi yang direkam, dan orang lain yang menggunakan peranti ini tidak "
-"akan melihat kegiatan Anda.\n"
+"Kini Anda dapat menjelajah secara pribadi, tanpa riwayat, tanpa kata sandi yang direkam, dan orang lain yang menggunakan peranti ini tidak akan melihat kegiatan Anda.\n"
 "\n"
-"Penjelajahan Pribadi Tingkat Lanjut kami bahkan mampu %1$s oleh pengiklan"
-" dan situs web, yang kebanyakan mode pribadi tidak mampu melakukannya."
+"Penjelajahan Pribadi Tingkat Lanjut kami bahkan mampu %1$s oleh pengiklan dan situs web, yang kebanyakan mode pribadi tidak mampu melakukannya."
 
 msgctxt "private_home_description_2"
 msgid "prevent you from being tracked"
@@ -2302,12 +2189,8 @@ msgstr "Ikuti Tantangan 7 hari"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_challenge_details_body_1"
-msgid ""
-"Try Shopping, News, Game on %1$s Home by simply clicking the buttons for "
-"seven days in a row."
-msgstr ""
-"Coba fitur Belanja, Berita dan Permainan di beranda %1$s dengan mengklik "
-"menu tersebut selama tujuh hari berturut-turut."
+msgid "Try Shopping, News, Game on %1$s Home by simply clicking the buttons for seven days in a row."
+msgstr "Coba fitur Belanja, Berita dan Permainan di beranda %1$s dengan mengklik menu tersebut selama tujuh hari berturut-turut."
 
 msgctxt "msrp_challenge_details_title_2"
 msgid "Use your Firefox account to redeem your reward"
@@ -2317,12 +2200,8 @@ msgstr "Gunakan akun Firefox untuk menukarkan kupon Anda"
 #. started."
 #, c-format
 msgctxt "msrp_challenge_details_body_2"
-msgid ""
-"%1$s Make sure you sign in to the account you want to use before you "
-"complete your redemption."
-msgstr ""
-"%1$s Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan "
-"sebelum menyelesaikan penukaran."
+msgid "%1$s Make sure you sign in to the account you want to use before you complete your redemption."
+msgstr "%1$s Pastikan Anda telah masuk menggunakan akun yang ingin Anda gunakan sebelum menyelesaikan penukaran."
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
@@ -2377,12 +2256,8 @@ msgid "Congratulations!"
 msgstr "Selamat!"
 
 msgctxt "msrp_completed_popup_body"
-msgid ""
-"Thanks for trying out some of our new features. We hope you’ve enjoyed "
-"using them!"
-msgstr ""
-"Terima kasih sudah mencoba fitur terbaru kami. Kami harap Anda senang "
-"menggunakannya!"
+msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
+msgstr "Terima kasih sudah mencoba fitur terbaru kami. Kami harap Anda senang menggunakannya!"
 
 msgctxt "msrp_completed_popup_button1"
 msgid "Use Firefox account to redeem"
@@ -2398,12 +2273,8 @@ msgid "Congratulations!"
 msgstr "Selamat!"
 
 msgctxt "msrp_challenge_completed_body"
-msgid ""
-"Thanks for trying out some of our new features. We hope you’ve enjoyed "
-"using them!"
-msgstr ""
-"Terima kasih sudah mencoba fitur terbaru kami. Kami harap Anda senang "
-"menggunakannya!"
+msgid "Thanks for trying out some of our new features. We hope you’ve enjoyed using them!"
+msgstr "Terima kasih sudah mencoba fitur terbaru kami. Kami harap Anda senang menggunakannya!"
 
 msgctxt "msrp_challenge_button_5"
 msgid "Redeem later"
@@ -2417,20 +2288,12 @@ msgid "Your %1$s is ready!"
 msgstr "Voucer %1$s Anda telah tersedia!"
 
 msgctxt "msrp_voucher_body_1"
-msgid ""
-"Voucher is valid for a limited time only. We reserve the right to modify "
-"or cancel voucher at any time."
-msgstr ""
-"Voucer berlaku dalam waktu terbatas. Kami berhak mengubah atau "
-"membatalkan kupon kapan saja."
+msgid "Voucher is valid for a limited time only. We reserve the right to modify or cancel voucher at any time."
+msgstr "Voucer berlaku dalam waktu terbatas. Kami berhak mengubah atau membatalkan kupon kapan saja."
 
 msgctxt "msrp_voucher_body_2"
-msgid ""
-"We reserve the right, at its sole discretion, to change, modify, add or "
-"remove portions of these Terms of Use, at any time."
-msgstr ""
-"Kami berhak untuk mengubah, memodifikasi, menambah atau menghapus bagian "
-"dari syarat penggunaan kapan pun tanpa pemberitahuan terlebih dahulu."
+msgid "We reserve the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time."
+msgstr "Kami berhak untuk mengubah, memodifikasi, menambah atau menghapus bagian dari syarat penggunaan kapan pun tanpa pemberitahuan terlebih dahulu."
 
 #. The %1$s here is a placeholder for "date"
 #, c-format
@@ -2479,14 +2342,8 @@ msgid "Warning: multiple Firefox accounts detected"
 msgstr "Peringatan: multipel akun Firefox terdeteksi"
 
 msgctxt "msrp_disqualification_body_1"
-msgid ""
-"Only one Firefox account may be used to participate in the 7-Day "
-"challenge. If you switch and use another account, you will be "
-"disqualified from this challenge."
-msgstr ""
-"Untuk berpartisipasi dalam tantangan 7-hari, Anda hanya dapat menggunakan"
-" satu akun Firefox. Jika Anda mengganti dan menggunakan akun lain, Anda "
-"akan didiskualifikasi dari tantangan ini."
+msgid "Only one Firefox account may be used to participate in the 7-Day challenge. If you switch and use another account, you will be disqualified from this challenge."
+msgstr "Untuk berpartisipasi dalam tantangan 7-hari, Anda hanya dapat menggunakan satu akun Firefox. Jika Anda mengganti dan menggunakan akun lain, Anda akan didiskualifikasi dari tantangan ini."
 
 msgctxt "msrp_disqualification_button_1"
 msgid "I understand"
@@ -2536,21 +2393,15 @@ msgstr "Wow! Tinggal satu hari lagi untuk mendapatkan voucher Anda!"
 #. The %1$s here is a placeholder for "Firefox Lite"
 #, c-format
 msgctxt "msrp_completed_toast_day7"
-msgid ""
-"You’ve completed the challenge! Please go back to %1$s Home to redeem "
-"your voucher!"
-msgstr ""
-"Anda telah menyelesaikan tantangan! Silakan kembali ke Beranda %1$s untuk"
-" menukar kupon Anda!"
+msgid "You’ve completed the challenge! Please go back to %1$s Home to redeem your voucher!"
+msgstr "Anda telah menyelesaikan tantangan! Silakan kembali ke Beranda %1$s untuk menukar kupon Anda!"
 
 #. Notifications for last 3 days
 #. The %1$s here is a placeholder for "reward title" ex. Amazon voucher
 #, c-format
 msgctxt "msrp_notification_reminder"
 msgid "Want to win a %1$s? Don’t forget to try Shopping, News, Game today!"
-msgstr ""
-"Ingin memenangkan %1$s? Jangan lupa untuk mencoba fitur Belanja, Berita, "
-"Permainan hari ini!"
+msgstr "Ingin memenangkan %1$s? Jangan lupa untuk mencoba fitur Belanja, Berita, Permainan hari ini!"
 
 #. No data
 msgctxt "msrp_reward_challenge_nodata"
@@ -2710,12 +2561,8 @@ msgstr "Suka %1$s?"
 #. the %1$s here is the destination name
 #, c-format
 msgctxt "travel_onboarding_save_description"
-msgid ""
-"Save %1$s in your Bucket List to get quick access to travel guides and "
-"the best prices."
-msgstr ""
-"Simpan %1$s dalam Daftar Keinginan Anda untuk mendapatkan akses cepat ke "
-"panduan wisata dan harga terbaik."
+msgid "Save %1$s in your Bucket List to get quick access to travel guides and the best prices."
+msgstr "Simpan %1$s dalam Daftar Keinginan Anda untuk mendapatkan akses cepat ke panduan wisata dan harga terbaik."
 
 #. onboarding button
 msgctxt "travel_onboarding_save_button"
@@ -2807,4 +2654,3 @@ msgstr "TETAPKAN SEBAGAI BAKU"
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Link in your Clipboard"
 msgstr ""
-
