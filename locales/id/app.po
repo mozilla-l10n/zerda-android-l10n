@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-29 02:10+0000\n"
-"PO-Revision-Date: 2020-06-30 03:15+0000\n"
+"PO-Revision-Date: 2020-06-30 03:17+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -544,7 +544,7 @@ msgstr "Bermain Gim dan Video"
 
 msgctxt "content_theme_4"
 msgid "Read Trending News"
-msgstr "Baca Tren Berita"
+msgstr "Baca Berita Terkini"
 
 #. Button to finish setting
 msgctxt "button_done"
@@ -640,19 +640,19 @@ msgstr "Pilih tema Anda"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
-msgstr ""
+msgstr "Hematkan baterai Anda dengan memilih tema gelap."
 
 #. The title in the dialog for congratulating users who have done a setting.
 msgctxt "set_as_default_dialog_title"
 msgid "Well done!"
-msgstr ""
+msgstr "Kerja bagus!"
 
 #. The subtitle in the dialog for asking if the user want to set Firefox Lite
 #. as default. The %1$s is Firefox Lite.
 #, c-format
 msgctxt "set_as_default_dialog_subtitle"
 msgid "Your %1$s is looking great! Do you want to set it as your default browser?"
-msgstr ""
+msgstr "%1$s Anda terlihat bagus! Apakah Anda ingin menjadikannya sebagai peramban baku?"
 
 #. Add top sites
 #. top sites categories on the top sites list
@@ -674,7 +674,7 @@ msgstr "Lainnya"
 
 msgctxt "top_site_category_5"
 msgid "News"
-msgstr ""
+msgstr "Berita"
 
 #. Message shown after the user added a top site on Home successfully
 msgctxt "add_top_site_snackbar_1"
@@ -2653,4 +2653,4 @@ msgstr "TETAPKAN SEBAGAI BAKU"
 #. the first of the Awesome Bar suggestion
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Link in your Clipboard"
-msgstr ""
+msgstr "Buka Tautan di Papan Klip Anda"
