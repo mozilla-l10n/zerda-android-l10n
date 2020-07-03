@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-29 02:10+0000\n"
-"PO-Revision-Date: 2020-06-30 03:17+0000\n"
+"PO-Revision-Date: 2020-07-03 05:22+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1758,13 +1758,13 @@ msgstr "Anda dapat menambahkan pintasan mode pribadi di pengaturan."
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr "%1$s - Penjelajahan privat"
+msgstr "%1$s - Penjelajahan pribadi"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
 msgctxt "preference_add_private_browsing_shortcut"
 msgid "Add private mode shortcut to Home screen"
-msgstr "Tambahkan pintasan mode private ke Beranda"
+msgstr "Tambahkan pintasan mode pribadi ke Beranda"
 
 #. Message shown when the user is using screenshot for the first time. Guide
 #. them how to go to "My shots".
