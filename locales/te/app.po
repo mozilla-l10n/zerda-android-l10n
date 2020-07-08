@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-29 02:10+0000\n"
-"PO-Revision-Date: 2020-07-08 21:22+0000\n"
+"PO-Revision-Date: 2020-07-08 21:27+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -422,7 +422,7 @@ msgstr "మునుపెన్నటి కంటే వేగంగా వి
 
 msgctxt "first_run_page2_text"
 msgid "Use turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr "ట్రాకింగ్ ప్రకటనలను నిరోధించడానికి టర్బో రీతిని వాడండి, అప్పుడు మీరు జ్వలించే వేగంతో విహరించవచ్చు. సైట్లు సరిగా పనిచేయట్లేనట్టు అనిపిస్తే, మెనూలో టర్బో రీతి తాకి ఆపివేసుకోండి."
+msgstr "ట్రాకింగ్ ప్రకటనలను నిరోధించడానికి టర్బో రీతిని వాడండి, అప్పుడు మీరు జ్వలించే వేగంతో విహరించవచ్చు. సైట్లు సరిగ్గా పనిచేయనట్టు అనిపిస్తే, మెనూలో టర్బో రీతి తాకి ఆపివేసుకోండి."
 
 msgctxt "first_run_page3_title"
 msgid "Save data = Save money"
