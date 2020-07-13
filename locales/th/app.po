@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-06-29 02:10+0000\n"
-"PO-Revision-Date: 2020-07-03 10:53+0000\n"
+"PO-Revision-Date: 2020-07-13 11:32+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -39,12 +39,12 @@ msgstr "ค้นหาหรือป้อนที่อยู่"
 #. offer a button for users to visit the website by a single tap.
 msgctxt "awesomebar_open_copied_link"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "เปิดลิงก์ที่คัดลอก"
 
 #. A search suggestion for users to tap and switch to the opened tab.
 msgctxt "awesomebar_switch_to_tab"
 msgid "Switch to Tab"
-msgstr ""
+msgstr "สลับไปยังแท็บ"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -519,7 +519,7 @@ msgstr "ถัดไป"
 #. The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
 msgid "Hello!"
-msgstr ""
+msgstr "สวัสดี!"
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
