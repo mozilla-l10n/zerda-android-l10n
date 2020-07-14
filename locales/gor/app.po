@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-29 02:10+0000\n"
+"POT-Creation-Date: 2020-07-14 06:26+0000\n"
 "PO-Revision-Date: 2019-08-30 23:20+0000\n"
 "Last-Translator: Marwan Mohamad <mar.one818@gmail.com>\n"
 "Language: gor\n"
@@ -413,96 +413,6 @@ msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
 msgstr "Hu'owa gāmbari to tab bohu"
 
-#. First run tour
-#. title for first page of FirstRun, Argument 1 will be formatted by product
-#. name
-#, c-format
-msgctxt "first_run_page1_title"
-msgid "Thanks for choosing %1$s"
-msgstr "Odu'olo mā lolulawoto %1$s"
-
-#. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format
-msgctxt "first_run_page1_text"
-msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"Peramban pilohutu lo %1$s, organisasi nirlaba yang berkomitmen to situs "
-"pereyi wawu bu'a-bu'adu."
-
-msgctxt "first_run_page2_title"
-msgid "Browse faster than ever"
-msgstr "Monguli'ato ngo'ita lomato"
-
-msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"Pomakeya mode turbo momubulo iklan alupo alihu Yi'o molinggahu "
-"monguli'ato. Wonu situs orasawa o masa'ala, mowali nonaktif moli menu."
-
-msgctxt "first_run_page3_title"
-msgid "Save data = Save money"
-msgstr "Hemat data = hemat doyi"
-
-msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"Hemat kuota data wolo momubulo iklan u'alupo. Lebe hemat da'a wonu Yi'o "
-"mopo'aktif bubulo gambari."
-
-msgctxt "first_run_page4_title"
-msgid "Screenshot the whole page"
-msgstr "Cuplik nga'amila layar"
-
-msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"Cuplik layar nga'amila mopoheyi lo layar. Pobacawa secara luring ja "
-"momake kuota data meyambo woduta u mona'o ode laman Web boyito."
-
-msgctxt "first_run_page5_title"
-msgid "Next-level privacy"
-msgstr "Privasi lenggota de yitato"
-
-msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"Monguli'ato ja'o alupo wawu bubuli ngotayade damango alupo web lo'u "
-"layito. Pastiya amani lo data rahasia olemu. "
-
-#. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
-#. which is localized in preference_learn_more. Life Feed is an information
-#. panel covering content that might help our customers' life. It covers from
-#. the most popular topics to the hottest deals, including news, games,
-#. coupon...etc.
-#, c-format
-msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-
-#. Title message shown in a privacy on-boarding page. It means to prevent
-#. websites from tracking you.
-msgctxt "first_run_page7_title"
-msgid "Prevent from being tracked"
-msgstr ""
-
-msgctxt "first_run_page7_text"
-msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
-
-msgctxt "first_run_upgrade_page_title"
-msgid "We heard your feedback!"
-msgstr "Ami modungohu potuhatamu!"
-
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
 msgstr "Bibilohu bohu!"
@@ -517,49 +427,31 @@ msgstr ""
 "Melalui evolusi produk, popowuluwo mayi lami %1$s u molamahu, wolo "
 "tanggulo wawu logo bohu. "
 
-#. The %s here is a placeholder for "multiple tabs" (paired with
-#. first_run_upgrade_page_text1_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text1"
-msgid "1. Multitask by opening %s at the same time!"
-msgstr "1. Mowali momu'o wawu mokalaja pe'enta %s nga'amila!"
-
-msgctxt "first_run_upgrade_page_text1_highlight"
-msgid "multiple tabs"
-msgstr "multi tab"
-
-#. The %s here is a placeholder for "adding them to the home screen!" (paired
-#. with first_run_upgrade_page_text2_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text2"
-msgid "2. Access your favorite sites quickly by %s"
-msgstr "2. Akses situs favorit Ulemu wolo u molinggahu %s"
-
-msgctxt "first_run_upgrade_page_text2_highlight"
-msgid "adding them to the home screen!"
-msgstr "Duhengi ode duledehu!"
-
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
 msgstr "OKE, mā otāwa!"
 
-msgctxt "firstrun_skip_button"
-msgid "Skip"
-msgstr "Lawodi"
+#. !NOT USE! The welcome titles in Firefox Lite 2.5
+msgctxt "firstrun_fxlite_2.5_title_1"
+msgid "Hello!"
+msgstr ""
 
-msgctxt "firstrun_next_button"
-msgid "Next"
-msgstr "Tunuhiyo"
+#. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
+#. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "firstrun_fxlite_2.5_title_2"
+msgid "What brings you to %1$s?"
+msgstr ""
 
 #. The welcome titles in Firefox Lite 2.5
-msgctxt "firstrun_fxlite_2.5_title_1"
+msgctxt "firstrun_fxlite_2_5_title_A"
 msgid "Hello!"
 msgstr ""
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
 #, c-format
-msgctxt "firstrun_fxlite_2.5_title_2"
+msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
 msgstr ""
 
@@ -2116,21 +2008,6 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
-
-#. Home 2.0
-#. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
-#. replaced with the name of the app (e.g. Firefox Lite)
-#, c-format
-msgctxt "onboarding_2_introduction_title"
-msgid "Brand-new %1$s"
-msgstr ""
-
-#, fuzzy
-msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
 msgstr ""
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
