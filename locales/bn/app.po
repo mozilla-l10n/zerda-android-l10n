@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-29 02:10+0000\n"
+"POT-Creation-Date: 2020-07-14 06:26+0000\n"
 "PO-Revision-Date: 2020-02-17 16:41+0000\n"
 "Last-Translator: Shamim Shikder <sshikder138@gmail.com>\n"
 "Language: bn\n"
@@ -414,99 +414,6 @@ msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
 msgstr "নতুন ট্যাবে ছবিটি খুলুন"
 
-#. First run tour
-#. title for first page of FirstRun, Argument 1 will be formatted by product
-#. name
-#, c-format
-msgctxt "first_run_page1_title"
-msgid "Thanks for choosing %1$s"
-msgstr "%1$s পছন্দ করার জন্য ধন্যবাদ"
-
-#. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format
-msgctxt "first_run_page1_text"
-msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"ইন্দোনেশিয়ার জন্য একটি ব্রাউসার টেলর যা %1$s-র তৈরি, একটি বিনামূল্যে এবং "
-"মুক্ত ওয়েবের জন্য প্রতিশ্রুতিবদ্ধ অলাভজনক সংস্থা।"
-
-msgctxt "first_run_page2_title"
-msgid "Browse faster than ever"
-msgstr "আগের চেয়ে দ্রুত ব্রাউজ করুন"
-
-msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"টার্বো মোড ব্যবহার করে ট্র্যাকিং করার বিজ্ঞাপনগুলিকে ব্লক করুন যাতে আপনি "
-"ঝড়ের গতিতে ব্রাউজ করতে পারেন। সাইট ঠিক ভাবে দেখা না গেলে, মেনুতে টার্বো "
-"মোড সুইচটিকে বন্ধ করুন।"
-
-msgctxt "first_run_page3_title"
-msgid "Save data = Save money"
-msgstr "ডেটা সংরক্ষণ = অর্থ সংরক্ষণ"
-
-msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"ট্র্যাকিং বিজ্ঞাপন ব্লক করে ডাটা সাশ্রয় করুন। ছবি ব্লক সক্রিয় করে আরও "
-"বেশি সাশ্রয় করুন।"
-
-msgctxt "first_run_page4_title"
-msgid "Screenshot the whole page"
-msgstr "পুরো পাতার স্ক্রিনশট"
-
-msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"পুরো পাতার স্ক্রোলের স্ক্রিনশট নিন। ডাটা ব্যবহার না করে এটি অফলাইনে পড়ুন"
-" অথবা ওয়েব পেজ পুনরায় দেখতে ট্যাপ করুন।"
-
-msgctxt "first_run_page5_title"
-msgid "Next-level privacy"
-msgstr "পরবর্তী স্তরের গোপনীয়তা"
-
-msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"কোনও ট্রেস ছাড়াই ব্রাউজ করুন এবং ডিফল্টরূপে বিস্তৃত সাধারণ ওয়েব "
-"ট্র্যাকারকে ব্লক করুন। আপনার গোপনীয় তথ্য সুরক্ষা নিশ্চিত করুন।"
-
-#. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
-#. which is localized in preference_learn_more. Life Feed is an information
-#. panel covering content that might help our customers' life. It covers from
-#. the most popular topics to the hottest deals, including news, games,
-#. coupon...etc.
-#, c-format
-msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"একটি মাত্র ফ্লিপ করুন, নিজেকে “%1$s” দিয়ে আপডেট রাখুন - সর্বাধিক "
-"জনপ্রিয় বিষয় থেকে হটেস্ট ডিলগুলিতে বিভিন্ন সামগ্রী। %2$s"
-
-#. Title message shown in a privacy on-boarding page. It means to prevent
-#. websites from tracking you.
-msgctxt "first_run_page7_title"
-msgid "Prevent from being tracked"
-msgstr "ট্র্যাক হওয়া থেকে রোধ করুন"
-
-msgctxt "first_run_page7_text"
-msgid "Now you can check how many trackers are blocked in private mode."
-msgstr "আপনি কতগুলি ট্র্যাকার ব্যক্তিগত মোডে ব্লক করেছেন এখন তা যাচাই করতে পারেন।"
-
-msgctxt "first_run_upgrade_page_title"
-msgid "We heard your feedback!"
-msgstr "আমরা আপনার প্রতিক্রিয়া শুনেছি!"
-
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
 msgstr "আমরা এখন নতুন ভাবে!"
@@ -521,49 +428,31 @@ msgstr ""
 "বিবর্তিত পণ্যের সাথে, আমরা আপনার জন্য নতুন নাম এবং নতুন লোগো সহ একেবারে "
 "নতুন একটি %1$s এনেছি।"
 
-#. The %s here is a placeholder for "multiple tabs" (paired with
-#. first_run_upgrade_page_text1_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text1"
-msgid "1. Multitask by opening %s at the same time!"
-msgstr "1. একই সময়ে %s খুলে রেখে অন্য কাজ করতে পারেন!"
-
-msgctxt "first_run_upgrade_page_text1_highlight"
-msgid "multiple tabs"
-msgstr "একাধিক ট্যাব"
-
-#. The %s here is a placeholder for "adding them to the home screen!" (paired
-#. with first_run_upgrade_page_text2_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text2"
-msgid "2. Access your favorite sites quickly by %s"
-msgstr "2. %s দ্বারা আপনার প্রিয় সাইটগুলিকে দ্রুত অ্যাক্সেস করুন"
-
-msgctxt "first_run_upgrade_page_text2_highlight"
-msgid "adding them to the home screen!"
-msgstr "হোম স্ক্রিনে তাদের যোগ করুন!"
-
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
 msgstr "ঠিক আছে, বুঝেছি!"
 
-msgctxt "firstrun_skip_button"
-msgid "Skip"
-msgstr "উপেক্ষা করুন"
+#. !NOT USE! The welcome titles in Firefox Lite 2.5
+msgctxt "firstrun_fxlite_2.5_title_1"
+msgid "Hello!"
+msgstr ""
 
-msgctxt "firstrun_next_button"
-msgid "Next"
-msgstr "পরবর্তী"
+#. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
+#. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "firstrun_fxlite_2.5_title_2"
+msgid "What brings you to %1$s?"
+msgstr ""
 
 #. The welcome titles in Firefox Lite 2.5
-msgctxt "firstrun_fxlite_2.5_title_1"
+msgctxt "firstrun_fxlite_2_5_title_A"
 msgid "Hello!"
 msgstr ""
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
 #, c-format
-msgctxt "firstrun_fxlite_2.5_title_2"
+msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
 msgstr ""
 
@@ -2125,23 +2014,6 @@ msgstr "স্পোর্টস ও রেসিং"
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
 msgstr "মেয়েদের"
-
-#. Home 2.0
-#. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
-#. replaced with the name of the app (e.g. Firefox Lite)
-#, c-format
-msgctxt "onboarding_2_introduction_title"
-msgid "Brand-new %1$s"
-msgstr "একেবারে-নতুন %1$s"
-
-#, fuzzy
-msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
-msgstr ""
-"গতিশীল এবং হালকা রয়েছে। ইন্টারনেট ব্রাউজিং আরও মজাদার এবং উপভোগ্য করতে "
-"আমরা স্মার্ট শপিং অনুসন্ধান এবং কন্টেন্ট যুক্ত করেছি!"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
