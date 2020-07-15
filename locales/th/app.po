@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-07-09 08:13+0000\n"
-"PO-Revision-Date: 2020-07-03 10:53+0000\n"
+"POT-Creation-Date: 2020-06-29 02:10+0000\n"
+"PO-Revision-Date: 2020-07-13 11:38+0000\n"
 "Last-Translator: aefgh39622@gmail.com <aefgh39622@gmail.com>\n"
 "Language: th\n"
 "Language-Team: th <LL@li.org>\n"
@@ -38,12 +38,12 @@ msgstr "ค้นหาหรือป้อนที่อยู่"
 #. offer a button for users to visit the website by a single tap.
 msgctxt "awesomebar_open_copied_link"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "เปิดลิงก์ที่คัดลอก"
 
 #. A search suggestion for users to tap and switch to the opened tab.
 msgctxt "awesomebar_switch_to_tab"
 msgid "Switch to Tab"
-msgstr ""
+msgstr "สลับไปยังแท็บ"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -558,7 +558,7 @@ msgstr "ถัดไป"
 #. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
 msgid "Hello!"
-msgstr ""
+msgstr "สวัสดี!"
 
 #. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
 #. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
@@ -577,30 +577,30 @@ msgstr ""
 #, c-format
 msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
-msgstr ""
+msgstr "ทำไมคุณถึงเลือก %1$s?"
 
 #. 4 content themes for users to select in order to get the most relevant
 #. content on Firefox Lite Home
 msgctxt "content_theme_1"
 msgid "Browse the Web"
-msgstr ""
+msgstr "เรียกดูเว็บ"
 
 msgctxt "content_theme_2"
 msgid "Find Good Deals"
-msgstr ""
+msgstr "ค้นหาข้อเสนอดี ๆ"
 
 msgctxt "content_theme_3"
 msgid "Play Games and Videos"
-msgstr ""
+msgstr "เล่นเกมและวิดีโอ"
 
 msgctxt "content_theme_4"
 msgid "Read Trending News"
-msgstr ""
+msgstr "อ่านข่าวที่กำลังมาแรง"
 
 #. Button to finish setting
 msgctxt "button_done"
 msgid "Done"
-msgstr ""
+msgstr "เสร็จสิ้น"
 
 #. Menu labels
 #. Zerda Need l10n
@@ -687,23 +687,23 @@ msgstr "ชุดตกแต่ง"
 #. Titles in theme settings panel
 msgctxt "theme_settings_title"
 msgid "Choose your theme"
-msgstr ""
+msgstr "เลือกชุดตกแต่งของคุณ"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
-msgstr ""
+msgstr "ประหยัดแบตเตอรี่ได้โดยเลือกชุดตกแต่งมืด"
 
 #. The title in the dialog for congratulating users who have done a setting.
 msgctxt "set_as_default_dialog_title"
 msgid "Well done!"
-msgstr ""
+msgstr "ดีมาก!"
 
 #. The subtitle in the dialog for asking if the user want to set Firefox Lite
 #. as default. The %1$s is Firefox Lite.
 #, c-format
 msgctxt "set_as_default_dialog_subtitle"
 msgid "Your %1$s is looking great! Do you want to set it as your default browser?"
-msgstr ""
+msgstr "%1$s ของคุณดูดีมาก! คุณต้องการตั้งเป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่?"
 
 #. Add top sites
 #. top sites categories on the top sites list
@@ -711,10 +711,9 @@ msgctxt "top_site_category_1"
 msgid "Popular Websites"
 msgstr "เว็บไซต์ยอดนิยม"
 
-#, fuzzy
 msgctxt "top_site_category_2"
 msgid "Shopping & travel"
-msgstr ""
+msgstr "การซื้อของและการท่องเที่ยว"
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
@@ -726,7 +725,7 @@ msgstr "อื่น ๆ"
 
 msgctxt "top_site_category_5"
 msgid "News"
-msgstr ""
+msgstr "ข่าว"
 
 #. Message shown after the user added a top site on Home successfully
 msgctxt "add_top_site_snackbar_1"
@@ -2803,5 +2802,4 @@ msgstr "ตั้งเป็นค่าเริ่มต้น"
 #. the first of the Awesome Bar suggestion
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Link in your Clipboard"
-msgstr ""
-
+msgstr "เปิดลิงก์ในคลิปบอร์ดของคุณ"
