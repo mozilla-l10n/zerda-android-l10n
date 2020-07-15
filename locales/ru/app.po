@@ -518,15 +518,27 @@ msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "Далее"
 
-#. The welcome titles in Firefox Lite 2.5
+#. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
 msgid "Hello!"
 msgstr "Привет!"
 
+#. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
+#. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "firstrun_fxlite_2.5_title_2"
+msgid "What brings you to %1$s?"
+msgstr ""
+
+#. The welcome titles in Firefox Lite 2.5
+msgctxt "firstrun_fxlite_2_5_title_A"
+msgid "Hello!"
+msgstr ""
+
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
 #, c-format
-msgctxt "firstrun_fxlite_2.5_title_2"
+msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
 msgstr "Что привело вас в %1$s?"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-29 02:10+0000\n"
+"POT-Creation-Date: 2020-07-09 08:13+0000\n"
 "PO-Revision-Date: 2020-02-25 18:57+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language: anp\n"
@@ -550,15 +550,27 @@ msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "अगिला"
 
-#. The welcome titles in Firefox Lite 2.5
+#. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
+msgid "Hello!"
+msgstr ""
+
+#. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
+#. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
+#, c-format
+msgctxt "firstrun_fxlite_2.5_title_2"
+msgid "What brings you to %1$s?"
+msgstr ""
+
+#. The welcome titles in Firefox Lite 2.5
+msgctxt "firstrun_fxlite_2_5_title_A"
 msgid "Hello!"
 msgstr ""
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
 #, c-format
-msgctxt "firstrun_fxlite_2.5_title_2"
+msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
 msgstr ""
 
