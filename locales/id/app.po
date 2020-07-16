@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-07-09 08:13+0000\n"
+"POT-Creation-Date: 2020-07-16 08:07+0000\n"
 "PO-Revision-Date: 2020-07-03 05:22+0000\n"
 "Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
 "Language: id\n"
@@ -413,101 +413,6 @@ msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
 msgstr "Buka gambar di tab baru"
 
-#. First run tour
-#. title for first page of FirstRun, Argument 1 will be formatted by product
-#. name
-#, c-format
-msgctxt "first_run_page1_title"
-msgid "Thanks for choosing %1$s"
-msgstr "Terima kasih telah memilih %1$s"
-
-#. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format
-msgctxt "first_run_page1_text"
-msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"Peramban yang dibuat oleh %1$s, organisasi nirlaba yang berkomitmen pada "
-"web bebas dan terbuka."
-
-msgctxt "first_run_page2_title"
-msgid "Browse faster than ever"
-msgstr "Menjelajah secepat kilat"
-
-msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"Gunakan mode turbo untuk memblokir iklan pelacak sehingga Anda dapat "
-"menjelajah dengan super cepat. Jika situs terasa bermasalah, cukup "
-"nonaktifkan lewat menu."
-
-msgctxt "first_run_page3_title"
-msgid "Save data = Save money"
-msgstr "Hemat data = Hemat uang"
-
-msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"Hemat kuota data dengan memblokir iklan berpelacak. Lebih hemat lagi saat"
-" Anda aktifkan pemblokir gambar."
-
-msgctxt "first_run_page4_title"
-msgid "Screenshot the whole page"
-msgstr "Cuplik keseluruhan layar"
-
-msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"Cuplik layar keseluruhan penggeseran layar. Baca secara luring tanpa "
-"kuota data atau ketuk untuk mengunjungi laman Web tersebut."
-
-msgctxt "first_run_page5_title"
-msgid "Next-level privacy"
-msgstr "Privasi tingkat lanjut"
-
-msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"Jelajahi tanpa pelacak dan blokir sebagian besar pelacak web secara baku."
-" Pastikan keamanan data rahasia Anda."
-
-#. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
-#. which is localized in preference_learn_more. Life Feed is an information
-#. panel covering content that might help our customers' life. It covers from
-#. the most popular topics to the hottest deals, including news, games,
-#. coupon...etc.
-#, c-format
-msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"Hanya sekali tampil, dapatkan informasi terkini dengan “%1$s” - kumpulan "
-"berbagai konten dari topik populer hingga penawaran menarik. %2$s"
-
-#. Title message shown in a privacy on-boarding page. It means to prevent
-#. websites from tracking you.
-msgctxt "first_run_page7_title"
-msgid "Prevent from being tracked"
-msgstr "Cegah agar tidak dilacak"
-
-msgctxt "first_run_page7_text"
-msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
-"Sekarang Anda dapat memeriksa berapa banyak pelacak yang diblokir dalam "
-"mode pribadi."
-
-msgctxt "first_run_upgrade_page_title"
-msgid "We heard your feedback!"
-msgstr "Kami mendengar masukan Anda!"
-
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
 msgstr "Tampilan baru!"
@@ -522,39 +427,9 @@ msgstr ""
 "Melalui evolusi produk, kami hadirkan %1$s yang segar, dengan nama dan "
 "logo baru."
 
-#. The %s here is a placeholder for "multiple tabs" (paired with
-#. first_run_upgrade_page_text1_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text1"
-msgid "1. Multitask by opening %s at the same time!"
-msgstr "1. Mengerjakan sekaligus dengan membuka %s secara bersamaan!"
-
-msgctxt "first_run_upgrade_page_text1_highlight"
-msgid "multiple tabs"
-msgstr "multi-tab"
-
-#. The %s here is a placeholder for "adding them to the home screen!" (paired
-#. with first_run_upgrade_page_text2_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text2"
-msgid "2. Access your favorite sites quickly by %s"
-msgstr "2. Akses situs favorit Anda secara cepat dengan %s"
-
-msgctxt "first_run_upgrade_page_text2_highlight"
-msgid "adding them to the home screen!"
-msgstr "menambahkan ke beranda!"
-
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
 msgstr "Oke, paham"
-
-msgctxt "firstrun_skip_button"
-msgid "Skip"
-msgstr "Lewati"
-
-msgctxt "firstrun_next_button"
-msgid "Next"
-msgstr "Lanjut"
 
 #. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
@@ -1301,6 +1176,26 @@ msgstr "Kirim Saran"
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
 msgstr "MASUKAN"
+
+#. User satisfaction survey
+#. The title of the dialog for asking users to take a satisfaction survey,
+#. %1$s is the App name.
+#, c-format
+msgctxt "survey_dialog_text_title"
+msgid "How do you like %1$s?"
+msgstr ""
+
+#. Content text in the dialog.
+msgctxt "survey_dialog_text_content"
+msgid ""
+"Tell us your thoughts about what you love, or what we could be doing "
+"better."
+msgstr ""
+
+#. A button to go to the survey website.
+msgctxt "survey_dialog_btn"
+msgid "Take survey"
+msgstr ""
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -2147,23 +2042,6 @@ msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
 msgstr "Perempuan"
 
-#. Home 2.0
-#. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
-#. replaced with the name of the app (e.g. Firefox Lite)
-#, c-format
-msgctxt "onboarding_2_introduction_title"
-msgid "Brand-new %1$s"
-msgstr "%1$s terbaru"
-
-msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
-msgstr ""
-"Peramban yang cepat dan ringan, kini dengan fitur menawan! Kami "
-"menambahkan pencarian dan konten belanja pintar agar meramban lebih "
-"menyenangkan!"
-
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
@@ -2817,7 +2695,8 @@ msgstr "TETAPKAN SEBAGAI BAKU"
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
+#, fuzzy
 msgctxt "awesomebar_open_link_clipboard"
-msgid "Open Link in your Clipboard"
+msgid "Open Copied Link"
 msgstr "Buka Tautan di Papan Klip Anda"
 
