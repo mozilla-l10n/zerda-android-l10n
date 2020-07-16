@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-07-09 08:13+0000\n"
+"POT-Creation-Date: 2020-07-16 08:07+0000\n"
 "PO-Revision-Date: 2020-07-03 09:39+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language: vi\n"
@@ -413,101 +413,6 @@ msgctxt "contextmenu_open_image_in_new_tab"
 msgid "Open image in new tab"
 msgstr "Mở hình ảnh trong thẻ mới"
 
-#. First run tour
-#. title for first page of FirstRun, Argument 1 will be formatted by product
-#. name
-#, c-format
-msgctxt "first_run_page1_title"
-msgid "Thanks for choosing %1$s"
-msgstr "Cảm ơn bạn đã chọn %1$s"
-
-#. Message for first page of FirstRun, %1$s will be "Mozilla"
-#, c-format
-msgctxt "first_run_page1_text"
-msgid "A browser made by %1$s, the non-profit committed to a free and open web."
-msgstr ""
-"Một trình duyệt được tạo bởi %1$s, phi lợi nhuận đã cam kết với một trang"
-" web mở và miễn phí."
-
-msgctxt "first_run_page2_title"
-msgid "Browse faster than ever"
-msgstr "Duyệt nhanh hơn bao giờ hết"
-
-msgctxt "first_run_page2_text"
-msgid ""
-"Use turbo mode to block tracking ads so you can browse at blazing speeds."
-" If sites seem broken, just tap off the turbo mode switch in the menu."
-msgstr ""
-"Sử dụng chế độ tăng tốc để chặn quảng cáo theo dõi để bạn và có thể duyệt"
-" ở tốc độ nhanh. Nếu các trang web có vẻ bị hỏng, chỉ cần chạm vào công "
-"tắc của chế độ tăng tốc trong menu."
-
-msgctxt "first_run_page3_title"
-msgid "Save data = Save money"
-msgstr "Lưu dữ liệu = Tiết kiệm tiền"
-
-msgctxt "first_run_page3_text"
-msgid ""
-"Save on data costs by blocking tracking ads. Save even more when you "
-"enable image blocking."
-msgstr ""
-"Tiết kiệm chi phí dữ liệu bằng cách chặn quảng cáo. Tiết kiệm hơn nữa khi"
-" bạn kích hoạt chặn hình ảnh."
-
-msgctxt "first_run_page4_title"
-msgid "Screenshot the whole page"
-msgstr "Ảnh chụp màn hình toàn bộ trang"
-
-msgctxt "first_run_page4_text"
-msgid ""
-"Take screenshot of an entire page scroll. Read it offline without using "
-"data or tap it to revisit the web page."
-msgstr ""
-"Chụp ảnh màn hình của toàn bộ trang. Đọc ngoại tuyến mà không sử dụng dữ "
-"liệu hoặc chạm vào nó để xem lại trang web."
-
-msgctxt "first_run_page5_title"
-msgid "Next-level privacy"
-msgstr "Quyền riêng tư cấp độ tiếp theo"
-
-msgctxt "first_run_page5_text"
-msgid ""
-"Browse without a trace, and block a wide range of common web trackers by "
-"default. Ensure the security of your confidential data."
-msgstr ""
-"Duyệt mà không để lại dấu vết và chặn một loạt các trình theo dõi web phổ"
-" biến theo mặc định. Đảm bảo an toàn cho dữ liệu bí mật của bạn."
-
-#. The %1$s here is a placeholder for "Life Feed", the %2$s is "Learn more"
-#. which is localized in preference_learn_more. Life Feed is an information
-#. panel covering content that might help our customers' life. It covers from
-#. the most popular topics to the hottest deals, including news, games,
-#. coupon...etc.
-#, c-format
-msgctxt "first_run_page6_text"
-msgid ""
-"Just one flip, keep yourself updated with the “%1$s” - a variety of "
-"contents from the most popular topics to the hottest deals. %2$s"
-msgstr ""
-"Chỉ cần một lần lật, hãy cập nhật cho bạn với “%1$s” - một loạt nội dung "
-"từ các chủ đề phổ biến nhất đến các giao dịch hấp dẫn nhất. %2$s"
-
-#. Title message shown in a privacy on-boarding page. It means to prevent
-#. websites from tracking you.
-msgctxt "first_run_page7_title"
-msgid "Prevent from being tracked"
-msgstr "Ngăn chặn theo dõi"
-
-msgctxt "first_run_page7_text"
-msgid "Now you can check how many trackers are blocked in private mode."
-msgstr ""
-"Bây giờ bạn có thể kiểm tra có bao nhiêu trình theo dõi bị chặn trong chế"
-" độ riêng tư."
-
-msgctxt "first_run_upgrade_page_title"
-msgid "We heard your feedback!"
-msgstr "Chúng tôi đã ghi nhận phản hồi của bạn!"
-
 msgctxt "new_name_upgrade_page_title"
 msgid "We have a new look!"
 msgstr "Chúng tôi có một cái nhìn mới!"
@@ -522,39 +427,9 @@ msgstr ""
 "Với sản phẩm đã phát triển, chúng tôi mang đến cho bạn một %1$s mới mẻ,"
 " với tên mới và logo mới."
 
-#. The %s here is a placeholder for "multiple tabs" (paired with
-#. first_run_upgrade_page_text1_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text1"
-msgid "1. Multitask by opening %s at the same time!"
-msgstr "1. Đa nhiệm bằng cách mở %s cùng một lúc!"
-
-msgctxt "first_run_upgrade_page_text1_highlight"
-msgid "multiple tabs"
-msgstr "nhiều thẻ"
-
-#. The %s here is a placeholder for "adding them to the home screen!" (paired
-#. with first_run_upgrade_page_text2_highlight)
-#, c-format, python-format
-msgctxt "first_run_upgrade_page_text2"
-msgid "2. Access your favorite sites quickly by %s"
-msgstr "2. Truy cập các trang web yêu thích của bạn một cách nhanh chóng theo %s"
-
-msgctxt "first_run_upgrade_page_text2_highlight"
-msgid "adding them to the home screen!"
-msgstr "thêm chúng vào màn hình chính!"
-
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
 msgstr "OK, đã hiểu!"
-
-msgctxt "firstrun_skip_button"
-msgid "Skip"
-msgstr "Bỏ qua"
-
-msgctxt "firstrun_next_button"
-msgid "Next"
-msgstr "Tiếp"
 
 #. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
@@ -1301,6 +1176,26 @@ msgstr "Để lại phản hồi"
 msgctxt "rate_app_notification_action_feedback"
 msgid "FEEDBACK"
 msgstr "PHẢN HỒI"
+
+#. User satisfaction survey
+#. The title of the dialog for asking users to take a satisfaction survey,
+#. %1$s is the App name.
+#, c-format
+msgctxt "survey_dialog_text_title"
+msgid "How do you like %1$s?"
+msgstr ""
+
+#. Content text in the dialog.
+msgctxt "survey_dialog_text_content"
+msgid ""
+"Tell us your thoughts about what you love, or what we could be doing "
+"better."
+msgstr ""
+
+#. A button to go to the survey website.
+msgctxt "survey_dialog_btn"
+msgid "Take survey"
+msgstr ""
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -2153,23 +2048,6 @@ msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
 msgstr "Gái"
 
-#. Home 2.0
-#. Onboarding for existing users to upgrage to Firefox Lite 2.0. %1$s will be
-#. replaced with the name of the app (e.g. Firefox Lite)
-#, c-format
-msgctxt "onboarding_2_introduction_title"
-msgid "Brand-new %1$s"
-msgstr "%1$s hoàn toàn mới"
-
-msgctxt "onboarding_2_introduction_description"
-msgid ""
-"A fast and lightweight browser, now with cool features! We have added "
-"smart shopping search and content to make browsing more fun!"
-msgstr ""
-"Một trình duyệt nhanh và nhẹ, bây giờ với các tính năng thú vị! Chúng tôi"
-" đã thêm tìm kiếm và nội dung mua sắm thông minh để làm cho trình duyệt "
-"thú vị hơn!"
-
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
 msgctxt "onboarding_2_content_services_news_shopping_games"
@@ -2828,7 +2706,8 @@ msgstr "ĐẶT LÀM MẶC ĐỊNH"
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
+#, fuzzy
 msgctxt "awesomebar_open_link_clipboard"
-msgid "Open Link in your Clipboard"
+msgid "Open Copied Link"
 msgstr "Mở liên kết trong bộ nhớ tạm của bạn"
 
