@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-07-23 05:23+0000\n"
+"PO-Revision-Date: 2020-07-24 03:52+0000\n"
 "Last-Translator: nandar <ia.adnan@gmail.com>\n"
 "Language-Team: su <LL@li.org>\n"
 "\n"
@@ -2573,7 +2573,6 @@ msgstr "SETÉL JADI BAKU"
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
-#, fuzzy
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Copied Link"
-msgstr "Buka Tutumbu dina Papan Klip anjeun"
+msgstr "Buka Tutumbu Tironan"
