@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-07-30 11:06+0000\n"
+"PO-Revision-Date: 2020-07-30 11:09+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -537,7 +537,7 @@ msgstr ""
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
 msgid "Add top sites"
-msgstr ""
+msgstr "మేటి సైటును చేర్చు"
 
 #. Menu text for setting themes
 msgctxt "label_menu_themes"
@@ -548,16 +548,16 @@ msgstr "అలంకారాలు"
 #. Titles in theme settings panel
 msgctxt "theme_settings_title"
 msgid "Choose your theme"
-msgstr ""
+msgstr "మీ అలంకారాన్ని ఎంచుకోండి"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
-msgstr ""
+msgstr "నల్లని అలంకారాన్ని ఎంచుకొని కొంత బ్యాటరీని ఆదా చేసుకోండి."
 
 #. The title in the dialog for congratulating users who have done a setting.
 msgctxt "set_as_default_dialog_title"
 msgid "Well done!"
-msgstr ""
+msgstr "అభినందనలు!"
 
 #. The subtitle in the dialog for asking if the user want to set Firefox Lite
 #. as default. The %1$s is Firefox Lite.
@@ -579,40 +579,40 @@ msgstr ""
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
-msgstr ""
+msgstr "వినోదం"
 
 msgctxt "top_site_category_4"
 msgid "Others"
-msgstr ""
+msgstr "ఇతరాలు"
 
 msgctxt "top_site_category_5"
 msgid "News"
-msgstr ""
+msgstr "వార్తలు"
 
 #. Message shown after the user added a top site on Home successfully
 msgctxt "add_top_site_snackbar_1"
 msgid "Top site added"
-msgstr ""
+msgstr "మేటి సైటు చేర్చబడింది"
 
 #. Message shown after the user added an existing top site on Home
 msgctxt "add_top_site_snackbar_2"
 msgid "The site has been added"
-msgstr ""
+msgstr "సైటు చేర్చబడివుంది"
 
 #. Error message shown when the user has no spaces to add new top sites
 msgctxt "add_top_site_toast"
 msgid "Please remove a top site beforehand"
-msgstr ""
+msgstr "మందు ఒక మేటి సైటును తీసివేయండి"
 
 #. a button for adding more top sites
 msgctxt "add_top_site_button"
 msgid "ADD MORE"
-msgstr ""
+msgstr "ఇంకా చేర్చు"
 
 #. a placeholder for adding more top sites
 msgctxt "add_top_site_placeholder"
 msgid "Add"
-msgstr ""
+msgstr "చేర్చు"
 
 #. Message shown after user denied location permission prompt.
 msgctxt "permission_toast_location_deny"
@@ -997,7 +997,7 @@ msgstr "నిల్వ అందుబాటులో లేదు. దిం�
 
 msgctxt "message_exit_app"
 msgid "Press BACK again to exit"
-msgstr ""
+msgstr "నిష్క్రమించడానికి వెనుకను మళ్ళీ నొక్కండి"
 
 #. Message indicate how much cache file cause disk storage was cleared.
 #. Argument 1 is the amount, i.e. 15.0 MB cache cleared
