@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-07-30 11:09+0000\n"
+"PO-Revision-Date: 2020-07-30 11:21+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -419,7 +419,7 @@ msgstr "సరే, అర్థమైంది!"
 #. !NOT USE! The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2.5_title_1"
 msgid "Hello!"
-msgstr ""
+msgstr "హలో!"
 
 #. !NOT USE! The welcome titles in Firefox Lite 2.5 for asking users to choose
 #. a main purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
@@ -431,7 +431,7 @@ msgstr ""
 #. The welcome titles in Firefox Lite 2.5
 msgctxt "firstrun_fxlite_2_5_title_A"
 msgid "Hello!"
-msgstr ""
+msgstr "హలో!"
 
 #. The welcome titles in Firefox Lite 2.5 for asking users to choose a main
 #. purpose of downloading Firefox Lite. The %1$s is Firefox Lite.
@@ -461,7 +461,7 @@ msgstr ""
 #. Button to finish setting
 msgctxt "button_done"
 msgid "Done"
-msgstr ""
+msgstr "పూర్తయింది"
 
 #. Menu labels
 #. Zerda Need l10n
@@ -527,12 +527,12 @@ msgstr "నిష్క్రమించు"
 #. Menu text for adding websites to users' home screen.
 msgctxt "label_menu_add_to_home_screen"
 msgid "Add to home screen"
-msgstr ""
+msgstr "ముంగిలి తెరకు చేర్చు"
 
 #. Menu text for turning content & services on/off
 msgctxt "label_menu_content_services"
 msgid "Show Content & Services"
-msgstr ""
+msgstr "కంటెంట్ & సేవలను చూపించు"
 
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
@@ -570,12 +570,11 @@ msgstr ""
 #. top sites categories on the top sites list
 msgctxt "top_site_category_1"
 msgid "Popular Websites"
-msgstr ""
+msgstr "ప్రాచుర్య వెబ్‌సైట్లు"
 
-#, fuzzy
 msgctxt "top_site_category_2"
 msgid "Shopping & travel"
-msgstr ""
+msgstr "షాపింగ్ & ప్రయాణం"
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
@@ -1876,7 +1875,7 @@ msgstr ""
 #. "New" is a small tag to let users know that it is a new game.
 msgctxt "gaming_vertical_new"
 msgid "New"
-msgstr ""
+msgstr "కొత్తది"
 
 #. Gaming Contextual Hint
 msgctxt "gaming_vertical_hint_title"
@@ -1940,11 +1939,11 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_6"
 msgid "Strategy"
-msgstr ""
+msgstr "వ్యూహం"
 
 msgctxt "gaming_vertical_genre_7"
 msgid "Adventure"
-msgstr ""
+msgstr "సాహసం"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
@@ -1964,7 +1963,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_12"
 msgid "Girls"
-msgstr ""
+msgstr "బాలికలు"
 
 #. Onboarding for new users to introduce Firefox Lite 2.0
 #. Introduce Content & Services
@@ -1997,7 +1996,7 @@ msgstr ""
 
 msgctxt "home_search_bar_text"
 msgid "Search…"
-msgstr ""
+msgstr "వెతకండి…"
 
 #. Content & Services
 #. Title of Content & Services
@@ -2354,7 +2353,7 @@ msgstr ""
 #. travel home
 msgctxt "travel_vertical_title"
 msgid "Travel"
-msgstr ""
+msgstr "ప్రయాణం"
 
 #. explore is a verb which means the action for finding new destinations
 msgctxt "travel_vertical_category_1"
@@ -2398,12 +2397,12 @@ msgstr ""
 #. this is a subcategory title
 msgctxt "travel_detail_page_subcategory_hotel"
 msgid "Popular hotels"
-msgstr ""
+msgstr "ప్రాచుర్య హోటళ్ళు"
 
 #. this is the button for seeing more deals on the booking website
 msgctxt "travel_more"
 msgid "More"
-msgstr ""
+msgstr "మరిన్ని"
 
 #. Instagram content. the %1$s here is the destination name
 #, c-format, fuzzy
@@ -2433,10 +2432,9 @@ msgctxt "travel_hotel_detail_1"
 msgid "Free Wi-Fi"
 msgstr "ఉచిత వైఫై"
 
-#, fuzzy
 msgctxt "travel_hotel_detail_2"
 msgid "No credit cards required"
-msgstr ""
+msgstr "క్రెడిట్ కార్డులు అవసరం లేదు"
 
 msgctxt "travel_hotel_detail_3"
 msgid "Pay upon check in"
@@ -2569,7 +2567,6 @@ msgstr ""
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
-#, fuzzy
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "కాపీ అయిన లంకెను తెరువు"
