@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-07-31 05:45+0000\n"
+"PO-Revision-Date: 2020-07-31 05:49+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -438,7 +438,7 @@ msgstr "హలో!"
 #, c-format
 msgctxt "firstrun_fxlite_2_5_title_B"
 msgid "What brings you to %1$s?"
-msgstr ""
+msgstr "మిమ్మల్ని %1$s‌కి తీసుకువచ్చింది ఏమిటి?"
 
 #. 4 content themes for users to select in order to get the most relevant
 #. content on Firefox Lite Home
@@ -1155,7 +1155,7 @@ msgstr "ప్రతిస్పందన"
 #, c-format
 msgctxt "survey_dialog_text_title"
 msgid "How do you like %1$s?"
-msgstr ""
+msgstr "%1$s మీకు నచ్చిందా?"
 
 #. Content text in the dialog.
 msgctxt "survey_dialog_text_content"
@@ -1684,7 +1684,7 @@ msgstr ""
 #, c-format
 msgctxt "private_browsing_shortcut_name"
 msgid "%1$s - Private browsing"
-msgstr ""
+msgstr "%1$s - అంతరంగిక విహారణ"
 
 #. Item in Preferences that users can add private mode shortcut to their
 #. device' home.
@@ -1769,7 +1769,7 @@ msgstr ""
 
 msgctxt "shopping_search_prompt_message_button"
 msgid "Search"
-msgstr ""
+msgstr "వెతుకు"
 
 #. Switch UI Onboarding
 msgctxt "shopping_switch_ui_onboarding_body"
@@ -1850,13 +1850,13 @@ msgstr ""
 
 msgctxt "shopping_coupon_expire_one"
 msgid "1 day left"
-msgstr ""
+msgstr "1 రోజు ఉంది"
 
 #. %1$d is the decimal for how many days left till the shopping coupon expired.
 #, c-format
 msgctxt "shopping_coupon_expire_other"
 msgid "%1$d days left"
-msgstr ""
+msgstr "%1$d రోజులు ఉన్నాయి"
 
 #. Gaming Vertical
 #. Gaming Home
@@ -1947,11 +1947,11 @@ msgstr "సాహసం"
 
 msgctxt "gaming_vertical_genre_8"
 msgid "Action"
-msgstr ""
+msgstr "పోరాటాలు"
 
 msgctxt "gaming_vertical_genre_9"
 msgid "Arcade"
-msgstr ""
+msgstr "ఆర్కేడ్"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
@@ -2119,7 +2119,7 @@ msgstr ""
 
 msgctxt "msrp_challenge_details_sign_in_to_start"
 msgid "Enter your email address to get started."
-msgstr ""
+msgstr "మీ ఈమెయిలు చిరునామా ఇచ్చి మొదలుపెట్టండి."
 
 #. "I'm In!" is a button where users can press to join the reward program
 msgctxt "msrp_challenge_button_1"
