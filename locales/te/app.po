@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-07-31 05:49+0000\n"
+"PO-Revision-Date: 2020-08-01 15:07+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -1119,7 +1119,7 @@ msgstr "ఎల్లప్పుడూ"
 #. system settings
 msgctxt "setting_default_browser_instruction_button"
 msgid "Go to settings"
-msgstr ""
+msgstr "అమరికలకు వెళ్లు"
 
 #. In-app Promotion, Rate the App
 #. The title of the Message to prompt users to rate Rocket on Play Store, %1$s
