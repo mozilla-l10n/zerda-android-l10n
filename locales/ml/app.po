@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-07-16 08:07+0000\n"
+"POT-Creation-Date: 2020-08-07 06:07+0000\n"
 "PO-Revision-Date: 2019-06-04 03:43+0000\n"
 "Last-Translator: ജോയ്സ് <joicefootball@gmail.com>\n"
 "Language: ml\n"
@@ -461,8 +461,9 @@ msgstr ""
 
 #. 4 content themes for users to select in order to get the most relevant
 #. content on Firefox Lite Home
+#, fuzzy
 msgctxt "content_theme_1"
-msgid "Browse the Web"
+msgid "All of the Above"
 msgstr ""
 
 msgctxt "content_theme_2"
@@ -584,6 +585,11 @@ msgstr ""
 #, c-format
 msgctxt "set_as_default_dialog_subtitle"
 msgid "Your %1$s is looking great! Do you want to set it as your default browser?"
+msgstr ""
+
+#. The button in the dialog for starting the default browser setting flow
+msgctxt "set_as_default_dialog_button"
+msgid "Set up now"
 msgstr ""
 
 #. Add top sites
@@ -2552,8 +2558,9 @@ msgid "“I haven’t been everywhere, but it’s on my list.”"
 msgstr ""
 
 #. button for entering the search page
+#, fuzzy
 msgctxt "travel_empty_state_button"
-msgid "Explore a city"
+msgid "explore a city"
 msgstr ""
 
 #. snackbar message after saving a destination
