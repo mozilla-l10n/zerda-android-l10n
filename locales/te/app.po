@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-01 15:07+0000\n"
+"PO-Revision-Date: 2020-08-07 18:59+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -39,7 +39,7 @@ msgstr "వెతకండి లేదా చిరునామాను ఇవ
 #. offer a button for users to visit the website by a single tap.
 msgctxt "awesomebar_open_copied_link"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "కాపీ అయిన లంకెను తెరువు"
 
 #. A search suggestion for users to tap and switch to the opened tab.
 msgctxt "awesomebar_switch_to_tab"
@@ -2472,7 +2472,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_onboarding_save_title"
 msgid "Love %1$s?"
-msgstr ""
+msgstr "%1$s నచ్చిందా?"
 
 #. the %1$s here is the destination name
 #, c-format
@@ -2520,7 +2520,7 @@ msgstr ""
 #. dialog title for introducing Firefox Lite Travel Discovery
 msgctxt "travel_dialog_1_title"
 msgid "Discover More!"
-msgstr ""
+msgstr "మరింత కనుగొనండి!"
 
 #. dialog description for introducing the feature. the first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
@@ -2534,7 +2534,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_dialog_1_action_1_new"
 msgid "TRY %1$s"
-msgstr ""
+msgstr "%1$s‌ను ప్రయత్నించండి"
 
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
@@ -2546,7 +2546,7 @@ msgstr ""
 #, c-format
 msgctxt "travel_dialog_2_title_new"
 msgid "Enjoy Using %1$s?"
-msgstr ""
+msgstr "%1$s‌ని వాడటం ఆనందిస్తున్నారా?"
 
 #. dialog description for introducing how it works. The first %1$s is Firefox
 #. Lite, and the %2$s is Travel Discovery.
