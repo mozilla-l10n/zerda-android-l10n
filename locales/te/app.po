@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-07 20:25+0000\n"
+"PO-Revision-Date: 2020-08-07 20:26+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -2270,7 +2270,7 @@ msgstr "చివరి హెచ్చరిక: పలు Firefox ఖాతా
 
 msgctxt "msrp_disqualification_title_3"
 msgid "Account disabled"
-msgstr ""
+msgstr "ఖాతా అచేతనమయ్యింది"
 
 msgctxt "msrp_disqualification_body_3"
 msgid "You can no longer participate in the 7-Day challenge."
@@ -2508,7 +2508,7 @@ msgstr ""
 #. error message for no results state
 msgctxt "travel_no_result_state_text"
 msgid "Hmm. No results found."
-msgstr ""
+msgstr "మ్‌మ్. ఫలితాలు ఏమీ కనబడలేదు."
 
 #. button for searching the keyword on Google. the %1$s here is GOOGLE
 #, c-format
@@ -2563,7 +2563,7 @@ msgstr "నన్ను మళ్లీ అడగవద్దు"
 #. Action button for setting Travel Discovery as default search engine
 msgctxt "travel_dialog_2_action"
 msgid "SET AS DEFAULT"
-msgstr ""
+msgstr "అప్రమేయంగా అమర్చు"
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
