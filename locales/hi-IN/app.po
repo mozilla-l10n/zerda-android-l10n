@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-10 08:35+0000\n"
+"PO-Revision-Date: 2020-08-10 08:37+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1074,10 +1074,10 @@ msgstr "क्या आप अपने तयशुदा ब्राउज�
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they be directed to
 #. system settings page to complete the settings. The %1$s is Firefox Lite.
-#, c-format, fuzzy
+#, c-format
 msgctxt "setting_default_browser_instruction_system_settings"
 msgid "2 steps to set %1$s as your default browser"
-msgstr "30 सेकंड में %1$s को अपने तयशुदा ब्राउज़र के रूप में सेट करें"
+msgstr "2 चरण में %1$s को अपना डिफ़ॉल्ट ब्राउज़र बनाएं"
 
 #. Title for setting default browser dialog popped after user tap Set as
 #. default browser. The dialog is for guiding users that they need to choose
