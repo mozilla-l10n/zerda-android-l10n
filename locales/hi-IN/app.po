@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-10 08:03+0000\n"
+"PO-Revision-Date: 2020-08-10 08:25+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -452,16 +452,16 @@ msgstr "अच्छे डील्स खोजें"
 
 msgctxt "content_theme_3"
 msgid "Play Games and Videos"
-msgstr ""
+msgstr "गेम खेलें एवं विडियो देखें"
 
 msgctxt "content_theme_4"
 msgid "Read Trending News"
-msgstr ""
+msgstr "चर्चित ख़बरें पढ़ें"
 
 #. Button to finish setting
 msgctxt "button_done"
 msgid "Done"
-msgstr ""
+msgstr "संपन्न करें"
 
 #. Menu labels
 #. Zerda Need l10n
@@ -537,7 +537,7 @@ msgstr "सामग्री और सेवाएं दिखाएं"
 #. Menu text for adding new top sites
 msgctxt "label_menu_add_top_sites"
 msgid "Add top sites"
-msgstr ""
+msgstr "शीर्ष साइटें जोड़ें"
 
 #. Menu text for setting themes
 msgctxt "label_menu_themes"
@@ -548,16 +548,16 @@ msgstr "थीम"
 #. Titles in theme settings panel
 msgctxt "theme_settings_title"
 msgid "Choose your theme"
-msgstr ""
+msgstr "अपना थीम चुनें"
 
 msgctxt "theme_settings_subtitle"
 msgid "Save some battery by selecting a dark theme."
-msgstr ""
+msgstr "डार्क थीम को चुनकर अपने बैटरी की बचत करें।"
 
 #. The title in the dialog for congratulating users who have done a setting.
 msgctxt "set_as_default_dialog_title"
 msgid "Well done!"
-msgstr ""
+msgstr "बहुत बढ़िया!"
 
 #. The subtitle in the dialog for asking if the user want to set Firefox Lite
 #. as default. The %1$s is Firefox Lite.
