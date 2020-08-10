@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-07 20:26+0000\n"
+"PO-Revision-Date: 2020-08-10 14:09+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -44,7 +44,7 @@ msgstr "కాపీ అయిన లంకెను తెరువు"
 #. A search suggestion for users to tap and switch to the opened tab.
 msgctxt "awesomebar_switch_to_tab"
 msgid "Switch to Tab"
-msgstr ""
+msgstr "ట్యాబుకు మారండి"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -1046,7 +1046,7 @@ msgstr "తాజా బిల్డు దించుకొనబడింద�
 #. Show snack bar so users can tap to update the apk
 msgctxt "update_to_latest_app_snack_bar_update"
 msgid "UPDATE"
-msgstr ""
+msgstr "తాజాకరించు"
 
 #. In-app notification, Privacy policy update
 msgctxt "privacy_policy_update_notification_title"
@@ -1087,7 +1087,7 @@ msgstr ""
 #, c-format
 msgctxt "setting_default_browser_instruction_open_external_link"
 msgid "How to always browse with %1$s?"
-msgstr ""
+msgstr "ఎల్లప్పుడూ %1$s‌తో విహరించడం ఎలా?"
 
 #. Text shown in the setting default browser instruction, the complete sentence
 #. is "Select Browser app", but we separate the sentences for code implementing
@@ -1199,11 +1199,11 @@ msgstr "హలో, %3$s వారి ఈ వేగవంతమైన, తేల�
 #. In-app message to update Firefox Lite
 msgctxt "update_app_dialog_btn_update_now"
 msgid "UPDATE NOW!"
-msgstr ""
+msgstr "ఇప్పుడే తాజాకరించుకోండి!"
 
 msgctxt "update_app_dialog_btn_later"
 msgid "LATER"
-msgstr ""
+msgstr "తర్వాత"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Rocket)     %2$s will be replaced by "Mozilla"
@@ -1552,7 +1552,7 @@ msgstr "జోకులు"
 #. same as Top-News/Technology/Education...
 msgctxt "news_category_option_nation"
 msgid "Nation"
-msgstr ""
+msgstr "జాతీయం"
 
 #. A prefix that shows before the logo of a given partner. This string tries
 #. to show a user that the service he/she is using is provided by this given
@@ -1564,7 +1564,7 @@ msgstr "సేవను అదించువారు"
 #. Recommended news onboarding title.
 msgctxt "recommended_news_title"
 msgid "Recommended News For You"
-msgstr ""
+msgstr "మీ కోసం సిఫార్సు చేసిన వార్తలు"
 
 #. Recommended news onboarding content.    The %1$s here is a placeholder for
 #. "Learn more" which directs users to SUMO page with detail information about
@@ -1580,11 +1580,13 @@ msgid ""
 "Choose Your Preferred\n"
 "News Language"
 msgstr ""
+"వార్తల కోసం మీ అభిమత\n"
+"భాషను ఎంచుకోండి"
 
 #. Recommended news toggle title
 msgctxt "recommended_news_preference_toggle"
 msgid "Personalized news experience"
-msgstr ""
+msgstr "వ్యక్తిగతీకరించిన వార్తల అనుభవం"
 
 #. Disable personalized experience for news.
 msgctxt "recommended_news_preference_disable_dialog"
@@ -1668,11 +1670,11 @@ msgstr ""
 
 msgctxt "private_browsing_dialog_add_shortcut_no_v2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "పర్లేదు, వద్దు"
 
 msgctxt "private_browsing_dialog_add_shortcut_yes_v2"
 msgid "YES, ADD IT NOW!"
-msgstr ""
+msgstr "అవును, ఇప్పుడే చేర్చు!"
 
 #. Message shown after user denied add private mode shortcut's prompt.
 msgctxt "private_browsing_dialog_add_shortcut_no_toast"
@@ -1756,10 +1758,9 @@ msgid "Start saving today. Search and compare prices on popular sites."
 msgstr ""
 
 #. Shopping Search Input Placeholder
-#, fuzzy
 msgctxt "shopping_search_placeholder"
 msgid "Enter a product name"
-msgstr ""
+msgstr "ఒక ఉత్పత్తి పేరును ఇవ్వండి"
 
 #. Shopping Search Prompt Message, and would need to localize "Smart Shopping
 #. Search"
@@ -1805,7 +1806,7 @@ msgstr ""
 #. Closing dialog content.
 msgctxt "shopping_closing_dialog_close"
 msgid "Close All"
-msgstr ""
+msgstr "అన్నింటినీ మూసివేయి"
 
 msgctxt "shopping_closing_dialog_cancel"
 msgid "Cancel"
@@ -1823,7 +1824,7 @@ msgstr ""
 
 msgctxt "shopping_vertical_category_1"
 msgid "Deals"
-msgstr ""
+msgstr "బేరాలు"
 
 msgctxt "shopping_vertical_category_2"
 msgid "Coupons"
@@ -1862,7 +1863,7 @@ msgstr "%1$d రోజులు ఉన్నాయి"
 #. Gaming Home
 msgctxt "gaming_vertical_title"
 msgid "Game"
-msgstr ""
+msgstr "ఆట"
 
 msgctxt "gaming_vertical_category_1"
 msgid "Instant play"
@@ -1906,7 +1907,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_menu_option_3"
 msgid "Remove from list"
-msgstr ""
+msgstr "జాబితా నుండి తొలగించు"
 
 #. Gaming Share Message. %1$s is the url of the game
 #, c-format
@@ -1927,7 +1928,7 @@ msgstr ""
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
-msgstr ""
+msgstr "నా ఆట"
 
 msgctxt "gaming_vertical_genre_4"
 msgid "Most played"
