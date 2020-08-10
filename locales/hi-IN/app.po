@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-10 08:25+0000\n"
+"PO-Revision-Date: 2020-08-10 08:35+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -564,7 +564,7 @@ msgstr "बहुत बढ़िया!"
 #, c-format
 msgctxt "set_as_default_dialog_subtitle"
 msgid "Your %1$s is looking great! Do you want to set it as your default browser?"
-msgstr ""
+msgstr "आपका %1$s शानदार दिख रहा है! क्या आप इसे डिफ़ॉल्ट ब्राउज़र के रूप में सेट करना चाहते हैं?"
 
 #. Add top sites
 #. top sites categories on the top sites list
@@ -572,10 +572,9 @@ msgctxt "top_site_category_1"
 msgid "Popular Websites"
 msgstr "लोकप्रिय वेबसाइटें"
 
-#, fuzzy
 msgctxt "top_site_category_2"
 msgid "Shopping & travel"
-msgstr "सोशल मीडिया"
+msgstr "शॉपिंग एवं यात्रा"
 
 msgctxt "top_site_category_3"
 msgid "Entertainment"
@@ -587,12 +586,12 @@ msgstr "अन्य"
 
 msgctxt "top_site_category_5"
 msgid "News"
-msgstr ""
+msgstr "समाचार"
 
 #. Message shown after the user added a top site on Home successfully
 msgctxt "add_top_site_snackbar_1"
 msgid "Top site added"
-msgstr ""
+msgstr "शीर्ष साइट जोड़ी गई"
 
 #. Message shown after the user added an existing top site on Home
 msgctxt "add_top_site_snackbar_2"
@@ -602,7 +601,7 @@ msgstr "साइट जोड़ दिया गया है"
 #. Error message shown when the user has no spaces to add new top sites
 msgctxt "add_top_site_toast"
 msgid "Please remove a top site beforehand"
-msgstr ""
+msgstr "कृपया पहले से मौजूद किसी शीर्ष साईट को हटाएं"
 
 #. a button for adding more top sites
 msgctxt "add_top_site_button"
@@ -1154,17 +1153,17 @@ msgstr "प्रतिक्रिया दें"
 #, c-format
 msgctxt "survey_dialog_text_title"
 msgid "How do you like %1$s?"
-msgstr ""
+msgstr "आपको %1$s कैसा लगा?"
 
 #. Content text in the dialog.
 msgctxt "survey_dialog_text_content"
 msgid "Tell us your thoughts about what you love, or what we could be doing better."
-msgstr ""
+msgstr "आपको क्या पसंद आया या हम क्या बेहतर कर सकते हैं, इस बारे में अपने विचार हमें बताएं।"
 
 #. A button to go to the survey website.
 msgctxt "survey_dialog_btn"
 msgid "Take survey"
-msgstr ""
+msgstr "सर्वेक्षण लें"
 
 #. In-app Promotion, Share app.
 #. The title of the Message to prompt users to share Rocket with friends, %1$s
@@ -2570,7 +2569,6 @@ msgstr "तयशुदा बनाएं"
 
 #. If the user had a url in his/her clipboard, the user  will see the URL in
 #. the first of the Awesome Bar suggestion
-#, fuzzy
 msgctxt "awesomebar_open_link_clipboard"
 msgid "Open Copied Link"
-msgstr ""
+msgstr "कॉपी की गई लिंक खोलें"
