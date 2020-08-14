@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-07-16 08:07+0000\n"
-"PO-Revision-Date: 2020-08-10 14:09+0000\n"
+"PO-Revision-Date: 2020-08-14 01:31+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -1916,6 +1916,8 @@ msgid ""
 "I’m playing a really cool game. Check it out!\n"
 "%1$s"
 msgstr ""
+"నేను భలే మంచి ఆట ఆడుతున్నాను. మీరు కూడా చూడండి!\n"
+"%1$s"
 
 #. Gaming Genres
 msgctxt "gaming_vertical_genre_1"
@@ -1924,7 +1926,7 @@ msgstr "ఇటీవల ఆడినవి"
 
 msgctxt "gaming_vertical_genre_2"
 msgid "Game of the week"
-msgstr ""
+msgstr "ఈ వారపు ఆట"
 
 msgctxt "gaming_vertical_genre_3"
 msgid "My game"
@@ -1956,7 +1958,7 @@ msgstr "ఆర్కేడ్"
 
 msgctxt "gaming_vertical_genre_10"
 msgid "Puzzle & Logic"
-msgstr ""
+msgstr "పజిల్ & తర్కం"
 
 msgctxt "gaming_vertical_genre_11"
 msgid "Sports & Racing"
@@ -2050,10 +2052,10 @@ msgstr ""
 #. MSRP Vertical
 #. Logoman
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
-#, c-format, fuzzy
+#, c-format
 msgctxt "msrp_logoman_message"
 msgid "Win a %1$s"
-msgstr ""
+msgstr "ఒక %1$s గెలవండి"
 
 #. Contextual hint
 #. The %1$s here is a placeholder for the prize, ex: shopping voucher
@@ -2540,7 +2542,7 @@ msgstr "%1$s‌ను ప్రయత్నించండి"
 #. Action button for dismissing this prompt
 msgctxt "travel_dialog_1_action_2"
 msgid "NO, THANKS"
-msgstr ""
+msgstr "వద్దు, పర్లేదు"
 
 #. dialog title for asking if users want to change default search engine. the
 #. %1$s is Travel Discovery.
